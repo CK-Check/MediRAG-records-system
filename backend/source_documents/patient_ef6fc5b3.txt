@@ -1,0 +1,43 @@
+PATIENT SUMMARY | Miyoko Kihn | ID ef6fc5b3
+DOB: 2023-08-10 | Age: 3 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Miyoko Kihn | ID ef6fc5b3
+- None recorded.
+
+RESOLVED CONDITIONS | Miyoko Kihn | ID ef6fc5b3
+- Sprain of ankle — 2024-09-22 to 2024-10-09
+- Sprain — 2024-09-22 to 2024-10-09
+- Acute bronchitis — 2026-03-29 to 2026-04-05
+
+CURRENT MEDICATIONS | Miyoko Kihn | ID ef6fc5b3
+- None recorded.
+
+PAST MEDICATIONS | Miyoko Kihn | ID ef6fc5b3
+- Acetaminophen 160 MG Chewable Tablet — 2024-09-22 to 2024-10-09
+- Acetaminophen 325 MG Oral Tablet — 2026-03-29 to 2026-04-05
+
+ALLERGIES | Miyoko Kihn | ID ef6fc5b3
+- No known allergies.
+
+LATEST VITALS & LABS | Miyoko Kihn | ID ef6fc5b3
+- BMI: 16.8 kg/m2 (2026-07-16)
+- Heart rate: 77 /min (2026-07-16)
+- Height: 91.4 cm (2026-07-16)
+- Hemoglobin: 14.9 g/dL (2023-08-10)
+- Resp rate: 14 /min (2026-07-16)
+- Weight: 14 kg (2026-07-16)
+- Blood pressure: 117/87 mmHg (2026-07-16)
+
+VISIT HISTORY (vitals & labs by date) | Miyoko Kihn | ID ef6fc5b3
+[Miyoko Kihn | ID ef6fc5b3] 2026-07-16: BP 117/87 mmHg; Heart rate 77 /min; Height 91.4 cm; Weight 14 kg; BMI 16.8 kg/m2; Resp rate 14 /min
+[Miyoko Kihn | ID ef6fc5b3] 2026-04-09: BP 109/95 mmHg; Resp rate 15 /min; Heart rate 73 /min; Weight 12.7 kg; Height 88.8 cm; BMI 16.1 kg/m2
+[Miyoko Kihn | ID ef6fc5b3] 2026-01-15: BP 113/95 mmHg; Heart rate 99 /min; Resp rate 14 /min; Weight 12.4 kg; Height 87.4 cm; BMI 16.2 kg/m2
+[Miyoko Kihn | ID ef6fc5b3] 2025-07-17: BP 112/90 mmHg; Weight 11.5 kg; Heart rate 73 /min; Resp rate 14 /min; Height 83.3 cm
+[Miyoko Kihn | ID ef6fc5b3] 2025-01-16: BP 118/96 mmHg; Height 78 cm; Weight 10.5 kg; Heart rate 87 /min; Resp rate 12 /min
+[Miyoko Kihn | ID ef6fc5b3] 2024-10-17: BP 111/92 mmHg; Heart rate 72 /min; Resp rate 12 /min; Height 74.9 cm; Weight 9.8 kg
+[Miyoko Kihn | ID ef6fc5b3] 2024-07-18: BP 120/87 mmHg; Resp rate 14 /min; Heart rate 65 /min; Height 71.5 cm; Weight 9 kg
+[Miyoko Kihn | ID ef6fc5b3] 2024-04-18: BP 111/88 mmHg; Height 67.6 cm; Weight 8 kg; Heart rate 78 /min; Resp rate 12 /min
+[Miyoko Kihn | ID ef6fc5b3] 2024-01-18: BP 121/88 mmHg; Heart rate 65 /min; Resp rate 16 /min; Height 62.9 cm; Weight 6.7 kg
+[Miyoko Kihn | ID ef6fc5b3] 2023-11-16: BP 117/91 mmHg; Height 59 cm; Weight 5.6 kg; Heart rate 77 /min; Resp rate 15 /min
+[Miyoko Kihn | ID ef6fc5b3] 2023-09-14: BP 109/89 mmHg; Resp rate 15 /min; Heart rate 74 /min; Weight 4.3 kg; Height 53.9 cm
+[Miyoko Kihn | ID ef6fc5b3] 2023-08-10: BP 121/95 mmHg; Height 50.3 cm; Weight 3.6 kg; Heart rate 94 /min; Resp rate 13 /min; Hemoglobin 14.9 g/dL

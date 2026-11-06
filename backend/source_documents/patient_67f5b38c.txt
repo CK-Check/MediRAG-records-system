@@ -1,0 +1,79 @@
+PATIENT SUMMARY | Mrs. Williemae Kemmer | ID 67f5b38c
+DOB: 1976-02-12 | Age: 50 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Mrs. Williemae Kemmer | ID 67f5b38c
+- Cerebral palsy — since 1976-03-25
+- Dribbling from mouth — since 1976-03-25
+- Epilepsy — since 1976-03-25
+- Excessive salivation — since 1976-03-25
+- Gastroesophageal reflux disease — since 1976-03-25
+- Osteoporosis — since 1976-03-25
+- Pain — since 1976-03-25
+- Spasticity — since 1976-03-25
+- Retention of urine — since 1976-10-28
+- Body mass index 30+ - obesity — since 2012-04-26
+- Victim of intimate partner abuse — since 2024-06-13
+- Past pregnancy history of miscarriage — since 2026-02-04
+- Chronic congestive heart failure — since 2026-05-11
+
+RESOLVED CONDITIONS | Mrs. Williemae Kemmer | ID 67f5b38c
+- Cerebrovascular accident — 2016-11-08 to 2016-11-08
+- Gingivitis — 2020-02-28 to 2024-07-12
+- Gingival disease — 2020-03-12 to 2020-03-13
+- Acute bronchitis — 2022-05-04 to 2024-07-11
+- Viral sinusitis — 2024-02-29 to 2025-06-08
+- Complete miscarriage — 2026-01-22 to 2026-02-04
+- Miscarriage in first trimester — 2026-01-22 to 2026-02-04
+- Normal pregnancy — 2026-01-22 to 2026-02-04
+
+CURRENT MEDICATIONS | Mrs. Williemae Kemmer | ID 67f5b38c
+- Alteplase 100 MG Injection — since 2016-11-08
+- Clopidogrel 75 MG Oral Tablet — since 2016-11-08
+- Furosemide 40 MG Oral Tablet — since 2026-05-31, for Chronic congestive heart failure
+- carvedilol 25 MG Oral Tablet — since 2026-05-31, for Chronic congestive heart failure
+- glycopyrrolate 1.5 MG Oral Tablet [Glycate] — since 1976-10-28, for Excessive salivation
+- lisinopril 20 MG Oral Tablet — since 2026-05-31, for Chronic congestive heart failure
+
+PAST MEDICATIONS | Mrs. Williemae Kemmer | ID 67f5b38c
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection — 2016-06-17 to 2017-06-12
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution — 2024-06-27 to 2024-07-11
+- Acetaminophen 325 MG Oral Tablet — 2022-05-04 to 2022-05-16
+- Etonogestrel 68 MG Drug Implant — 2017-06-12 to 2021-05-22
+- levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] — 2024-05-06 to 2025-05-05
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2020-03-13 to 2024-03-22
+- {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] — 2018-06-07 to 2019-06-02
+- {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] — 2021-05-22 to 2022-05-17
+- {5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day] — 2023-05-12 to 2024-05-06
+- {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] — 2022-05-17 to 2023-05-12
+
+ALLERGIES | Mrs. Williemae Kemmer | ID 67f5b38c
+- No known allergies.
+
+LATEST VITALS & LABS | Mrs. Williemae Kemmer | ID 67f5b38c
+- BMI: 29.7 kg/m2 (2026-02-12)
+- BUN: 9.5 mg/dL (2026-05-31)
+- Creatinine: 0.9 mg/dL (2026-05-31)
+- Glucose: 87.1 mg/dL (2026-05-31)
+- HDL: 60.6 mg/dL (2026-05-11)
+- HbA1c: 5.2 % (2026-05-11)
+- Heart rate: 90 /min (2026-02-12)
+- Height: 158.8 cm (2026-02-12)
+- Hemoglobin: 15.6 g/dL (2026-05-11)
+- LDL: 63 mg/dL (2026-05-11)
+- Potassium: 5.1 mmol/L (2026-05-31)
+- Resp rate: 13 /min (2026-02-12)
+- Sodium: 141 mmol/L (2026-05-31)
+- Total cholesterol: 146.9 mg/dL (2026-05-11)
+- Triglycerides: 116.4 mg/dL (2026-05-11)
+- Weight: 75.4 kg (2026-05-11)
+- Blood pressure: 105/76 mmHg (2026-02-12)
+
+VISIT HISTORY (vitals & labs by date) | Mrs. Williemae Kemmer | ID 67f5b38c
+[Mrs. Williemae Kemmer | ID 67f5b38c] 2026-05-31: Creatinine 0.9 mg/dL; Sodium 141 mmol/L; Glucose 87.1 mg/dL; BUN 9.5 mg/dL; Potassium 5.1 mmol/L
+[Mrs. Williemae Kemmer | ID 67f5b38c] 2026-05-11: Total cholesterol 146.9 mg/dL; Weight 75.4 kg; Hemoglobin 15.6 g/dL; Creatinine 0.8 mg/dL; Triglycerides 116.4 mg/dL; LDL 63 mg/dL; HDL 60.6 mg/dL; HbA1c 5.2 %
+[Mrs. Williemae Kemmer | ID 67f5b38c] 2026-02-12: BP 105/76 mmHg; HDL 53.9 mg/dL; LDL 116 mg/dL; Triglycerides 110.4 mg/dL; Total cholesterol 191.9 mg/dL; Heart rate 90 /min; Resp rate 13 /min; BMI 29.7 kg/m2; Weight 75 kg; Height 158.8 cm
+[Mrs. Williemae Kemmer | ID 67f5b38c] 2024-06-13: BP 102/80 mmHg; Height 158.8 cm; Weight 72.1 kg; BMI 28.6 kg/m2; Heart rate 89 /min; Resp rate 13 /min
+[Mrs. Williemae Kemmer | ID 67f5b38c] 2024-03-07: BP 107/80 mmHg; Heart rate 69 /min; Resp rate 15 /min; BMI 28.4 kg/m2; Weight 71.6 kg; Height 158.8 cm
+[Mrs. Williemae Kemmer | ID 67f5b38c] 2022-03-03: BP 106/86 mmHg; Hemoglobin 14.4 g/dL; HDL 55.6 mg/dL; LDL 54.2 mg/dL; Triglycerides 144.8 mg/dL; Total cholesterol 138.7 mg/dL; Resp rate 13 /min; Heart rate 86 /min; BMI 30.5 kg/m2; Weight 76.8 kg; Height 158.8 cm
+[Mrs. Williemae Kemmer | ID 67f5b38c] 2020-02-27: BP 108/81 mmHg; Resp rate 14 /min; Heart rate 80 /min; Weight 73.9 kg; Height 158.8 cm; BMI 29.3 kg/m2
+[Mrs. Williemae Kemmer | ID 67f5b38c] 2018-02-22: BP 101/79 mmHg; Height 158.8 cm; Weight 71.1 kg; BMI 28.2 kg/m2; Heart rate 84 /min; Resp rate 13 /min; Total cholesterol 110.8 mg/dL; Triglycerides 122.2 mg/dL; LDL 41.5 mg/dL; HDL 44.9 mg/dL

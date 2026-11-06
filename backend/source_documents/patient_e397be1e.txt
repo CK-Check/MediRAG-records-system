@@ -1,0 +1,74 @@
+PATIENT SUMMARY | Ms. Erica Ebert | ID e397be1e
+DOB: 1943-03-24 | Age: 83 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Ms. Erica Ebert | ID e397be1e
+- Body mass index 40+ - severely obese — since 1965-05-26
+- Body mass index 30+ - obesity — since 1968-05-29
+- Anemia — since 1985-04-03
+- Prediabetes — since 1985-04-03
+- Hyperlipidemia — since 1987-04-08
+- Past pregnancy history of miscarriage — since 1993-03-31
+- Has a criminal record — since 2001-05-09
+- Osteoporosis — since 2013-07-17
+- Victim of intimate partner abuse — since 2016-08-03
+- Limited social contact — since 2024-09-18
+
+RESOLVED CONDITIONS | Ms. Erica Ebert | ID e397be1e
+- Fracture of bone — 2017-01-19 to 2026-04-07
+- Fracture of forearm — 2017-01-19 to 2017-03-01
+- Osteoporotic fracture of bone — 2017-01-19 to 2026-04-07
+- Gingivitis — 2018-08-15 to 2025-10-08
+- Acute viral pharyngitis — 2020-12-23 to 2021-01-05
+- Viral sinusitis — 2022-01-18 to 2022-01-29
+- Gingival disease — 2024-10-02 to 2024-10-02
+- Fracture of ankle — 2025-12-11 to 2026-04-07
+
+CURRENT MEDICATIONS | Ms. Erica Ebert | ID e397be1e
+- Alendronic acid 10 MG Oral Tablet — since 2025-09-24, for Osteoporosis
+- Simvastatin 10 MG Oral Tablet — since 2025-10-01, for Hyperlipidemia
+
+PAST MEDICATIONS | Ms. Erica Ebert | ID e397be1e
+- Acetaminophen 325 MG Oral Tablet — 2017-01-19 to 2026-04-07
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2024-10-02 to 2025-10-08
+
+ALLERGIES | Ms. Erica Ebert | ID e397be1e
+- No known allergies.
+
+LATEST VITALS & LABS | Ms. Erica Ebert | ID e397be1e
+- BMI: 36.2 kg/m2 (2025-09-24)
+- BUN: 16 mg/dL (2025-10-01)
+- Creatinine: 3.1 mg/dL (2025-10-01)
+- Glucose: 99.4 mg/dL (2025-10-01)
+- HDL: 59.3 mg/dL (2025-10-01)
+- HbA1c: 6.1 % (2025-09-24)
+- Heart rate: 97 /min (2025-09-24)
+- Height: 158.1 cm (2025-09-24)
+- Hemoglobin: 17.1 g/dL (2025-09-24)
+- LDL: 113.3 mg/dL (2025-10-01)
+- Potassium: 4.8 mmol/L (2025-10-01)
+- Resp rate: 14 /min (2025-09-24)
+- Sodium: 140.3 mmol/L (2025-10-01)
+- Total cholesterol: 157 mg/dL (2025-10-01)
+- Triglycerides: 187.8 mg/dL (2025-10-01)
+- Weight: 90.5 kg (2025-09-24)
+- Blood pressure: 108/76 mmHg (2025-09-24)
+
+VISIT HISTORY (vitals & labs by date) | Ms. Erica Ebert | ID e397be1e
+[Ms. Erica Ebert | ID e397be1e] 2025-10-01: LDL 113.3 mg/dL; Glucose 99.4 mg/dL; BUN 16 mg/dL; Creatinine 3.1 mg/dL; Sodium 140.3 mmol/L; Potassium 4.8 mmol/L; Total cholesterol 157 mg/dL; Triglycerides 187.8 mg/dL; HDL 59.3 mg/dL
+[Ms. Erica Ebert | ID e397be1e] 2025-09-24: BP 108/76 mmHg; Hemoglobin 17.1 g/dL; Potassium 5.2 mmol/L; Sodium 142.8 mmol/L; Creatinine 0.6 mg/dL; Glucose 86.9 mg/dL; Resp rate 14 /min; BUN 17.1 mg/dL; BMI 36.2 kg/m2; Weight 90.5 kg; Height 158.1 cm; HbA1c 6.1 %; Heart rate 97 /min
+[Ms. Erica Ebert | ID e397be1e] 2024-09-19: Triglycerides 124.9 mg/dL; HDL 78.8 mg/dL; LDL 109.3 mg/dL; Total cholesterol 152.5 mg/dL; Glucose 98.5 mg/dL; Sodium 136.4 mmol/L; Creatinine 3.3 mg/dL; BUN 10.1 mg/dL; Potassium 4.7 mmol/L
+[Ms. Erica Ebert | ID e397be1e] 2024-09-18: BP 102/68 mmHg; Potassium 5 mmol/L; Sodium 143 mmol/L; Creatinine 0.6 mg/dL; BUN 10.3 mg/dL; Glucose 91.1 mg/dL; Resp rate 15 /min; Heart rate 89 /min; BMI 36.2 kg/m2; Weight 90.5 kg; Height 158.1 cm; HbA1c 6.4 %
+[Ms. Erica Ebert | ID e397be1e] 2023-09-20: LDL 125.5 mg/dL; Triglycerides 193.4 mg/dL; Total cholesterol 180.3 mg/dL; Potassium 4.4 mmol/L; HDL 58.1 mg/dL; Creatinine 3.4 mg/dL; BUN 17.9 mg/dL; Glucose 65.2 mg/dL; Sodium 136.3 mmol/L
+[Ms. Erica Ebert | ID e397be1e] 2023-09-13: BP 105/74 mmHg; Sodium 141.7 mmol/L; Creatinine 0.8 mg/dL; Potassium 4.5 mmol/L; BUN 15.8 mg/dL; Triglycerides 128.4 mg/dL; LDL 117.7 mg/dL; Total cholesterol 199.8 mg/dL; Glucose 88.5 mg/dL; HDL 56.4 mg/dL; Heart rate 71 /min; BMI 36.2 kg/m2; Weight 90.5 kg; Height 158.1 cm; HbA1c 5.8 %; Resp rate 15 /min
+[Ms. Erica Ebert | ID e397be1e] 2022-09-08: Total cholesterol 175.5 mg/dL; HDL 34.6 mg/dL; LDL 80.5 mg/dL; Triglycerides 154.2 mg/dL; Creatinine 3.4 mg/dL; Sodium 138.4 mmol/L; BUN 10.8 mg/dL; Glucose 82.3 mg/dL; Potassium 4.4 mmol/L
+[Ms. Erica Ebert | ID e397be1e] 2022-09-07: BP 112/74 mmHg; Potassium 4.9 mmol/L; Sodium 139.8 mmol/L; Creatinine 0.8 mg/dL; BUN 7.5 mg/dL; Glucose 74.5 mg/dL; Heart rate 67 /min; Resp rate 14 /min; BMI 36.2 kg/m2; Weight 90.5 kg; Height 158.1 cm; HbA1c 6.2 %
+[Ms. Erica Ebert | ID e397be1e] 2021-09-08: HDL 79.5 mg/dL; LDL 102.5 mg/dL; Triglycerides 123.9 mg/dL; Total cholesterol 196.1 mg/dL; Potassium 4.6 mmol/L; Sodium 142.9 mmol/L; Creatinine 3.1 mg/dL; BUN 11.7 mg/dL; Glucose 96.2 mg/dL
+[Ms. Erica Ebert | ID e397be1e] 2021-09-01: BP 107/76 mmHg; Resp rate 14 /min; Potassium 4.6 mmol/L; Sodium 136.8 mmol/L; Creatinine 0.7 mg/dL; BUN 16.8 mg/dL; Heart rate 63 /min; Glucose 99 mg/dL; BMI 36.2 kg/m2; Weight 90.5 kg; Height 158.1 cm; HbA1c 5.9 %
+[Ms. Erica Ebert | ID e397be1e] 2020-08-27: HDL 46 mg/dL; LDL 90.6 mg/dL; Triglycerides 184.5 mg/dL; Total cholesterol 186.3 mg/dL; Sodium 136.7 mmol/L; Creatinine 2.8 mg/dL; BUN 9.8 mg/dL; Glucose 75.7 mg/dL; Potassium 5.1 mmol/L
+[Ms. Erica Ebert | ID e397be1e] 2020-08-26: BP 102/73 mmHg; BUN 11.5 mg/dL; HDL 59.4 mg/dL; LDL 124.4 mg/dL; Triglycerides 111.8 mg/dL; Total cholesterol 206.1 mg/dL; Potassium 4.1 mmol/L; Sodium 142.2 mmol/L; Creatinine 0.7 mg/dL; Hemoglobin 13.6 g/dL; Glucose 97.6 mg/dL; Heart rate 85 /min; BMI 36.2 kg/m2; Weight 90.5 kg; Height 158.1 cm; HbA1c 6.1 %; Resp rate 12 /min
+[Ms. Erica Ebert | ID e397be1e] 2019-08-28: LDL 101.6 mg/dL; HDL 76.4 mg/dL; Triglycerides 189.6 mg/dL; Potassium 3.8 mmol/L; Total cholesterol 192.7 mg/dL; Creatinine 3.2 mg/dL; BUN 14.5 mg/dL; Glucose 68.9 mg/dL; Sodium 139.3 mmol/L
+[Ms. Erica Ebert | ID e397be1e] 2019-08-21: BP 111/76 mmHg; Glucose 90 mg/dL; Potassium 4.1 mmol/L; Sodium 141.3 mmol/L; Creatinine 0.7 mg/dL; BUN 10.9 mg/dL; Resp rate 14 /min; BMI 36.2 kg/m2; HbA1c 6 %; Height 158.1 cm; Heart rate 65 /min; Weight 90.5 kg
+[Ms. Erica Ebert | ID e397be1e] 2018-08-16: HDL 57.8 mg/dL; LDL 117.9 mg/dL; Triglycerides 117.3 mg/dL; Total cholesterol 192.9 mg/dL; Potassium 4.9 mmol/L; Creatinine 2.8 mg/dL; BUN 14.8 mg/dL; Glucose 94.1 mg/dL; Sodium 140 mmol/L
+[Ms. Erica Ebert | ID e397be1e] 2018-08-15: BP 116/72 mmHg; Glucose 75.6 mg/dL; Potassium 4.9 mmol/L; Sodium 137.2 mmol/L; Creatinine 0.7 mg/dL; BUN 17.1 mg/dL; Resp rate 13 /min; HbA1c 5.9 %; BMI 36.2 kg/m2; Weight 90.5 kg; Height 158.1 cm; Heart rate 85 /min
+[Ms. Erica Ebert | ID e397be1e] 2017-08-16: HDL 50.9 mg/dL; LDL 118.6 mg/dL; Triglycerides 183.1 mg/dL; Total cholesterol 199.5 mg/dL; Sodium 136.1 mmol/L; Creatinine 3.4 mg/dL; BUN 14.4 mg/dL; Glucose 76.3 mg/dL; Potassium 4.8 mmol/L
+[Ms. Erica Ebert | ID e397be1e] 2017-08-09: BP 114/77 mmHg; HbA1c 6 %; HDL 57.6 mg/dL; Triglycerides 135.9 mg/dL; Total cholesterol 218.7 mg/dL; Potassium 4.7 mmol/L; Sodium 140 mmol/L; Creatinine 1.1 mg/dL; BUN 8 mg/dL; LDL 133.9 mg/dL; Resp rate 13 /min; Heart rate 73 /min; BMI 36.2 kg/m2; Weight 90.5 kg; Height 158.1 cm; Glucose 80.2 mg/dL

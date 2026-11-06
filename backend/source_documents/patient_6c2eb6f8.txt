@@ -1,0 +1,73 @@
+PATIENT SUMMARY | Mrs. Melony Pfannerstill | ID 6c2eb6f8
+DOB: 1993-03-14 | Age: 33 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Mrs. Melony Pfannerstill | ID 6c2eb6f8
+- Chronic low back pain — since 2014-02-04
+- Chronic neck pain — since 2014-02-04
+- Chronic pain — since 2014-02-04
+- Sepsis — since 2015-08-12
+- Limited social contact — since 2019-03-17
+- Prediabetes — since 2024-04-21
+
+RESOLVED CONDITIONS | Mrs. Melony Pfannerstill | ID 6c2eb6f8
+- Acute infective cystitis — 2017-11-24 to 2017-11-24
+- Gingivitis — 2019-03-17 to 2026-05-17
+- Anemia — 2019-03-24 to 2019-10-20
+- Normal pregnancy — 2019-03-24 to 2025-05-25
+- Eclampsia in pregnancy — 2019-10-06 to 2019-10-20
+- Misuses drugs — 2020-03-22 to 2023-04-16
+- Streptococcal sore throat — 2020-07-07 to 2020-07-21
+- Sprain of ankle — 2020-11-09 to 2020-12-12
+- Sprain — 2020-11-09 to 2020-12-12
+- Primary dental caries — 2021-04-11 to 2021-04-11
+- Acute viral pharyngitis — 2026-04-23 to 2026-05-05
+
+CURRENT MEDICATIONS | Mrs. Melony Pfannerstill | ID 6c2eb6f8
+- Acetaminophen 325 MG Oral Tablet [Tylenol] — since 2026-05-03
+- Loratadine 5 MG Chewable Tablet — since 1999-02-12
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector — since 1999-02-16
+- ferrous sulfate 325 MG Oral Tablet — since 2019-03-24
+
+PAST MEDICATIONS | Mrs. Melony Pfannerstill | ID 6c2eb6f8
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection — 2022-12-23 to 2023-07-23
+- Acetaminophen 325 MG Oral Tablet — 2020-11-09 to 2020-12-12
+- Penicillin V Potassium 500 MG Oral Tablet — 2020-07-07 to 2020-07-21
+- nitrofurantoin  macrocrystals 25 MG / nitrofurantoin  monohydrate 75 MG Oral Capsule — 2017-11-24 to 2017-11-24
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2025-05-11 to 2025-05-11
+- {5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day] — 2021-01-02 to 2025-06-11
+
+ALLERGIES | Mrs. Melony Pfannerstill | ID 6c2eb6f8
+- No known allergies.
+
+LATEST VITALS & LABS | Mrs. Melony Pfannerstill | ID 6c2eb6f8
+- BMI: 28 kg/m2 (2026-05-03)
+- BUN: 18.9 mg/dL (2026-05-03)
+- Creatinine: 1.9 mg/dL (2026-05-03)
+- Glucose: 67.6 mg/dL (2026-05-03)
+- HDL: 59.8 mg/dL (2026-05-03)
+- HbA1c: 6.1 % (2026-05-03)
+- Heart rate: 97 /min (2026-05-03)
+- Height: 178.3 cm (2026-05-03)
+- Hemoglobin: 12.6 g/dL (2025-04-27)
+- LDL: 201.6 mg/dL (2026-05-03)
+- Potassium: 4 mmol/L (2026-05-03)
+- Resp rate: 13 /min (2026-05-03)
+- Sodium: 137.8 mmol/L (2026-05-03)
+- Total cholesterol: 288.2 mg/dL (2026-05-03)
+- Triglycerides: 134.1 mg/dL (2026-05-03)
+- Weight: 88.9 kg (2026-05-03)
+- Blood pressure: 124/66 mmHg (2026-05-03)
+
+VISIT HISTORY (vitals & labs by date) | Mrs. Melony Pfannerstill | ID 6c2eb6f8
+[Mrs. Melony Pfannerstill | ID 6c2eb6f8] 2026-05-03: BP 124/66 mmHg; Triglycerides 134.1 mg/dL; Total cholesterol 288.2 mg/dL; Potassium 4 mmol/L; Sodium 137.8 mmol/L; Creatinine 1.9 mg/dL; BUN 18.9 mg/dL; Glucose 67.6 mg/dL; Heart rate 97 /min; BMI 28 kg/m2; Weight 88.9 kg; Height 178.3 cm; HbA1c 6.1 %; LDL 201.6 mg/dL; Resp rate 13 /min; HDL 59.8 mg/dL
+[Mrs. Melony Pfannerstill | ID 6c2eb6f8] 2025-04-27: BP 125/59 mmHg; Resp rate 15 /min; Potassium 3.9 mmol/L; Sodium 144 mmol/L; Creatinine 1.1 mg/dL; BUN 12.7 mg/dL; Glucose 81.4 mg/dL; Hemoglobin 12.6 g/dL; Heart rate 88 /min; BMI 27.3 kg/m2; Weight 86.9 kg; Height 178.3 cm; HbA1c 6.3 %
+[Mrs. Melony Pfannerstill | ID 6c2eb6f8] 2024-04-21: BP 121/59 mmHg; BUN 15.4 mg/dL; Potassium 4.2 mmol/L; Sodium 140.4 mmol/L; Creatinine 1.3 mg/dL; Glucose 91.8 mg/dL; Heart rate 83 /min; Resp rate 14 /min; BMI 27 kg/m2; Weight 85.7 kg; Height 178.3 cm; HbA1c 5.9 %
+[Mrs. Melony Pfannerstill | ID 6c2eb6f8] 2023-04-16: BP 122/67 mmHg; Total cholesterol 284.2 mg/dL; HDL 50.1 mg/dL; LDL 211.6 mg/dL; Triglycerides 112.4 mg/dL; Resp rate 15 /min; Height 178.3 cm; Weight 84.5 kg; Heart rate 97 /min; BMI 26.6 kg/m2
+[Mrs. Melony Pfannerstill | ID 6c2eb6f8] 2022-04-03: BP 120/68 mmHg; Resp rate 15 /min; Heart rate 89 /min; Height 178.3 cm; BMI 26 kg/m2; Weight 82.8 kg
+[Mrs. Melony Pfannerstill | ID 6c2eb6f8] 2021-03-28: BP 126/67 mmHg; Height 178.3 cm; Weight 80.9 kg; BMI 25.4 kg/m2; Heart rate 66 /min; Resp rate 13 /min
+[Mrs. Melony Pfannerstill | ID 6c2eb6f8] 2020-03-22: BP 125/65 mmHg; Hemoglobin 12.3 g/dL; Resp rate 15 /min; Heart rate 75 /min; Height 178.3 cm; BMI 24.9 kg/m2; Weight 79.1 kg
+[Mrs. Melony Pfannerstill | ID 6c2eb6f8] 2019-03-24: Hemoglobin 11.9 g/dL
+[Mrs. Melony Pfannerstill | ID 6c2eb6f8] 2019-03-17: BP 126/65 mmHg; Height 178.3 cm; Weight 77.2 kg; BMI 24.3 kg/m2; Heart rate 84 /min; Resp rate 13 /min
+[Mrs. Melony Pfannerstill | ID 6c2eb6f8] 2018-03-11: BP 125/64 mmHg; Resp rate 16 /min; Heart rate 71 /min; BMI 23.4 kg/m2; Weight 74.3 kg; Height 178.3 cm
+[Mrs. Melony Pfannerstill | ID 6c2eb6f8] 2017-11-24: BP 122/78.9 mmHg; Heart rate 85.6 /min; Resp rate 15.5 /min
+[Mrs. Melony Pfannerstill | ID 6c2eb6f8] 2017-03-05: BP 127/70 mmHg; Height 178.3 cm; Weight 72.5 kg; BMI 22.8 kg/m2; Heart rate 78 /min; Resp rate 14 /min

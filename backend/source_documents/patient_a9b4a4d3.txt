@@ -1,0 +1,51 @@
+PATIENT SUMMARY | Ms. Mardell Flatley | ID a9b4a4d3
+DOB: 1995-07-23 | Age: 31 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Ms. Mardell Flatley | ID a9b4a4d3
+- Past pregnancy history of miscarriage — since 2020-02-19
+
+RESOLVED CONDITIONS | Ms. Mardell Flatley | ID a9b4a4d3
+- Severe anxiety (panic) — 2009-08-23 to 2017-09-24
+- Viral sinusitis — 2016-10-19 to 2023-03-14
+- Acute bronchitis — 2017-06-11 to 2023-05-09
+- Leaking dental filling — 2017-06-18 to 2017-06-18
+- Streptococcal sore throat — 2018-12-19 to 2019-01-02
+- Anemia — 2019-12-08 to 2020-02-19
+- Normal pregnancy — 2019-12-08 to 2026-07-12
+- Complication occurring during pregnancy — 2020-02-02 to 2020-02-19
+- Miscarriage in second trimester — 2020-02-02 to 2020-02-19
+- Acute infective cystitis — 2021-01-28 to 2021-01-28
+- Gingivitis — 2023-10-01 to 2023-10-15
+
+CURRENT MEDICATIONS | Ms. Mardell Flatley | ID a9b4a4d3
+- None recorded.
+
+PAST MEDICATIONS | Ms. Mardell Flatley | ID a9b4a4d3
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution — 2017-06-11 to 2017-06-22
+- Acetaminophen 325 MG Oral Tablet — 2023-04-28 to 2023-05-09
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet — 2023-02-26 to 2023-03-14
+- Penicillin V Potassium 500 MG Oral Tablet — 2018-12-19 to 2019-01-02
+- ciprofloxacin 250 MG Oral Tablet — 2021-01-28 to 2021-01-28
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2017-06-18 to 2020-10-11
+- {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] — 2018-06-13 to 2019-06-08
+- {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique] — 2017-06-18 to 2018-06-13
+
+ALLERGIES | Ms. Mardell Flatley | ID a9b4a4d3
+- No known allergies.
+
+LATEST VITALS & LABS | Ms. Mardell Flatley | ID a9b4a4d3
+- BMI: 23.8 kg/m2 (2023-10-01)
+- Heart rate: 70 /min (2023-10-01)
+- Height: 153.2 cm (2023-10-01)
+- Hemoglobin: 15.1 g/dL (2023-02-19)
+- Resp rate: 13 /min (2023-10-01)
+- Weight: 55.9 kg (2023-10-01)
+- Blood pressure: 127/75 mmHg (2023-10-01)
+
+VISIT HISTORY (vitals & labs by date) | Ms. Mardell Flatley | ID a9b4a4d3
+[Ms. Mardell Flatley | ID a9b4a4d3] 2023-10-01: BP 127/75 mmHg; Heart rate 70 /min; Weight 55.9 kg; Height 153.2 cm; BMI 23.8 kg/m2; Resp rate 13 /min
+[Ms. Mardell Flatley | ID a9b4a4d3] 2023-02-19: BP 132/77 mmHg; Heart rate 73 /min; Height 153.2 cm; Weight 54.4 kg; BMI 23.2 kg/m2; Resp rate 14 /min; Hemoglobin 15.1 g/dL
+[Ms. Mardell Flatley | ID a9b4a4d3] 2020-09-27: BP 128/78 mmHg; Heart rate 87 /min; Resp rate 12 /min; BMI 21.9 kg/m2; Weight 51.5 kg; Height 153.2 cm
+[Ms. Mardell Flatley | ID a9b4a4d3] 2019-12-08: Hemoglobin 11.6 g/dL
+[Ms. Mardell Flatley | ID a9b4a4d3] 2017-09-24: BP 133/77 mmHg; Resp rate 13 /min; Heart rate 100 /min; Weight 46.9 kg; BMI 20 kg/m2; Height 153.2 cm
+[Ms. Mardell Flatley | ID a9b4a4d3] 2017-06-04: BP 132/76 mmHg; Height 153.2 cm; Weight 45.4 kg; BMI 19.4 kg/m2; Heart rate 65 /min; Resp rate 16 /min; Hemoglobin 15.7 g/dL

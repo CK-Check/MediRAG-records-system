@@ -1,0 +1,42 @@
+PATIENT SUMMARY | Mrs. Benita Stoltenberg | ID af4a9e64
+DOB: 1985-02-17 | Age: 41 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Mrs. Benita Stoltenberg | ID af4a9e64
+- Unhealthy alcohol drinking behavior — since 2016-05-01
+- History of tubal ligation — since 2020-03-09
+- Body mass index 30+ - obesity — since 2025-02-23
+
+RESOLVED CONDITIONS | Mrs. Benita Stoltenberg | ID af4a9e64
+- Gingivitis — 2019-05-05 to 2022-05-22
+- Victim of intimate partner abuse — 2019-05-05 to 2022-05-08
+- Sterilization requested — 2020-02-24 to 2020-03-09
+- Infection of tooth — 2022-05-22 to 2022-05-22
+
+CURRENT MEDICATIONS | Mrs. Benita Stoltenberg | ID af4a9e64
+- None recorded.
+
+PAST MEDICATIONS | Mrs. Benita Stoltenberg | ID af4a9e64
+- Etonogestrel 68 MG Drug Implant — 2016-03-16 to 2017-03-11
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2019-05-19 to 2019-05-19
+- {5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day] — 2017-03-11 to 2018-03-06
+
+ALLERGIES | Mrs. Benita Stoltenberg | ID af4a9e64
+- No known allergies.
+
+LATEST VITALS & LABS | Mrs. Benita Stoltenberg | ID af4a9e64
+- BMI: 30.1 kg/m2 (2025-02-23)
+- HDL: 50.7 mg/dL (2022-05-08)
+- Heart rate: 80 /min (2025-02-23)
+- Height: 164.1 cm (2025-02-23)
+- Hemoglobin: 12.2 g/dL (2025-02-23)
+- LDL: 110.8 mg/dL (2022-05-08)
+- Resp rate: 16 /min (2025-02-23)
+- Total cholesterol: 187.4 mg/dL (2022-05-08)
+- Triglycerides: 129.1 mg/dL (2022-05-08)
+- Weight: 81.1 kg (2025-02-23)
+- Blood pressure: 109/92 mmHg (2025-02-23)
+
+VISIT HISTORY (vitals & labs by date) | Mrs. Benita Stoltenberg | ID af4a9e64
+[Mrs. Benita Stoltenberg | ID af4a9e64] 2025-02-23: BP 109/92 mmHg; Resp rate 16 /min; Height 164.1 cm; Weight 81.1 kg; BMI 30.1 kg/m2; Heart rate 80 /min; Hemoglobin 12.2 g/dL
+[Mrs. Benita Stoltenberg | ID af4a9e64] 2022-05-08: BP 103/84 mmHg; Total cholesterol 187.4 mg/dL; HDL 50.7 mg/dL; LDL 110.8 mg/dL; Triglycerides 129.1 mg/dL; Resp rate 14 /min; BMI 29.4 kg/m2; Weight 79.2 kg; Height 164.1 cm; Heart rate 92 /min
+[Mrs. Benita Stoltenberg | ID af4a9e64] 2019-05-05: BP 102/86 mmHg; Height 164.1 cm; Hemoglobin 16.1 g/dL; HDL 63.7 mg/dL; LDL 67.7 mg/dL; Total cholesterol 155.3 mg/dL; Resp rate 14 /min; Triglycerides 119.4 mg/dL; BMI 27.8 kg/m2; Weight 74.9 kg; Heart rate 64 /min

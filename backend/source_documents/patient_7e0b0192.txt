@@ -1,0 +1,69 @@
+PATIENT SUMMARY | Mrs. Gabriela McCullough | ID 7e0b0192
+DOB: 1970-05-17 | Age: 56 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Mrs. Gabriela McCullough | ID 7e0b0192
+- Past pregnancy history of miscarriage — since 1991-10-08
+- Pulmonary emphysema — since 2000-05-28
+- History of tubal ligation — since 2005-08-30
+- Chronic sinusitis — since 2007-04-29
+- Has a criminal record — since 2011-10-03
+- Prediabetes — since 2012-10-07
+- Anemia — since 2013-10-13
+- Chronic low back pain — since 2014-02-04
+- Chronic neck pain — since 2014-02-04
+- Chronic pain — since 2014-02-04
+- Malignant neoplasm of breast — since 2015-04-15
+- Essential hypertension — since 2017-11-05
+
+RESOLVED CONDITIONS | Mrs. Gabriela McCullough | ID 7e0b0192
+- Acute viral pharyngitis — 2019-03-27 to 2019-04-07
+- Gingivitis — 2020-11-23 to 2023-12-25
+- Gingival disease — 2020-12-07 to 2026-01-05
+- Limited social contact — 2023-12-11 to 2025-12-22
+- Leaking dental filling — 2023-12-25 to 2023-12-25
+- Polyp of colon — 2025-05-18 to 2026-08-06
+
+CURRENT MEDICATIONS | Mrs. Gabriela McCullough | ID 7e0b0192
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler — since 2025-12-21, for Pulmonary emphysema
+- Ibuprofen 400 MG Oral Tablet [Ibu] — since 2025-12-21
+- Vitamin B12 5 MG/ML Injectable Solution — since 2013-10-21
+- albuterol 5 MG/ML Inhalation Solution — since 2025-12-21, for Pulmonary emphysema
+- ferrous sulfate 325 MG Oral Tablet — since 2013-10-21
+- lisinopril 10 MG Oral Tablet — since 2025-12-21, for Essential hypertension
+
+PAST MEDICATIONS | Mrs. Gabriela McCullough | ID 7e0b0192
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2018-11-26 to 2023-12-25
+
+ALLERGIES | Mrs. Gabriela McCullough | ID 7e0b0192
+- No known allergies.
+
+LATEST VITALS & LABS | Mrs. Gabriela McCullough | ID 7e0b0192
+- BMI: 25.9 kg/m2 (2025-12-21)
+- BUN: 9.5 mg/dL (2025-12-21)
+- Creatinine: 0.5 mg/dL (2025-12-21)
+- Glucose: 88.9 mg/dL (2025-12-21)
+- HDL: 54.3 mg/dL (2024-12-15)
+- HbA1c: 6.3 % (2025-12-21)
+- Heart rate: 79 /min (2025-12-21)
+- Height: 143.2 cm (2025-12-21)
+- Hemoglobin: 12.8 g/dL (2023-12-10)
+- LDL: 206.8 mg/dL (2024-12-15)
+- Potassium: 4.3 mmol/L (2025-12-21)
+- Resp rate: 13 /min (2025-12-21)
+- Sodium: 143.9 mmol/L (2025-12-21)
+- Total cholesterol: 289.6 mg/dL (2024-12-15)
+- Triglycerides: 142.7 mg/dL (2024-12-15)
+- Weight: 53.2 kg (2025-12-21)
+- Blood pressure: 130/101 mmHg (2025-12-21)
+
+VISIT HISTORY (vitals & labs by date) | Mrs. Gabriela McCullough | ID 7e0b0192
+[Mrs. Gabriela McCullough | ID 7e0b0192] 2025-12-21: BP 130/101 mmHg; Creatinine 0.5 mg/dL; BUN 9.5 mg/dL; Glucose 88.9 mg/dL; Resp rate 13 /min; Heart rate 79 /min; Weight 53.2 kg; BMI 25.9 kg/m2; Height 143.2 cm; HbA1c 6.3 %; Sodium 143.9 mmol/L; Potassium 4.3 mmol/L
+[Mrs. Gabriela McCullough | ID 7e0b0192] 2024-12-15: BP 125/103 mmHg; HDL 54.3 mg/dL; LDL 206.8 mg/dL; Triglycerides 142.7 mg/dL; Total cholesterol 289.6 mg/dL; Potassium 4.1 mmol/L; Creatinine 0.5 mg/dL; BUN 9.3 mg/dL; Glucose 67.3 mg/dL; Sodium 139.9 mmol/L; Heart rate 73 /min; BMI 25.9 kg/m2; Weight 53.2 kg; Height 143.2 cm; HbA1c 6.2 %; Resp rate 15 /min
+[Mrs. Gabriela McCullough | ID 7e0b0192] 2023-12-10: BP 131/104 mmHg; Glucose 87.9 mg/dL; Potassium 4.5 mmol/L; Hemoglobin 12.8 g/dL; Creatinine 0.6 mg/dL; BUN 12.5 mg/dL; Resp rate 14 /min; Sodium 136.9 mmol/L; BMI 25.9 kg/m2; Weight 53.2 kg; Height 143.2 cm; HbA1c 5.9 %; Heart rate 64 /min
+[Mrs. Gabriela McCullough | ID 7e0b0192] 2022-12-04: BP 119/102 mmHg; Potassium 4.4 mmol/L; Sodium 137.3 mmol/L; Creatinine 0.8 mg/dL; BUN 12.8 mg/dL; Glucose 66.5 mg/dL; Resp rate 13 /min; BMI 25.9 kg/m2; Weight 53.2 kg; Height 143.2 cm; HbA1c 6 %; Heart rate 98 /min
+[Mrs. Gabriela McCullough | ID 7e0b0192] 2021-11-28: BP 134/99 mmHg; Creatinine 0.7 mg/dL; HDL 68.3 mg/dL; LDL 179.6 mg/dL; Triglycerides 131.6 mg/dL; Total cholesterol 274.3 mg/dL; Potassium 4.6 mmol/L; Sodium 138.9 mmol/L; BUN 17.1 mg/dL; Height 143.2 cm; Resp rate 13 /min; Heart rate 62 /min; BMI 25.9 kg/m2; Weight 53.2 kg; Glucose 74.8 mg/dL; HbA1c 5.9 %
+[Mrs. Gabriela McCullough | ID 7e0b0192] 2020-11-22: BP 134/100 mmHg; Potassium 4.1 mmol/L; Sodium 136.9 mmol/L; Creatinine 0.6 mg/dL; BUN 13.1 mg/dL; Glucose 99.9 mg/dL; Heart rate 80 /min; Resp rate 13 /min; BMI 25.9 kg/m2; Weight 53.2 kg; Height 143.2 cm; HbA1c 5.8 %
+[Mrs. Gabriela McCullough | ID 7e0b0192] 2019-11-17: BP 123/98 mmHg; Sodium 142.4 mmol/L; Creatinine 1 mg/dL; BUN 14.6 mg/dL; Glucose 72.2 mg/dL; Resp rate 12 /min; Heart rate 71 /min; Potassium 4.8 mmol/L; BMI 25.9 kg/m2; Weight 53.2 kg; Height 143.2 cm; HbA1c 5.8 %
+[Mrs. Gabriela McCullough | ID 7e0b0192] 2018-11-11: BP 132/94 mmHg; Creatinine 0.6 mg/dL; Hemoglobin 15.8 g/dL; HDL 51.9 mg/dL; LDL 207.2 mg/dL; Triglycerides 126.9 mg/dL; Total cholesterol 284.5 mg/dL; Sodium 137.5 mmol/L; BUN 16.8 mg/dL; Potassium 4.7 mmol/L; Resp rate 14 /min; Heart rate 76 /min; Glucose 91 mg/dL; BMI 25.9 kg/m2; Weight 53.2 kg; Height 143.2 cm; HbA1c 6.2 %
+[Mrs. Gabriela McCullough | ID 7e0b0192] 2017-11-05: BP 141/117 mmHg; Glucose 92.3 mg/dL; Potassium 5 mmol/L; Sodium 142 mmol/L; Creatinine 0.6 mg/dL; BUN 13.9 mg/dL; Resp rate 12 /min; BMI 25.9 kg/m2; Weight 53.2 kg; Height 143.2 cm; HbA1c 5.9 %; Heart rate 64 /min
+[Mrs. Gabriela McCullough | ID 7e0b0192] 2016-10-30: BP 95/71 mmHg; HbA1c 6.4 %; Potassium 3.9 mmol/L; Sodium 142 mmol/L; Creatinine 0.6 mg/dL; Glucose 68 mg/dL; Resp rate 14 /min; BUN 19.3 mg/dL; BMI 25.9 kg/m2; Weight 53.2 kg; Height 143.2 cm; Heart rate 69 /min

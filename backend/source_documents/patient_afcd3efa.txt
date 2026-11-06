@@ -1,0 +1,49 @@
+PATIENT SUMMARY | Mr. Benjamin Johnston | ID afcd3efa
+DOB: 1991-09-21 | Age: 35 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Mr. Benjamin Johnston | ID afcd3efa
+- Anemia — since 2016-11-26
+- Body mass index 30+ - obesity — since 2016-11-26
+- Prediabetes — since 2016-11-26
+
+RESOLVED CONDITIONS | Mr. Benjamin Johnston | ID afcd3efa
+- Misuses drugs — 2010-11-20 to 2019-11-30
+- Victim of intimate partner abuse — 2010-11-20 to 2022-12-03
+- Acute bacterial sinusitis — 2020-06-22 to 2020-08-14
+- Viral sinusitis — 2022-11-08 to 2022-11-24
+- Gingivitis — 2025-12-06 to 2025-12-20
+
+CURRENT MEDICATIONS | Mr. Benjamin Johnston | ID afcd3efa
+- Vitamin B12 5 MG/ML Injectable Solution — since 2016-12-03
+
+PAST MEDICATIONS | Mr. Benjamin Johnston | ID afcd3efa
+- None recorded.
+
+ALLERGIES | Mr. Benjamin Johnston | ID afcd3efa
+- No known allergies.
+
+LATEST VITALS & LABS | Mr. Benjamin Johnston | ID afcd3efa
+- BMI: 29 kg/m2 (2025-12-06)
+- BUN: 13 mg/dL (2025-12-06)
+- Creatinine: 1.3 mg/dL (2025-12-06)
+- Glucose: 85.6 mg/dL (2025-12-06)
+- HDL: 52.5 mg/dL (2025-12-06)
+- HbA1c: 6.1 % (2025-12-06)
+- Heart rate: 92 /min (2025-12-06)
+- Height: 173.9 cm (2025-12-06)
+- Hemoglobin: 17.3 g/dL (2025-12-06)
+- LDL: 239.2 mg/dL (2025-12-06)
+- Potassium: 5.2 mmol/L (2025-12-06)
+- Resp rate: 16 /min (2025-12-06)
+- Sodium: 141.7 mmol/L (2025-12-06)
+- Total cholesterol: 317.1 mg/dL (2025-12-06)
+- Triglycerides: 127.3 mg/dL (2025-12-06)
+- Weight: 87.6 kg (2025-12-06)
+- Blood pressure: 115/81 mmHg (2025-12-06)
+
+VISIT HISTORY (vitals & labs by date) | Mr. Benjamin Johnston | ID afcd3efa
+[Mr. Benjamin Johnston | ID afcd3efa] 2025-12-06: BP 115/81 mmHg; LDL 239.2 mg/dL; Triglycerides 127.3 mg/dL; Total cholesterol 317.1 mg/dL; Potassium 5.2 mmol/L; Sodium 141.7 mmol/L; Creatinine 1.3 mg/dL; BUN 13 mg/dL; Glucose 85.6 mg/dL; Heart rate 92 /min; BMI 29 kg/m2; Weight 87.6 kg; Height 173.9 cm; HbA1c 6.1 %; HDL 52.5 mg/dL; Resp rate 16 /min; Hemoglobin 17.3 g/dL
+[Mr. Benjamin Johnston | ID afcd3efa] 2022-12-03: BP 112/79 mmHg; Creatinine 1.3 mg/dL; HDL 52.2 mg/dL; LDL 235.4 mg/dL; Triglycerides 117.9 mg/dL; Total cholesterol 311.2 mg/dL; Potassium 3.9 mmol/L; Sodium 140.2 mmol/L; BUN 10 mg/dL; BMI 29 kg/m2; Resp rate 13 /min; Heart rate 68 /min; Weight 87.6 kg; Height 173.9 cm; HbA1c 6.3 %; Glucose 88 mg/dL
+[Mr. Benjamin Johnston | ID afcd3efa] 2019-11-30: BP 122/80 mmHg; Glucose 89.5 mg/dL; Hemoglobin 13.8 g/dL; Potassium 5 mmol/L; Sodium 142 mmol/L; Creatinine 1.4 mg/dL; BUN 19.8 mg/dL; Resp rate 14 /min; BMI 29 kg/m2; Weight 87.6 kg; Height 173.9 cm; HbA1c 5.9 %; Heart rate 80 /min
+[Mr. Benjamin Johnston | ID afcd3efa] 2016-12-03: Hemoglobin 11.6 g/dL
+[Mr. Benjamin Johnston | ID afcd3efa] 2016-11-26: BP 124/79 mmHg; HbA1c 6.3 %; Potassium 4.6 mmol/L; Sodium 143.1 mmol/L; BUN 11.2 mg/dL; Glucose 95.9 mg/dL; Resp rate 13 /min; Creatinine 1.5 mg/dL; BMI 30.7 kg/m2; Weight 92.9 kg; Height 173.9 cm; Heart rate 69 /min

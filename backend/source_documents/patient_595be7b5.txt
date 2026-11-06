@@ -1,0 +1,29 @@
+PATIENT SUMMARY | Jon Greenholt | ID 595be7b5
+DOB: 2026-05-23 | Age: 0 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Jon Greenholt | ID 595be7b5
+- None recorded.
+
+RESOLVED CONDITIONS | Jon Greenholt | ID 595be7b5
+- None recorded.
+
+CURRENT MEDICATIONS | Jon Greenholt | ID 595be7b5
+- None recorded.
+
+PAST MEDICATIONS | Jon Greenholt | ID 595be7b5
+- None recorded.
+
+ALLERGIES | Jon Greenholt | ID 595be7b5
+- No known allergies.
+
+LATEST VITALS & LABS | Jon Greenholt | ID 595be7b5
+- Heart rate: 90 /min (2026-06-27)
+- Height: 52.9 cm (2026-06-27)
+- Hemoglobin: 12.4 g/dL (2026-05-23)
+- Resp rate: 16 /min (2026-06-27)
+- Weight: 3.9 kg (2026-06-27)
+- Blood pressure: 153/76 mmHg (2026-06-27)
+
+VISIT HISTORY (vitals & labs by date) | Jon Greenholt | ID 595be7b5
+[Jon Greenholt | ID 595be7b5] 2026-06-27: BP 153/76 mmHg; Height 52.9 cm; Weight 3.9 kg; Heart rate 90 /min; Resp rate 16 /min
+[Jon Greenholt | ID 595be7b5] 2026-05-23: BP 152/79 mmHg; Height 49.3 cm; Weight 3.2 kg; Heart rate 84 /min; Resp rate 13 /min; Hemoglobin 12.4 g/dL

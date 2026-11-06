@@ -1,0 +1,60 @@
+PATIENT SUMMARY | Mrs. Tameka Larkin | ID 281d63b5
+DOB: 1983-07-17 | Age: 43 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Mrs. Tameka Larkin | ID 281d63b5
+- History of seizure — since 1998-03-03
+- Seizure disorder — since 1998-03-03
+- Past pregnancy history of miscarriage — since 1999-11-28
+- Chronic sinusitis — since 2016-12-28
+- Anemia — since 2017-10-08
+- Prediabetes — since 2017-10-08
+
+RESOLVED CONDITIONS | Mrs. Tameka Larkin | ID 281d63b5
+- Fracture of bone — 2016-06-05 to 2016-09-26
+- Fracture of forearm — 2016-06-05 to 2016-09-26
+- Acute bacterial sinusitis — 2016-11-29 to 2017-01-25
+- Gingivitis — 2017-10-08 to 2017-10-29
+- Primary dental caries — 2017-10-29 to 2017-10-29
+- Normal pregnancy — 2018-06-10 to 2025-06-14
+- Complete miscarriage — 2025-05-25 to 2025-06-14
+- Miscarriage in first trimester — 2025-05-25 to 2025-06-14
+
+CURRENT MEDICATIONS | Mrs. Tameka Larkin | ID 281d63b5
+- ferrous sulfate 325 MG Oral Tablet — since 2017-10-15
+- {5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day] — since 2025-08-25
+
+PAST MEDICATIONS | Mrs. Tameka Larkin | ID 281d63b5
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection — 2023-09-05 to 2024-08-30
+- 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System — 2020-09-20 to 2021-09-15
+- Acetaminophen 325 MG Oral Tablet — 2016-06-05 to 2016-09-26
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2025-08-10 to 2025-08-10
+- {21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day] — 2022-09-10 to 2023-09-05
+
+ALLERGIES | Mrs. Tameka Larkin | ID 281d63b5
+- No known allergies.
+
+LATEST VITALS & LABS | Mrs. Tameka Larkin | ID 281d63b5
+- BMI: 29.1 kg/m2 (2025-07-27)
+- BUN: 7.5 mg/dL (2025-07-27)
+- Creatinine: 0.9 mg/dL (2025-07-27)
+- Glucose: 66.6 mg/dL (2025-07-27)
+- HDL: 62.5 mg/dL (2025-07-27)
+- HbA1c: 6 % (2025-07-27)
+- Heart rate: 70 /min (2025-07-27)
+- Height: 166.5 cm (2025-07-27)
+- Hemoglobin: 13.7 g/dL (2023-07-23)
+- LDL: 75.1 mg/dL (2025-07-27)
+- Potassium: 4.2 mmol/L (2025-07-27)
+- Resp rate: 14 /min (2025-07-27)
+- Sodium: 137.5 mmol/L (2025-07-27)
+- Total cholesterol: 160 mg/dL (2025-07-27)
+- Triglycerides: 112 mg/dL (2025-07-27)
+- Weight: 80.7 kg (2025-07-27)
+- Blood pressure: 112/74 mmHg (2025-07-27)
+
+VISIT HISTORY (vitals & labs by date) | Mrs. Tameka Larkin | ID 281d63b5
+[Mrs. Tameka Larkin | ID 281d63b5] 2025-07-27: BP 112/74 mmHg; Triglycerides 112 mg/dL; Total cholesterol 160 mg/dL; Potassium 4.2 mmol/L; Sodium 137.5 mmol/L; Creatinine 0.9 mg/dL; BUN 7.5 mg/dL; Glucose 66.6 mg/dL; Heart rate 70 /min; BMI 29.1 kg/m2; Weight 80.7 kg; Height 166.5 cm; HbA1c 6 %; LDL 75.1 mg/dL; Resp rate 14 /min; HDL 62.5 mg/dL
+[Mrs. Tameka Larkin | ID 281d63b5] 2023-07-23: BP 100/71 mmHg; Hemoglobin 13.7 g/dL; Potassium 3.8 mmol/L; Creatinine 1.3 mg/dL; BUN 8.1 mg/dL; Glucose 98.9 mg/dL; Resp rate 15 /min; Sodium 136.1 mmol/L; BMI 28 kg/m2; Weight 77.5 kg; Height 166.5 cm; HbA1c 6.1 %; Heart rate 92 /min
+[Mrs. Tameka Larkin | ID 281d63b5] 2020-10-11: BP 111/74 mmHg; HDL 50.7 mg/dL; LDL 104.2 mg/dL; Total cholesterol 184.7 mg/dL; Potassium 4.9 mmol/L; Sodium 136.9 mmol/L; Creatinine 1 mg/dL; BUN 9.5 mg/dL; Glucose 66.7 mg/dL; Triglycerides 148.9 mg/dL; Heart rate 98 /min; BMI 29.3 kg/m2; Weight 81.1 kg; Height 166.5 cm; HbA1c 6.2 %; Resp rate 14 /min
+[Mrs. Tameka Larkin | ID 281d63b5] 2017-10-15: Hemoglobin 11.6 g/dL
+[Mrs. Tameka Larkin | ID 281d63b5] 2017-10-08: BP 109/72 mmHg; HbA1c 6.1 %; Hemoglobin 17.1 g/dL; HDL 50.5 mg/dL; LDL 120.8 mg/dL; Triglycerides 114.3 mg/dL; Potassium 5.1 mmol/L; Sodium 136.2 mmol/L; Creatinine 1.4 mg/dL; BUN 7.5 mg/dL; Total cholesterol 194.2 mg/dL; Resp rate 15 /min; Heart rate 92 /min; Glucose 99.2 mg/dL; BMI 27.6 kg/m2; Weight 76.5 kg; Height 166.5 cm

@@ -1,0 +1,48 @@
+PATIENT SUMMARY | Patricio Bernal | ID 6820925a
+DOB: 2012-07-09 | Age: 14 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Patricio Bernal | ID 6820925a
+- Viral sinusitis — since 2026-08-17
+
+RESOLVED CONDITIONS | Patricio Bernal | ID 6820925a
+- Acute bronchitis — 2018-07-30 to 2023-06-01
+- Streptococcal sore throat — 2020-02-02 to 2020-02-14
+- Gingivitis — 2020-07-06 to 2021-07-19
+- Primary dental caries — 2022-07-25 to 2022-07-25
+- Acute viral pharyngitis — 2023-03-31 to 2023-04-10
+
+CURRENT MEDICATIONS | Patricio Bernal | ID 6820925a
+- None recorded.
+
+PAST MEDICATIONS | Patricio Bernal | ID 6820925a
+- Acetaminophen 325 MG Oral Tablet — 2018-07-30 to 2023-06-01
+- Penicillin V Potassium 250 MG Oral Tablet — 2020-02-02 to 2020-02-14
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2020-07-13 to 2022-07-25
+
+ALLERGIES | Patricio Bernal | ID 6820925a
+- No known allergies.
+
+LATEST VITALS & LABS | Patricio Bernal | ID 6820925a
+- BMI: 19.2 kg/m2 (2026-08-10)
+- Heart rate: 93 /min (2026-08-10)
+- Height: 167.6 cm (2026-08-10)
+- Hemoglobin: 17.1 g/dL (2023-07-24)
+- Resp rate: 13 /min (2026-08-10)
+- Weight: 53.9 kg (2026-08-10)
+- Blood pressure: 120/72 mmHg (2026-08-10)
+
+VISIT HISTORY (vitals & labs by date) | Patricio Bernal | ID 6820925a
+[Patricio Bernal | ID 6820925a] 2026-08-10: BP 120/72 mmHg; Heart rate 93 /min; Height 167.6 cm; Weight 53.9 kg; BMI 19.2 kg/m2; Resp rate 13 /min
+[Patricio Bernal | ID 6820925a] 2025-08-04: BP 118/86 mmHg; Resp rate 13 /min; Heart rate 85 /min; Weight 48.4 kg; BMI 19.1 kg/m2; Height 159.2 cm
+[Patricio Bernal | ID 6820925a] 2024-07-29: BP 114/75 mmHg; Height 152 cm; Weight 42.7 kg; BMI 18.5 kg/m2; Heart rate 62 /min; Resp rate 15 /min
+[Patricio Bernal | ID 6820925a] 2023-07-24: BP 114/73 mmHg; Hemoglobin 17.1 g/dL; Resp rate 14 /min; Heart rate 71 /min; BMI 18.1 kg/m2; Weight 38.7 kg; Height 146.3 cm
+[Patricio Bernal | ID 6820925a] 2023-05-29: BP 119/75 mmHg; Height 145.4 cm; Weight 38.1 kg; BMI 18 kg/m2; Heart rate 61 /min; Resp rate 12 /min
+[Patricio Bernal | ID 6820925a] 2023-05-22: BP 122/75 mmHg; Resp rate 14 /min; Heart rate 74 /min; Weight 38.1 kg; Height 145.4 cm; BMI 18 kg/m2
+[Patricio Bernal | ID 6820925a] 2022-07-18: BP 118/80 mmHg; Height 141.2 cm; Weight 34 kg; BMI 17.1 kg/m2; Heart rate 77 /min; Resp rate 15 /min
+[Patricio Bernal | ID 6820925a] 2021-07-12: BP 118/72 mmHg; Heart rate 62 /min; Resp rate 16 /min; Weight 28.6 kg; Height 136 cm; BMI 15.5 kg/m2
+[Patricio Bernal | ID 6820925a] 2020-07-06: BP 118/76 mmHg; Height 129.7 cm; Weight 25.1 kg; BMI 14.9 kg/m2; Heart rate 72 /min; Resp rate 14 /min
+[Patricio Bernal | ID 6820925a] 2019-07-01: BP 121/74 mmHg; Heart rate 79 /min; Resp rate 12 /min; Weight 22.4 kg; Height 123.4 cm; BMI 14.7 kg/m2
+[Patricio Bernal | ID 6820925a] 2018-07-23: BP 121/74 mmHg; Heart rate 80 /min; Resp rate 15 /min; Height 117.5 cm; BMI 14.5 kg/m2; Weight 20.1 kg
+[Patricio Bernal | ID 6820925a] 2018-07-16: BP 131/72 mmHg; Height 117.5 cm; Weight 20.1 kg; BMI 14.5 kg/m2; Heart rate 87 /min; Resp rate 15 /min
+[Patricio Bernal | ID 6820925a] 2018-06-25: BP 138/75 mmHg; Hemoglobin 15.6 g/dL; Resp rate 13 /min; Heart rate 98 /min; BMI 14.5 kg/m2; Weight 19.9 kg; Height 116.9 cm
+[Patricio Bernal | ID 6820925a] 2017-06-19: BP 121/77 mmHg; Height 110.3 cm; Weight 17.6 kg; BMI 14.5 kg/m2; Heart rate 99 /min; Resp rate 13 /min

@@ -1,0 +1,71 @@
+PATIENT SUMMARY | Ms. Maximina Langosh | ID 0aed8a17
+DOB: 1991-07-02 | Age: 35 | Gender: F | Status: Deceased
+
+ACTIVE CONDITIONS | Ms. Maximina Langosh | ID 0aed8a17
+- Asthma — since 2011-09-06
+- Body mass index 30+ - obesity — since 2015-09-29
+- Sepsis — since 2020-01-06
+
+RESOLVED CONDITIONS | Ms. Maximina Langosh | ID 0aed8a17
+- Childhood asthma — 1993-08-09 to 2010-11-27
+- Normal pregnancy — 2009-09-08 to 2019-03-12
+- Eclampsia in pregnancy — 2010-03-23 to 2010-04-27
+- Gingivitis — 2010-08-31 to 2012-09-25
+- Acute viral pharyngitis — 2011-05-22 to 2015-10-21
+- Limited social contact — 2012-09-11 to 2013-09-17
+- Gingival disease — 2012-09-25 to 2012-09-25
+- Acute infective cystitis — 2013-08-26 to 2013-08-27
+- Viral sinusitis — 2013-10-08 to 2014-11-05
+
+CURRENT MEDICATIONS | Ms. Maximina Langosh | ID 0aed8a17
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] — since 2019-10-22, for Childhood asthma
+- Loratadine 5 MG Chewable Tablet — since 1992-07-02
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector — since 1992-07-02
+- albuterol 0.417 MG/ML Inhalation Solution — since 2019-10-22, for Childhood asthma
+- {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] — since 2019-04-29
+
+PAST MEDICATIONS | Ms. Maximina Langosh | ID 0aed8a17
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection — 2017-05-09 to 2018-05-04
+- 150 ML vancomycin 5 MG/ML Injection — 2020-01-06 to 2020-01-06
+- 4 ML norepinephrine 1 MG/ML Injection — 2020-01-11 to 2020-01-18
+- Aztreonam 2000 MG Injection — 2020-01-06 to 2020-01-06
+- cephalexin 500 MG Oral Tablet — 2013-08-26 to 2013-08-27
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2012-09-25 to 2017-10-24
+- {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] — 2012-06-04 to 2013-05-30
+- {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] — 2010-06-15 to 2014-05-25
+
+ALLERGIES | Ms. Maximina Langosh | ID 0aed8a17
+- Mold (organism) (environment allergy)
+- House dust mite (organism) (environment allergy)
+- Animal dander (environment allergy) — reaction: Eruption of skin (MILD)
+- Grass pollen (environment allergy)
+- Tree pollen (environment allergy)
+- Penicillin V (medication allergy) — reaction: Dyspnea (MILD)
+- Wheat (food allergy) — reaction: Eruption of skin (MODERATE)
+- Shellfish (food allergy) — reaction: Anaphylaxis (SEVERE)
+- Peanut (food allergy) — reaction: Wheal (MODERATE)
+
+LATEST VITALS & LABS | Ms. Maximina Langosh | ID 0aed8a17
+- BMI: 30.4 kg/m2 (2019-10-22)
+- Heart rate: 94 /min (2019-10-22)
+- Height: 172 cm (2019-10-22)
+- Hemoglobin: 13.3 g/dL (2017-10-10)
+- Resp rate: 13 /min (2019-10-22)
+- Weight: 89.8 kg (2019-10-22)
+- Blood pressure: 43.3/41.4 mmHg (2020-01-18)
+
+VISIT HISTORY (vitals & labs by date) | Ms. Maximina Langosh | ID 0aed8a17
+[Ms. Maximina Langosh | ID 0aed8a17] 2020-01-18: BP 43.3/41.4 mmHg
+[Ms. Maximina Langosh | ID 0aed8a17] 2020-01-13: BP 125/72 mmHg
+[Ms. Maximina Langosh | ID 0aed8a17] 2020-01-11: BP 72.2/104 mmHg
+[Ms. Maximina Langosh | ID 0aed8a17] 2019-10-22: BP 119/65 mmHg; Height 172 cm; Weight 89.8 kg; BMI 30.4 kg/m2; Heart rate 94 /min; Resp rate 13 /min
+[Ms. Maximina Langosh | ID 0aed8a17] 2018-10-16: BP 120/69 mmHg; Heart rate 76 /min; Resp rate 14 /min; Height 172 cm; BMI 30.4 kg/m2; Weight 89.8 kg
+[Ms. Maximina Langosh | ID 0aed8a17] 2017-10-10: BP 120/70 mmHg; Hemoglobin 13.3 g/dL; Resp rate 12 /min; Heart rate 90 /min; Height 172 cm; BMI 30.4 kg/m2; Weight 89.8 kg
+[Ms. Maximina Langosh | ID 0aed8a17] 2016-10-04: BP 121/71 mmHg; Height 172 cm; Weight 89.8 kg; BMI 30.4 kg/m2; Heart rate 86 /min; Resp rate 16 /min
+[Ms. Maximina Langosh | ID 0aed8a17] 2015-09-29: BP 122/71 mmHg; Heart rate 65 /min; Resp rate 12 /min; Height 172 cm; BMI 30.4 kg/m2; Weight 89.8 kg
+[Ms. Maximina Langosh | ID 0aed8a17] 2014-09-23: BP 122/67 mmHg; Height 172 cm; Weight 88.7 kg; BMI 30 kg/m2; Heart rate 64 /min; Resp rate 15 /min
+[Ms. Maximina Langosh | ID 0aed8a17] 2013-09-17: BP 121/67 mmHg; Resp rate 14 /min; Heart rate 89 /min; Weight 87.3 kg; Height 172 cm; BMI 29.5 kg/m2
+[Ms. Maximina Langosh | ID 0aed8a17] 2013-08-26: BP 113.2/75.6 mmHg; Heart rate 63.6 /min; Resp rate 13.1 /min
+[Ms. Maximina Langosh | ID 0aed8a17] 2012-09-11: BP 122/69 mmHg; Heart rate 66 /min; Resp rate 13 /min; Hemoglobin 17.3 g/dL; BMI 28.9 kg/m2; Weight 85.5 kg; Height 172 cm
+[Ms. Maximina Langosh | ID 0aed8a17] 2011-09-06: BP 114/64 mmHg; Resp rate 13 /min; Heart rate 66 /min; Weight 84 kg; BMI 28.4 kg/m2; Height 172 cm
+[Ms. Maximina Langosh | ID 0aed8a17] 2010-08-31: BP 122/66 mmHg; Height 171.9 cm; Weight 82 kg; BMI 27.8 kg/m2; Heart rate 85 /min; Resp rate 15 /min

@@ -1,0 +1,68 @@
+PATIENT SUMMARY | Mr. Rhett Cormier | ID 70569bbf
+DOB: 1969-07-26 | Age: 57 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Mr. Rhett Cormier | ID 70569bbf
+- Anemia — since 2003-10-11
+- Prediabetes — since 2003-10-11
+- Body mass index 30+ - obesity — since 2009-08-01
+- Chronic low back pain — since 2014-02-03
+- Chronic neck pain — since 2014-02-03
+- Chronic pain — since 2014-02-03
+- Unhealthy alcohol drinking behavior — since 2014-08-16
+- Loss of teeth — since 2018-09-29
+
+RESOLVED CONDITIONS | Mr. Rhett Cormier | ID 70569bbf
+- Gingivitis — 2016-08-27 to 2024-10-26
+- Infection of tooth — 2016-09-10 to 2018-09-22
+- Alveolitis of jaw — 2016-09-15 to 2018-09-27
+- Sprain of ankle — 2016-09-23 to 2016-10-19
+- Sprain — 2016-09-23 to 2016-10-19
+- Primary dental caries — 2018-09-22 to 2018-09-22
+- Torus palatinus — 2018-09-29 to 2018-10-12
+- Viral sinusitis — 2018-12-26 to 2024-05-04
+- Acute viral pharyngitis — 2024-04-16 to 2024-04-30
+
+CURRENT MEDICATIONS | Mr. Rhett Cormier | ID 70569bbf
+- 72 HR Fentanyl 0.025 MG/HR Transdermal System — since 2025-10-18
+- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] — since 2025-10-18
+- tramadol hydrochloride 50 MG Oral Tablet — since 2025-10-18
+
+PAST MEDICATIONS | Mr. Rhett Cormier | ID 70569bbf
+- Acetaminophen 325 MG Oral Tablet — 2016-09-23 to 2016-10-19
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2017-09-16 to 2024-10-26
+
+ALLERGIES | Mr. Rhett Cormier | ID 70569bbf
+- No known allergies.
+
+LATEST VITALS & LABS | Mr. Rhett Cormier | ID 70569bbf
+- BMI: 27.5 kg/m2 (2025-10-18)
+- BUN: 11.4 mg/dL (2025-10-18)
+- Creatinine: 0.9 mg/dL (2025-10-18)
+- Glucose: 92.4 mg/dL (2025-10-18)
+- HDL: 55.4 mg/dL (2023-10-07)
+- HbA1c: 5.8 % (2025-10-18)
+- Heart rate: 92 /min (2025-10-18)
+- Height: 166.3 cm (2025-10-18)
+- Hemoglobin: 16.3 g/dL (2024-10-12)
+- LDL: 50.3 mg/dL (2023-10-07)
+- Potassium: 3.8 mmol/L (2025-10-18)
+- Resp rate: 13 /min (2025-10-18)
+- Sodium: 138.9 mmol/L (2025-10-18)
+- Total cholesterol: 135.1 mg/dL (2023-10-07)
+- Triglycerides: 147 mg/dL (2023-10-07)
+- Weight: 76.1 kg (2025-10-18)
+- Blood pressure: 112/85 mmHg (2025-10-18)
+
+VISIT HISTORY (vitals & labs by date) | Mr. Rhett Cormier | ID 70569bbf
+[Mr. Rhett Cormier | ID 70569bbf] 2025-10-18: BP 112/85 mmHg; Creatinine 0.9 mg/dL; BUN 11.4 mg/dL; Glucose 92.4 mg/dL; Resp rate 13 /min; Heart rate 92 /min; Weight 76.1 kg; BMI 27.5 kg/m2; Height 166.3 cm; HbA1c 5.8 %; Sodium 138.9 mmol/L; Potassium 3.8 mmol/L
+[Mr. Rhett Cormier | ID 70569bbf] 2024-10-12: BP 107/83 mmHg; Hemoglobin 16.3 g/dL; Potassium 4.5 mmol/L; Sodium 136.8 mmol/L; Creatinine 1 mg/dL; Glucose 67.9 mg/dL; Resp rate 15 /min; BUN 8 mg/dL; BMI 30.1 kg/m2; Weight 83.3 kg; Height 166.3 cm; HbA1c 6 %; Heart rate 87 /min
+[Mr. Rhett Cormier | ID 70569bbf] 2024-05-04: HbA1c 6.2 %
+[Mr. Rhett Cormier | ID 70569bbf] 2024-04-27: BP 109/80 mmHg; Glucose 88.2 mg/dL; Sodium 136.6 mmol/L; Creatinine 1 mg/dL; Potassium 3.8 mmol/L; BUN 16.9 mg/dL; Resp rate 13 /min; Weight 83.9 kg; BMI 30.3 kg/m2; Height 166.3 cm; HbA1c 5.9 %; Heart rate 81 /min
+[Mr. Rhett Cormier | ID 70569bbf] 2023-10-07: BP 101/86 mmHg; Creatinine 1 mg/dL; HDL 55.4 mg/dL; LDL 50.3 mg/dL; Triglycerides 147 mg/dL; Total cholesterol 135.1 mg/dL; Potassium 3.7 mmol/L; Sodium 137.3 mmol/L; BUN 18.4 mg/dL; Height 166.3 cm; Resp rate 14 /min; Heart rate 82 /min; BMI 30.3 kg/m2; Weight 83.9 kg; HbA1c 6 %; Glucose 66.2 mg/dL
+[Mr. Rhett Cormier | ID 70569bbf] 2022-10-01: BP 111/84 mmHg; Potassium 3.7 mmol/L; Sodium 142.9 mmol/L; Creatinine 1 mg/dL; BUN 9.1 mg/dL; Glucose 94.9 mg/dL; Heart rate 83 /min; Resp rate 14 /min; BMI 30.3 kg/m2; Weight 83.9 kg; Height 166.3 cm; HbA1c 6 %
+[Mr. Rhett Cormier | ID 70569bbf] 2021-09-25: BP 110/77 mmHg; Glucose 88.1 mg/dL; Potassium 4.2 mmol/L; Sodium 139.6 mmol/L; Creatinine 1 mg/dL; BUN 19 mg/dL; Resp rate 16 /min; Heart rate 74 /min; BMI 30.3 kg/m2; Weight 83.9 kg; Height 166.3 cm; HbA1c 5.9 %
+[Mr. Rhett Cormier | ID 70569bbf] 2020-09-19: BP 112/81 mmHg; Creatinine 1 mg/dL; LDL 38.2 mg/dL; HDL 53.3 mg/dL; Triglycerides 124.2 mg/dL; Total cholesterol 116.3 mg/dL; Potassium 4.6 mmol/L; Sodium 137.1 mmol/L; BUN 7.6 mg/dL; Height 166.3 cm; Resp rate 13 /min; Heart rate 89 /min; BMI 30.3 kg/m2; Weight 83.9 kg; HbA1c 6.3 %; Glucose 92.1 mg/dL
+[Mr. Rhett Cormier | ID 70569bbf] 2019-09-14: BP 109/80 mmHg; Hemoglobin 14.4 g/dL; Potassium 4 mmol/L; Sodium 139.3 mmol/L; Creatinine 1.1 mg/dL; BUN 14.7 mg/dL; Glucose 84.6 mg/dL; Resp rate 14 /min; BMI 30.3 kg/m2; Weight 83.9 kg; Height 166.3 cm; HbA1c 6.4 %; Heart rate 93 /min
+[Mr. Rhett Cormier | ID 70569bbf] 2018-09-08: BP 116/80 mmHg; Resp rate 14 /min; Potassium 4.2 mmol/L; Sodium 137 mmol/L; Creatinine 1 mg/dL; Glucose 81 mg/dL; Heart rate 82 /min; BUN 7.2 mg/dL; BMI 29.8 kg/m2; Weight 82.4 kg; Height 166.3 cm; HbA1c 6.2 %
+[Mr. Rhett Cormier | ID 70569bbf] 2017-09-02: BP 115/84 mmHg; Creatinine 1 mg/dL; HDL 54.9 mg/dL; LDL 112.7 mg/dL; Triglycerides 114.5 mg/dL; Total cholesterol 190.5 mg/dL; Potassium 3.7 mmol/L; Sodium 138.4 mmol/L; BUN 8.8 mg/dL; Resp rate 13 /min; Heart rate 75 /min; BMI 29.2 kg/m2; Weight 80.9 kg; Height 166.3 cm; HbA1c 6.2 %; Glucose 70 mg/dL
+[Mr. Rhett Cormier | ID 70569bbf] 2016-08-27: BP 112/75 mmHg; HbA1c 6.4 %; Potassium 4.3 mmol/L; Sodium 140.3 mmol/L; BUN 10.9 mg/dL; Glucose 90.8 mg/dL; Resp rate 15 /min; Creatinine 1.3 mg/dL; BMI 28.7 kg/m2; Weight 79.3 kg; Height 166.3 cm; Heart rate 77 /min

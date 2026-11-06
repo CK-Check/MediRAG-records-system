@@ -1,0 +1,107 @@
+PATIENT SUMMARY | Mrs. Daryl Hudson | ID de0d7e63
+DOB: 1981-12-18 | Age: 44 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Mrs. Daryl Hudson | ID de0d7e63
+- History of appendectomy — since 1991-08-29
+- Essential hypertension — since 2010-02-26
+- Past pregnancy history of miscarriage — since 2010-09-23
+- Pulmonic valve regurgitation — since 2014-01-05
+- Chronic kidney disease stage 2 — since 2015-11-27
+- Disorder of kidney due to diabetes mellitus — since 2015-11-27
+- Microalbuminuria due to type 2 diabetes mellitus — since 2015-11-27
+- Chronic kidney disease stage 3 — since 2019-04-12
+- Proteinuria due to type 2 diabetes mellitus — since 2019-04-12
+- Victim of intimate partner abuse — since 2021-02-26
+- Normal pregnancy — since 2022-02-11
+- Body mass index 30+ - obesity — since 2024-04-12
+
+RESOLVED CONDITIONS | Mrs. Daryl Hudson | ID de0d7e63
+- Limited social contact — 2015-11-27 to 2022-04-22
+- Gingivitis — 2018-04-13 to 2024-05-31
+- Infection of tooth — 2019-06-21 to 2019-06-21
+- Alveolitis of jaw — 2019-06-26 to 2019-06-26
+- Acute bronchitis — 2020-11-24 to 2020-12-13
+- Primary dental caries — 2022-01-21 to 2024-07-26
+- Viral sinusitis — 2022-01-28 to 2022-02-04
+- Severe anxiety (panic) — 2024-11-08 to 2025-05-23
+- Gingival disease — 2024-11-29 to 2024-11-29
+
+CURRENT MEDICATIONS | Mrs. Daryl Hudson | ID de0d7e63
+- amLODIPine 2.5 MG Oral Tablet — since 2026-05-29, for Essential hypertension
+
+PAST MEDICATIONS | Mrs. Daryl Hudson | ID de0d7e63
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection — 2022-11-18 to 2023-11-13
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution — 2020-11-24 to 2020-12-13
+- Etonogestrel 68 MG Drug Implant — 2016-11-25 to 2024-11-07
+- levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta] — 2020-11-04 to 2021-11-02
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2019-04-26 to 2025-06-06
+- {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] — 2024-11-15 to 2025-11-10
+
+ALLERGIES | Mrs. Daryl Hudson | ID de0d7e63
+- No known allergies.
+
+LATEST VITALS & LABS | Mrs. Daryl Hudson | ID de0d7e63
+- BMI: 30.2 kg/m2 (2026-05-29)
+- Creatinine: 1.9 mg/dL (2026-05-29)
+- HDL: 50.3 mg/dL (2024-05-17)
+- Heart rate: 71 /min (2026-05-29)
+- Height: 171.6 cm (2026-05-29)
+- Hemoglobin: 13.1 g/dL (2025-05-09)
+- LDL: 105.7 mg/dL (2024-05-17)
+- Resp rate: 13 /min (2026-05-29)
+- Total cholesterol: 177 mg/dL (2024-05-17)
+- Triglycerides: 105.4 mg/dL (2024-05-17)
+- Weight: 88.9 kg (2026-05-29)
+- Blood pressure: 147/94 mmHg (2026-05-29)
+
+VISIT HISTORY (vitals & labs by date) | Mrs. Daryl Hudson | ID de0d7e63
+[Mrs. Daryl Hudson | ID de0d7e63] 2026-05-29: BP 147/94 mmHg; Heart rate 71 /min; Creatinine 1.9 mg/dL; Height 171.6 cm; Weight 88.9 kg; BMI 30.2 kg/m2; Resp rate 13 /min
+[Mrs. Daryl Hudson | ID de0d7e63] 2025-11-07: BP 138/96 mmHg; Resp rate 13 /min; Heart rate 91 /min; Weight 88.9 kg; Height 171.6 cm; Creatinine 2 mg/dL; BMI 30.2 kg/m2
+[Mrs. Daryl Hudson | ID de0d7e63] 2025-09-12: BP 141/92 mmHg; Heart rate 72 /min; Resp rate 12 /min; Height 171.6 cm; Weight 88.9 kg; Creatinine 2 mg/dL; BMI 30.2 kg/m2
+[Mrs. Daryl Hudson | ID de0d7e63] 2025-07-04: BP 151/92 mmHg; Creatinine 2 mg/dL; Height 171.6 cm; Weight 88.9 kg; BMI 30.2 kg/m2; Heart rate 73 /min; Resp rate 15 /min
+[Mrs. Daryl Hudson | ID de0d7e63] 2025-06-20: BP 143/97 mmHg; Heart rate 94 /min; Resp rate 13 /min; Weight 88.9 kg; Height 171.6 cm; Creatinine 1.9 mg/dL; BMI 30.2 kg/m2
+[Mrs. Daryl Hudson | ID de0d7e63] 2025-05-23: BP 141/101 mmHg; Resp rate 15 /min; Heart rate 86 /min; Weight 88.9 kg; Height 171.6 cm; Creatinine 2 mg/dL; BMI 30.2 kg/m2
+[Mrs. Daryl Hudson | ID de0d7e63] 2025-05-09: BP 144/91 mmHg; Creatinine 2 mg/dL; Height 171.6 cm; Weight 88.9 kg; BMI 30.2 kg/m2; Heart rate 99 /min; Resp rate 13 /min; Hemoglobin 13.1 g/dL
+[Mrs. Daryl Hudson | ID de0d7e63] 2025-04-11: BP 146/98 mmHg; Resp rate 14 /min; Heart rate 96 /min; Creatinine 2.1 mg/dL; Weight 88.9 kg; Height 171.6 cm; BMI 30.2 kg/m2
+[Mrs. Daryl Hudson | ID de0d7e63] 2025-01-10: BP 138/96 mmHg; Resp rate 13 /min; Heart rate 68 /min; Creatinine 1.9 mg/dL; Weight 88.9 kg; Height 171.6 cm; BMI 30.2 kg/m2
+[Mrs. Daryl Hudson | ID de0d7e63] 2024-12-13: BP 139/92 mmHg; Creatinine 2.1 mg/dL; Height 171.6 cm; Weight 88.9 kg; BMI 30.2 kg/m2; Heart rate 64 /min; Resp rate 15 /min
+[Mrs. Daryl Hudson | ID de0d7e63] 2024-11-08: BP 143/95 mmHg; Heart rate 75 /min; Resp rate 13 /min; BMI 30.2 kg/m2; Height 171.6 cm; Creatinine 2 mg/dL; Weight 88.9 kg
+[Mrs. Daryl Hudson | ID de0d7e63] 2024-07-12: BP 138/95 mmHg; Resp rate 13 /min; Heart rate 71 /min; BMI 30.2 kg/m2; Height 171.6 cm; Creatinine 1.9 mg/dL; Weight 88.9 kg
+[Mrs. Daryl Hudson | ID de0d7e63] 2024-05-17: BP 144/96 mmHg; Triglycerides 105.4 mg/dL; Weight 88.9 kg; HDL 50.3 mg/dL; Total cholesterol 177 mg/dL; LDL 105.7 mg/dL; Resp rate 16 /min; Height 171.6 cm; BMI 30.2 kg/m2; Creatinine 2.1 mg/dL; Heart rate 65 /min
+[Mrs. Daryl Hudson | ID de0d7e63] 2024-04-12: BP 149/94 mmHg; Resp rate 14 /min; Creatinine 2 mg/dL; Weight 88.9 kg; BMI 30.2 kg/m2; Heart rate 70 /min; Height 171.6 cm
+[Mrs. Daryl Hudson | ID de0d7e63] 2023-06-16: BP 147/98 mmHg; Heart rate 69 /min; Resp rate 12 /min; Weight 87.4 kg; Height 171.6 cm; Creatinine 1.9 mg/dL; BMI 29.7 kg/m2
+[Mrs. Daryl Hudson | ID de0d7e63] 2023-05-19: Creatinine 1.9 mg/dL
+[Mrs. Daryl Hudson | ID de0d7e63] 2023-05-12: BP 138/96 mmHg; Heart rate 72 /min; BMI 29.7 kg/m2; Resp rate 12 /min; Height 171.6 cm; Weight 87.4 kg; Creatinine 2 mg/dL
+[Mrs. Daryl Hudson | ID de0d7e63] 2022-05-06: BP 136/99 mmHg; Creatinine 2.1 mg/dL; Height 171.6 cm; Weight 85.5 kg; BMI 29.1 kg/m2; Heart rate 74 /min; Resp rate 14 /min
+[Mrs. Daryl Hudson | ID de0d7e63] 2022-04-22: BP 136/97 mmHg; Resp rate 14 /min; Heart rate 95 /min; Creatinine 2 mg/dL; Weight 85.5 kg; Height 171.6 cm; BMI 29.1 kg/m2
+[Mrs. Daryl Hudson | ID de0d7e63] 2022-02-25: BP 140/93 mmHg; Resp rate 14 /min; Heart rate 93 /min; Creatinine 2 mg/dL; Weight 85.5 kg; Height 171.6 cm; BMI 29.1 kg/m2
+[Mrs. Daryl Hudson | ID de0d7e63] 2022-02-04: BP 136/95 mmHg; Creatinine 2 mg/dL; Height 171.6 cm; Weight 85.5 kg; BMI 29.1 kg/m2; Heart rate 84 /min; Resp rate 14 /min
+[Mrs. Daryl Hudson | ID de0d7e63] 2022-01-07: Creatinine 2 mg/dL
+[Mrs. Daryl Hudson | ID de0d7e63] 2021-12-31: BP 140/97 mmHg; Resp rate 13 /min; Heart rate 98 /min; Weight 85.5 kg; Creatinine 2 mg/dL; BMI 29.1 kg/m2; Height 171.6 cm
+[Mrs. Daryl Hudson | ID de0d7e63] 2021-12-24: Creatinine 2.1 mg/dL
+[Mrs. Daryl Hudson | ID de0d7e63] 2021-12-17: BP 145/97 mmHg; Resp rate 12 /min; Creatinine 2 mg/dL; Height 171.6 cm; Weight 83.7 kg; BMI 28.4 kg/m2; Heart rate 98 /min
+[Mrs. Daryl Hudson | ID de0d7e63] 2021-12-10: Creatinine 2 mg/dL
+[Mrs. Daryl Hudson | ID de0d7e63] 2021-12-03: BP 142/92 mmHg; Resp rate 15 /min; Heart rate 91 /min; Weight 83.7 kg; Height 171.6 cm; Creatinine 2 mg/dL; BMI 28.4 kg/m2
+[Mrs. Daryl Hudson | ID de0d7e63] 2021-11-26: Creatinine 1.9 mg/dL
+[Mrs. Daryl Hudson | ID de0d7e63] 2021-11-19: BP 139/102 mmHg; Resp rate 14 /min; Heart rate 97 /min; Weight 83.7 kg; Height 171.6 cm; Creatinine 2 mg/dL; BMI 28.4 kg/m2
+[Mrs. Daryl Hudson | ID de0d7e63] 2021-11-12: Creatinine 2 mg/dL
+[Mrs. Daryl Hudson | ID de0d7e63] 2021-11-05: BP 137/98 mmHg; Creatinine 2.1 mg/dL; Height 171.6 cm; Weight 83.7 kg; BMI 28.4 kg/m2; Heart rate 100 /min; Resp rate 14 /min
+[Mrs. Daryl Hudson | ID de0d7e63] 2021-06-25: BP 141/94 mmHg; Heart rate 82 /min; Resp rate 13 /min; Weight 83.7 kg; Height 171.6 cm; Creatinine 1.9 mg/dL; BMI 28.4 kg/m2
+[Mrs. Daryl Hudson | ID de0d7e63] 2021-05-07: Creatinine 1.9 mg/dL
+[Mrs. Daryl Hudson | ID de0d7e63] 2021-04-30: BP 150/92 mmHg; HDL 52.8 mg/dL; LDL 67.5 mg/dL; Triglycerides 122.4 mg/dL; Total cholesterol 144.7 mg/dL; Resp rate 16 /min; Heart rate 73 /min; BMI 28.4 kg/m2; Weight 83.7 kg; Height 171.6 cm; Creatinine 2.1 mg/dL
+[Mrs. Daryl Hudson | ID de0d7e63] 2021-02-26: BP 139/98 mmHg; Resp rate 15 /min; Heart rate 79 /min; Weight 83.7 kg; Height 171.6 cm; Creatinine 2 mg/dL; BMI 28.4 kg/m2
+[Mrs. Daryl Hudson | ID de0d7e63] 2020-12-18: Creatinine 2 mg/dL
+[Mrs. Daryl Hudson | ID de0d7e63] 2020-12-11: BP 136/94 mmHg; Creatinine 2 mg/dL; Height 171.6 cm; Weight 82.5 kg; BMI 28 kg/m2; Heart rate 76 /min; Resp rate 15 /min
+[Mrs. Daryl Hudson | ID de0d7e63] 2020-09-04: BP 140/92 mmHg; Resp rate 15 /min; Heart rate 83 /min; Weight 82.5 kg; Height 171.6 cm; Creatinine 2.1 mg/dL; BMI 28 kg/m2
+[Mrs. Daryl Hudson | ID de0d7e63] 2020-05-01: Creatinine 2 mg/dL
+[Mrs. Daryl Hudson | ID de0d7e63] 2020-04-24: BP 145/101 mmHg; Hemoglobin 17.4 g/dL; Resp rate 13 /min; Heart rate 94 /min; Weight 82.5 kg; Height 171.6 cm; Creatinine 2 mg/dL; BMI 28 kg/m2
+[Mrs. Daryl Hudson | ID de0d7e63] 2020-03-06: BP 142/94 mmHg; Resp rate 16 /min; Heart rate 72 /min; Height 171.6 cm; Weight 82.5 kg; Creatinine 2 mg/dL; BMI 28 kg/m2
+[Mrs. Daryl Hudson | ID de0d7e63] 2020-01-03: BP 147/95 mmHg; Resp rate 13 /min; Heart rate 92 /min; Creatinine 1.9 mg/dL; Weight 82.5 kg; Height 171.6 cm; BMI 28 kg/m2
+[Mrs. Daryl Hudson | ID de0d7e63] 2019-08-09: BP 139/98 mmHg; Creatinine 2 mg/dL; Height 171.6 cm; Weight 80.7 kg; BMI 27.4 kg/m2; Heart rate 75 /min; Resp rate 16 /min
+[Mrs. Daryl Hudson | ID de0d7e63] 2019-06-07: BP 146/94 mmHg; Heart rate 69 /min; Resp rate 15 /min; BMI 27.4 kg/m2; Weight 80.7 kg; Height 171.6 cm; Creatinine 2 mg/dL
+[Mrs. Daryl Hudson | ID de0d7e63] 2019-04-19: Creatinine 2 mg/dL
+[Mrs. Daryl Hudson | ID de0d7e63] 2019-04-12: BP 137/95 mmHg; BMI 27.4 kg/m2; Creatinine 2 mg/dL; Height 171.6 cm; Weight 80.7 kg; Heart rate 66 /min; Resp rate 13 /min
+[Mrs. Daryl Hudson | ID de0d7e63] 2018-04-20: Creatinine 2.1 mg/dL
+[Mrs. Daryl Hudson | ID de0d7e63] 2018-04-13: BP 152/91 mmHg; Resp rate 14 /min; HDL 60.4 mg/dL; LDL 99.3 mg/dL; Triglycerides 139.1 mg/dL; Total cholesterol 187.4 mg/dL; Heart rate 81 /min; BMI 26.8 kg/m2; Weight 79 kg; Height 171.6 cm; Creatinine 1.8 mg/dL
+[Mrs. Daryl Hudson | ID de0d7e63] 2017-04-07: BP 148/92 mmHg; Resp rate 15 /min; Heart rate 83 /min; Weight 77.1 kg; Height 171.6 cm; Creatinine 1.9 mg/dL; BMI 26.2 kg/m2
+[Mrs. Daryl Hudson | ID de0d7e63] 2016-11-18: BP 142/93 mmHg; Creatinine 1.8 mg/dL; Height 171.6 cm; Weight 76.1 kg; BMI 25.8 kg/m2; Heart rate 70 /min; Resp rate 15 /min

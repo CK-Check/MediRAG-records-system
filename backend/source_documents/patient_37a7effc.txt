@@ -1,0 +1,62 @@
+PATIENT SUMMARY | Alysia Barton | ID 37a7effc
+DOB: 2010-05-06 | Age: 16 | Gender: F | Status: Deceased
+
+ACTIVE CONDITIONS | Alysia Barton | ID 37a7effc
+- Child attention deficit disorder — since 2017-07-07
+- History of seizure — since 2021-08-13
+- Seizure disorder — since 2021-08-13
+
+RESOLVED CONDITIONS | Alysia Barton | ID 37a7effc
+- Acute viral pharyngitis — 2016-10-05 to 2016-10-18
+- Acute bronchitis — 2018-02-15 to 2018-02-26
+- Laceration - injury — 2018-11-10 to 2018-11-29
+- Laceration of thigh — 2018-11-10 to 2018-11-29
+- Streptococcal sore throat — 2020-01-23 to 2020-02-02
+- Gingivitis — 2021-05-20 to 2021-05-27
+- Primary dental caries — 2022-06-09 to 2022-06-09
+
+CURRENT MEDICATIONS | Alysia Barton | ID 37a7effc
+- Loratadine 5 MG Chewable Tablet — since 2011-01-20
+- Methylphenidate Hydrochloride 20 MG Oral Tablet — since 2017-07-07, for Child attention deficit disorder
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector — since 2011-01-20
+- carbamazepine 20 MG/ML Oral Suspension [Tegretol] — since 2024-06-06, for Seizure disorder
+
+PAST MEDICATIONS | Alysia Barton | ID 37a7effc
+- Acetaminophen 325 MG Oral Tablet — 2018-02-15 to 2018-02-26
+- Diazepam 5 MG Oral Tablet — 2023-06-01 to 2023-09-09
+- Ibuprofen 100 MG Oral Tablet — 2018-11-10 to 2018-11-29
+- Penicillin V Potassium 250 MG Oral Tablet — 2020-01-23 to 2020-02-02
+- clonazePAM 0.25 MG Oral Tablet — 2021-08-13 to 2022-08-27
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2020-01-16 to 2022-06-09
+
+ALLERGIES | Alysia Barton | ID 37a7effc
+- Mold (organism) (environment allergy) — reaction: Sneezing (MILD)
+- House dust mite (organism) (environment allergy)
+- Animal dander (environment allergy) — reaction: Rhinoconjunctivitis (MODERATE)
+- Grass pollen (environment allergy)
+- Cow's milk (food allergy)
+- Tree nut (food allergy) — reaction: Anaphylaxis (SEVERE)
+- Peanut (food allergy) — reaction: Allergic angioedema (MODERATE)
+
+LATEST VITALS & LABS | Alysia Barton | ID 37a7effc
+- BMI: 27.2 kg/m2 (2024-06-06)
+- Heart rate: 94 /min (2024-06-06)
+- Height: 174.2 cm (2024-06-06)
+- Hemoglobin: 12.2 g/dL (2021-05-20)
+- Resp rate: 13 /min (2024-06-06)
+- Weight: 82.4 kg (2024-06-06)
+- Blood pressure: 99/78 mmHg (2024-06-06)
+
+VISIT HISTORY (vitals & labs by date) | Alysia Barton | ID 37a7effc
+[Alysia Barton | ID 37a7effc] 2024-06-06: BP 99/78 mmHg; Heart rate 94 /min; Height 174.2 cm; Weight 82.4 kg; BMI 27.2 kg/m2; Resp rate 13 /min
+[Alysia Barton | ID 37a7effc] 2023-06-01: BP 105/73 mmHg; Resp rate 16 /min; Heart rate 71 /min; Weight 74.2 kg; BMI 25.3 kg/m2; Height 171.4 cm
+[Alysia Barton | ID 37a7effc] 2022-05-26: BP 95/78 mmHg; Height 166.4 cm; Weight 65.6 kg; BMI 23.7 kg/m2; Heart rate 95 /min; Resp rate 15 /min
+[Alysia Barton | ID 37a7effc] 2021-05-20: BP 93/77 mmHg; Hemoglobin 12.2 g/dL; Resp rate 14 /min; Heart rate 90 /min; BMI 22.2 kg/m2; Weight 56.5 kg; Height 159.4 cm
+[Alysia Barton | ID 37a7effc] 2020-05-14: BP 102/74 mmHg; Height 152.5 cm; Weight 49.7 kg; BMI 21.3 kg/m2; Heart rate 78 /min; Resp rate 14 /min
+[Alysia Barton | ID 37a7effc] 2020-01-09: BP 102/74 mmHg; Heart rate 88 /min; Resp rate 15 /min; Weight 48 kg; Height 150.5 cm; BMI 21.2 kg/m2
+[Alysia Barton | ID 37a7effc] 2019-05-09: BP 102/75 mmHg; Heart rate 99 /min; Resp rate 14 /min; Weight 49.2 kg; Height 146.5 cm; BMI 22.9 kg/m2
+[Alysia Barton | ID 37a7effc] 2018-05-03: BP 106/71 mmHg; Heart rate 92 /min; Height 140 cm; Weight 42.8 kg; BMI 21.9 kg/m2; Resp rate 13 /min
+[Alysia Barton | ID 37a7effc] 2018-02-08: BP 98/76 mmHg; Resp rate 15 /min; Heart rate 70 /min; Weight 40.7 kg; Height 138.9 cm; BMI 21.1 kg/m2
+[Alysia Barton | ID 37a7effc] 2018-02-01: BP 104/78 mmHg; Heart rate 60 /min; Resp rate 15 /min; Weight 39.7 kg; Height 138.4 cm; BMI 20.8 kg/m2
+[Alysia Barton | ID 37a7effc] 2017-04-27: BP 101/77 mmHg; Resp rate 14 /min; Heart rate 98 /min; Height 133.2 cm; BMI 18.1 kg/m2; Weight 32.2 kg
+[Alysia Barton | ID 37a7effc] 2016-04-21: BP 103/78 mmHg; Height 125.6 cm; Weight 26.4 kg; BMI 16.7 kg/m2; Heart rate 78 /min; Resp rate 13 /min; Hemoglobin 13.1 g/dL

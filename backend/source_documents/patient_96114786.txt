@@ -1,0 +1,47 @@
+PATIENT SUMMARY | Ms. Lia Pouros | ID 96114786
+DOB: 1999-05-07 | Age: 27 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Ms. Lia Pouros | ID 96114786
+- None recorded.
+
+RESOLVED CONDITIONS | Ms. Lia Pouros | ID 96114786
+- Severe anxiety (panic) — 2014-06-13 to 2017-06-30
+- Concussion injury of brain — 2016-08-06 to 2016-10-01
+- Concussion with no loss of consciousness — 2016-08-06 to 2016-10-01
+- Normal pregnancy — 2022-02-11 to 2025-05-09
+- Contact dermatitis — 2022-12-09 to 2024-02-22
+- Acute viral pharyngitis — 2025-04-17 to 2025-04-28
+- Injury of neck — 2025-07-18 to 2025-09-10
+- Whiplash injury to neck — 2025-07-18 to 2025-09-10
+
+CURRENT MEDICATIONS | Ms. Lia Pouros | ID 96114786
+- Hydrocortisone 10 MG/ML Topical Cream — since 2022-12-15, for Contact dermatitis
+- Loratadine 10 MG Oral Tablet — since 2022-12-29
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector — since 2022-12-29
+- {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] — since 2026-06-22
+
+PAST MEDICATIONS | Ms. Lia Pouros | ID 96114786
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection — 2025-06-27 to 2026-06-22
+- Acetaminophen 325 MG Oral Tablet — 2025-07-18 to 2025-09-10
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2024-07-26 to 2024-07-26
+- {21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day] — 2020-03-30 to 2024-03-09
+- {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] — 2017-04-15 to 2018-04-10
+- {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique] — 2019-04-05 to 2020-03-30
+
+ALLERGIES | Ms. Lia Pouros | ID 96114786
+- Mold (organism) (environment allergy) — reaction: Cutaneous hypersensitivity (MILD)
+
+LATEST VITALS & LABS | Ms. Lia Pouros | ID 96114786
+- BMI: 21.9 kg/m2 (2024-07-12)
+- Heart rate: 85 /min (2024-07-12)
+- Height: 170.6 cm (2024-07-12)
+- Hemoglobin: 12.8 g/dL (2021-07-09)
+- Resp rate: 14 /min (2024-07-12)
+- Weight: 63.7 kg (2024-07-12)
+- Blood pressure: 112/93 mmHg (2024-07-12)
+
+VISIT HISTORY (vitals & labs by date) | Ms. Lia Pouros | ID 96114786
+[Ms. Lia Pouros | ID 96114786] 2024-07-12: BP 112/93 mmHg; Heart rate 85 /min; Height 170.6 cm; Weight 63.7 kg; BMI 21.9 kg/m2; Resp rate 14 /min
+[Ms. Lia Pouros | ID 96114786] 2021-07-09: BP 112/88 mmHg; Heart rate 86 /min; Hemoglobin 12.8 g/dL; Resp rate 13 /min; Height 170.6 cm; BMI 20.6 kg/m2; Weight 59.8 kg
+[Ms. Lia Pouros | ID 96114786] 2018-07-06: BP 118/91 mmHg; Resp rate 14 /min; Heart rate 64 /min; Weight 54.7 kg; BMI 18.8 kg/m2; Height 170.5 cm
+[Ms. Lia Pouros | ID 96114786] 2017-06-30: BP 126/89 mmHg; Height 170.4 cm; Weight 52.9 kg; BMI 18.2 kg/m2; Heart rate 72 /min; Resp rate 15 /min

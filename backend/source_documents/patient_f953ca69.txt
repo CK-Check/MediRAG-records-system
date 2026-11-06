@@ -1,0 +1,76 @@
+PATIENT SUMMARY | Mrs. Amalia Lomeli | ID f953ca69
+DOB: 1968-03-24 | Age: 58 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Mrs. Amalia Lomeli | ID f953ca69
+- Past pregnancy history of miscarriage — since 1996-03-30
+- Body mass index 30+ - obesity — since 2008-03-30
+- Essential hypertension — since 2014-04-13
+- Hyperlipidemia — since 2019-05-12
+- Limited social contact — since 2020-01-05
+- Refugee (person) — since 2022-05-29
+
+RESOLVED CONDITIONS | Mrs. Amalia Lomeli | ID f953ca69
+- Gingivitis — 2017-04-30 to 2026-07-05
+- Fractured dental filling — 2017-05-14 to 2017-05-14
+- Fracture of mandible — 2017-06-20 to 2017-08-14
+- Loose dental filling — 2018-05-20 to 2018-05-20
+- Acute bronchitis — 2019-12-25 to 2023-12-04
+- Gingival disease — 2022-06-12 to 2026-07-05
+
+CURRENT MEDICATIONS | Mrs. Amalia Lomeli | ID f953ca69
+- Hydrochlorothiazide 25 MG Oral Tablet — since 2026-06-21, for Essential hypertension
+- Simvastatin 10 MG Oral Tablet — since 2026-06-22, for Hyperlipidemia
+- amLODIPine 2.5 MG Oral Tablet — since 2026-06-21, for Essential hypertension
+- ferrous sulfate 325 MG Oral Tablet — since 1996-07-08
+
+PAST MEDICATIONS | Mrs. Amalia Lomeli | ID f953ca69
+- 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System — 2016-01-26 to 2017-01-20
+- 21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing] — 2018-01-15 to 2019-01-10
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution — 2019-12-25 to 2020-01-02
+- Acetaminophen 325 MG Oral Tablet — 2023-11-15 to 2023-12-04
+- Ibuprofen 200 MG Oral Tablet — 2017-06-20 to 2017-08-14
+- Meperidine Hydrochloride 50 MG Oral Tablet — 2017-06-20 to 2017-07-28
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2017-05-14 to 2026-07-05
+- {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] — 2017-01-20 to 2018-01-15
+
+ALLERGIES | Mrs. Amalia Lomeli | ID f953ca69
+- No known allergies.
+
+LATEST VITALS & LABS | Mrs. Amalia Lomeli | ID f953ca69
+- BMI: 30.2 kg/m2 (2026-06-21)
+- BUN: 14.7 mg/dL (2026-06-22)
+- Creatinine: 3.5 mg/dL (2026-06-22)
+- Glucose: 98.3 mg/dL (2026-06-22)
+- HDL: 77.7 mg/dL (2026-06-22)
+- Heart rate: 69 /min (2026-06-21)
+- Height: 162.7 cm (2026-06-21)
+- Hemoglobin: 13.9 g/dL (2024-06-09)
+- LDL: 128.2 mg/dL (2026-06-22)
+- Potassium: 4.6 mmol/L (2026-06-22)
+- Resp rate: 16 /min (2026-06-21)
+- Sodium: 136.4 mmol/L (2026-06-22)
+- Total cholesterol: 191.8 mg/dL (2026-06-22)
+- Triglycerides: 180.3 mg/dL (2026-06-22)
+- Weight: 79.8 kg (2026-06-21)
+- Blood pressure: 122/104 mmHg (2026-06-21)
+
+VISIT HISTORY (vitals & labs by date) | Mrs. Amalia Lomeli | ID f953ca69
+[Mrs. Amalia Lomeli | ID f953ca69] 2026-06-22: LDL 128.2 mg/dL; Glucose 98.3 mg/dL; BUN 14.7 mg/dL; Creatinine 3.5 mg/dL; Sodium 136.4 mmol/L; Potassium 4.6 mmol/L; Total cholesterol 191.8 mg/dL; Triglycerides 180.3 mg/dL; HDL 77.7 mg/dL
+[Mrs. Amalia Lomeli | ID f953ca69] 2026-06-21: BP 122/104 mmHg; HDL 62.7 mg/dL; LDL 73.9 mg/dL; Triglycerides 142.1 mg/dL; Resp rate 16 /min; Heart rate 69 /min; Total cholesterol 165 mg/dL; BMI 30.2 kg/m2; Weight 79.8 kg; Height 162.7 cm
+[Mrs. Amalia Lomeli | ID f953ca69] 2025-06-22: LDL 123.2 mg/dL; Triglycerides 152.8 mg/dL; Total cholesterol 154.7 mg/dL; Potassium 4.1 mmol/L; HDL 61.9 mg/dL; Creatinine 3.1 mg/dL; BUN 10.6 mg/dL; Glucose 89.5 mg/dL; Sodium 139.1 mmol/L
+[Mrs. Amalia Lomeli | ID f953ca69] 2025-06-15: BP 127/95 mmHg; Height 162.7 cm; Weight 79.8 kg; BMI 30.2 kg/m2; Heart rate 62 /min; Resp rate 15 /min
+[Mrs. Amalia Lomeli | ID f953ca69] 2024-06-10: HDL 57.3 mg/dL; LDL 129.3 mg/dL; Triglycerides 148.3 mg/dL; Total cholesterol 200.3 mg/dL; Creatinine 2.6 mg/dL; Sodium 143 mmol/L; BUN 14.1 mg/dL; Glucose 98.7 mg/dL; Potassium 5.2 mmol/L
+[Mrs. Amalia Lomeli | ID f953ca69] 2024-06-09: BP 118/96 mmHg; Hemoglobin 13.9 g/dL; Resp rate 14 /min; Heart rate 76 /min; Height 162.7 cm; BMI 30.2 kg/m2; Weight 79.8 kg
+[Mrs. Amalia Lomeli | ID f953ca69] 2023-11-26: BP 130/100 mmHg; Height 162.7 cm; Weight 79.8 kg; BMI 30.2 kg/m2; Heart rate 91 /min; Resp rate 12 /min
+[Mrs. Amalia Lomeli | ID f953ca69] 2023-06-11: LDL 102.3 mg/dL; HDL 40.8 mg/dL; Total cholesterol 190 mg/dL; Potassium 3.8 mmol/L; Triglycerides 200 mg/dL; Creatinine 2.9 mg/dL; BUN 19.9 mg/dL; Glucose 83.4 mg/dL; Sodium 139.5 mmol/L
+[Mrs. Amalia Lomeli | ID f953ca69] 2023-06-04: BP 119/97 mmHg; HDL 58 mg/dL; LDL 75.2 mg/dL; Triglycerides 111.5 mg/dL; Total cholesterol 155.4 mg/dL; Resp rate 12 /min; Heart rate 75 /min; BMI 30.2 kg/m2; Weight 79.8 kg; Height 162.7 cm
+[Mrs. Amalia Lomeli | ID f953ca69] 2022-06-01: Triglycerides 124 mg/dL; HDL 41.1 mg/dL; LDL 114.3 mg/dL; Total cholesterol 172.4 mg/dL; BUN 8.8 mg/dL; Sodium 141.1 mmol/L; Creatinine 2.7 mg/dL; Potassium 4.6 mmol/L; Glucose 96.9 mg/dL
+[Mrs. Amalia Lomeli | ID f953ca69] 2022-05-29: BP 135/101 mmHg; Height 162.7 cm; Weight 79.8 kg; BMI 30.2 kg/m2; Heart rate 96 /min; Resp rate 13 /min
+[Mrs. Amalia Lomeli | ID f953ca69] 2021-06-01: LDL 100.9 mg/dL; Triglycerides 123 mg/dL; Total cholesterol 151.2 mg/dL; Potassium 4.1 mmol/L; HDL 32.1 mg/dL; Creatinine 3.5 mg/dL; BUN 13.5 mg/dL; Glucose 85.9 mg/dL; Sodium 143.7 mmol/L
+[Mrs. Amalia Lomeli | ID f953ca69] 2021-05-23: BP 132/100 mmHg; Heart rate 81 /min; Resp rate 13 /min; Weight 79.8 kg; Height 162.7 cm; BMI 30.2 kg/m2
+[Mrs. Amalia Lomeli | ID f953ca69] 2020-06-01: HDL 50.8 mg/dL; LDL 121.3 mg/dL; Triglycerides 160.6 mg/dL; Total cholesterol 151.8 mg/dL; Sodium 138.7 mmol/L; Creatinine 3.3 mg/dL; BUN 18.3 mg/dL; Glucose 99.3 mg/dL; Potassium 3.8 mmol/L
+[Mrs. Amalia Lomeli | ID f953ca69] 2020-05-17: BP 118/100 mmHg; Total cholesterol 152.1 mg/dL; HDL 57.7 mg/dL; LDL 66.6 mg/dL; Triglycerides 139.1 mg/dL; Resp rate 15 /min; BMI 30.2 kg/m2; Heart rate 67 /min; Weight 79.8 kg; Height 162.7 cm
+[Mrs. Amalia Lomeli | ID f953ca69] 2020-01-05: BP 122/100 mmHg; Resp rate 14 /min; Heart rate 70 /min; Weight 79.8 kg; BMI 30.2 kg/m2; Height 162.7 cm
+[Mrs. Amalia Lomeli | ID f953ca69] 2019-05-12: BP 127/95 mmHg; Weight 79.8 kg; Hemoglobin 12.1 g/dL; Resp rate 14 /min; Heart rate 80 /min; BMI 30.2 kg/m2; Height 162.7 cm; BUN 16.5 mg/dL; Sodium 143.2 mmol/L; Creatinine 3.5 mg/dL; Glucose 94.3 mg/dL; HDL 63.5 mg/dL; LDL 106.4 mg/dL; Triglycerides 314.6 mg/dL; Total cholesterol 296.5 mg/dL; Potassium 4.6 mmol/L
+[Mrs. Amalia Lomeli | ID f953ca69] 2018-05-06: BP 119/95 mmHg; Resp rate 13 /min; Heart rate 63 /min; Weight 79.8 kg; BMI 30.2 kg/m2; Height 162.7 cm
+[Mrs. Amalia Lomeli | ID f953ca69] 2017-04-30: BP 123/96 mmHg; Height 162.7 cm; Weight 79.8 kg; BMI 30.1 kg/m2; Heart rate 65 /min; Resp rate 16 /min; Total cholesterol 119 mg/dL; Triglycerides 149.8 mg/dL; LDL 35.3 mg/dL; HDL 53.7 mg/dL

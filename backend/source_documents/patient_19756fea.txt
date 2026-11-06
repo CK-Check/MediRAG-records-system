@@ -1,0 +1,98 @@
+PATIENT SUMMARY | Mr. Thanh Halvorson | ID 19756fea
+DOB: 1947-01-13 | Age: 79 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Mr. Thanh Halvorson | ID 19756fea
+- History of appendectomy — since 1955-07-13
+- Serving in military service — since 1965-03-08
+- Body mass index 30+ - obesity — since 1981-03-30
+- Smokes tobacco daily — since 1989-01-23
+- Dependent drug abuse — since 1990-07-25
+- Prediabetes — since 1999-01-25
+- Anemia — since 2001-02-05
+- Carcinoma in situ of prostate — since 2007-03-12
+- Neoplasm of prostate — since 2007-03-12
+- Ischemic heart disease — since 2019-06-17
+- Abnormal findings diagnostic imaging heart+coronary circulat — since 2019-06-25
+- Fracture of bone — since 2020-04-22
+- Aortic valve stenosis — since 2020-12-25
+- History of aortic valve replacement — since 2021-01-30
+- Hyperlipidemia — since 2022-04-11
+- Limited social contact — since 2022-04-11
+- Fracture of ankle — since 2026-07-07
+
+RESOLVED CONDITIONS | Mr. Thanh Halvorson | ID 19756fea
+- Gingivitis — 2017-06-05 to 2024-07-29
+- Primary dental caries — 2017-06-19 to 2017-06-19
+- Overdose — 2019-09-17 to 2025-12-10
+- Fracture of rib — 2020-04-22 to 2020-07-20
+- Loose dental filling — 2021-01-18 to 2021-01-18
+- Severe anxiety (panic) — 2021-06-28 to 2022-04-11
+- Gingival disease — 2021-07-12 to 2021-07-12
+- Polyp of colon — 2022-01-29 to 2023-05-27
+- Viral sinusitis — 2022-02-19 to 2022-06-10
+- Dental filling lost — 2022-07-18 to 2022-07-18
+- Sprain of ankle — 2023-07-27 to 2023-08-13
+- Sprain — 2023-07-27 to 2023-08-13
+
+CURRENT MEDICATIONS | Mr. Thanh Halvorson | ID 19756fea
+- 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet — since 2019-06-24
+- 24 HR nicotine 0.292 MG/HR Transdermal System — since 1987-01-19
+- Acetaminophen 325 MG Oral Tablet — since 2026-07-07
+- Clopidogrel 75 MG Oral Tablet — since 2019-06-24
+- Hydrocortisone 10 MG/ML Topical Cream — since 1978-09-14, for Contact dermatitis
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray — since 2019-06-24
+- Simvastatin 10 MG Oral Tablet — since 2026-05-15, for Hyperlipidemia
+- Simvastatin 20 MG Oral Tablet — since 2019-06-24
+- Vitamin B12 5 MG/ML Injectable Solution — since 2001-02-12
+- aspirin 81 MG Oral Capsule [Vazalore] — since 2026-07-27
+- diphenhydrAMINE Hydrochloride 25 MG Oral Tablet — since 1978-09-29
+
+PAST MEDICATIONS | Mr. Thanh Halvorson | ID 19756fea
+- Ibuprofen 200 MG Oral Tablet — 2023-07-27 to 2023-08-13
+- cefazolin 2000 MG Injection — 2021-01-30 to 2021-01-30
+- heparin sodium  porcine 1000 UNT/ML Injectable Solution — 2021-01-30 to 2021-01-30
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2017-06-19 to 2022-05-02
+
+ALLERGIES | Mr. Thanh Halvorson | ID 19756fea
+- Aspirin (medication allergy)
+
+LATEST VITALS & LABS | Mr. Thanh Halvorson | ID 19756fea
+- BMI: 28.3 kg/m2 (2026-07-27)
+- BUN: 10.4 mg/dL (2026-07-27)
+- Creatinine: 0.8 mg/dL (2026-07-27)
+- Glucose: 65.9 mg/dL (2026-07-27)
+- HDL: 43.2 mg/dL (2026-05-15)
+- HbA1c: 6.2 % (2026-07-27)
+- Heart rate: 78 /min (2026-07-27)
+- Height: 177.9 cm (2026-07-27)
+- Hemoglobin: 14.9 g/dL (2024-07-15)
+- LDL: 104.5 mg/dL (2026-05-15)
+- Potassium: 3.8 mmol/L (2026-07-27)
+- Resp rate: 13 /min (2026-07-27)
+- Sodium: 141.6 mmol/L (2026-07-27)
+- Total cholesterol: 154.7 mg/dL (2026-05-15)
+- Triglycerides: 104.5 mg/dL (2026-05-15)
+- Weight: 89.7 kg (2026-07-27)
+- Blood pressure: 105/70 mmHg (2026-07-27)
+
+VISIT HISTORY (vitals & labs by date) | Mr. Thanh Halvorson | ID 19756fea
+[Mr. Thanh Halvorson | ID 19756fea] 2026-07-27: BP 105/70 mmHg; Creatinine 0.8 mg/dL; BUN 10.4 mg/dL; Glucose 65.9 mg/dL; Resp rate 13 /min; Heart rate 78 /min; BMI 28.3 kg/m2; Weight 89.7 kg; Height 177.9 cm; HbA1c 6.2 %; Sodium 141.6 mmol/L; Potassium 3.8 mmol/L
+[Mr. Thanh Halvorson | ID 19756fea] 2026-05-15: HDL 43.2 mg/dL; Triglycerides 104.5 mg/dL; Total cholesterol 154.7 mg/dL; Potassium 5 mmol/L; LDL 104.5 mg/dL; Creatinine 3.1 mg/dL; BUN 18.9 mg/dL; Glucose 72.1 mg/dL; Sodium 137.2 mmol/L
+[Mr. Thanh Halvorson | ID 19756fea] 2025-07-21: BP 108/65 mmHg; Resp rate 12 /min; Sodium 138.8 mmol/L; Creatinine 0.9 mg/dL; BUN 16.8 mg/dL; Potassium 3.9 mmol/L; Heart rate 76 /min; Glucose 88.7 mg/dL; BMI 27.6 kg/m2; Weight 87.5 kg; Height 177.9 cm; HbA1c 6 %
+[Mr. Thanh Halvorson | ID 19756fea] 2025-05-15: HDL 73.8 mg/dL; LDL 97 mg/dL; Triglycerides 149.6 mg/dL; Total cholesterol 170.9 mg/dL; Sodium 142.7 mmol/L; Creatinine 3.2 mg/dL; BUN 14.6 mg/dL; Glucose 75.4 mg/dL; Potassium 4.8 mmol/L
+[Mr. Thanh Halvorson | ID 19756fea] 2024-07-15: BP 101/65 mmHg; Creatinine 0.8 mg/dL; HDL 30.1 mg/dL; LDL 93.7 mg/dL; Triglycerides 114.2 mg/dL; Total cholesterol 146.7 mg/dL; Potassium 3.7 mmol/L; Hemoglobin 14.9 g/dL; Sodium 144 mmol/L; BUN 11 mg/dL; Resp rate 15 /min; Heart rate 83 /min; BMI 30.1 kg/m2; Weight 95.2 kg; Height 177.9 cm; HbA1c 6.2 %; Glucose 76.1 mg/dL
+[Mr. Thanh Halvorson | ID 19756fea] 2024-05-15: HDL 54.8 mg/dL; LDL 122.4 mg/dL; Triglycerides 119.3 mg/dL; Potassium 4.8 mmol/L; Total cholesterol 202.9 mg/dL; Creatinine 3 mg/dL; BUN 16.1 mg/dL; Glucose 84 mg/dL; Sodium 139.3 mmol/L
+[Mr. Thanh Halvorson | ID 19756fea] 2023-07-10: BP 97/71 mmHg; Glucose 81.1 mg/dL; Potassium 3.9 mmol/L; Sodium 136.2 mmol/L; Creatinine 0.8 mg/dL; BUN 12.6 mg/dL; Resp rate 14 /min; Height 177.9 cm; BMI 29.8 kg/m2; Weight 94.4 kg; HbA1c 6.2 %; Heart rate 88 /min
+[Mr. Thanh Halvorson | ID 19756fea] 2023-05-16: HDL 57 mg/dL; LDL 108.9 mg/dL; Triglycerides 115.8 mg/dL; Total cholesterol 188.6 mg/dL; Potassium 4.9 mmol/L; Creatinine 2.6 mg/dL; BUN 11.8 mg/dL; Glucose 78.2 mg/dL; Sodium 137.2 mmol/L
+[Mr. Thanh Halvorson | ID 19756fea] 2022-07-04: BP 101/75 mmHg; Potassium 4 mmol/L; Sodium 141.1 mmol/L; BUN 11.6 mg/dL; Glucose 69.4 mg/dL; Resp rate 14 /min; Heart rate 95 /min; Creatinine 0.8 mg/dL; BMI 29.2 kg/m2; Weight 92.5 kg; Height 177.9 cm; HbA1c 6.2 %
+[Mr. Thanh Halvorson | ID 19756fea] 2022-04-25: BP 115/66 mmHg; Glucose 70.3 mg/dL; Potassium 4.6 mmol/L; Sodium 141.8 mmol/L; Creatinine 0.9 mg/dL; BUN 7.7 mg/dL; Resp rate 13 /min; Heart rate 78 /min; BMI 29.1 kg/m2; Weight 92.2 kg; Height 177.9 cm; HbA1c 6.2 %
+[Mr. Thanh Halvorson | ID 19756fea] 2022-04-18: HbA1c 5.8 %
+[Mr. Thanh Halvorson | ID 19756fea] 2022-04-11: BP 98/71 mmHg; BMI 29.1 kg/m2; Heart rate 67 /min; Resp rate 14 /min; Potassium 4.3 mmol/L; BUN 15.2 mg/dL; Creatinine 0.8 mg/dL; Sodium 138.5 mmol/L; Glucose 97 mg/dL; Weight 92.1 kg; Total cholesterol 233.1 mg/dL; Potassium 4.3 mmol/L; Height 177.9 cm; Triglycerides 286.4 mg/dL; LDL 159.8 mg/dL; HDL 45.1 mg/dL; HbA1c 5.9 %; BUN 15.2 mg/dL; Creatinine 3.3 mg/dL; Sodium 138.5 mmol/L; Glucose 97 mg/dL
+[Mr. Thanh Halvorson | ID 19756fea] 2021-06-28: BP 98/74 mmHg; Creatinine 0.8 mg/dL; HDL 32.9 mg/dL; LDL 87.4 mg/dL; Triglycerides 140.1 mg/dL; Total cholesterol 148.3 mg/dL; Potassium 4.8 mmol/L; Sodium 142.7 mmol/L; Glucose 93 mg/dL; BUN 18.2 mg/dL; Heart rate 82 /min; BMI 28.7 kg/m2; Weight 90.7 kg; Height 177.9 cm; HbA1c 6.3 %; Resp rate 13 /min
+[Mr. Thanh Halvorson | ID 19756fea] 2021-01-31: Hemoglobin 11.5 g/dL; Creatinine 2.6 mg/dL; Creatinine 3 mg/dL; Hemoglobin 13.6 g/dL
+[Mr. Thanh Halvorson | ID 19756fea] 2021-01-30: Hemoglobin 13.9 g/dL; Creatinine 2.2 mg/dL
+[Mr. Thanh Halvorson | ID 19756fea] 2021-01-08: HDL 26.7 mg/dL; HbA1c 6.1 %; LDL 183.9 mg/dL; Hemoglobin 13.8 g/dL; Total cholesterol 281.1 mg/dL; Creatinine 2.5 mg/dL; Triglycerides 118.5 mg/dL
+[Mr. Thanh Halvorson | ID 19756fea] 2020-06-22: BP 106/65 mmHg; Potassium 3.9 mmol/L; Sodium 142.5 mmol/L; Creatinine 0.8 mg/dL; BUN 13 mg/dL; Glucose 99.4 mg/dL; Resp rate 15 /min; BMI 28.1 kg/m2; Weight 88.8 kg; Height 177.9 cm; HbA1c 6.1 %; Heart rate 63 /min
+[Mr. Thanh Halvorson | ID 19756fea] 2019-06-17: BP 115/80 mmHg; Hemoglobin 15.9 g/dL; Potassium 4.2 mmol/L; Sodium 142.6 mmol/L; BUN 14.7 mg/dL; Glucose 98.3 mg/dL; Resp rate 14 /min; Creatinine 0.9 mg/dL; BMI 30 kg/m2; Weight 95.1 kg; Height 177.9 cm; HbA1c 6.1 %; Heart rate 81 /min
+[Mr. Thanh Halvorson | ID 19756fea] 2018-06-11: BP 114/76 mmHg; BUN 14.5 mg/dL; LDL 89.5 mg/dL; Triglycerides 112.6 mg/dL; Total cholesterol 141 mg/dL; Potassium 4.5 mmol/L; Sodium 138 mmol/L; Creatinine 1 mg/dL; Glucose 75.9 mg/dL; HDL 28.9 mg/dL; Heart rate 97 /min; BMI 30.3 kg/m2; Weight 95.9 kg; Height 177.9 cm; HbA1c 6.2 %; Resp rate 15 /min
+[Mr. Thanh Halvorson | ID 19756fea] 2017-06-05: BP 111/79 mmHg; HbA1c 6.3 %; Potassium 4 mmol/L; Sodium 141.9 mmol/L; BUN 11.6 mg/dL; Glucose 80.4 mg/dL; Resp rate 14 /min; Creatinine 0.9 mg/dL; BMI 30.3 kg/m2; Weight 95.9 kg; Height 177.9 cm; Heart rate 67 /min

@@ -1,0 +1,270 @@
+PATIENT SUMMARY | Ms. Graciela Eichmann | ID 6e7083a9
+DOB: 1928-06-15 | Age: 98 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Ms. Graciela Eichmann | ID 6e7083a9
+- Body mass index 30+ - obesity — since 1959-08-28
+- Past pregnancy history of miscarriage — since 1961-10-26
+- Essential hypertension — since 1980-06-27
+- Aortic valve regurgitation — since 1984-06-01
+- History of aortic valve replacement — since 1990-01-27
+- Disorder of kidney due to diabetes mellitus — since 1990-08-24
+- Microalbuminuria due to type 2 diabetes mellitus — since 2008-12-05
+- Victim of intimate partner abuse — since 2010-11-12
+- Alzheimer's disease — since 2012-10-05
+- Chronic low back pain — since 2014-02-02
+- Chronic pain — since 2014-02-02
+- Proteinuria due to type 2 diabetes mellitus — since 2015-09-11
+- Loss of teeth — since 2016-09-09
+- History of renal transplant — since 2025-12-26
+
+RESOLVED CONDITIONS | Ms. Graciela Eichmann | ID 6e7083a9
+- Chronic kidney disease stage 1 — 1990-08-24 to 2025-12-26
+- Chronic kidney disease stage 2 — 2008-12-05 to 2025-12-26
+- Chronic kidney disease stage 3 — 2015-09-11 to 2025-12-26
+- Gingivitis — 2016-07-01 to 2026-04-10
+- Infection of tooth — 2016-09-02 to 2023-11-24
+- Torus palatinus — 2016-09-09 to 2016-11-04
+- Viral sinusitis — 2016-09-16 to 2017-08-24
+- Unhealthy alcohol drinking behavior — 2016-10-07 to 2019-12-27
+- Limited social contact — 2017-03-10 to 2025-10-31
+- Gingival disease — 2017-08-04 to 2025-07-11
+- Primary dental caries — 2018-11-16 to 2025-01-24
+- Fractured dental filling — 2020-12-04 to 2023-10-20
+- Chronic kidney disease stage 4 — 2022-11-11 to 2025-12-26
+- Awaiting transplantation of kidney — 2022-11-25 to 2025-12-26
+- End-stage renal disease — 2023-01-06 to 2025-12-26
+- Severe anxiety (panic) — 2023-05-12 to 2023-06-16
+- Alveolitis of jaw — 2023-11-29 to 2023-11-29
+- Fracture of bone — 2023-12-03 to 2024-01-26
+- Fracture of forearm — 2023-12-03 to 2024-01-26
+- Dental filling lost — 2025-10-10 to 2025-10-10
+
+CURRENT MEDICATIONS | Ms. Graciela Eichmann | ID 6e7083a9
+- 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus] — since 2026-03-27, for History of renal transplant
+- Galantamine 4 MG Oral Tablet — since 2012-10-05, for Alzheimer's disease
+- Hydrochlorothiazide 25 MG Oral Tablet — since 2026-03-27, for Essential hypertension
+- Ibuprofen 400 MG Oral Tablet [Ibu] — since 2026-03-27
+- ferrous sulfate 325 MG Oral Tablet — since 1961-08-11
+- lisinopril 10 MG Oral Tablet — since 2026-03-27, for Essential hypertension
+- warfarin sodium 5 MG Oral Tablet — since 2026-03-27
+
+PAST MEDICATIONS | Ms. Graciela Eichmann | ID 6e7083a9
+- 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] — 2022-10-10 to 2026-02-06
+- 1 ML tacrolimus 5 MG/ML Injection [Prograf] — 2025-12-26 to 2026-03-13
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet — 2016-09-16 to 2017-08-24
+- Naproxen sodium 220 MG Oral Tablet — 2023-12-03 to 2024-01-26
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2016-09-02 to 2026-01-23
+
+ALLERGIES | Ms. Graciela Eichmann | ID 6e7083a9
+- No known allergies.
+
+LATEST VITALS & LABS | Ms. Graciela Eichmann | ID 6e7083a9
+- BMI: 28 kg/m2 (2026-03-27)
+- BUN: 8 mg/dL (2026-02-06)
+- Creatinine: 0.7 mg/dL (2026-03-13)
+- Glucose: 70.6 mg/dL (2026-03-13)
+- HDL: 48.7 mg/dL (2024-03-15)
+- Heart rate: 87 /min (2026-03-27)
+- Height: 174.6 cm (2026-03-27)
+- Hemoglobin: 14.1 g/dL (2026-03-13)
+- LDL: 73 mg/dL (2024-03-15)
+- Potassium: 4.4 mmol/L (2026-03-13)
+- Resp rate: 14 /min (2026-03-27)
+- Sodium: 141.3 mmol/L (2026-03-13)
+- Total cholesterol: 144.5 mg/dL (2024-03-15)
+- Triglycerides: 114 mg/dL (2024-03-15)
+- Weight: 85.3 kg (2026-03-27)
+- Blood pressure: 135/75 mmHg (2026-03-27)
+
+VISIT HISTORY (vitals & labs by date) | Ms. Graciela Eichmann | ID 6e7083a9
+[Ms. Graciela Eichmann | ID 6e7083a9] 2026-03-27: BP 135/75 mmHg; Heart rate 87 /min; Weight 85.3 kg; Height 174.6 cm; BMI 28 kg/m2; Resp rate 14 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2026-03-13: Potassium 4.4 mmol/L; Glucose 70.6 mg/dL; Creatinine 0.7 mg/dL; Sodium 141.3 mmol/L; Hemoglobin 14.1 g/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2026-03-06: Hemoglobin 16.7 g/dL; Potassium 4.7 mmol/L; Creatinine 0.4 mg/dL; Glucose 88.2 mg/dL; Sodium 138.7 mmol/L
+[Ms. Graciela Eichmann | ID 6e7083a9] 2026-02-27: Glucose 71.5 mg/dL; Creatinine 0.4 mg/dL; Sodium 143.8 mmol/L; Potassium 4 mmol/L; Hemoglobin 15.3 g/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2026-02-20: Hemoglobin 12.1 g/dL; Potassium 4.6 mmol/L; Sodium 136.8 mmol/L; Glucose 92.9 mg/dL; Creatinine 0.4 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2026-02-13: Glucose 67.6 mg/dL; Creatinine 0.6 mg/dL; Sodium 137.5 mmol/L; Potassium 3.9 mmol/L; Hemoglobin 15.6 g/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2026-02-06: Glucose 67.6 mg/dL; BUN 8 mg/dL; Creatinine 3.1 mg/dL; Sodium 137.5 mmol/L; Potassium 3.9 mmol/L
+[Ms. Graciela Eichmann | ID 6e7083a9] 2026-01-09: BP 149/69 mmHg; Hemoglobin 16.2 g/dL; Heart rate 96 /min; Resp rate 15 /min; BMI 28 kg/m2; Weight 85.3 kg; Height 174.6 cm
+[Ms. Graciela Eichmann | ID 6e7083a9] 2025-12-28: Glucose 81.6 mg/dL; Creatinine 0.4 mg/dL; Sodium 143.6 mmol/L; Potassium 4.4 mmol/L; Hemoglobin 13.8 g/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2025-12-27: Glucose 81.6 mg/dL; Creatinine 0.4 mg/dL; Sodium 143.6 mmol/L; Potassium 4.4 mmol/L; Hemoglobin 17.5 g/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2025-12-26: Potassium 4.1 mmol/L; Sodium 142.7 mmol/L; Creatinine 2.6 mg/dL; Glucose 90.9 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2025-12-19: Glucose 90.9 mg/dL; BUN 13 mg/dL; Creatinine 3.5 mg/dL; Sodium 142.7 mmol/L; Potassium 4.1 mmol/L
+[Ms. Graciela Eichmann | ID 6e7083a9] 2025-11-21: BP 138/71 mmHg; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 92 /min; Resp rate 13 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2025-10-31: BP 135/73 mmHg; Heart rate 69 /min; Resp rate 14 /min; Weight 85.3 kg; BMI 28 kg/m2; Height 174.6 cm
+[Ms. Graciela Eichmann | ID 6e7083a9] 2025-10-17: Glucose 84.2 mg/dL; BUN 12.3 mg/dL; Creatinine 2.6 mg/dL; Sodium 141.2 mmol/L; Potassium 4.9 mmol/L
+[Ms. Graciela Eichmann | ID 6e7083a9] 2025-09-26: BP 142/72 mmHg; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 99 /min; Resp rate 15 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2025-08-29: BP 139/71 mmHg; Resp rate 12 /min; Heart rate 82 /min; BMI 28 kg/m2; Weight 85.3 kg; Height 174.6 cm
+[Ms. Graciela Eichmann | ID 6e7083a9] 2025-08-21: Glucose 95.8 mg/dL; BUN 12.5 mg/dL; Creatinine 2.9 mg/dL; Sodium 138 mmol/L; Potassium 4.6 mmol/L
+[Ms. Graciela Eichmann | ID 6e7083a9] 2025-08-01: BP 142/74 mmHg; Heart rate 97 /min; Resp rate 16 /min; Weight 85.3 kg; Height 174.6 cm; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2025-07-21: Potassium 5 mmol/L; Creatinine 3.3 mg/dL; Sodium 137.3 mmol/L; BUN 8.7 mg/dL; Glucose 73.3 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2025-06-27: BP 140/76 mmHg; Resp rate 15 /min; Heart rate 75 /min; Height 174.6 cm; BMI 28 kg/m2; Weight 85.3 kg
+[Ms. Graciela Eichmann | ID 6e7083a9] 2025-06-19: Glucose 85.5 mg/dL; BUN 12.5 mg/dL; Creatinine 3.1 mg/dL; Sodium 143.5 mmol/L; Potassium 4.6 mmol/L
+[Ms. Graciela Eichmann | ID 6e7083a9] 2025-05-30: BP 137/77 mmHg; Resp rate 13 /min; Heart rate 72 /min; BMI 28 kg/m2; Weight 85.3 kg; Height 174.6 cm
+[Ms. Graciela Eichmann | ID 6e7083a9] 2025-05-18: Glucose 92.7 mg/dL; BUN 19.9 mg/dL; Creatinine 3.2 mg/dL; Sodium 137 mmol/L; Potassium 4.9 mmol/L
+[Ms. Graciela Eichmann | ID 6e7083a9] 2025-05-02: BP 133/73 mmHg; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 99 /min; Resp rate 15 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2025-04-18: Sodium 139.7 mmol/L; Potassium 3.9 mmol/L; Creatinine 2.9 mg/dL; BUN 10.4 mg/dL; Glucose 92.4 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2025-04-04: BP 145/72 mmHg; Heart rate 91 /min; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Resp rate 13 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2025-03-21: BP 141/70 mmHg; Resp rate 12 /min; Heart rate 81 /min; Weight 85.3 kg; Height 174.6 cm; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2025-03-07: BP 137/71 mmHg; Resp rate 16 /min; Heart rate 94 /min; Weight 85.3 kg; Height 174.6 cm; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2025-02-14: BP 140/77 mmHg; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 65 /min; Resp rate 16 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2025-01-31: Potassium 4.4 mmol/L; Sodium 136.9 mmol/L; Glucose 74.4 mg/dL; BUN 11.8 mg/dL; Creatinine 2.7 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2025-01-10: BP 145/73 mmHg; Heart rate 72 /min; Resp rate 14 /min; Weight 85.3 kg; Height 174.6 cm; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2024-12-27: Glucose 86.7 mg/dL; BUN 13.1 mg/dL; Creatinine 2.6 mg/dL; Sodium 141 mmol/L; Potassium 4 mmol/L
+[Ms. Graciela Eichmann | ID 6e7083a9] 2024-12-06: BP 137/73 mmHg; Resp rate 15 /min; Heart rate 85 /min; BMI 28 kg/m2; Weight 85.3 kg; Height 174.6 cm
+[Ms. Graciela Eichmann | ID 6e7083a9] 2024-11-22: Glucose 95.7 mg/dL; BUN 18 mg/dL; Creatinine 2.9 mg/dL; Sodium 141.5 mmol/L; Potassium 4.5 mmol/L
+[Ms. Graciela Eichmann | ID 6e7083a9] 2024-11-01: BP 148/71 mmHg; Resp rate 15 /min; Heart rate 68 /min; Weight 85.3 kg; Height 174.6 cm; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2024-10-11: BP 135/72 mmHg; Heart rate 63 /min; Resp rate 15 /min; BMI 28 kg/m2; Weight 85.3 kg; Height 174.6 cm
+[Ms. Graciela Eichmann | ID 6e7083a9] 2024-09-27: Sodium 141.5 mmol/L; Glucose 72.6 mg/dL; BUN 19.9 mg/dL; Creatinine 2.5 mg/dL; Potassium 4.9 mmol/L
+[Ms. Graciela Eichmann | ID 6e7083a9] 2024-09-06: BP 134/71 mmHg; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 84 /min; Resp rate 13 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2024-08-26: Sodium 142 mmol/L; Potassium 4 mmol/L; Creatinine 2.5 mg/dL; Glucose 77 mg/dL; BUN 10.5 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2024-08-09: BP 138/75 mmHg; Resp rate 14 /min; Heart rate 70 /min; Height 174.6 cm; BMI 28 kg/m2; Weight 85.3 kg
+[Ms. Graciela Eichmann | ID 6e7083a9] 2024-07-26: Glucose 83.1 mg/dL; BUN 17.7 mg/dL; Creatinine 2.6 mg/dL; Sodium 139.6 mmol/L; Potassium 4 mmol/L
+[Ms. Graciela Eichmann | ID 6e7083a9] 2024-07-05: BP 134/69 mmHg; Heart rate 79 /min; Resp rate 16 /min; BMI 28 kg/m2; Weight 85.3 kg; Height 174.6 cm
+[Ms. Graciela Eichmann | ID 6e7083a9] 2024-06-24: Glucose 98.1 mg/dL; BUN 16.9 mg/dL; Creatinine 2.8 mg/dL; Sodium 136.4 mmol/L; Potassium 3.8 mmol/L
+[Ms. Graciela Eichmann | ID 6e7083a9] 2024-06-07: BP 137/71 mmHg; Resp rate 15 /min; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 87 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2024-05-24: Potassium 3.9 mmol/L; Sodium 142.5 mmol/L; BUN 18.9 mg/dL; Glucose 88.7 mg/dL; Creatinine 3 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2024-05-10: BP 133/69 mmHg; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 80 /min; Resp rate 13 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2024-04-19: BP 138/72 mmHg; Heart rate 69 /min; Resp rate 13 /min; Weight 85.3 kg; Height 174.6 cm; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2024-04-05: Potassium 3.9 mmol/L; Sodium 139.7 mmol/L; BUN 10.8 mg/dL; Creatinine 2.5 mg/dL; Glucose 92.7 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2024-03-15: BP 141/71 mmHg; Resp rate 14 /min; Triglycerides 114 mg/dL; Total cholesterol 144.5 mg/dL; Heart rate 91 /min; LDL 73 mg/dL; BMI 28 kg/m2; Weight 85.3 kg; Height 174.6 cm; HDL 48.7 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2024-02-09: Potassium 4.9 mmol/L; Sodium 136 mmol/L; Glucose 88.2 mg/dL; BUN 14.4 mg/dL; Creatinine 2.7 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2024-02-02: BP 140/71 mmHg; Resp rate 15 /min; Heart rate 92 /min; Height 174.6 cm; BMI 28 kg/m2; Weight 85.3 kg
+[Ms. Graciela Eichmann | ID 6e7083a9] 2024-01-12: BP 145/69 mmHg; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 76 /min; Resp rate 15 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2024-01-01: BUN 9.8 mg/dL; Potassium 5 mmol/L; Sodium 139.2 mmol/L; Glucose 91.4 mg/dL; Creatinine 3.3 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2023-12-15: BP 143/76 mmHg; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 66 /min; Resp rate 13 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2023-12-01: Glucose 88.2 mg/dL; BUN 19.5 mg/dL; Creatinine 3.2 mg/dL; Sodium 136.2 mmol/L; Potassium 4.4 mmol/L
+[Ms. Graciela Eichmann | ID 6e7083a9] 2023-11-10: BP 139/69 mmHg; Resp rate 13 /min; Heart rate 75 /min; BMI 28 kg/m2; Weight 85.3 kg; Height 174.6 cm
+[Ms. Graciela Eichmann | ID 6e7083a9] 2023-10-27: Glucose 94.6 mg/dL; BUN 19.5 mg/dL; Creatinine 3 mg/dL; Sodium 139.7 mmol/L; Potassium 4.4 mmol/L
+[Ms. Graciela Eichmann | ID 6e7083a9] 2023-10-06: BP 141/71 mmHg; Heart rate 93 /min; Resp rate 13 /min; Weight 85.3 kg; Height 174.6 cm; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2023-09-24: Potassium 5 mmol/L; Sodium 142.9 mmol/L; BUN 13.8 mg/dL; Creatinine 2.8 mg/dL; Glucose 77.3 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2023-09-08: BP 141/72 mmHg; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 95 /min; Resp rate 12 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2023-08-25: Glucose 82.6 mg/dL; BUN 14.2 mg/dL; Creatinine 2.5 mg/dL; Sodium 139.5 mmol/L; Potassium 5 mmol/L
+[Ms. Graciela Eichmann | ID 6e7083a9] 2023-08-04: BP 132/74 mmHg; Heart rate 86 /min; Resp rate 15 /min; BMI 28 kg/m2; Weight 85.3 kg; Height 174.6 cm
+[Ms. Graciela Eichmann | ID 6e7083a9] 2023-07-21: BP 133/76 mmHg; Resp rate 16 /min; Heart rate 92 /min; Height 174.6 cm; BMI 28 kg/m2; Weight 85.3 kg
+[Ms. Graciela Eichmann | ID 6e7083a9] 2023-07-07: Glucose 81.8 mg/dL; BUN 17.2 mg/dL; Creatinine 2.8 mg/dL; Sodium 142.8 mmol/L; Potassium 4.6 mmol/L
+[Ms. Graciela Eichmann | ID 6e7083a9] 2023-06-16: BP 136/70 mmHg; Heart rate 82 /min; Resp rate 13 /min; BMI 28 kg/m2; Weight 85.3 kg; Height 174.6 cm
+[Ms. Graciela Eichmann | ID 6e7083a9] 2023-06-02: Glucose 71.6 mg/dL; BUN 13.5 mg/dL; Creatinine 3.3 mg/dL; Sodium 140.5 mmol/L; Potassium 4.4 mmol/L
+[Ms. Graciela Eichmann | ID 6e7083a9] 2023-05-12: BP 149/70 mmHg; Heart rate 72 /min; Resp rate 13 /min; Weight 85.3 kg; Height 174.6 cm; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2023-04-26: Potassium 3.9 mmol/L; Sodium 137.2 mmol/L; Creatinine 3.1 mg/dL; BUN 12.9 mg/dL; Glucose 96.8 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2023-04-07: BP 138/79 mmHg; Resp rate 15 /min; Heart rate 77 /min; Height 174.6 cm; BMI 28 kg/m2; Weight 85.3 kg
+[Ms. Graciela Eichmann | ID 6e7083a9] 2023-03-27: Glucose 91 mg/dL; BUN 14.7 mg/dL; Creatinine 3.3 mg/dL; Sodium 136.3 mmol/L; Potassium 4.8 mmol/L
+[Ms. Graciela Eichmann | ID 6e7083a9] 2023-03-10: BP 136/77 mmHg; Heart rate 74 /min; Resp rate 15 /min; BMI 28 kg/m2; Weight 85.3 kg; Height 174.6 cm
+[Ms. Graciela Eichmann | ID 6e7083a9] 2023-02-24: Glucose 98.5 mg/dL; BUN 14.8 mg/dL; Creatinine 3.2 mg/dL; Sodium 138.5 mmol/L; Potassium 3.7 mmol/L
+[Ms. Graciela Eichmann | ID 6e7083a9] 2023-02-17: BP 135/70 mmHg; Heart rate 88 /min; Resp rate 14 /min; Weight 85.3 kg; Height 174.6 cm; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2023-01-19: Potassium 4.1 mmol/L; Sodium 139.8 mmol/L; Glucose 94.6 mg/dL; BUN 8 mg/dL; Creatinine 3.5 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2023-01-06: BP 140/76 mmHg; Creatinine 2.5 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 62 /min; Resp rate 14 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2022-12-19: Sodium 143.7 mmol/L; Creatinine 2.7 mg/dL; Potassium 4 mmol/L; Glucose 80.3 mg/dL; BUN 12.9 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2022-11-25: Glucose 69.1 mg/dL; Creatinine 2.9 mg/dL; Sodium 137.8 mmol/L; Potassium 5.2 mmol/L
+[Ms. Graciela Eichmann | ID 6e7083a9] 2022-11-18: Sodium 137.8 mmol/L; Creatinine 2.6 mg/dL; Potassium 5.2 mmol/L; Glucose 69.1 mg/dL; BUN 11.5 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2022-11-11: BP 132/70 mmHg; Resp rate 15 /min; Heart rate 73 /min; Creatinine 2.4 mg/dL; Weight 85.3 kg; Height 174.6 cm; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2022-10-10: Glucose 97.5 mg/dL; BUN 8.2 mg/dL; Creatinine 2.8 mg/dL; Sodium 143.3 mmol/L; Potassium 4.7 mmol/L
+[Ms. Graciela Eichmann | ID 6e7083a9] 2022-09-09: BP 138/74 mmHg; Resp rate 14 /min; Heart rate 69 /min; Weight 85.3 kg; Height 174.6 cm; Creatinine 1.9 mg/dL; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2022-08-12: BP 142/74 mmHg; Creatinine 2.1 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 62 /min; Resp rate 16 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2022-07-15: BP 132/74 mmHg; Heart rate 66 /min; Resp rate 14 /min; Weight 85.3 kg; Height 174.6 cm; Creatinine 2.1 mg/dL; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2022-06-10: BP 133/78 mmHg; Heart rate 61 /min; Creatinine 2.1 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Resp rate 12 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2022-05-13: BP 134/76 mmHg; BMI 28 kg/m2; Resp rate 14 /min; Heart rate 64 /min; Height 174.6 cm; Weight 85.3 kg; Creatinine 2 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2022-04-22: Creatinine 2.1 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2022-04-15: BP 139/73 mmHg; Creatinine 1.9 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 78 /min; Resp rate 13 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2022-03-18: BP 137/73 mmHg; Resp rate 15 /min; Heart rate 92 /min; Weight 85.3 kg; Height 174.6 cm; Creatinine 2 mg/dL; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2022-02-25: BP 138/71 mmHg; Creatinine 2.1 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 71 /min; Resp rate 15 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2022-01-21: Creatinine 2 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2022-01-14: BP 153/75 mmHg; Resp rate 12 /min; Heart rate 94 /min; BMI 28 kg/m2; Weight 85.3 kg; Height 174.6 cm; Creatinine 2 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2021-12-24: Creatinine 2.1 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2021-12-17: BP 135/71 mmHg; Resp rate 13 /min; Heart rate 70 /min; BMI 28 kg/m2; Weight 85.3 kg; Height 174.6 cm; Creatinine 2 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2021-11-19: Creatinine 2.1 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2021-11-12: BP 134/71 mmHg; Heart rate 62 /min; Resp rate 13 /min; BMI 28 kg/m2; Weight 85.3 kg; Height 174.6 cm; Creatinine 2 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2021-10-22: Creatinine 2.1 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2021-10-15: BP 140/77 mmHg; Creatinine 1.9 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 62 /min; Resp rate 15 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2021-08-20: BP 140/72 mmHg; Heart rate 92 /min; Resp rate 14 /min; Weight 85.3 kg; Height 174.6 cm; Creatinine 2 mg/dL; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2021-07-16: BP 138/74 mmHg; Heart rate 98 /min; Resp rate 16 /min; Weight 85.3 kg; Height 174.6 cm; Creatinine 2 mg/dL; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2021-06-18: BP 156/71 mmHg; Creatinine 2 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 61 /min; Resp rate 16 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2021-05-21: BP 139/73 mmHg; Heart rate 95 /min; Resp rate 13 /min; Weight 85.3 kg; Height 174.6 cm; Creatinine 1.9 mg/dL; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2021-04-16: BP 144/70 mmHg; Creatinine 2 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 64 /min; Resp rate 13 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2021-03-19: BP 132/73 mmHg; Height 174.6 cm; Heart rate 87 /min; Resp rate 16 /min; Creatinine 1.9 mg/dL; BMI 28 kg/m2; Weight 85.3 kg
+[Ms. Graciela Eichmann | ID 6e7083a9] 2021-02-26: Creatinine 1.9 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2021-02-19: BP 144/71 mmHg; Resp rate 13 /min; Creatinine 2 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 64 /min; Total cholesterol 173.1 mg/dL; Triglycerides 142.6 mg/dL; LDL 78.6 mg/dL; HDL 65.9 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2021-01-29: Creatinine 2 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2021-01-22: BP 145/71 mmHg; Heart rate 62 /min; Resp rate 15 /min; Weight 85.3 kg; Creatinine 2 mg/dL; BMI 28 kg/m2; Height 174.6 cm
+[Ms. Graciela Eichmann | ID 6e7083a9] 2020-12-25: Creatinine 2 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2020-12-18: BP 132/77 mmHg; Hemoglobin 17.2 g/dL; Creatinine 2 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 99 /min; Resp rate 14 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2020-11-27: Creatinine 2.1 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2020-11-20: BP 145/80 mmHg; Resp rate 13 /min; Heart rate 96 /min; Weight 85.3 kg; Height 174.6 cm; Creatinine 2 mg/dL; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2020-10-23: BP 138/69 mmHg; Resp rate 14 /min; Heart rate 96 /min; BMI 28 kg/m2; Weight 85.3 kg; Height 174.6 cm; Creatinine 1.9 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2020-09-25: Creatinine 2 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2020-09-18: BP 135/74 mmHg; Resp rate 14 /min; Heart rate 73 /min; BMI 28 kg/m2; Weight 85.3 kg; Height 174.6 cm; Creatinine 1.9 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2020-08-21: BP 134/71 mmHg; Creatinine 1.9 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 60 /min; Resp rate 15 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2020-07-31: Creatinine 1.9 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2020-07-24: BP 143/69 mmHg; Resp rate 13 /min; Heart rate 89 /min; BMI 28 kg/m2; Weight 85.3 kg; Height 174.6 cm; Creatinine 2 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2020-07-03: Creatinine 2 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2020-06-26: BP 138/71 mmHg; Resp rate 14 /min; Heart rate 94 /min; Weight 85.3 kg; Height 174.6 cm; Creatinine 1.9 mg/dL; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2020-05-22: BP 137/75 mmHg; Resp rate 14 /min; Heart rate 65 /min; Weight 85.3 kg; Height 174.6 cm; Creatinine 1.9 mg/dL; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2020-04-24: BP 133/77 mmHg; Creatinine 2.1 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 75 /min; Resp rate 14 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2020-03-27: BP 143/71 mmHg; Resp rate 15 /min; Heart rate 92 /min; Weight 85.3 kg; Height 174.6 cm; Creatinine 2 mg/dL; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2020-02-21: Creatinine 1.9 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2020-02-14: BP 137/69 mmHg; Heart rate 77 /min; Resp rate 14 /min; Weight 85.3 kg; Height 174.6 cm; Creatinine 2 mg/dL; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2020-01-24: BP 133/79 mmHg; Creatinine 2 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 83 /min; Resp rate 13 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2019-12-27: BP 133/75 mmHg; Heart rate 90 /min; Resp rate 13 /min; Weight 85.3 kg; Height 174.6 cm; Creatinine 2.1 mg/dL; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2019-11-29: BP 132/70 mmHg; Creatinine 2 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 85 /min; Resp rate 16 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2019-10-25: Creatinine 1.9 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2019-10-18: BP 139/75 mmHg; Resp rate 15 /min; Heart rate 99 /min; BMI 28 kg/m2; Weight 85.3 kg; Height 174.6 cm; Creatinine 2.1 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2019-07-26: BP 136/79 mmHg; Creatinine 2 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 68 /min; Resp rate 14 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2019-06-28: BP 139/69 mmHg; Resp rate 13 /min; Heart rate 90 /min; Weight 85.3 kg; Height 174.6 cm; BMI 28 kg/m2; Creatinine 1.9 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2019-06-07: Creatinine 2 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2019-05-31: BP 138/70 mmHg; Creatinine 2 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 80 /min; Resp rate 14 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2019-05-03: BP 139/77 mmHg; Resp rate 13 /min; Heart rate 78 /min; BMI 28 kg/m2; Weight 85.3 kg; Height 174.6 cm; Creatinine 1.9 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2019-04-05: Creatinine 2 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2019-03-29: BP 132/74 mmHg; Creatinine 2 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 63 /min; Resp rate 13 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2019-03-01: BP 137/71 mmHg; Heart rate 85 /min; Resp rate 12 /min; BMI 28 kg/m2; Weight 85.3 kg; Height 174.6 cm; Creatinine 2.1 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2019-02-08: Creatinine 2.1 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2019-02-01: BP 133/71 mmHg; BMI 28 kg/m2; Creatinine 1.9 mg/dL; Height 174.6 cm; Weight 85.3 kg; Heart rate 67 /min; Resp rate 15 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2019-01-04: Creatinine 2 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2018-12-28: BP 144/70 mmHg; Resp rate 13 /min; Heart rate 97 /min; Weight 85.3 kg; Height 174.6 cm; Creatinine 1.9 mg/dL; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2018-11-30: BP 134/81 mmHg; Creatinine 2.1 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 83 /min; Resp rate 15 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2018-11-02: BP 137/69 mmHg; Heart rate 77 /min; Resp rate 14 /min; Weight 85.3 kg; BMI 28 kg/m2; Height 174.6 cm; Creatinine 1.9 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2018-10-12: Creatinine 2.1 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2018-10-05: BP 132/69 mmHg; Creatinine 2.1 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 96 /min; Resp rate 13 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2018-08-31: BP 135/72 mmHg; Heart rate 90 /min; Resp rate 14 /min; Weight 85.3 kg; Height 174.6 cm; Creatinine 2.1 mg/dL; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2018-07-06: BP 135/74 mmHg; Heart rate 96 /min; Resp rate 15 /min; Weight 85.3 kg; Height 174.6 cm; Creatinine 1.9 mg/dL; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2018-06-01: BP 133/76 mmHg; Creatinine 2 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 70 /min; Resp rate 14 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2018-04-06: BP 134/73 mmHg; Resp rate 14 /min; Heart rate 83 /min; Weight 85.3 kg; Height 174.6 cm; Creatinine 2.1 mg/dL; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2018-03-09: BP 137/73 mmHg; Resp rate 15 /min; Heart rate 95 /min; Weight 85.3 kg; Height 174.6 cm; Creatinine 2.1 mg/dL; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2018-02-09: Creatinine 2.1 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2018-02-02: BP 134/72 mmHg; HDL 53.5 mg/dL; Heart rate 99 /min; LDL 97.1 mg/dL; Triglycerides 126.9 mg/dL; Total cholesterol 175.9 mg/dL; Resp rate 12 /min; BMI 28 kg/m2; Weight 85.3 kg; Height 174.6 cm; Creatinine 2 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2018-01-05: BP 145/75 mmHg; Creatinine 1.9 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 66 /min; Resp rate 14 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2017-12-08: BP 134/79 mmHg; Heart rate 89 /min; Resp rate 15 /min; Weight 85.3 kg; Creatinine 2 mg/dL; BMI 28 kg/m2; Height 174.6 cm
+[Ms. Graciela Eichmann | ID 6e7083a9] 2017-11-10: BP 144/70 mmHg; Heart rate 92 /min; Creatinine 1.9 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Resp rate 15 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2017-10-20: Creatinine 2 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2017-10-13: BP 138/70 mmHg; BMI 28 kg/m2; Resp rate 14 /min; Heart rate 91 /min; Weight 85.3 kg; Height 174.6 cm; Creatinine 2.1 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2017-09-15: BP 142/70 mmHg; Creatinine 2 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 91 /min; Resp rate 13 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2017-08-25: Creatinine 2.1 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2017-08-18: BP 137/71 mmHg; Resp rate 13 /min; Heart rate 81 /min; Weight 85.3 kg; Height 174.6 cm; Creatinine 2 mg/dL; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2017-07-28: BP 133/76 mmHg; Creatinine 2.1 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 89 /min; Resp rate 12 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2017-07-21: Creatinine 1.9 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2017-07-14: BP 137/74 mmHg; Resp rate 16 /min; Heart rate 92 /min; BMI 28 kg/m2; Weight 85.3 kg; Height 174.6 cm; Creatinine 2 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2017-07-07: Creatinine 2 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2017-06-30: BP 145/73 mmHg; Resp rate 14 /min; Heart rate 81 /min; BMI 28 kg/m2; Weight 85.3 kg; Height 174.6 cm; Creatinine 2 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2017-06-23: Creatinine 1.9 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2017-06-16: BP 142/72 mmHg; Heart rate 77 /min; Resp rate 14 /min; Weight 85.3 kg; Height 174.6 cm; Creatinine 2 mg/dL; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2017-06-09: Creatinine 2.1 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2017-06-02: BP 136/75 mmHg; Resp rate 12 /min; Creatinine 2 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 78 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2017-05-26: Creatinine 2 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2017-05-19: BP 139/74 mmHg; Resp rate 15 /min; Heart rate 88 /min; Weight 85.3 kg; Height 174.6 cm; Creatinine 2 mg/dL; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2017-05-12: Creatinine 2.1 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2017-05-05: BP 137/73 mmHg; Resp rate 16 /min; Heart rate 86 /min; Weight 85.3 kg; Height 174.6 cm; Creatinine 1.9 mg/dL; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2017-04-28: Creatinine 2 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2017-04-21: BP 138/71 mmHg; Heart rate 95 /min; Resp rate 14 /min; BMI 28 kg/m2; Weight 85.3 kg; Height 174.6 cm; Creatinine 2.1 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2017-04-14: Creatinine 2 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2017-04-07: BP 138/73 mmHg; Creatinine 2.1 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 63 /min; Resp rate 15 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2017-03-24: BP 131/71 mmHg; Resp rate 14 /min; Heart rate 98 /min; BMI 28 kg/m2; Weight 85.3 kg; Height 174.6 cm; Creatinine 2 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2017-03-10: BP 133/78 mmHg; Creatinine 2 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 64 /min; Resp rate 14 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2017-02-10: BP 134/71 mmHg; Resp rate 15 /min; Heart rate 75 /min; Weight 85.3 kg; Height 174.6 cm; Creatinine 2 mg/dL; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2017-01-27: BP 134/75 mmHg; Creatinine 2 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 89 /min; Resp rate 14 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2017-01-13: BP 140/77 mmHg; Resp rate 15 /min; Heart rate 88 /min; Weight 85.3 kg; Height 174.6 cm; Creatinine 2 mg/dL; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2016-12-16: BP 157/71 mmHg; Creatinine 2.1 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 97 /min; Resp rate 14 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2016-11-18: BP 136/71 mmHg; Resp rate 14 /min; Heart rate 75 /min; Creatinine 2 mg/dL; Weight 85.3 kg; Height 174.6 cm; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2016-10-21: BP 134/69 mmHg; Creatinine 1.9 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 86 /min; Resp rate 14 /min
+[Ms. Graciela Eichmann | ID 6e7083a9] 2016-10-14: Creatinine 1.9 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2016-10-07: BP 132/70 mmHg; Resp rate 14 /min; Heart rate 94 /min; Height 174.6 cm; Weight 85.3 kg; Creatinine 2 mg/dL; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2016-09-30: Creatinine 2 mg/dL
+[Ms. Graciela Eichmann | ID 6e7083a9] 2016-09-23: BP 139/73 mmHg; Resp rate 13 /min; Heart rate 66 /min; Weight 85.3 kg; Height 174.6 cm; Creatinine 2 mg/dL; BMI 28 kg/m2
+[Ms. Graciela Eichmann | ID 6e7083a9] 2016-08-26: BP 137/74 mmHg; Creatinine 2.1 mg/dL; Height 174.6 cm; Weight 85.3 kg; BMI 28 kg/m2; Heart rate 98 /min; Resp rate 15 /min

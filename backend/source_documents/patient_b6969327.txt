@@ -1,0 +1,72 @@
+PATIENT SUMMARY | Mr. Tod Kshlerin | ID b6969327
+DOB: 1979-12-05 | Age: 46 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Mr. Tod Kshlerin | ID b6969327
+- Anemia — since 1999-02-03
+- Prediabetes — since 1999-02-03
+- Chronic sinusitis — since 2010-10-21
+- Body mass index 30+ - obesity — since 2017-02-22
+- Essential hypertension — since 2017-02-22
+- Victim of intimate partner abuse — since 2018-02-28
+- Metabolic syndrome X — since 2025-04-09
+
+RESOLVED CONDITIONS | Mr. Tod Kshlerin | ID b6969327
+- Severe anxiety (panic) — 2014-02-19 to 2018-02-28
+- Otitis media — 2015-08-28 to 2017-02-22
+- Acute viral pharyngitis — 2016-08-28 to 2018-12-12
+- Gingivitis — 2018-02-28 to 2026-04-29
+- Viral sinusitis — 2018-08-19 to 2023-09-04
+- Primary dental caries — 2020-03-25 to 2023-04-12
+- Gingival disease — 2021-03-31 to 2021-03-31
+- Laceration - injury — 2021-04-21 to 2021-05-05
+- Laceration of forearm — 2021-04-21 to 2021-05-05
+- Dental filling lost — 2024-04-17 to 2024-04-17
+- Acute infective cystitis — 2025-03-29 to 2025-03-29
+- Loose dental filling — 2026-04-29 to 2026-04-29
+
+CURRENT MEDICATIONS | Mr. Tod Kshlerin | ID b6969327
+- amLODIPine 2.5 MG Oral Tablet — since 2026-04-15, for Essential hypertension
+- lisinopril 10 MG Oral Tablet — since 2026-04-15, for Essential hypertension
+
+PAST MEDICATIONS | Mr. Tod Kshlerin | ID b6969327
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet — 2018-08-19 to 2018-08-30
+- Ibuprofen 200 MG Oral Tablet — 2021-04-21 to 2021-05-05
+- nitrofurantoin  macrocrystals 25 MG / nitrofurantoin  monohydrate 75 MG [Macrobid] — 2025-03-29 to 2025-03-29
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2018-03-14 to 2026-04-29
+
+ALLERGIES | Mr. Tod Kshlerin | ID b6969327
+- No known allergies.
+
+LATEST VITALS & LABS | Mr. Tod Kshlerin | ID b6969327
+- BMI: 28.1 kg/m2 (2026-04-15)
+- BUN: 13.3 mg/dL (2026-04-15)
+- Creatinine: 1.1 mg/dL (2026-04-15)
+- Glucose: 95 mg/dL (2026-04-15)
+- HDL: 53.3 mg/dL (2026-04-15)
+- HbA1c: 6 % (2026-04-15)
+- Heart rate: 77 /min (2026-04-15)
+- Height: 174.8 cm (2026-04-15)
+- Hemoglobin: 13.9 g/dL (2024-04-03)
+- LDL: 88.3 mg/dL (2026-04-15)
+- Potassium: 4.9 mmol/L (2026-04-15)
+- Resp rate: 15 /min (2026-04-15)
+- Sodium: 136.4 mmol/L (2026-04-15)
+- Total cholesterol: 168.5 mg/dL (2026-04-15)
+- Triglycerides: 134.3 mg/dL (2026-04-15)
+- Weight: 85.7 kg (2026-04-15)
+- Blood pressure: 126/88 mmHg (2026-04-15)
+
+VISIT HISTORY (vitals & labs by date) | Mr. Tod Kshlerin | ID b6969327
+[Mr. Tod Kshlerin | ID b6969327] 2026-04-15: BP 126/88 mmHg; Triglycerides 134.3 mg/dL; Total cholesterol 168.5 mg/dL; Potassium 4.9 mmol/L; Sodium 136.4 mmol/L; Creatinine 1.1 mg/dL; BUN 13.3 mg/dL; Glucose 95 mg/dL; Heart rate 77 /min; BMI 28.1 kg/m2; Weight 85.7 kg; Height 174.8 cm; HbA1c 6 %; LDL 88.3 mg/dL; Resp rate 15 /min; HDL 53.3 mg/dL
+[Mr. Tod Kshlerin | ID b6969327] 2025-04-09: BP 133/88 mmHg; Potassium 4.8 mmol/L; Creatinine 1.1 mg/dL; BUN 14.1 mg/dL; Glucose 71 mg/dL; Resp rate 14 /min; Heart rate 88 /min; Sodium 143 mmol/L; BMI 28.1 kg/m2; Weight 85.7 kg; Height 174.8 cm; HbA1c 6.3 %
+[Mr. Tod Kshlerin | ID b6969327] 2024-04-03: BP 124/90 mmHg; Glucose 83.3 mg/dL; Potassium 5.1 mmol/L; Sodium 139.7 mmol/L; Creatinine 1.1 mg/dL; Hemoglobin 13.9 g/dL; BUN 12.2 mg/dL; Resp rate 16 /min; BMI 28.1 kg/m2; Weight 85.7 kg; Height 174.8 cm; HbA1c 5.9 %; Heart rate 81 /min
+[Mr. Tod Kshlerin | ID b6969327] 2023-03-29: BP 123/87 mmHg; Creatinine 1.2 mg/dL; HDL 52.2 mg/dL; LDL 75.4 mg/dL; Triglycerides 133.1 mg/dL; Total cholesterol 154.2 mg/dL; Potassium 4 mmol/L; Sodium 143.8 mmol/L; BUN 7.1 mg/dL; Weight 85.7 kg; Resp rate 12 /min; Heart rate 70 /min; BMI 28.1 kg/m2; Height 174.8 cm; HbA1c 6 %; Glucose 81.1 mg/dL
+[Mr. Tod Kshlerin | ID b6969327] 2022-03-23: BP 125/93 mmHg; Potassium 4 mmol/L; Sodium 141.6 mmol/L; Creatinine 1.2 mg/dL; BUN 7.3 mg/dL; Glucose 66.7 mg/dL; Heart rate 95 /min; Resp rate 13 /min; BMI 28.1 kg/m2; Weight 85.7 kg; Height 174.8 cm; HbA1c 6 %
+[Mr. Tod Kshlerin | ID b6969327] 2021-03-17: BP 126/91 mmHg; Resp rate 14 /min; Potassium 4.7 mmol/L; Sodium 137 mmol/L; Creatinine 1.2 mg/dL; Glucose 99 mg/dL; Heart rate 79 /min; BUN 11.6 mg/dL; BMI 28 kg/m2; Weight 85.7 kg; Height 174.8 cm; HbA1c 6.1 %
+[Mr. Tod Kshlerin | ID b6969327] 2020-03-11: BP 129/89 mmHg; HDL 54.3 mg/dL; LDL 50.5 mg/dL; Triglycerides 129 mg/dL; Total cholesterol 130.6 mg/dL; Potassium 5.1 mmol/L; Sodium 139.1 mmol/L; Creatinine 1.3 mg/dL; BUN 12.7 mg/dL; Glucose 75.2 mg/dL; Heart rate 95 /min; BMI 29.9 kg/m2; Weight 91.3 kg; Height 174.8 cm; HbA1c 6.1 %; Resp rate 14 /min
+[Mr. Tod Kshlerin | ID b6969327] 2019-03-06: BP 122/90 mmHg; Glucose 69.5 mg/dL; Hemoglobin 16.2 g/dL; Potassium 4 mmol/L; Sodium 139.1 mmol/L; Creatinine 1.3 mg/dL; BUN 15.8 mg/dL; Resp rate 14 /min; HbA1c 5.9 %; BMI 30.4 kg/m2; Weight 92.8 kg; Height 174.8 cm; Heart rate 87 /min
+[Mr. Tod Kshlerin | ID b6969327] 2018-02-28: BP 127/89 mmHg; HbA1c 5.9 %; Potassium 4.2 mmol/L; Sodium 143.8 mmol/L; Creatinine 1.3 mg/dL; Glucose 86.5 mg/dL; Resp rate 13 /min; BUN 10.3 mg/dL; BMI 30.4 kg/m2; Weight 92.8 kg; Height 174.8 cm; Heart rate 75 /min
+[Mr. Tod Kshlerin | ID b6969327] 2017-07-22: BP 127/93 mmHg
+[Mr. Tod Kshlerin | ID b6969327] 2017-05-23: BP 133/88 mmHg
+[Mr. Tod Kshlerin | ID b6969327] 2017-03-24: BP 144/102 mmHg
+[Mr. Tod Kshlerin | ID b6969327] 2017-02-22: BP 159/119 mmHg; HbA1c 6.2 %; HDL 52.1 mg/dL; LDL 99.3 mg/dL; Triglycerides 126.3 mg/dL; Total cholesterol 176.6 mg/dL; Potassium 4.6 mmol/L; Sodium 143.8 mmol/L; BUN 16.4 mg/dL; Creatinine 1.5 mg/dL; Resp rate 16 /min; Heart rate 77 /min; BMI 30.4 kg/m2; Weight 92.8 kg; Height 174.8 cm; Glucose 99.4 mg/dL

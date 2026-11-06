@@ -1,0 +1,41 @@
+PATIENT SUMMARY | Iona Donnelly | ID d7ebb933
+DOB: 2013-07-14 | Age: 13 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Iona Donnelly | ID d7ebb933
+- None recorded.
+
+RESOLVED CONDITIONS | Iona Donnelly | ID d7ebb933
+- Viral sinusitis — 2017-11-18 to 2017-11-28
+- Infection of tooth — 2021-07-18 to 2021-07-18
+- Gingivitis — 2025-08-03 to 2025-08-17
+
+CURRENT MEDICATIONS | Iona Donnelly | ID d7ebb933
+- None recorded.
+
+PAST MEDICATIONS | Iona Donnelly | ID d7ebb933
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2018-07-01 to 2025-08-17
+
+ALLERGIES | Iona Donnelly | ID d7ebb933
+- No known allergies.
+
+LATEST VITALS & LABS | Iona Donnelly | ID d7ebb933
+- BMI: 18.5 kg/m2 (2026-08-09)
+- Heart rate: 71 /min (2026-08-09)
+- Height: 152.5 cm (2026-08-09)
+- Hemoglobin: 12.4 g/dL (2024-07-28)
+- Resp rate: 15 /min (2026-08-09)
+- Weight: 42.9 kg (2026-08-09)
+- Blood pressure: 112/82 mmHg (2026-08-09)
+
+VISIT HISTORY (vitals & labs by date) | Iona Donnelly | ID d7ebb933
+[Iona Donnelly | ID d7ebb933] 2026-08-09: BP 112/82 mmHg; Heart rate 71 /min; Weight 42.9 kg; Height 152.5 cm; BMI 18.5 kg/m2; Resp rate 15 /min
+[Iona Donnelly | ID d7ebb933] 2025-08-03: BP 107/76 mmHg; Heart rate 88 /min; Height 146.3 cm; Weight 38.9 kg; BMI 18.2 kg/m2; Resp rate 14 /min
+[Iona Donnelly | ID d7ebb933] 2024-07-28: BP 103/80 mmHg; Heart rate 98 /min; Hemoglobin 12.4 g/dL; Resp rate 15 /min; BMI 17.7 kg/m2; Weight 34.3 kg; Height 139.1 cm
+[Iona Donnelly | ID d7ebb933] 2023-07-23: BP 104/73 mmHg; Resp rate 16 /min; Heart rate 64 /min; Height 133.5 cm; BMI 16.8 kg/m2; Weight 30 kg
+[Iona Donnelly | ID d7ebb933] 2022-07-17: BP 106/83 mmHg; Height 128.8 cm; Weight 27.2 kg; BMI 16.4 kg/m2; Heart rate 72 /min; Resp rate 16 /min
+[Iona Donnelly | ID d7ebb933] 2021-07-11: BP 103/76 mmHg; Heart rate 62 /min; Resp rate 12 /min; BMI 16.9 kg/m2; Weight 25.7 kg; Height 123.3 cm
+[Iona Donnelly | ID d7ebb933] 2020-07-05: BP 107/79 mmHg; Height 117.4 cm; Weight 23.8 kg; BMI 17.3 kg/m2; Heart rate 63 /min; Resp rate 16 /min
+[Iona Donnelly | ID d7ebb933] 2019-06-30: BP 108/80 mmHg; Resp rate 12 /min; Heart rate 88 /min; Hemoglobin 15 g/dL; BMI 16.9 kg/m2; Weight 20.7 kg; Height 110.9 cm
+[Iona Donnelly | ID d7ebb933] 2018-06-24: BP 116/73 mmHg; Resp rate 14 /min; Heart rate 67 /min; Weight 18.6 kg; BMI 17.2 kg/m2; Height 104.1 cm
+[Iona Donnelly | ID d7ebb933] 2017-06-18: BP 106/73 mmHg; Resp rate 15 /min; Heart rate 94 /min; Weight 16.4 kg; BMI 17.3 kg/m2; Height 97.4 cm
+[Iona Donnelly | ID d7ebb933] 2016-12-18: BP 104/75 mmHg; Height 94.2 cm; Weight 14.9 kg; BMI 16.8 kg/m2; Heart rate 60 /min; Resp rate 13 /min

@@ -1,0 +1,96 @@
+PATIENT SUMMARY | Mrs. Susy Mann | ID 351ef456
+DOB: 1942-06-05 | Age: 84 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Mrs. Susy Mann | ID 351ef456
+- Past pregnancy history of miscarriage — since 1969-02-17
+- Chronic sinusitis — since 1977-04-07
+- Prediabetes — since 1984-09-14
+- Anemia — since 1986-06-20
+- Body mass index 30+ - obesity — since 1986-06-20
+- Hyperlipidemia — since 1997-07-04
+- Osteoporosis — since 2012-09-28
+- Acute ST segment elevation myocardial infarction — since 2017-03-03
+- History of myocardial infarction — since 2017-03-03
+- Atrial fibrillation — since 2024-01-19
+- Victim of intimate partner abuse — since 2025-01-24
+
+RESOLVED CONDITIONS | Mrs. Susy Mann | ID 351ef456
+- Limited social contact — 2015-10-16 to 2021-01-01
+- Myocardial infarction — 2017-03-03 to 2017-03-03
+- Viral sinusitis — 2018-03-08 to 2024-12-04
+- Fracture of bone — 2019-10-27 to 2020-02-03
+- Fracture of forearm — 2019-10-27 to 2020-02-03
+- Osteoporotic fracture of bone — 2019-10-27 to 2020-02-03
+- Concussion injury of brain — 2022-10-30 to 2022-12-11
+- Concussion with no loss of consciousness — 2022-10-30 to 2022-12-11
+- Gingivitis — 2024-01-19 to 2026-02-13
+- Acute bronchitis — 2025-10-21 to 2025-11-04
+
+CURRENT MEDICATIONS | Mrs. Susy Mann | ID 351ef456
+- Alendronic acid 10 MG Oral Tablet — since 2026-01-30, for Osteoporosis
+- Digoxin 0.125 MG Oral Tablet — since 2026-01-30, for Atrial fibrillation
+- Simvastatin 10 MG Oral Tablet — since 2025-12-18, for Hyperlipidemia
+- Warfarin Sodium 5 MG Oral Tablet — since 2026-01-30, for Atrial fibrillation
+- aspirin 81 MG Oral Tablet — since 2017-03-03
+- lisinopril 5 MG Oral Tablet — since 2017-03-03
+- metoprolol tartrate 25 MG Oral Tablet — since 2017-03-03
+- prasugrel 10 MG Oral Tablet — since 2017-03-03
+- pravastatin sodium 40 MG Oral Tablet — since 2017-03-03
+- verapamil hydrochloride 80 MG Oral Tablet [Calan] — since 2026-01-30, for Atrial fibrillation
+
+PAST MEDICATIONS | Mrs. Susy Mann | ID 351ef456
+- Acetaminophen 325 MG Oral Tablet — 2019-10-27 to 2025-11-04
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet — 2023-04-30 to 2023-05-21
+- aspirin 325 MG Oral Tablet — 2017-03-03 to 2017-03-03
+- heparin sodium  porcine 100 UNT/ML Injectable Solution — 2017-03-03 to 2017-03-03
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2020-01-10 to 2025-11-14
+- ticagrelor 90 MG Oral Tablet — 2017-03-03 to 2017-03-03
+
+ALLERGIES | Mrs. Susy Mann | ID 351ef456
+- No known allergies.
+
+LATEST VITALS & LABS | Mrs. Susy Mann | ID 351ef456
+- BMI: 28.1 kg/m2 (2026-01-30)
+- BUN: 18.2 mg/dL (2026-01-30)
+- Creatinine: 0.5 mg/dL (2026-01-30)
+- Glucose: 88.4 mg/dL (2026-01-30)
+- HDL: 57 mg/dL (2026-01-30)
+- HbA1c: 5.9 % (2026-01-30)
+- Heart rate: 67 /min (2026-01-30)
+- Height: 168.5 cm (2026-01-30)
+- Hemoglobin: 15.1 g/dL (2025-01-24)
+- LDL: 91 mg/dL (2026-01-30)
+- Potassium: 3.7 mmol/L (2026-01-30)
+- Resp rate: 16 /min (2026-01-30)
+- Sodium: 136.1 mmol/L (2026-01-30)
+- Total cholesterol: 174.4 mg/dL (2026-01-30)
+- Triglycerides: 131.9 mg/dL (2026-01-30)
+- Weight: 79.9 kg (2026-01-30)
+- Blood pressure: 114/75 mmHg (2026-01-30)
+
+VISIT HISTORY (vitals & labs by date) | Mrs. Susy Mann | ID 351ef456
+[Mrs. Susy Mann | ID 351ef456] 2026-01-30: BP 114/75 mmHg; Triglycerides 131.9 mg/dL; Total cholesterol 174.4 mg/dL; Potassium 3.7 mmol/L; Sodium 136.1 mmol/L; Creatinine 0.5 mg/dL; BUN 18.2 mg/dL; Glucose 88.4 mg/dL; HbA1c 5.9 %; Heart rate 67 /min; BMI 28.1 kg/m2; Weight 79.9 kg; Height 168.5 cm; LDL 91 mg/dL; Resp rate 16 /min; HDL 57 mg/dL
+[Mrs. Susy Mann | ID 351ef456] 2025-12-18: HDL 32.9 mg/dL; LDL 101.5 mg/dL; Triglycerides 197 mg/dL; Total cholesterol 150.1 mg/dL; Potassium 4.8 mmol/L; Sodium 138.4 mmol/L; Creatinine 3.1 mg/dL; BUN 12.6 mg/dL; Glucose 98.4 mg/dL
+[Mrs. Susy Mann | ID 351ef456] 2025-11-07: HbA1c 5.9 %
+[Mrs. Susy Mann | ID 351ef456] 2025-10-31: BP 118/70 mmHg; Potassium 4.1 mmol/L; Sodium 137.9 mmol/L; Creatinine 0.7 mg/dL; BUN 15.1 mg/dL; Glucose 83.9 mg/dL; Resp rate 13 /min; BMI 28.1 kg/m2; Weight 79.9 kg; Height 168.5 cm; HbA1c 6.3 %; Heart rate 61 /min
+[Mrs. Susy Mann | ID 351ef456] 2025-01-24: BP 106/73 mmHg; Potassium 4.9 mmol/L; Hemoglobin 15.1 g/dL; Sodium 138.9 mmol/L; Creatinine 0.7 mg/dL; BUN 10.7 mg/dL; Glucose 79.9 mg/dL; Resp rate 14 /min; Height 168.5 cm; BMI 28.1 kg/m2; Weight 79.9 kg; HbA1c 6.3 %; Heart rate 85 /min
+[Mrs. Susy Mann | ID 351ef456] 2024-12-18: HDL 48.2 mg/dL; LDL 140.2 mg/dL; Triglycerides 164.3 mg/dL; Total cholesterol 158.4 mg/dL; Potassium 5 mmol/L; Sodium 143.6 mmol/L; Creatinine 2.8 mg/dL; BUN 8.8 mg/dL; Glucose 97.8 mg/dL
+[Mrs. Susy Mann | ID 351ef456] 2024-11-01: HbA1c 6.1 %
+[Mrs. Susy Mann | ID 351ef456] 2024-10-25: BP 115/70 mmHg; Resp rate 14 /min; Potassium 4.1 mmol/L; Creatinine 0.6 mg/dL; BUN 10.9 mg/dL; Glucose 65.6 mg/dL; Heart rate 62 /min; Sodium 140.8 mmol/L; BMI 28.1 kg/m2; Weight 79.9 kg; Height 168.5 cm; HbA1c 6.4 %
+[Mrs. Susy Mann | ID 351ef456] 2024-01-19: BP 101/72 mmHg; Glucose 93.7 mg/dL; Potassium 4.5 mmol/L; Sodium 137.9 mmol/L; Creatinine 0.6 mg/dL; BUN 17.4 mg/dL; Resp rate 12 /min; HbA1c 5.8 %; BMI 28.1 kg/m2; Weight 79.9 kg; Height 168.5 cm; Heart rate 69 /min
+[Mrs. Susy Mann | ID 351ef456] 2023-12-19: HDL 43.4 mg/dL; LDL 95.6 mg/dL; Triglycerides 148.1 mg/dL; Total cholesterol 203 mg/dL; Sodium 141.2 mmol/L; Creatinine 3.1 mg/dL; BUN 14.8 mg/dL; Glucose 64.8 mg/dL; Potassium 4.1 mmol/L
+[Mrs. Susy Mann | ID 351ef456] 2023-01-13: BP 111/75 mmHg; BUN 14.6 mg/dL; HDL 56.6 mg/dL; LDL 95.2 mg/dL; Total cholesterol 175.3 mg/dL; Potassium 4.9 mmol/L; Sodium 139.3 mmol/L; Creatinine 0.7 mg/dL; Glucose 66.9 mg/dL; Triglycerides 117.4 mg/dL; Heart rate 60 /min; BMI 28.1 kg/m2; Weight 79.9 kg; Resp rate 12 /min; Height 168.5 cm; HbA1c 6.1 %
+[Mrs. Susy Mann | ID 351ef456] 2022-12-19: HDL 59.7 mg/dL; LDL 104.8 mg/dL; Triglycerides 176.8 mg/dL; Potassium 4 mmol/L; Total cholesterol 186.2 mg/dL; Creatinine 2.8 mg/dL; BUN 19.4 mg/dL; Glucose 71 mg/dL; Sodium 139.8 mmol/L
+[Mrs. Susy Mann | ID 351ef456] 2022-01-07: BP 116/70 mmHg; Glucose 89.4 mg/dL; Potassium 4 mmol/L; Sodium 139.6 mmol/L; Creatinine 0.6 mg/dL; BUN 18.1 mg/dL; Resp rate 15 /min; Height 168.5 cm; BMI 28.1 kg/m2; Weight 79.9 kg; Heart rate 86 /min; HbA1c 6.3 %
+[Mrs. Susy Mann | ID 351ef456] 2021-12-19: HDL 53.7 mg/dL; LDL 140.4 mg/dL; Triglycerides 166.3 mg/dL; Total cholesterol 153.2 mg/dL; Potassium 4.1 mmol/L; Creatinine 2.5 mg/dL; BUN 17 mg/dL; Glucose 96.4 mg/dL; Sodium 141.8 mmol/L
+[Mrs. Susy Mann | ID 351ef456] 2021-01-01: BP 116/67 mmHg; Potassium 4.1 mmol/L; Creatinine 0.7 mg/dL; BUN 16.4 mg/dL; Glucose 70.4 mg/dL; Resp rate 16 /min; Heart rate 66 /min; Sodium 142.5 mmol/L; BMI 28.1 kg/m2; Weight 79.9 kg; Height 168.5 cm; HbA1c 6.4 %
+[Mrs. Susy Mann | ID 351ef456] 2020-12-19: HDL 50.5 mg/dL; LDL 134.2 mg/dL; Triglycerides 126.7 mg/dL; Total cholesterol 153.4 mg/dL; Creatinine 3.2 mg/dL; Sodium 136.7 mmol/L; BUN 18.6 mg/dL; Glucose 72.5 mg/dL; Potassium 4.3 mmol/L
+[Mrs. Susy Mann | ID 351ef456] 2019-12-27: BP 118/74 mmHg; Creatinine 0.6 mg/dL; HDL 55.6 mg/dL; LDL 133 mg/dL; Triglycerides 127.8 mg/dL; Total cholesterol 214.2 mg/dL; Hemoglobin 17.1 g/dL; Potassium 4.9 mmol/L; Sodium 136.7 mmol/L; BUN 13.4 mg/dL; Resp rate 12 /min; Heart rate 61 /min; BMI 28.1 kg/m2; Weight 79.9 kg; Height 168.5 cm; HbA1c 6.1 %; Glucose 99.2 mg/dL
+[Mrs. Susy Mann | ID 351ef456] 2019-12-20: HDL 62 mg/dL; LDL 103 mg/dL; Total cholesterol 177.7 mg/dL; Potassium 5.1 mmol/L; Triglycerides 123.2 mg/dL; Creatinine 2.7 mg/dL; BUN 9.8 mg/dL; Glucose 80.6 mg/dL; Sodium 137.5 mmol/L
+[Mrs. Susy Mann | ID 351ef456] 2018-11-03: Triglycerides 120.6 mg/dL; HDL 37.7 mg/dL; LDL 93.5 mg/dL; Total cholesterol 204.3 mg/dL; Creatinine 3.4 mg/dL; Sodium 138.5 mmol/L; Potassium 5 mmol/L; BUN 8.7 mg/dL; Glucose 77.7 mg/dL
+[Mrs. Susy Mann | ID 351ef456] 2018-11-02: BP 114/75 mmHg; Potassium 4.3 mmol/L; Sodium 142.8 mmol/L; Creatinine 0.6 mg/dL; BUN 15.9 mg/dL; Glucose 86.2 mg/dL; Resp rate 14 /min; HbA1c 6.3 %; BMI 28.1 kg/m2; Weight 79.9 kg; Height 168.5 cm; Heart rate 86 /min
+[Mrs. Susy Mann | ID 351ef456] 2017-11-03: HDL 67.4 mg/dL; LDL 136.9 mg/dL; Triglycerides 151.8 mg/dL; Total cholesterol 191.9 mg/dL; Potassium 4 mmol/L; Sodium 139.7 mmol/L; Creatinine 2.8 mg/dL; BUN 11.5 mg/dL; Glucose 94.7 mg/dL
+[Mrs. Susy Mann | ID 351ef456] 2017-10-27: BP 105/73 mmHg; Glucose 97.5 mg/dL; Potassium 4 mmol/L; Sodium 143 mmol/L; Creatinine 0.7 mg/dL; BUN 15.6 mg/dL; Resp rate 13 /min; Weight 79.9 kg; BMI 28.1 kg/m2; Heart rate 69 /min; Height 168.5 cm; HbA1c 6.2 %
+[Mrs. Susy Mann | ID 351ef456] 2017-03-03: HbA1c 6.3 %; HDL 38.3 mg/dL; Triglycerides 333.6 mg/dL; LDL 152.5 mg/dL; Creatinine 2.7 mg/dL; Hemoglobin 11.8 g/dL; Total cholesterol 279.7 mg/dL
+[Mrs. Susy Mann | ID 351ef456] 2016-10-22: Triglycerides 182.9 mg/dL; HDL 65 mg/dL; LDL 87 mg/dL; Total cholesterol 173.5 mg/dL; Creatinine 3.3 mg/dL; Sodium 137.8 mmol/L; BUN 16.8 mg/dL; Glucose 94.2 mg/dL; Potassium 4.5 mmol/L
+[Mrs. Susy Mann | ID 351ef456] 2016-10-21: BP 111/71 mmHg; HbA1c 6.3 %; HDL 55.7 mg/dL; LDL 48 mg/dL; Triglycerides 144.4 mg/dL; Total cholesterol 132.5 mg/dL; Potassium 4.6 mmol/L; Sodium 136.8 mmol/L; BUN 9.7 mg/dL; Creatinine 0.6 mg/dL; Resp rate 13 /min; Heart rate 80 /min; BMI 28.1 kg/m2; Weight 79.9 kg; Height 168.5 cm; Glucose 95.6 mg/dL

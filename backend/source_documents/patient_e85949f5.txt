@@ -1,0 +1,44 @@
+PATIENT SUMMARY | Mr. Winford Bernier | ID e85949f5
+DOB: 1997-06-10 | Age: 29 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Mr. Winford Bernier | ID e85949f5
+- Chronic sinusitis — since 2002-03-11
+- Loss of teeth — since 2011-08-02
+- Limited social contact — since 2017-01-03
+- Essential hypertension — since 2025-08-19
+
+RESOLVED CONDITIONS | Mr. Winford Bernier | ID e85949f5
+- Acute bronchitis — 2017-01-10 to 2017-01-21
+- Acute viral pharyngitis — 2017-04-10 to 2020-08-03
+- Viral sinusitis — 2019-07-11 to 2026-06-09
+- Victim of intimate partner abuse — 2022-08-16 to 2025-08-19
+
+CURRENT MEDICATIONS | Mr. Winford Bernier | ID e85949f5
+- amLODIPine 2.5 MG Oral Tablet — since 2026-05-19, for Essential hypertension
+
+PAST MEDICATIONS | Mr. Winford Bernier | ID e85949f5
+- Acetaminophen 325 MG Oral Tablet — 2017-01-10 to 2017-01-21
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet — 2025-12-31 to 2026-01-10
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2017-01-17 to 2026-06-02
+
+ALLERGIES | Mr. Winford Bernier | ID e85949f5
+- No known allergies.
+
+LATEST VITALS & LABS | Mr. Winford Bernier | ID e85949f5
+- BMI: 26.2 kg/m2 (2026-05-19)
+- Heart rate: 69 /min (2026-05-19)
+- Height: 174.8 cm (2026-05-19)
+- Hemoglobin: 16 g/dL (2025-08-19)
+- Resp rate: 13 /min (2026-05-19)
+- Weight: 80 kg (2026-05-19)
+- Blood pressure: 156/98 mmHg (2026-05-19)
+
+VISIT HISTORY (vitals & labs by date) | Mr. Winford Bernier | ID e85949f5
+[Mr. Winford Bernier | ID e85949f5] 2026-05-19: BP 156/98 mmHg; Height 174.8 cm; Weight 80 kg; BMI 26.2 kg/m2; Heart rate 69 /min; Resp rate 13 /min
+[Mr. Winford Bernier | ID e85949f5] 2026-01-16: BP 141/107 mmHg
+[Mr. Winford Bernier | ID e85949f5] 2025-11-17: BP 145/97 mmHg
+[Mr. Winford Bernier | ID e85949f5] 2025-09-18: BP 139/97 mmHg
+[Mr. Winford Bernier | ID e85949f5] 2025-08-19: BP 153/105 mmHg; Height 174.8 cm; Weight 80 kg; BMI 26.2 kg/m2; Heart rate 83 /min; Resp rate 15 /min; Hemoglobin 16 g/dL
+[Mr. Winford Bernier | ID e85949f5] 2022-08-16: BP 107/74 mmHg; Heart rate 74 /min; Resp rate 13 /min; Weight 75.1 kg; Height 174.8 cm; BMI 24.6 kg/m2
+[Mr. Winford Bernier | ID e85949f5] 2019-08-13: BP 108/72 mmHg; Hemoglobin 13.6 g/dL; Resp rate 13 /min; Heart rate 62 /min; Weight 69.9 kg; BMI 22.9 kg/m2; Height 174.8 cm
+[Mr. Winford Bernier | ID e85949f5] 2017-01-03: BP 108/71 mmHg; Height 174.8 cm; Weight 65 kg; BMI 21.3 kg/m2; Heart rate 99 /min; Resp rate 16 /min

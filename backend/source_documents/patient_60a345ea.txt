@@ -1,0 +1,52 @@
+PATIENT SUMMARY | Mrs. Eloisa Champlin | ID 60a345ea
+DOB: 1953-10-08 | Age: 73 | Gender: F | Status: Deceased
+
+ACTIVE CONDITIONS | Mrs. Eloisa Champlin | ID 60a345ea
+- Chronic sinusitis — since 1968-02-26
+- Has a criminal record — since 1973-04-12
+- Epilepsy — since 1977-11-28
+- History of seizure — since 1977-11-28
+- Seizure disorder — since 1977-11-28
+- Normal pregnancy — since 1980-10-23
+
+RESOLVED CONDITIONS | Mrs. Eloisa Champlin | ID 60a345ea
+- Acute bronchitis — 1973-04-04 to 1973-04-18
+- Gingival disease — 1973-04-26 to 1973-04-26
+- Viral sinusitis — 1976-08-10 to 1976-08-24
+- Fracture of ankle — 1978-07-09 to 1978-10-11
+- Fracture of bone — 1978-07-09 to 1978-10-11
+- Gingivitis — 1978-12-14 to 1978-12-28
+- Eclampsia in pregnancy — 1981-05-07 to 1981-06-04
+- Acute infective cystitis — 1982-08-28 to 1982-08-28
+
+CURRENT MEDICATIONS | Mrs. Eloisa Champlin | ID 60a345ea
+- Diazepam 5 MG Oral Tablet — since 1981-12-17, for Seizure disorder
+
+PAST MEDICATIONS | Mrs. Eloisa Champlin | ID 60a345ea
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution — 1973-04-04 to 1973-04-18
+- Acetaminophen 325 MG Oral Tablet — 1978-07-09 to 1978-10-11
+- Mestranol / Norethynodrel — 1973-09-06 to 1975-08-27
+- carbamazepine 20 MG/ML Oral Suspension [Tegretol] — 1978-12-14 to 1979-08-12
+- clonazePAM 0.25 MG Oral Tablet — 1977-11-28 to 1978-06-12
+- nitrofurantoin  macrocrystals 25 MG / nitrofurantoin  monohydrate 75 MG Oral Capsule — 1982-08-28 to 1982-08-28
+- sodium fluoride 0.0272 MG/MG Oral Gel — 1973-04-26 to 1973-04-26
+- {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] — 1978-08-11 to 1979-08-06
+
+ALLERGIES | Mrs. Eloisa Champlin | ID 60a345ea
+- No known allergies.
+
+LATEST VITALS & LABS | Mrs. Eloisa Champlin | ID 60a345ea
+- BMI: 24.4 kg/m2 (1981-12-17)
+- Heart rate: 76 /min (1981-12-17)
+- Height: 156 cm (1981-12-17)
+- Hemoglobin: 12.8 g/dL (1981-12-17)
+- Resp rate: 14 /min (1981-12-17)
+- Weight: 59.5 kg (1981-12-17)
+- Blood pressure: 146/73 mmHg (1981-12-17)
+
+VISIT HISTORY (vitals & labs by date) | Mrs. Eloisa Champlin | ID 60a345ea
+[Mrs. Eloisa Champlin | ID 60a345ea] 1981-12-17: BP 146/73 mmHg; Heart rate 76 /min; Resp rate 14 /min; Weight 59.5 kg; Height 156 cm; BMI 24.4 kg/m2; Hemoglobin 12.8 g/dL
+[Mrs. Eloisa Champlin | ID 60a345ea] 1978-12-14: BP 154/79 mmHg; Heart rate 69 /min; Height 156 cm; Weight 55.4 kg; BMI 22.8 kg/m2; Resp rate 15 /min
+[Mrs. Eloisa Champlin | ID 60a345ea] 1975-12-11: BP 138/77 mmHg; Resp rate 16 /min; Hemoglobin 13 g/dL; Heart rate 66 /min; BMI 21.1 kg/m2; Weight 51.2 kg; Height 156 cm
+[Mrs. Eloisa Champlin | ID 60a345ea] 1973-04-12: BP 142/77 mmHg; Resp rate 13 /min; Heart rate 75 /min; Weight 47.2 kg; BMI 19.4 kg/m2; Height 156 cm
+[Mrs. Eloisa Champlin | ID 60a345ea] 1972-12-07: BP 142/75 mmHg; Height 156 cm; Weight 47.2 kg; BMI 19.4 kg/m2; Heart rate 68 /min; Resp rate 15 /min

@@ -1,0 +1,74 @@
+PATIENT SUMMARY | Ms. Dorine Bahringer | ID 74cc6d1b
+DOB: 2005-01-05 | Age: 21 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Ms. Dorine Bahringer | ID 74cc6d1b
+- Chronic neck pain — since 2023-02-10
+- Chronic pain — since 2023-02-10
+- Serving in military service — since 2023-03-01
+- Sepsis — since 2025-06-30
+- Limited social contact — since 2026-03-18
+
+RESOLVED CONDITIONS | Ms. Dorine Bahringer | ID 74cc6d1b
+- Child attention deficit disorder — 2016-04-04 to 2016-09-23
+- Streptococcal sore throat — 2016-10-05 to 2016-10-14
+- Fractured dental filling — 2017-02-08 to 2017-02-08
+- Facial laceration — 2018-03-28 to 2018-04-15
+- Laceration - injury — 2018-03-28 to 2018-04-15
+- Viral sinusitis — 2019-05-28 to 2022-01-26
+- Acute bronchitis — 2019-12-31 to 2020-01-15
+- Gingival disease — 2021-03-03 to 2025-03-26
+- Infection of tooth — 2022-03-09 to 2022-03-09
+- Alveolitis of jaw — 2022-03-14 to 2022-03-14
+- Acute infective cystitis — 2022-04-27 to 2022-04-27
+- Gingivitis — 2023-03-01 to 2025-03-26
+- Concussion injury of brain — 2025-02-22 to 2025-04-16
+- Concussion with loss of consciousness — 2025-02-22 to 2025-04-16
+- Normal pregnancy — 2025-09-03 to 2025-09-28
+
+CURRENT MEDICATIONS | Ms. Dorine Bahringer | ID 74cc6d1b
+- 72 HR Fentanyl 0.025 MG/HR Transdermal System — since 2026-03-18
+- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] — since 2026-03-18
+- Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet — since 2026-03-18
+- {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] — since 2025-11-29
+
+PAST MEDICATIONS | Ms. Dorine Bahringer | ID 74cc6d1b
+- 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection — 2022-12-15 to 2023-12-10
+- 150 ML vancomycin 5 MG/ML Injection — 2025-06-30 to 2025-06-30
+- Acetaminophen 325 MG Oral Tablet — 2019-12-31 to 2020-01-15
+- Ibuprofen 200 MG Oral Tablet — 2018-03-28 to 2018-04-15
+- Penicillin V Potassium 250 MG Oral Tablet — 2016-10-05 to 2016-10-14
+- nitrofurantoin  macrocrystals 25 MG / nitrofurantoin  monohydrate 75 MG Oral Capsule — 2022-04-27 to 2022-04-27
+- piperacillin 2000 MG / tazobactam 250 MG Injection — 2025-06-30 to 2025-06-30
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2016-09-28 to 2025-03-26
+- {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] — 2020-12-25 to 2021-12-20
+
+ALLERGIES | Ms. Dorine Bahringer | ID 74cc6d1b
+- No known allergies.
+
+LATEST VITALS & LABS | Ms. Dorine Bahringer | ID 74cc6d1b
+- BMI: 19.7 kg/m2 (2026-03-18)
+- Heart rate: 95 /min (2026-03-18)
+- Height: 174.6 cm (2026-03-18)
+- Hemoglobin: 15.5 g/dL (2026-03-18)
+- Resp rate: 15 /min (2026-03-18)
+- Weight: 60.2 kg (2026-03-18)
+- Blood pressure: 111/81 mmHg (2026-03-18)
+
+VISIT HISTORY (vitals & labs by date) | Ms. Dorine Bahringer | ID 74cc6d1b
+[Ms. Dorine Bahringer | ID 74cc6d1b] 2026-03-18: BP 111/81 mmHg; Height 174.6 cm; Weight 60.2 kg; BMI 19.7 kg/m2; Heart rate 95 /min; Resp rate 15 /min; Hemoglobin 15.5 g/dL
+[Ms. Dorine Bahringer | ID 74cc6d1b] 2025-07-16: BP 103/81 mmHg
+[Ms. Dorine Bahringer | ID 74cc6d1b] 2025-07-14: BP 89.7/58 mmHg
+[Ms. Dorine Bahringer | ID 74cc6d1b] 2025-07-06: BP 105/80 mmHg
+[Ms. Dorine Bahringer | ID 74cc6d1b] 2025-07-04: BP 96/61.2 mmHg
+[Ms. Dorine Bahringer | ID 74cc6d1b] 2025-03-12: BP 105/79 mmHg; Height 174.6 cm; Weight 58.8 kg; BMI 19.3 kg/m2; Heart rate 69 /min; Resp rate 15 /min
+[Ms. Dorine Bahringer | ID 74cc6d1b] 2024-03-06: BP 109/77 mmHg; Heart rate 69 /min; Resp rate 12 /min; Weight 57.1 kg; Height 174.6 cm; BMI 18.7 kg/m2
+[Ms. Dorine Bahringer | ID 74cc6d1b] 2023-03-01: BP 103/78 mmHg; Height 174.5 cm; Weight 56.2 kg; BMI 18.5 kg/m2; Heart rate 67 /min; Resp rate 14 /min
+[Ms. Dorine Bahringer | ID 74cc6d1b] 2022-02-23: BP 103/83 mmHg; Heart rate 97 /min; Resp rate 14 /min; Weight 55.6 kg; Height 174.3 cm; BMI 18.3 kg/m2
+[Ms. Dorine Bahringer | ID 74cc6d1b] 2021-02-17: BP 106/81 mmHg; Heart rate 97 /min; Hemoglobin 12.6 g/dL; Resp rate 16 /min; Weight 56.6 kg; BMI 18.7 kg/m2; Height 174 cm
+[Ms. Dorine Bahringer | ID 74cc6d1b] 2020-02-12: BP 104/78 mmHg; Height 173.4 cm; Weight 53.6 kg; BMI 17.8 kg/m2; Heart rate 97 /min; Resp rate 14 /min
+[Ms. Dorine Bahringer | ID 74cc6d1b] 2020-01-08: BP 105/79 mmHg; Resp rate 12 /min; Heart rate 71 /min; Weight 53.4 kg; Height 173.3 cm; BMI 17.8 kg/m2
+[Ms. Dorine Bahringer | ID 74cc6d1b] 2019-02-06: BP 112/80 mmHg; Height 172.2 cm; Weight 52.5 kg; BMI 17.7 kg/m2; Heart rate 91 /min; Resp rate 13 /min
+[Ms. Dorine Bahringer | ID 74cc6d1b] 2018-01-31: BP 104/76 mmHg; Resp rate 15 /min; Heart rate 83 /min; Weight 53.8 kg; Height 169.3 cm; BMI 18.8 kg/m2
+[Ms. Dorine Bahringer | ID 74cc6d1b] 2017-01-25: BP 107/81 mmHg; Height 164.2 cm; Weight 51.9 kg; BMI 19.2 kg/m2; Heart rate 93 /min; Resp rate 13 /min
+[Ms. Dorine Bahringer | ID 74cc6d1b] 2016-09-21: BP 109/86 mmHg; Resp rate 14 /min; Heart rate 97 /min; Weight 49.7 kg; Height 162 cm; BMI 19 kg/m2
+[Ms. Dorine Bahringer | ID 74cc6d1b] 2016-09-14: BP 105/81 mmHg; Height 162 cm; Weight 49.7 kg; BMI 19 kg/m2; Heart rate 87 /min; Resp rate 15 /min

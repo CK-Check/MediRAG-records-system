@@ -1,0 +1,69 @@
+PATIENT SUMMARY | Mr. Melvin Hoppe | ID 01d9f90d
+DOB: 1977-04-21 | Age: 49 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Mr. Melvin Hoppe | ID 01d9f90d
+- Body mass index 30+ - obesity — since 2011-07-07
+- Chronic low back pain — since 2014-02-01
+- Chronic neck pain — since 2014-02-01
+- Chronic pain — since 2014-02-01
+- Essential hypertension — since 2021-05-06
+- Anemia — since 2022-05-12
+- Metabolic syndrome X — since 2022-05-12
+- Prediabetes — since 2022-05-12
+
+RESOLVED CONDITIONS | Mr. Melvin Hoppe | ID 01d9f90d
+- Acute bronchitis — 2017-02-21 to 2017-03-11
+- Gingivitis — 2017-03-02 to 2026-06-18
+- Gingival disease — 2017-05-11 to 2026-06-18
+- Viral sinusitis — 2022-11-03 to 2022-11-23
+- Facial laceration — 2025-03-22 to 2025-04-18
+- Laceration - injury — 2025-03-22 to 2025-04-18
+- Infection of tooth — 2025-06-12 to 2025-06-12
+- Primary dental caries — 2025-06-12 to 2025-06-12
+
+CURRENT MEDICATIONS | Mr. Melvin Hoppe | ID 01d9f90d
+- Hydrochlorothiazide 25 MG Oral Tablet — since 2026-06-04, for Essential hypertension
+- amLODIPine 2.5 MG Oral Tablet — since 2026-06-04, for Essential hypertension
+- lisinopril 10 MG Oral Tablet — since 2026-06-04, for Essential hypertension
+
+PAST MEDICATIONS | Mr. Melvin Hoppe | ID 01d9f90d
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution — 2017-02-21 to 2017-03-11
+- Ibuprofen 200 MG Oral Tablet — 2025-03-22 to 2025-04-18
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2025-06-12 to 2025-06-12
+
+ALLERGIES | Mr. Melvin Hoppe | ID 01d9f90d
+- No known allergies.
+
+LATEST VITALS & LABS | Mr. Melvin Hoppe | ID 01d9f90d
+- BMI: 30.4 kg/m2 (2026-06-04)
+- BUN: 9.1 mg/dL (2026-06-04)
+- Creatinine: 1.2 mg/dL (2026-06-04)
+- Glucose: 86.7 mg/dL (2026-06-04)
+- HDL: 59.8 mg/dL (2025-05-29)
+- HbA1c: 6.4 % (2026-06-04)
+- Heart rate: 81 /min (2026-06-04)
+- Height: 173.5 cm (2026-06-04)
+- Hemoglobin: 10.4 g/dL (2022-05-19)
+- LDL: 112.9 mg/dL (2025-05-29)
+- Potassium: 4.4 mmol/L (2026-06-04)
+- Resp rate: 15 /min (2026-06-04)
+- Sodium: 139.4 mmol/L (2026-06-04)
+- Total cholesterol: 198.2 mg/dL (2025-05-29)
+- Triglycerides: 127.4 mg/dL (2025-05-29)
+- Weight: 91.5 kg (2026-06-04)
+- Blood pressure: 123/75 mmHg (2026-06-04)
+
+VISIT HISTORY (vitals & labs by date) | Mr. Melvin Hoppe | ID 01d9f90d
+[Mr. Melvin Hoppe | ID 01d9f90d] 2026-06-04: BP 123/75 mmHg; Creatinine 1.2 mg/dL; BUN 9.1 mg/dL; Glucose 86.7 mg/dL; Resp rate 15 /min; Heart rate 81 /min; Weight 91.5 kg; BMI 30.4 kg/m2; Height 173.5 cm; HbA1c 6.4 %; Sodium 139.4 mmol/L; Potassium 4.4 mmol/L
+[Mr. Melvin Hoppe | ID 01d9f90d] 2025-05-29: BP 114/74 mmHg; HDL 59.8 mg/dL; LDL 112.9 mg/dL; Triglycerides 127.4 mg/dL; Total cholesterol 198.2 mg/dL; Potassium 4.7 mmol/L; Creatinine 1.2 mg/dL; BUN 19.9 mg/dL; Glucose 97.1 mg/dL; Sodium 140.7 mmol/L; Heart rate 71 /min; BMI 29.8 kg/m2; Weight 89.7 kg; Height 173.5 cm; HbA1c 6.3 %; Resp rate 15 /min
+[Mr. Melvin Hoppe | ID 01d9f90d] 2024-05-23: BP 116/79 mmHg; Resp rate 15 /min; Sodium 143.5 mmol/L; Creatinine 1.1 mg/dL; Potassium 4.1 mmol/L; Glucose 96.6 mg/dL; Heart rate 80 /min; BUN 12.9 mg/dL; BMI 29.2 kg/m2; Weight 87.9 kg; Height 173.5 cm; HbA1c 6.3 %
+[Mr. Melvin Hoppe | ID 01d9f90d] 2023-05-18: BP 117/75 mmHg; Potassium 4.8 mmol/L; Sodium 141.6 mmol/L; Creatinine 1.1 mg/dL; BUN 8.9 mg/dL; Glucose 81.9 mg/dL; Resp rate 12 /min; BMI 28.6 kg/m2; Weight 86 kg; Height 173.5 cm; HbA1c 6.3 %; Heart rate 92 /min
+[Mr. Melvin Hoppe | ID 01d9f90d] 2022-05-19: Hemoglobin 10.4 g/dL
+[Mr. Melvin Hoppe | ID 01d9f90d] 2022-05-12: BP 112/77 mmHg; HDL 46.6 mg/dL; LDL 102.7 mg/dL; Triglycerides 127.5 mg/dL; Total cholesterol 174.8 mg/dL; Potassium 4.4 mmol/L; Sodium 136.7 mmol/L; Creatinine 1.1 mg/dL; BUN 15.5 mg/dL; Hemoglobin 13.6 g/dL; Resp rate 15 /min; Heart rate 63 /min; BMI 28.1 kg/m2; Weight 84.6 kg; Height 173.5 cm; HbA1c 6 %; Glucose 100 mg/dL
+[Mr. Melvin Hoppe | ID 01d9f90d] 2021-10-03: BP 113/73 mmHg
+[Mr. Melvin Hoppe | ID 01d9f90d] 2021-08-04: BP 111/77 mmHg
+[Mr. Melvin Hoppe | ID 01d9f90d] 2021-06-05: BP 121/85 mmHg
+[Mr. Melvin Hoppe | ID 01d9f90d] 2021-05-06: BP 161/101 mmHg; Height 173.5 cm; Weight 91.5 kg; BMI 30.4 kg/m2; Heart rate 61 /min; Resp rate 13 /min
+[Mr. Melvin Hoppe | ID 01d9f90d] 2019-05-02: BP 116/73 mmHg; Resp rate 13 /min; HDL 53.5 mg/dL; LDL 113.1 mg/dL; Total cholesterol 191.8 mg/dL; Heart rate 97 /min; Triglycerides 126.2 mg/dL; BMI 30.4 kg/m2; Weight 91.5 kg; Height 173.5 cm
+[Mr. Melvin Hoppe | ID 01d9f90d] 2017-04-27: BP 115/78 mmHg; Resp rate 13 /min; Heart rate 68 /min; Weight 91.5 kg; BMI 30.4 kg/m2; Height 173.5 cm
+[Mr. Melvin Hoppe | ID 01d9f90d] 2017-03-02: BP 119/74 mmHg; Height 173.5 cm; Weight 91.5 kg; BMI 30.4 kg/m2; Heart rate 88 /min; Resp rate 15 /min; Hemoglobin 13.2 g/dL

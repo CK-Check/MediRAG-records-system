@@ -1,0 +1,52 @@
+PATIENT SUMMARY | Mark Klocko | ID 612a6a4a
+DOB: 2015-05-16 | Age: 11 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Mark Klocko | ID 612a6a4a
+- None recorded.
+
+RESOLVED CONDITIONS | Mark Klocko | ID 612a6a4a
+- Otitis media — 2017-08-03 to 2019-04-20
+- Viral sinusitis — 2017-08-11 to 2025-11-08
+- Gingivitis — 2023-05-13 to 2026-06-06
+- Injury of neck — 2024-01-31 to 2024-03-06
+- Whiplash injury to neck — 2024-01-31 to 2024-03-06
+- Streptococcal sore throat — 2025-01-28 to 2025-02-08
+- Sprain of ankle — 2025-02-05 to 2025-03-08
+- Sprain — 2025-02-05 to 2025-03-08
+
+CURRENT MEDICATIONS | Mark Klocko | ID 612a6a4a
+- None recorded.
+
+PAST MEDICATIONS | Mark Klocko | ID 612a6a4a
+- Acetaminophen 160 MG Chewable Tablet — 2024-01-31 to 2024-03-06
+- Amoxicillin 500 MG Oral Tablet — 2017-08-03 to 2019-03-29
+- Ibuprofen 100 MG Oral Tablet — 2017-08-03 to 2025-03-08
+- Penicillin V Potassium 250 MG Oral Tablet — 2025-01-28 to 2025-02-08
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2023-05-20 to 2026-06-06
+
+ALLERGIES | Mark Klocko | ID 612a6a4a
+- No known allergies.
+
+LATEST VITALS & LABS | Mark Klocko | ID 612a6a4a
+- BMI: 21.5 kg/m2 (2026-05-30)
+- Heart rate: 89 /min (2026-05-30)
+- Height: 154.3 cm (2026-05-30)
+- Hemoglobin: 16.4 g/dL (2026-05-30)
+- Resp rate: 13 /min (2026-05-30)
+- Weight: 51.2 kg (2026-05-30)
+- Blood pressure: 118/66 mmHg (2026-05-30)
+
+VISIT HISTORY (vitals & labs by date) | Mark Klocko | ID 612a6a4a
+[Mark Klocko | ID 612a6a4a] 2026-05-30: BP 118/66 mmHg; Resp rate 13 /min; Height 154.3 cm; Weight 51.2 kg; BMI 21.5 kg/m2; Heart rate 89 /min; Hemoglobin 16.4 g/dL
+[Mark Klocko | ID 612a6a4a] 2025-05-24: BP 119/76 mmHg; Resp rate 13 /min; Heart rate 68 /min; BMI 19.3 kg/m2; Weight 42.6 kg; Height 148.7 cm
+[Mark Klocko | ID 612a6a4a] 2024-05-18: BP 109/77 mmHg; Height 143 cm; Weight 37.7 kg; BMI 18.4 kg/m2; Heart rate 70 /min; Resp rate 15 /min
+[Mark Klocko | ID 612a6a4a] 2023-05-13: BP 113/74 mmHg; Resp rate 16 /min; Heart rate 86 /min; Weight 33.6 kg; Height 136.3 cm; BMI 18.1 kg/m2
+[Mark Klocko | ID 612a6a4a] 2022-05-07: BP 119/74 mmHg; Height 129.5 cm; Weight 29.7 kg; BMI 17.7 kg/m2; Heart rate 81 /min; Resp rate 15 /min
+[Mark Klocko | ID 612a6a4a] 2021-05-01: BP 114/76 mmHg; Resp rate 14 /min; Heart rate 92 /min; Hemoglobin 12.8 g/dL; BMI 17.9 kg/m2; Weight 26.9 kg; Height 122.5 cm
+[Mark Klocko | ID 612a6a4a] 2020-04-25: BP 121/74 mmHg; Resp rate 12 /min; Heart rate 83 /min; Weight 22.8 kg; BMI 17.1 kg/m2; Height 115.4 cm
+[Mark Klocko | ID 612a6a4a] 2019-04-20: BP 112/78 mmHg; Heart rate 79 /min; Height 108.2 cm; Weight 19.6 kg; BMI 16.8 kg/m2; Resp rate 14 /min
+[Mark Klocko | ID 612a6a4a] 2018-10-20: BP 122/75 mmHg; Resp rate 16 /min; Heart rate 95 /min; Weight 18.4 kg; Height 104.5 cm; BMI 16.9 kg/m2
+[Mark Klocko | ID 612a6a4a] 2018-04-21: BP 116/78 mmHg; Heart rate 72 /min; Resp rate 15 /min; BMI 16.7 kg/m2; Weight 16.9 kg; Height 100.6 cm
+[Mark Klocko | ID 612a6a4a] 2017-10-21: BP 105/79 mmHg; Height 96.2 cm; Weight 15.4 kg; BMI 16.6 kg/m2; Heart rate 76 /min; Resp rate 13 /min
+[Mark Klocko | ID 612a6a4a] 2017-04-22: BP 117/77 mmHg; Resp rate 14 /min; Heart rate 61 /min; Weight 14.4 kg; Height 92 cm
+[Mark Klocko | ID 612a6a4a] 2016-10-22: BP 110/76 mmHg; Height 86.3 cm; Weight 13.3 kg; Heart rate 71 /min; Resp rate 16 /min

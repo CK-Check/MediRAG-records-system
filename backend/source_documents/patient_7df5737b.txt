@@ -1,0 +1,68 @@
+PATIENT SUMMARY | Mrs. Fanny Durgan | ID 7df5737b
+DOB: 1991-07-02 | Age: 35 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Mrs. Fanny Durgan | ID 7df5737b
+- Chronic low back pain — since 2014-02-06
+- Chronic neck pain — since 2014-02-06
+- Chronic pain — since 2014-02-06
+- Unhealthy alcohol drinking behavior — since 2022-10-25
+
+RESOLVED CONDITIONS | Mrs. Fanny Durgan | ID 7df5737b
+- Normal pregnancy — 2016-08-09 to 2025-12-09
+- Gingivitis — 2017-09-26 to 2017-10-10
+- Acute infective cystitis — 2019-03-28 to 2019-03-30
+- Cough — 2021-03-02 to 2021-03-25
+- Disease caused by severe acute respiratory syndrome coronavirus 2 — 2021-03-02 to 2021-03-25
+- Fever — 2021-03-02 to 2021-03-25
+- Sputum finding — 2021-03-02 to 2021-03-25
+- Suspected disease caused by Severe acute respiratory coronavirus 2 — 2021-03-02 to 2021-03-02
+- Pre-eclampsia — 2021-06-29 to 2021-08-24
+- Limited social contact — 2022-10-25 to 2023-10-31
+- Anemia — 2025-05-06 to 2025-12-09
+
+CURRENT MEDICATIONS | Mrs. Fanny Durgan | ID 7df5737b
+- 72 HR Fentanyl 0.025 MG/HR Transdermal System — since 2025-11-11
+- Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] — since 2025-11-11
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet — since 2015-03-15
+- Loratadine 5 MG Chewable Tablet — since 1992-06-16
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector — since 1992-06-16
+- tramadol hydrochloride 50 MG Oral Tablet — since 2025-11-11
+- {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] — since 2026-02-06
+
+PAST MEDICATIONS | Mrs. Fanny Durgan | ID 7df5737b
+- levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena] — 2017-04-25 to 2018-04-23
+- nitrofurantoin  macrocrystals 25 MG / nitrofurantoin  monohydrate 75 MG Oral Capsule — 2019-03-28 to 2019-03-30
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2023-11-14 to 2024-11-19
+- {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique] — 2021-10-12 to 2022-10-07
+- {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] — 2022-10-07 to 2023-10-02
+
+ALLERGIES | Mrs. Fanny Durgan | ID 7df5737b
+- Peanut (food allergy) — reaction: Allergic angioedema (MODERATE)
+
+LATEST VITALS & LABS | Mrs. Fanny Durgan | ID 7df5737b
+- BMI: 25.4 kg/m2 (2025-11-11)
+- HDL: 64 mg/dL (2024-11-05)
+- Heart rate: 96 /min (2025-11-11)
+- Height: 161.4 cm (2025-11-11)
+- Hemoglobin: 11.1 g/dL (2025-05-06)
+- LDL: 103.5 mg/dL (2024-11-05)
+- Resp rate: 14 /min (2025-11-11)
+- Total cholesterol: 190 mg/dL (2024-11-05)
+- Triglycerides: 112.6 mg/dL (2024-11-05)
+- Weight: 66.1 kg (2025-11-11)
+- Blood pressure: 97/73 mmHg (2025-11-11)
+
+VISIT HISTORY (vitals & labs by date) | Mrs. Fanny Durgan | ID 7df5737b
+[Mrs. Fanny Durgan | ID 7df5737b] 2025-11-11: BP 97/73 mmHg; Heart rate 96 /min; Height 161.4 cm; Weight 66.1 kg; BMI 25.4 kg/m2; Resp rate 14 /min
+[Mrs. Fanny Durgan | ID 7df5737b] 2025-05-06: Hemoglobin 11.1 g/dL
+[Mrs. Fanny Durgan | ID 7df5737b] 2024-11-05: BP 105/67 mmHg; HDL 64 mg/dL; LDL 103.5 mg/dL; Triglycerides 112.6 mg/dL; Resp rate 12 /min; Heart rate 96 /min; Total cholesterol 190 mg/dL; BMI 24.9 kg/m2; Weight 64.8 kg; Height 161.4 cm
+[Mrs. Fanny Durgan | ID 7df5737b] 2023-10-31: BP 96/73 mmHg; Hemoglobin 14.8 g/dL; Resp rate 13 /min; Heart rate 77 /min; Weight 63.7 kg; Height 161.4 cm; BMI 24.5 kg/m2
+[Mrs. Fanny Durgan | ID 7df5737b] 2022-10-25: BP 103/74 mmHg; Height 161.4 cm; Weight 62.7 kg; BMI 24.1 kg/m2; Heart rate 64 /min; Resp rate 15 /min
+[Mrs. Fanny Durgan | ID 7df5737b] 2021-10-19: BP 100/75 mmHg; Height 161.4 cm; Triglycerides 115.9 mg/dL; Total cholesterol 206.8 mg/dL; Resp rate 14 /min; Heart rate 71 /min; HDL 55.8 mg/dL; BMI 23.3 kg/m2; Weight 60.8 kg; LDL 127.9 mg/dL
+[Mrs. Fanny Durgan | ID 7df5737b] 2021-03-02: BP 102/70 mmHg; Weight 59.1 kg; Resp rate 17.4 /min; Heart rate 115 /min
+[Mrs. Fanny Durgan | ID 7df5737b] 2020-10-13: BP 95/71 mmHg; Height 161.4 cm; Weight 59.1 kg; BMI 22.7 kg/m2; Heart rate 74 /min; Resp rate 15 /min
+[Mrs. Fanny Durgan | ID 7df5737b] 2019-10-08: BP 102/74 mmHg; Resp rate 15 /min; Heart rate 72 /min; Weight 57.4 kg; Height 161.4 cm; BMI 22.1 kg/m2
+[Mrs. Fanny Durgan | ID 7df5737b] 2019-03-28: BP 143.2/89 mmHg; Heart rate 94.3 /min; Resp rate 15.4 /min
+[Mrs. Fanny Durgan | ID 7df5737b] 2018-10-02: BP 96/72 mmHg; Heart rate 95 /min; Hemoglobin 13.1 g/dL; Resp rate 15 /min; BMI 21.5 kg/m2; Weight 56.1 kg; Height 161.4 cm
+[Mrs. Fanny Durgan | ID 7df5737b] 2017-09-26: BP 104/69 mmHg; Resp rate 15 /min; Heart rate 99 /min; Weight 54.7 kg; BMI 21 kg/m2; Height 161.4 cm
+[Mrs. Fanny Durgan | ID 7df5737b] 2016-09-20: BP 103/67 mmHg; Height 161.4 cm; Weight 53.1 kg; BMI 20.4 kg/m2; Heart rate 61 /min; Resp rate 14 /min

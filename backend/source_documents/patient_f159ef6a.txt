@@ -1,0 +1,43 @@
+PATIENT SUMMARY | Ms. Fredricka Torp | ID f159ef6a
+DOB: 1999-04-09 | Age: 27 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Ms. Fredricka Torp | ID f159ef6a
+- None recorded.
+
+RESOLVED CONDITIONS | Ms. Fredricka Torp | ID f159ef6a
+- Acute bronchitis — 2016-11-16 to 2016-11-28
+- Gingivitis — 2017-06-02 to 2018-06-22
+- Acute infective cystitis — 2019-12-11 to 2019-12-11
+
+CURRENT MEDICATIONS | Ms. Fredricka Torp | ID f159ef6a
+- None recorded.
+
+PAST MEDICATIONS | Ms. Fredricka Torp | ID f159ef6a
+- Acetaminophen 325 MG Oral Tablet — 2016-11-16 to 2016-11-28
+- levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena] — 2025-02-04 to 2026-02-01
+- nitrofurantoin  macrocrystals 25 MG / nitrofurantoin  monohydrate 75 MG Oral Capsule — 2019-12-11 to 2019-12-11
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2018-06-22 to 2021-06-25
+- {21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day] — 2024-02-10 to 2025-02-04
+- {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] — 2017-03-18 to 2018-03-13
+- {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] — 2018-03-13 to 2024-02-10
+- {5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day] — 2022-02-20 to 2023-02-15
+- {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique] — 2019-03-08 to 2020-03-02
+
+ALLERGIES | Ms. Fredricka Torp | ID f159ef6a
+- No known allergies.
+
+LATEST VITALS & LABS | Ms. Fredricka Torp | ID f159ef6a
+- BMI: 22.6 kg/m2 (2024-06-14)
+- Heart rate: 67 /min (2024-06-14)
+- Height: 163.2 cm (2024-06-14)
+- Hemoglobin: 13.6 g/dL (2021-06-11)
+- Resp rate: 14 /min (2024-06-14)
+- Weight: 60.3 kg (2024-06-14)
+- Blood pressure: 120/88 mmHg (2024-06-14)
+
+VISIT HISTORY (vitals & labs by date) | Ms. Fredricka Torp | ID f159ef6a
+[Ms. Fredricka Torp | ID f159ef6a] 2024-06-14: BP 120/88 mmHg; Heart rate 67 /min; Height 163.2 cm; Weight 60.3 kg; BMI 22.6 kg/m2; Resp rate 14 /min
+[Ms. Fredricka Torp | ID f159ef6a] 2021-06-11: BP 122/86 mmHg; Hemoglobin 13.6 g/dL; Resp rate 14 /min; Heart rate 76 /min; BMI 21 kg/m2; Weight 56 kg; Height 163.2 cm
+[Ms. Fredricka Torp | ID f159ef6a] 2018-06-08: BP 130/86 mmHg; Heart rate 92 /min; Resp rate 15 /min; BMI 19.3 kg/m2; Weight 51.4 kg; Height 163.1 cm
+[Ms. Fredricka Torp | ID f159ef6a] 2017-06-02: BP 122/90 mmHg; Resp rate 13 /min; Heart rate 61 /min; Weight 52.4 kg; BMI 19.7 kg/m2; Height 163 cm
+[Ms. Fredricka Torp | ID f159ef6a] 2016-11-25: BP 134/85 mmHg; Height 162.9 cm; Weight 52 kg; BMI 19.6 kg/m2; Heart rate 65 /min; Resp rate 14 /min

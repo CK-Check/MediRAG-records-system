@@ -1,0 +1,76 @@
+PATIENT SUMMARY | Mr. Andrea Hamill | ID 9ae89c82
+DOB: 1965-12-12 | Age: 60 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Mr. Andrea Hamill | ID 9ae89c82
+- Prediabetes — since 1994-02-20
+- Anemia — since 1997-11-23
+- Has a criminal record — since 2003-03-02
+- Localized  primary osteoarthritis of the hand — since 2003-06-09
+- Body mass index 30+ - obesity — since 2009-12-27
+- Ischemic heart disease — since 2015-12-13
+- Abnormal findings diagnostic imaging heart+coronary circulat — since 2016-01-07
+- History of coronary artery bypass grafting — since 2016-01-18
+- Hyperlipidemia — since 2024-01-28
+- Essential hypertension — since 2025-02-02
+
+RESOLVED CONDITIONS | Mr. Andrea Hamill | ID 9ae89c82
+- Concussion injury of brain — 2017-12-01 to 2018-01-09
+- Concussion with no loss of consciousness — 2017-12-01 to 2018-01-09
+- Viral sinusitis — 2018-05-11 to 2018-05-26
+- Misuses drugs — 2018-12-30 to 2020-01-05
+- Sinusitis — 2020-12-19 to 2021-01-06
+- Gingivitis — 2021-01-10 to 2021-01-24
+- Gingival disease — 2021-01-24 to 2021-01-24
+- Primary dental caries — 2021-01-24 to 2021-01-24
+- Acute bronchitis — 2021-07-11 to 2021-07-21
+- Victim of intimate partner abuse — 2023-01-22 to 2024-01-28
+
+CURRENT MEDICATIONS | Mr. Andrea Hamill | ID 9ae89c82
+- 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet — since 2015-12-20
+- Clopidogrel 75 MG Oral Tablet — since 2015-12-20
+- Hydrochlorothiazide 25 MG Oral Tablet — since 2026-02-08, for Essential hypertension
+- Naproxen sodium 220 MG Oral Tablet — since 2003-06-09, for Localized  primary osteoarthritis of the hand
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray — since 2015-12-20
+- Simvastatin 10 MG Oral Tablet — since 2026-02-17, for Hyperlipidemia
+- Simvastatin 20 MG Oral Tablet — since 2015-12-20
+
+PAST MEDICATIONS | Mr. Andrea Hamill | ID 9ae89c82
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution — 2021-07-11 to 2021-07-21
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2018-01-07 to 2021-01-24
+
+ALLERGIES | Mr. Andrea Hamill | ID 9ae89c82
+- Shellfish (food allergy) — reaction: Anaphylaxis (SEVERE)
+
+LATEST VITALS & LABS | Mr. Andrea Hamill | ID 9ae89c82
+- BMI: 27.7 kg/m2 (2026-02-08)
+- BUN: 9.3 mg/dL (2026-02-17)
+- Creatinine: 3.3 mg/dL (2026-02-17)
+- Glucose: 78.3 mg/dL (2026-02-17)
+- HDL: 57.1 mg/dL (2026-02-17)
+- HbA1c: 6.3 % (2026-02-08)
+- Heart rate: 89 /min (2026-02-08)
+- Height: 167.2 cm (2026-02-08)
+- Hemoglobin: 17.2 g/dL (2023-01-22)
+- LDL: 87.9 mg/dL (2026-02-17)
+- Potassium: 3.8 mmol/L (2026-02-17)
+- Resp rate: 13 /min (2026-02-08)
+- Sodium: 139.9 mmol/L (2026-02-17)
+- Total cholesterol: 178.9 mg/dL (2026-02-17)
+- Triglycerides: 101.6 mg/dL (2026-02-17)
+- Weight: 77.4 kg (2026-02-08)
+- Blood pressure: 137/86 mmHg (2026-02-08)
+
+VISIT HISTORY (vitals & labs by date) | Mr. Andrea Hamill | ID 9ae89c82
+[Mr. Andrea Hamill | ID 9ae89c82] 2026-02-17: LDL 87.9 mg/dL; Glucose 78.3 mg/dL; BUN 9.3 mg/dL; Creatinine 3.3 mg/dL; Sodium 139.9 mmol/L; Potassium 3.8 mmol/L; Total cholesterol 178.9 mg/dL; Triglycerides 101.6 mg/dL; HDL 57.1 mg/dL
+[Mr. Andrea Hamill | ID 9ae89c82] 2026-02-08: BP 137/86 mmHg; Glucose 97.9 mg/dL; Sodium 138.5 mmol/L; Creatinine 0.9 mg/dL; Potassium 4.8 mmol/L; BUN 7.9 mg/dL; Resp rate 13 /min; Weight 77.4 kg; BMI 27.7 kg/m2; Height 167.2 cm; HbA1c 6.3 %; Heart rate 89 /min
+[Mr. Andrea Hamill | ID 9ae89c82] 2025-02-17: HDL 76.9 mg/dL; LDL 143.5 mg/dL; Triglycerides 181.8 mg/dL; Total cholesterol 187.9 mg/dL; Sodium 138.7 mmol/L; Creatinine 3.3 mg/dL; BUN 7.2 mg/dL; Glucose 89.3 mg/dL; Potassium 4.9 mmol/L
+[Mr. Andrea Hamill | ID 9ae89c82] 2025-02-02: BP 148/95 mmHg; Creatinine 1.1 mg/dL; HDL 56.2 mg/dL; LDL 208.6 mg/dL; Triglycerides 111.1 mg/dL; Total cholesterol 287 mg/dL; Potassium 3.7 mmol/L; Sodium 137.5 mmol/L; BUN 10.8 mg/dL; Height 167.2 cm; Resp rate 12 /min; Heart rate 61 /min; BMI 29.9 kg/m2; Weight 83.7 kg; Glucose 94.4 mg/dL; HbA1c 5.9 %
+[Mr. Andrea Hamill | ID 9ae89c82] 2024-01-28: BP 137/64 mmHg; Heart rate 73 /min; Resp rate 15 /min; Sodium 138 mmol/L; BUN 12.9 mg/dL; Creatinine 0.9 mg/dL; Potassium 4.2 mmol/L; BMI 29.2 kg/m2; Glucose 82.4 mg/dL; Weight 81.7 kg; LDL 156.3 mg/dL; Potassium 4.2 mmol/L; HbA1c 5.9 %; Height 167.2 cm; Triglycerides 143.2 mg/dL; HDL 48.1 mg/dL; Total cholesterol 284.9 mg/dL; BUN 12.9 mg/dL; Creatinine 2.7 mg/dL; Sodium 138 mmol/L; Glucose 82.4 mg/dL
+[Mr. Andrea Hamill | ID 9ae89c82] 2023-01-22: BP 122/64 mmHg; Hemoglobin 17.2 g/dL; Potassium 5.2 mmol/L; Sodium 140.3 mmol/L; Creatinine 0.9 mg/dL; BUN 18.6 mg/dL; Resp rate 13 /min; Glucose 68.5 mg/dL; BMI 28.5 kg/m2; Weight 79.6 kg; Height 167.2 cm; HbA1c 5.9 %; Heart rate 63 /min
+[Mr. Andrea Hamill | ID 9ae89c82] 2022-01-16: BP 121/70 mmHg; Creatinine 0.9 mg/dL; HDL 58.6 mg/dL; LDL 158.5 mg/dL; Triglycerides 148.2 mg/dL; Total cholesterol 246.7 mg/dL; Potassium 4.8 mmol/L; Sodium 136 mmol/L; BUN 8.6 mg/dL; Glucose 73.7 mg/dL; Resp rate 13 /min; Heart rate 60 /min; BMI 27.8 kg/m2; Weight 77.6 kg; Height 167.2 cm; HbA1c 6.4 %
+[Mr. Andrea Hamill | ID 9ae89c82] 2021-07-04: BP 131/70 mmHg; Potassium 4.1 mmol/L; Sodium 136.2 mmol/L; Creatinine 0.9 mg/dL; BUN 12 mg/dL; Glucose 87.7 mg/dL; Resp rate 14 /min; HbA1c 6 %; BMI 27.4 kg/m2; Weight 76.5 kg; Height 167.2 cm; Heart rate 75 /min
+[Mr. Andrea Hamill | ID 9ae89c82] 2021-01-10: BP 127/63 mmHg; Potassium 5 mmol/L; Sodium 139.6 mmol/L; Creatinine 0.9 mg/dL; BUN 10.4 mg/dL; Glucose 65.9 mg/dL; Resp rate 12 /min; Heart rate 73 /min; BMI 27.8 kg/m2; Weight 77.7 kg; Height 167.2 cm; HbA1c 6.2 %
+[Mr. Andrea Hamill | ID 9ae89c82] 2020-01-05: BP 120/65 mmHg; Glucose 85.4 mg/dL; Potassium 4 mmol/L; Sodium 138.7 mmol/L; Creatinine 1 mg/dL; BUN 15.3 mg/dL; Resp rate 13 /min; Height 167.2 cm; BMI 30 kg/m2; Weight 83.8 kg; Heart rate 97 /min; HbA1c 6.3 %
+[Mr. Andrea Hamill | ID 9ae89c82] 2018-12-30: BP 131/64 mmHg; HDL 57.1 mg/dL; LDL 206.6 mg/dL; Triglycerides 137.3 mg/dL; Total cholesterol 291.2 mg/dL; Potassium 4.5 mmol/L; Sodium 137.2 mmol/L; Creatinine 1 mg/dL; BUN 8.5 mg/dL; Resp rate 13 /min; Heart rate 82 /min; BMI 29.4 kg/m2; Weight 82.3 kg; Height 167.2 cm; HbA1c 6.3 %; Glucose 92.7 mg/dL
+[Mr. Andrea Hamill | ID 9ae89c82] 2017-12-24: BP 126/70 mmHg; Glucose 81.7 mg/dL; Hemoglobin 17.3 g/dL; Potassium 4.8 mmol/L; Creatinine 1.2 mg/dL; BUN 13.2 mg/dL; Resp rate 13 /min; Sodium 136.9 mmol/L; BMI 28.9 kg/m2; Weight 80.7 kg; Height 167.2 cm; HbA1c 5.9 %; Heart rate 83 /min
+[Mr. Andrea Hamill | ID 9ae89c82] 2016-12-18: BP 123/67 mmHg; HbA1c 6.2 %; Potassium 4.5 mmol/L; Sodium 140.4 mmol/L; Creatinine 1.1 mg/dL; Glucose 97.1 mg/dL; Resp rate 16 /min; BUN 17 mg/dL; BMI 28.3 kg/m2; Weight 79.2 kg; Height 167.2 cm; Heart rate 96 /min

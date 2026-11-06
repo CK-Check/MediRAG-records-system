@@ -1,0 +1,90 @@
+PATIENT SUMMARY | Ms. Lindsey Borer | ID 0884486c
+DOB: 1934-02-01 | Age: 92 | Gender: F | Status: Deceased
+
+ACTIVE CONDITIONS | Ms. Lindsey Borer | ID 0884486c
+- Past pregnancy history of miscarriage — since 1954-11-22
+- Anemia — since 1968-05-16
+- Prediabetes — since 1968-05-16
+- Body mass index 30+ - obesity — since 1980-02-21
+- Has a criminal record — since 1995-04-06
+- Ischemic heart disease — since 2000-05-04
+- Abnormal findings diagnostic imaging heart+coronary circulat — since 2000-05-18
+- History of coronary artery bypass grafting — since 2000-05-22
+- Polyp of colon — since 2004-02-08
+- Chronic sinusitis — since 2006-10-21
+- Limited social contact — since 2008-06-19
+- Victim of intimate partner abuse — since 2008-06-19
+- Recurrent rectal polyp — since 2011-07-14
+- Malignant neoplasm of colon — since 2011-07-20
+- Alzheimer's disease — since 2012-07-12
+- Chronic low back pain — since 2014-02-01
+- Chronic pain — since 2014-02-01
+
+RESOLVED CONDITIONS | Ms. Lindsey Borer | ID 0884486c
+- Gingivitis — 2006-06-08 to 2013-08-01
+- Acute bacterial sinusitis — 2006-08-05 to 2006-11-18
+- Gingival disease — 2007-06-28 to 2007-06-28
+- Fracture of bone — 2011-12-10 to 2012-01-21
+- Fracture of rib — 2011-12-10 to 2012-01-21
+- Viral sinusitis — 2012-12-27 to 2013-01-09
+- Dental filling lost — 2013-08-01 to 2013-08-01
+
+CURRENT MEDICATIONS | Ms. Lindsey Borer | ID 0884486c
+- 12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule — since 2014-07-24
+- 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet — since 2000-05-11
+- 72 HR Fentanyl 0.025 MG/HR Transdermal System — since 2014-07-24
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet — since 2014-07-24
+- Clopidogrel 75 MG Oral Tablet — since 2000-05-11
+- Memantine hydrochloride 2 MG/ML Oral Solution — since 2013-06-28, for Alzheimer's disease
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray — since 2000-05-11
+- Simvastatin 20 MG Oral Tablet — since 2000-05-11
+
+PAST MEDICATIONS | Ms. Lindsey Borer | ID 0884486c
+- 10 ML oxaliplatin 5 MG/ML Injection — 2011-09-23 to 2012-02-22
+- Galantamine 4 MG Oral Tablet — 2012-07-12 to 2013-06-28
+- Ibuprofen 200 MG Oral Tablet — 2011-12-10 to 2012-01-21
+- Leucovorin 100 MG Injection — 2011-09-23 to 2012-02-22
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2008-07-03 to 2013-08-01
+
+ALLERGIES | Ms. Lindsey Borer | ID 0884486c
+- No known allergies.
+
+LATEST VITALS & LABS | Ms. Lindsey Borer | ID 0884486c
+- BMI: 28 kg/m2 (2014-07-24)
+- BUN: 7.3 mg/dL (2014-07-24)
+- Creatinine: 0.5 mg/dL (2014-07-24)
+- Glucose: 92.7 mg/dL (2014-07-24)
+- HDL: 59.2 mg/dL (2014-07-24)
+- HbA1c: 6.4 % (2014-07-24)
+- Heart rate: 71 /min (2014-07-24)
+- Height: 162 cm (2014-07-24)
+- Hemoglobin: 7.4 g/dL (2012-02-22)
+- LDL: 60 mg/dL (2014-07-24)
+- Potassium: 5.1 mmol/L (2014-07-24)
+- Resp rate: 14 /min (2014-07-24)
+- Sodium: 137.3 mmol/L (2014-07-24)
+- Total cholesterol: 139.2 mg/dL (2014-07-24)
+- Triglycerides: 100.1 mg/dL (2014-07-24)
+- Weight: 73.5 kg (2014-07-24)
+- Blood pressure: 96/59 mmHg (2014-07-24)
+
+VISIT HISTORY (vitals & labs by date) | Ms. Lindsey Borer | ID 0884486c
+[Ms. Lindsey Borer | ID 0884486c] 2014-07-24: BP 96/59 mmHg; Triglycerides 100.1 mg/dL; Total cholesterol 139.2 mg/dL; Potassium 5.1 mmol/L; Sodium 137.3 mmol/L; Creatinine 0.5 mg/dL; BUN 7.3 mg/dL; Glucose 92.7 mg/dL; Heart rate 71 /min; BMI 28 kg/m2; Weight 73.5 kg; Height 162 cm; HbA1c 6.4 %; LDL 60 mg/dL; Resp rate 14 /min; HDL 59.2 mg/dL
+[Ms. Lindsey Borer | ID 0884486c] 2013-07-18: BP 90/61 mmHg; Potassium 4 mmol/L; Sodium 143 mmol/L; Creatinine 0.6 mg/dL; BUN 12.3 mg/dL; Glucose 96.2 mg/dL; Resp rate 14 /min; BMI 28 kg/m2; Weight 73.5 kg; Height 162 cm; HbA1c 6.3 %; Heart rate 77 /min
+[Ms. Lindsey Borer | ID 0884486c] 2012-12-13: BP 103/61 mmHg; Potassium 5.1 mmol/L; Sodium 137.5 mmol/L; Creatinine 0.6 mg/dL; BUN 18.5 mg/dL; Glucose 83.9 mg/dL; Resp rate 16 /min; BMI 28 kg/m2; Weight 73.5 kg; Height 162 cm; HbA1c 6.1 %; Heart rate 99 /min
+[Ms. Lindsey Borer | ID 0884486c] 2012-12-06: HbA1c 6.4 %
+[Ms. Lindsey Borer | ID 0884486c] 2012-11-29: BP 102/58 mmHg; Resp rate 14 /min; Potassium 5.1 mmol/L; Sodium 143.1 mmol/L; Creatinine 0.5 mg/dL; BUN 9.7 mg/dL; Glucose 82.4 mg/dL; BMI 28 kg/m2; Weight 73.5 kg; Height 162 cm; HbA1c 5.8 %; Heart rate 70 /min
+[Ms. Lindsey Borer | ID 0884486c] 2012-07-12: BP 93/54 mmHg; Potassium 5 mmol/L; Sodium 137.6 mmol/L; Creatinine 0.7 mg/dL; BUN 17.2 mg/dL; Resp rate 14 /min; Heart rate 84 /min; Glucose 75.7 mg/dL; BMI 28 kg/m2; Weight 73.5 kg; Height 162 cm; HbA1c 6.4 %
+[Ms. Lindsey Borer | ID 0884486c] 2012-02-22: Hemoglobin 7.4 g/dL; Potassium 4.5 mmol/L; Sodium 139.7 mmol/L; Glucose 65.6 mg/dL; BUN 16.9 mg/dL; Creatinine 2.6 mg/dL
+[Ms. Lindsey Borer | ID 0884486c] 2012-01-23: Potassium 4.9 mmol/L; Sodium 136.3 mmol/L; Hemoglobin 14.2 g/dL; BUN 19.9 mg/dL; Glucose 81 mg/dL; Creatinine 2.5 mg/dL
+[Ms. Lindsey Borer | ID 0884486c] 2011-12-23: Glucose 66.9 mg/dL; BUN 11.9 mg/dL; Creatinine 3.4 mg/dL; Sodium 141.7 mmol/L; Potassium 4.2 mmol/L; Hemoglobin 9.1 g/dL
+[Ms. Lindsey Borer | ID 0884486c] 2011-11-24: Hemoglobin 14.3 g/dL; Potassium 4.5 mmol/L; Sodium 138 mmol/L; BUN 8.9 mg/dL; Glucose 70.4 mg/dL; Creatinine 3.4 mg/dL
+[Ms. Lindsey Borer | ID 0884486c] 2011-10-26: Glucose 83.3 mg/dL; BUN 17.1 mg/dL; Creatinine 3 mg/dL; Sodium 141.9 mmol/L; Potassium 4.5 mmol/L; Hemoglobin 9.3 g/dL
+[Ms. Lindsey Borer | ID 0884486c] 2011-09-23: Potassium 4.2 mmol/L; Hemoglobin 10.2 g/dL; Sodium 137.3 mmol/L; Glucose 78.7 mg/dL; BUN 18.1 mg/dL; Creatinine 2.7 mg/dL
+[Ms. Lindsey Borer | ID 0884486c] 2011-07-07: BP 104/57 mmHg; HDL 53.3 mg/dL; LDL 65.6 mg/dL; Triglycerides 137.1 mg/dL; Total cholesterol 146.3 mg/dL; Potassium 4.6 mmol/L; Sodium 137.3 mmol/L; Creatinine 0.6 mg/dL; BUN 12.1 mg/dL; Heart rate 75 /min; Resp rate 14 /min; BMI 28 kg/m2; Weight 73.5 kg; Height 162 cm; HbA1c 6.4 %; Glucose 66.8 mg/dL; Hemoglobin 14.4 g/dL
+[Ms. Lindsey Borer | ID 0884486c] 2010-07-01: BP 102/59 mmHg; Resp rate 15 /min; Potassium 3.8 mmol/L; Sodium 142.8 mmol/L; Creatinine 0.6 mg/dL; BUN 14.7 mg/dL; Glucose 96.5 mg/dL; Heart rate 77 /min; BMI 28 kg/m2; Weight 73.5 kg; Height 162 cm; HbA1c 6.1 %
+[Ms. Lindsey Borer | ID 0884486c] 2009-06-25: BP 98/56 mmHg; Potassium 4 mmol/L; Sodium 136.9 mmol/L; Creatinine 0.6 mg/dL; BUN 11.9 mg/dL; Glucose 85.5 mg/dL; Resp rate 15 /min; BMI 28 kg/m2; Weight 73.5 kg; Height 162 cm; HbA1c 5.9 %; Heart rate 98 /min
+[Ms. Lindsey Borer | ID 0884486c] 2008-06-19: BP 99/61 mmHg; Creatinine 0.6 mg/dL; HDL 49.4 mg/dL; LDL 62.7 mg/dL; Triglycerides 130.6 mg/dL; Total cholesterol 138.2 mg/dL; Potassium 4.4 mmol/L; Sodium 137.6 mmol/L; Glucose 67.2 mg/dL; BUN 19.5 mg/dL; Resp rate 13 /min; Heart rate 89 /min; BMI 28 kg/m2; Weight 73.5 kg; Height 162 cm; HbA1c 5.9 %
+[Ms. Lindsey Borer | ID 0884486c] 2007-06-14: BP 103/58 mmHg; Potassium 3.8 mmol/L; Sodium 142 mmol/L; Creatinine 0.6 mg/dL; BUN 9.9 mg/dL; Glucose 73.7 mg/dL; Resp rate 13 /min; Heart rate 81 /min; BMI 28 kg/m2; Weight 73.5 kg; Height 162 cm; HbA1c 5.8 %
+[Ms. Lindsey Borer | ID 0884486c] 2006-06-08: BP 99/51 mmHg; BUN 11.8 mg/dL; Hemoglobin 16.8 g/dL; Potassium 5.1 mmol/L; Sodium 140 mmol/L; Creatinine 0.6 mg/dL; Resp rate 16 /min; Glucose 75.7 mg/dL; BMI 28 kg/m2; Weight 73.5 kg; Height 162 cm; HbA1c 6.2 %; Heart rate 68 /min
+[Ms. Lindsey Borer | ID 0884486c] 2005-06-02: BP 101/55 mmHg; HbA1c 6.4 %; HDL 58.9 mg/dL; LDL 60.3 mg/dL; Triglycerides 149.3 mg/dL; Total cholesterol 149.1 mg/dL; Potassium 4.2 mmol/L; Creatinine 0.6 mg/dL; BUN 16 mg/dL; Sodium 137.5 mmol/L; Resp rate 12 /min; Heart rate 92 /min; BMI 28 kg/m2; Weight 73.5 kg; Height 162 cm; Glucose 75.8 mg/dL

@@ -1,0 +1,68 @@
+PATIENT SUMMARY | Mrs. Astrid Hudson | ID 4d6897b6
+DOB: 1991-10-04 | Age: 35 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Mrs. Astrid Hudson | ID 4d6897b6
+- None recorded.
+
+RESOLVED CONDITIONS | Mrs. Astrid Hudson | ID 4d6897b6
+- Normal pregnancy — 2016-08-12 to 2024-04-12
+- Gingivitis — 2016-12-09 to 2018-06-15
+- Acute bronchitis — 2017-01-09 to 2017-01-19
+- Limited social contact — 2017-01-20 to 2019-12-13
+- Gingival disease — 2017-02-03 to 2017-02-03
+- Acute viral pharyngitis — 2018-06-08 to 2018-06-18
+- Eclampsia in pregnancy — 2024-03-22 to 2024-04-12
+- Laceration - injury — 2024-05-08 to 2024-05-26
+- Laceration of forearm — 2024-05-08 to 2024-05-26
+- Acute cholecystitis — 2025-11-26 to 2025-11-26
+- Gallbladder calculus — 2025-11-26 to 2025-11-26
+
+CURRENT MEDICATIONS | Mrs. Astrid Hudson | ID 4d6897b6
+- 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System — since 2026-05-21
+
+PAST MEDICATIONS | Mrs. Astrid Hudson | ID 4d6897b6
+- 1 ML Morphine Sulfate 5 MG/ML Injection — 2025-11-26 to 2025-11-26
+- 1 ML heparin sodium  porcine 5000 UNT/ML Injection — 2025-11-26 to 2025-11-26
+- 10 ML Fentanyl 0.05 MG/ML Injection — 2025-11-26 to 2025-11-26
+- 100 ML Propofol 10 MG/ML Injection — 2025-11-26 to 2025-11-26
+- 2 ML Ondansetron 2 MG/ML Injection — 2025-11-26 to 2025-11-26
+- 21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing] — 2019-05-24 to 2025-05-26
+- Acetaminophen 325 MG Oral Tablet — 2017-01-09 to 2017-01-19
+- Ibuprofen 200 MG Oral Tablet — 2024-05-08 to 2024-05-26
+- Meperidine Hydrochloride 50 MG Oral Tablet — 2025-11-27 to 2026-02-15
+- Midazolam 1 MG/ML Injectable Solution — 2025-11-26 to 2025-11-26
+- Piperacillin 4000 MG / tazobactam 500 MG Injection — 2025-11-26 to 2025-11-26
+- Rocuronium bromide 10 MG/ML Injectable Solution — 2025-11-26 to 2025-11-26
+- Sodium Chloride 9 MG/ML Injectable Solution — 2025-11-26 to 2025-11-27
+- desflurane 1000 MG/ML Inhalation Solution — 2025-11-26 to 2025-11-26
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2016-12-23 to 2026-01-02
+- {21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day] — 2016-09-16 to 2017-09-11
+- {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] — 2022-05-08 to 2023-05-03
+- {5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day] — 2021-05-13 to 2022-05-08
+- {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique] — 2020-05-18 to 2021-05-13
+
+ALLERGIES | Mrs. Astrid Hudson | ID 4d6897b6
+- No known allergies.
+
+LATEST VITALS & LABS | Mrs. Astrid Hudson | ID 4d6897b6
+- BMI: 26.6 kg/m2 (2025-12-19)
+- Creatinine: 0.9 mg/dL (2025-11-26)
+- HDL: 30.1 mg/dL (2025-12-19)
+- Heart rate: 83 /min (2025-12-19)
+- Height: 159.4 cm (2025-12-19)
+- Hemoglobin: 12.3 g/dL (2025-12-19)
+- LDL: 132.6 mg/dL (2025-12-19)
+- Resp rate: 13 /min (2025-12-19)
+- Total cholesterol: 186.4 mg/dL (2025-12-19)
+- Triglycerides: 118.6 mg/dL (2025-12-19)
+- Weight: 67.6 kg (2025-12-19)
+- Blood pressure: 120/82 mmHg (2025-12-19)
+
+VISIT HISTORY (vitals & labs by date) | Mrs. Astrid Hudson | ID 4d6897b6
+[Mrs. Astrid Hudson | ID 4d6897b6] 2025-12-19: BP 120/82 mmHg; LDL 132.6 mg/dL; Triglycerides 118.6 mg/dL; Total cholesterol 186.4 mg/dL; Resp rate 13 /min; Heart rate 83 /min; BMI 26.6 kg/m2; Weight 67.6 kg; Height 159.4 cm; HDL 30.1 mg/dL; Hemoglobin 12.3 g/dL
+[Mrs. Astrid Hudson | ID 4d6897b6] 2025-11-26: Hemoglobin 15.1 g/dL; Creatinine 0.9 mg/dL
+[Mrs. Astrid Hudson | ID 4d6897b6] 2022-12-16: BP 125/85 mmHg; LDL 80.3 mg/dL; Triglycerides 148.1 mg/dL; Total cholesterol 136.8 mg/dL; Resp rate 14 /min; Heart rate 97 /min; HDL 26.8 mg/dL; BMI 25 kg/m2; Weight 63.6 kg; Height 159.4 cm
+[Mrs. Astrid Hudson | ID 4d6897b6] 2019-12-13: BP 114/98 mmHg; Resp rate 16 /min; Hemoglobin 13.8 g/dL; Heart rate 90 /min; BMI 23.7 kg/m2; Weight 60.2 kg; Height 159.4 cm
+[Mrs. Astrid Hudson | ID 4d6897b6] 2018-06-01: BP 122/86 mmHg; Height 159.4 cm; Weight 56.7 kg; BMI 22.3 kg/m2; Heart rate 83 /min; Resp rate 15 /min
+[Mrs. Astrid Hudson | ID 4d6897b6] 2017-01-20: BP 115/83 mmHg; Resp rate 15 /min; Heart rate 84 /min; Weight 54.9 kg; Height 159.4 cm; BMI 21.6 kg/m2
+[Mrs. Astrid Hudson | ID 4d6897b6] 2016-12-09: BP 118/84 mmHg; Height 159.4 cm; Weight 54.9 kg; BMI 21.6 kg/m2; Heart rate 81 /min; Resp rate 15 /min

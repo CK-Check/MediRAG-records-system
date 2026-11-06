@@ -1,0 +1,125 @@
+PATIENT SUMMARY | Ms. Merna Bartoletti | ID 423d2ce3
+DOB: 1928-06-15 | Age: 98 | Gender: F | Status: Deceased
+
+ACTIVE CONDITIONS | Ms. Merna Bartoletti | ID 423d2ce3
+- Chronic sinusitis — since 1941-09-27
+- Anemia — since 1959-08-28
+- Prediabetes — since 1959-08-28
+- Pulmonary emphysema — since 1960-06-24
+- Loss of teeth — since 1960-07-15
+- Victim of intimate partner abuse — since 1967-10-20
+- Body mass index 30+ - obesity — since 1968-10-25
+- Essential hypertension — since 1971-11-12
+- Metabolic syndrome X — since 1971-11-12
+- Sepsis — since 1977-09-05
+- Septic shock — since 1977-09-05
+- Limited social contact — since 1978-12-22
+- Malignant neoplasm of breast — since 1981-03-03
+- Chronic congestive heart failure — since 1982-09-09
+
+RESOLVED CONDITIONS | Ms. Merna Bartoletti | ID 423d2ce3
+- Misuses drugs — 1971-11-12 to 1981-01-02
+- Viral sinusitis — 1979-10-03 to 1983-04-25
+- Gingivitis — 1979-12-28 to 1988-02-26
+- Sprain of ankle — 1980-11-30 to 1980-12-27
+- Sprain — 1980-11-30 to 1980-12-27
+- Acute bronchitis — 1981-08-27 to 1981-09-05
+- Infection of tooth — 1982-01-22 to 1982-01-22
+- Leaking dental filling — 1983-01-28 to 1983-01-28
+- Severe anxiety (panic) — 1984-01-20 to 1985-01-25
+- Gingival disease — 1986-02-14 to 1986-02-14
+
+CURRENT MEDICATIONS | Ms. Merna Bartoletti | ID 423d2ce3
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler — since 1989-02-17, for Pulmonary emphysema
+- Furosemide 40 MG Oral Tablet — since 1989-02-17, for Chronic congestive heart failure
+- Hydrochlorothiazide 25 MG Oral Tablet — since 1989-02-17, for Essential hypertension
+- albuterol 5 MG/ML Inhalation Solution — since 1989-02-17, for Pulmonary emphysema
+
+PAST MEDICATIONS | Ms. Merna Bartoletti | ID 423d2ce3
+- 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection — 1981-04-02 to 1981-08-27
+- 10 ML Furosemide 10 MG/ML Injection — 1983-03-22 to 1989-09-20
+- Acetaminophen 325 MG Oral Tablet — 1980-11-30 to 1981-09-05
+- Tamoxifen 10 MG Oral Tablet — 1981-09-11 to 1981-09-11
+- sodium fluoride 0.0272 MG/MG Oral Gel — 1980-01-11 to 1988-02-26
+
+ALLERGIES | Ms. Merna Bartoletti | ID 423d2ce3
+- No known allergies.
+
+LATEST VITALS & LABS | Ms. Merna Bartoletti | ID 423d2ce3
+- BMI: 29 kg/m2 (1989-02-17)
+- BUN: 16.9 mg/dL (1989-03-23)
+- Creatinine: 1.1 mg/dL (1989-09-20)
+- Glucose: 78.8 mg/dL (1989-03-23)
+- HDL: 28 mg/dL (1989-09-20)
+- HbA1c: 6.1 % (1989-09-20)
+- Heart rate: 78 /min (1989-02-17)
+- Height: 169 cm (1989-02-17)
+- Hemoglobin: 14.3 g/dL (1989-09-20)
+- LDL: 99.8 mg/dL (1989-09-20)
+- Potassium: 4.8 mmol/L (1989-03-23)
+- Resp rate: 12 /min (1989-02-17)
+- Sodium: 140.8 mmol/L (1989-03-23)
+- Total cholesterol: 153.9 mg/dL (1989-09-20)
+- Triglycerides: 130.5 mg/dL (1989-09-20)
+- Weight: 78.4 kg (1989-09-20)
+- Blood pressure: 114/77 mmHg (1989-02-17)
+
+VISIT HISTORY (vitals & labs by date) | Ms. Merna Bartoletti | ID 423d2ce3
+[Ms. Merna Bartoletti | ID 423d2ce3] 1989-09-20: HDL 28 mg/dL; Weight 78.4 kg; Hemoglobin 14.3 g/dL; Creatinine 1.1 mg/dL; Total cholesterol 153.9 mg/dL; Triglycerides 130.5 mg/dL; LDL 99.8 mg/dL; HbA1c 6.1 %
+[Ms. Merna Bartoletti | ID 423d2ce3] 1989-09-19: HbA1c 6.1 %; LDL 99.8 mg/dL; Triglycerides 130.5 mg/dL; HDL 28 mg/dL; Creatinine 1.1 mg/dL; Hemoglobin 13.8 g/dL; Weight 78.4 kg; Total cholesterol 153.9 mg/dL; HbA1c 6.1 %; HDL 28 mg/dL; Triglycerides 130.5 mg/dL; LDL 99.8 mg/dL; Creatinine 1.1 mg/dL; Hemoglobin 13.4 g/dL; Weight 78.4 kg; Total cholesterol 153.9 mg/dL
+[Ms. Merna Bartoletti | ID 423d2ce3] 1989-03-23: Glucose 78.8 mg/dL; BUN 16.9 mg/dL; Creatinine 0.8 mg/dL; Sodium 140.8 mmol/L; Potassium 4.8 mmol/L
+[Ms. Merna Bartoletti | ID 423d2ce3] 1989-02-17: BP 114/77 mmHg; Resp rate 12 /min; Sodium 138.1 mmol/L; Creatinine 1 mg/dL; BUN 13.3 mg/dL; Potassium 4.8 mmol/L; Heart rate 78 /min; Glucose 67.7 mg/dL; BMI 29 kg/m2; Weight 82.9 kg; Height 169 cm; HbA1c 6.4 %
+[Ms. Merna Bartoletti | ID 423d2ce3] 1988-09-24: Glucose 75 mg/dL; BUN 9.1 mg/dL; Creatinine 0.8 mg/dL; Sodium 142 mmol/L; Potassium 4.4 mmol/L
+[Ms. Merna Bartoletti | ID 423d2ce3] 1988-03-28: Potassium 5.1 mmol/L; Sodium 140 mmol/L; Glucose 70.2 mg/dL; BUN 17.5 mg/dL; Creatinine 0.8 mg/dL
+[Ms. Merna Bartoletti | ID 423d2ce3] 1988-02-12: BP 126/78 mmHg; Potassium 4.2 mmol/L; Sodium 140.1 mmol/L; Creatinine 0.9 mg/dL; BUN 10 mg/dL; Glucose 87.9 mg/dL; Resp rate 12 /min; Heart rate 68 /min; BMI 30.1 kg/m2; Weight 85.9 kg; Height 169 cm; HbA1c 6.2 %
+[Ms. Merna Bartoletti | ID 423d2ce3] 1987-09-30: Sodium 142.1 mmol/L; Potassium 4.2 mmol/L; BUN 7.8 mg/dL; Glucose 72.8 mg/dL; Creatinine 1 mg/dL
+[Ms. Merna Bartoletti | ID 423d2ce3] 1987-04-03: Glucose 97.8 mg/dL; BUN 8.6 mg/dL; Creatinine 1.1 mg/dL; Sodium 138.3 mmol/L; Potassium 5.1 mmol/L
+[Ms. Merna Bartoletti | ID 423d2ce3] 1987-02-06: BP 120/80 mmHg; Creatinine 0.9 mg/dL; HDL 30.1 mg/dL; LDL 151.2 mg/dL; Triglycerides 144.9 mg/dL; Total cholesterol 210.3 mg/dL; Potassium 4.4 mmol/L; Sodium 136.5 mmol/L; Hemoglobin 14.4 g/dL; BUN 15.7 mg/dL; Heart rate 81 /min; Resp rate 13 /min; BMI 29.5 kg/m2; Weight 84.2 kg; Height 169 cm; HbA1c 6.1 %; Glucose 85.9 mg/dL
+[Ms. Merna Bartoletti | ID 423d2ce3] 1986-10-04: HbA1c 6 %; LDL 125 mg/dL; Triglycerides 138.5 mg/dL; HDL 28.6 mg/dL; Creatinine 0.8 mg/dL; Hemoglobin 17.2 g/dL; Weight 83.6 kg; Total cholesterol 181.2 mg/dL
+[Ms. Merna Bartoletti | ID 423d2ce3] 1986-10-03: HbA1c 6 %; LDL 125 mg/dL; Triglycerides 138.5 mg/dL; HDL 28.6 mg/dL; Creatinine 0.8 mg/dL; Hemoglobin 16.1 g/dL; Total cholesterol 181.2 mg/dL; Weight 83.6 kg
+[Ms. Merna Bartoletti | ID 423d2ce3] 1986-10-02: Weight 83.6 kg; Hemoglobin 11.3 g/dL; Creatinine 0.8 mg/dL; Total cholesterol 168.2 mg/dL; Triglycerides 113.9 mg/dL; LDL 114.5 mg/dL; HDL 30.9 mg/dL; HbA1c 6 %
+[Ms. Merna Bartoletti | ID 423d2ce3] 1986-10-01: Triglycerides 113.9 mg/dL; HbA1c 6 %; HDL 30.9 mg/dL; LDL 114.5 mg/dL; Total cholesterol 168.2 mg/dL; Creatinine 0.8 mg/dL; Hemoglobin 17.5 g/dL; Weight 83.6 kg
+[Ms. Merna Bartoletti | ID 423d2ce3] 1986-09-30: LDL 114.5 mg/dL; HbA1c 6 %; Triglycerides 113.9 mg/dL; HDL 30.9 mg/dL; Creatinine 0.8 mg/dL; Weight 83.6 kg; Total cholesterol 168.2 mg/dL; Hemoglobin 17.2 g/dL; Weight 83.6 kg; Hemoglobin 11.7 g/dL; Creatinine 0.8 mg/dL; Total cholesterol 168.2 mg/dL; Triglycerides 113.9 mg/dL; LDL 114.5 mg/dL; HDL 30.9 mg/dL; HbA1c 6 %
+[Ms. Merna Bartoletti | ID 423d2ce3] 1986-04-03: Glucose 73.5 mg/dL; BUN 11.4 mg/dL; Creatinine 0.8 mg/dL; Sodium 137.7 mmol/L; Potassium 4.4 mmol/L
+[Ms. Merna Bartoletti | ID 423d2ce3] 1986-01-31: BP 116/77 mmHg; Glucose 87.2 mg/dL; Sodium 143.2 mmol/L; Creatinine 0.8 mg/dL; Potassium 5.2 mmol/L; BUN 15.5 mg/dL; Resp rate 16 /min; Weight 82.5 kg; BMI 28.9 kg/m2; Height 169 cm; HbA1c 6.2 %; Heart rate 96 /min
+[Ms. Merna Bartoletti | ID 423d2ce3] 1985-10-05: Glucose 71.1 mg/dL; BUN 15.7 mg/dL; Creatinine 0.8 mg/dL; Sodium 136.9 mmol/L; Potassium 4.5 mmol/L
+[Ms. Merna Bartoletti | ID 423d2ce3] 1985-04-08: Sodium 139.4 mmol/L; Creatinine 1 mg/dL; Potassium 4.9 mmol/L; Glucose 90 mg/dL; BUN 12.5 mg/dL
+[Ms. Merna Bartoletti | ID 423d2ce3] 1985-01-25: BP 123/82 mmHg; Potassium 4.1 mmol/L; Sodium 137.2 mmol/L; Creatinine 0.8 mg/dL; BUN 15.1 mg/dL; Glucose 90.1 mg/dL; Heart rate 92 /min; Resp rate 13 /min; BMI 28.3 kg/m2; Weight 80.8 kg; Height 169 cm; HbA1c 6.3 %
+[Ms. Merna Bartoletti | ID 423d2ce3] 1984-10-10: Glucose 67.8 mg/dL; BUN 17.8 mg/dL; Creatinine 0.8 mg/dL; Sodium 142.7 mmol/L; Potassium 4.7 mmol/L
+[Ms. Merna Bartoletti | ID 423d2ce3] 1984-04-12: HbA1c 6.2 %; HDL 32.1 mg/dL; LDL 130.7 mg/dL; Triglycerides 131.4 mg/dL; Hemoglobin 13.9 g/dL; Creatinine 0.8 mg/dL; Weight 82.5 kg; Total cholesterol 189.1 mg/dL; LDL 130.7 mg/dL; HDL 32.1 mg/dL; HbA1c 6.2 %; Triglycerides 131.4 mg/dL; Hemoglobin 17.4 g/dL; Creatinine 0.8 mg/dL; Weight 82.5 kg; Total cholesterol 189.1 mg/dL
+[Ms. Merna Bartoletti | ID 423d2ce3] 1984-01-20: BP 125/84 mmHg; BUN 18.9 mg/dL; LDL 158.8 mg/dL; Triglycerides 129.2 mg/dL; Total cholesterol 211.1 mg/dL; Potassium 5 mmol/L; Sodium 141.1 mmol/L; Creatinine 0.8 mg/dL; Glucose 80.8 mg/dL; HDL 26.5 mg/dL; Heart rate 86 /min; BMI 29.4 kg/m2; Weight 84.1 kg; Height 169 cm; HbA1c 6.2 %; Resp rate 13 /min
+[Ms. Merna Bartoletti | ID 423d2ce3] 1983-10-15: Potassium 4.4 mmol/L; Sodium 143.7 mmol/L; Glucose 81.4 mg/dL; BUN 7.3 mg/dL; Creatinine 0.9 mg/dL
+[Ms. Merna Bartoletti | ID 423d2ce3] 1983-04-17: Weight 86.8 kg; Hemoglobin 11.4 g/dL; Creatinine 0.9 mg/dL; Total cholesterol 227.4 mg/dL; Triglycerides 119.6 mg/dL; LDL 168.1 mg/dL; HDL 35.4 mg/dL; HbA1c 6.2 %
+[Ms. Merna Bartoletti | ID 423d2ce3] 1983-04-16: HbA1c 6.2 %; HDL 35.4 mg/dL; LDL 168.1 mg/dL; Triglycerides 119.6 mg/dL; Weight 86.8 kg; Creatinine 0.9 mg/dL; Hemoglobin 14.4 g/dL; Total cholesterol 227.4 mg/dL
+[Ms. Merna Bartoletti | ID 423d2ce3] 1983-04-15: Weight 86.8 kg; Hemoglobin 17.1 g/dL; Creatinine 0.9 mg/dL; Total cholesterol 227.4 mg/dL; Triglycerides 119.6 mg/dL; LDL 168.1 mg/dL; HDL 35.4 mg/dL; HbA1c 6.2 %
+[Ms. Merna Bartoletti | ID 423d2ce3] 1983-04-14: HbA1c 5.9 %; HDL 29.1 mg/dL; LDL 124.8 mg/dL; Triglycerides 140.1 mg/dL; Total cholesterol 181.9 mg/dL; Creatinine 0.9 mg/dL; Hemoglobin 12 g/dL; Weight 86.8 kg
+[Ms. Merna Bartoletti | ID 423d2ce3] 1983-04-13: Weight 86.8 kg; Hemoglobin 15 g/dL; Creatinine 0.9 mg/dL; Total cholesterol 181.9 mg/dL; Triglycerides 140.1 mg/dL; LDL 124.8 mg/dL; HDL 29.1 mg/dL; HbA1c 5.9 %
+[Ms. Merna Bartoletti | ID 423d2ce3] 1983-04-12: LDL 124.8 mg/dL; HbA1c 5.9 %; Triglycerides 140.1 mg/dL; HDL 29.1 mg/dL; Creatinine 0.9 mg/dL; Hemoglobin 11.4 g/dL; Total cholesterol 181.9 mg/dL; Weight 86.8 kg
+[Ms. Merna Bartoletti | ID 423d2ce3] 1983-04-11: Weight 86.8 kg; Hemoglobin 12.1 g/dL; Creatinine 0.9 mg/dL; Total cholesterol 181.9 mg/dL; Triglycerides 140.1 mg/dL; LDL 124.8 mg/dL; HDL 29.1 mg/dL; HbA1c 5.9 %
+[Ms. Merna Bartoletti | ID 423d2ce3] 1983-04-10: HDL 29.1 mg/dL; LDL 124.8 mg/dL; Triglycerides 140.1 mg/dL; HbA1c 5.9 %; Creatinine 0.9 mg/dL; Hemoglobin 12.1 g/dL; Weight 86.8 kg; Total cholesterol 181.9 mg/dL
+[Ms. Merna Bartoletti | ID 423d2ce3] 1983-04-09: HDL 29.1 mg/dL; LDL 124.8 mg/dL; Triglycerides 140.1 mg/dL; HbA1c 5.9 %; Creatinine 0.9 mg/dL; Hemoglobin 16.5 g/dL; Weight 86.8 kg; Total cholesterol 181.9 mg/dL
+[Ms. Merna Bartoletti | ID 423d2ce3] 1983-04-08: Weight 86.8 kg; Hemoglobin 14.3 g/dL; Creatinine 0.9 mg/dL; Total cholesterol 181.9 mg/dL; Triglycerides 140.1 mg/dL; LDL 124.8 mg/dL; HDL 29.1 mg/dL; HbA1c 5.9 %
+[Ms. Merna Bartoletti | ID 423d2ce3] 1983-04-07: HDL 31.9 mg/dL; LDL 100.3 mg/dL; Triglycerides 118.1 mg/dL; HbA1c 6.1 %; Creatinine 0.9 mg/dL; Hemoglobin 15.1 g/dL; Weight 86.8 kg; Total cholesterol 155.8 mg/dL
+[Ms. Merna Bartoletti | ID 423d2ce3] 1983-04-06: Weight 86.8 kg; Hemoglobin 17.4 g/dL; Creatinine 0.9 mg/dL; Total cholesterol 155.8 mg/dL; Triglycerides 118.1 mg/dL; LDL 100.3 mg/dL; HDL 31.9 mg/dL; HbA1c 6.1 %
+[Ms. Merna Bartoletti | ID 423d2ce3] 1983-04-05: HbA1c 6.1 %; HDL 31.9 mg/dL; LDL 100.3 mg/dL; Triglycerides 118.1 mg/dL; Total cholesterol 155.8 mg/dL; Creatinine 0.9 mg/dL; Hemoglobin 14.4 g/dL; Weight 86.8 kg
+[Ms. Merna Bartoletti | ID 423d2ce3] 1983-04-04: Weight 86.8 kg; Hemoglobin 17.5 g/dL; Creatinine 0.9 mg/dL; Total cholesterol 155.8 mg/dL; Triglycerides 118.1 mg/dL; LDL 100.3 mg/dL; HDL 31.9 mg/dL; HbA1c 6.1 %
+[Ms. Merna Bartoletti | ID 423d2ce3] 1983-04-03: HDL 31.9 mg/dL; LDL 100.3 mg/dL; Triglycerides 118.1 mg/dL; HbA1c 6.1 %; Creatinine 0.9 mg/dL; Hemoglobin 14.6 g/dL; Weight 86.8 kg; Total cholesterol 155.8 mg/dL
+[Ms. Merna Bartoletti | ID 423d2ce3] 1983-04-02: Weight 86.8 kg; Hemoglobin 16.6 g/dL; Creatinine 0.9 mg/dL; Total cholesterol 155.8 mg/dL; Triglycerides 118.1 mg/dL; LDL 100.3 mg/dL; HDL 31.9 mg/dL; HbA1c 6.1 %
+[Ms. Merna Bartoletti | ID 423d2ce3] 1983-04-01: HbA1c 6.1 %; HDL 31.9 mg/dL; LDL 100.3 mg/dL; Triglycerides 118.1 mg/dL; Total cholesterol 155.8 mg/dL; Creatinine 0.9 mg/dL; Hemoglobin 11.4 g/dL; Weight 86.8 kg
+[Ms. Merna Bartoletti | ID 423d2ce3] 1983-03-31: Weight 86.8 kg; Hemoglobin 13 g/dL; Creatinine 1.3 mg/dL; Total cholesterol 197.3 mg/dL; Triglycerides 111.5 mg/dL; LDL 146.3 mg/dL; HDL 28.7 mg/dL; HbA1c 6.2 %
+[Ms. Merna Bartoletti | ID 423d2ce3] 1983-03-30: HbA1c 6.2 %; HDL 28.7 mg/dL; LDL 146.3 mg/dL; Triglycerides 111.5 mg/dL; Total cholesterol 197.3 mg/dL; Creatinine 1.3 mg/dL; Hemoglobin 16.7 g/dL; Weight 86.8 kg
+[Ms. Merna Bartoletti | ID 423d2ce3] 1983-03-29: Weight 86.8 kg; Hemoglobin 13.3 g/dL; Creatinine 1.3 mg/dL; Total cholesterol 197.3 mg/dL; Triglycerides 111.5 mg/dL; LDL 146.3 mg/dL; HDL 28.7 mg/dL; HbA1c 6.2 %
+[Ms. Merna Bartoletti | ID 423d2ce3] 1983-03-28: HbA1c 6.2 %; HDL 28.7 mg/dL; LDL 146.3 mg/dL; Triglycerides 111.5 mg/dL; Total cholesterol 197.3 mg/dL; Creatinine 1.3 mg/dL; Hemoglobin 12.2 g/dL; Weight 86.8 kg
+[Ms. Merna Bartoletti | ID 423d2ce3] 1983-03-27: Weight 86.8 kg; Hemoglobin 11.9 g/dL; Creatinine 1.3 mg/dL; Total cholesterol 197.3 mg/dL; Triglycerides 111.5 mg/dL; LDL 146.3 mg/dL; HDL 28.7 mg/dL; HbA1c 6.2 %
+[Ms. Merna Bartoletti | ID 423d2ce3] 1983-03-26: LDL 146.3 mg/dL; HDL 28.7 mg/dL; Triglycerides 111.5 mg/dL; HbA1c 6.2 %; Creatinine 1.3 mg/dL; Hemoglobin 12.8 g/dL; Weight 86.8 kg; Total cholesterol 197.3 mg/dL
+[Ms. Merna Bartoletti | ID 423d2ce3] 1983-03-25: Weight 86.8 kg; Hemoglobin 15.8 g/dL; Creatinine 1.3 mg/dL; Total cholesterol 197.3 mg/dL; Triglycerides 111.5 mg/dL; LDL 146.3 mg/dL; HDL 28.7 mg/dL; HbA1c 6.2 %
+[Ms. Merna Bartoletti | ID 423d2ce3] 1983-03-24: HbA1c 6.2 %; HDL 32.2 mg/dL; LDL 86.9 mg/dL; Triglycerides 110.5 mg/dL; Total cholesterol 141.2 mg/dL; Hemoglobin 14.2 g/dL; Weight 86.8 kg; Creatinine 1 mg/dL
+[Ms. Merna Bartoletti | ID 423d2ce3] 1983-03-23: Weight 86.8 kg; Hemoglobin 16.8 g/dL; Creatinine 1 mg/dL; Total cholesterol 141.2 mg/dL; Triglycerides 110.5 mg/dL; LDL 86.9 mg/dL; HDL 32.2 mg/dL; HbA1c 6.2 %
+[Ms. Merna Bartoletti | ID 423d2ce3] 1983-03-22: HbA1c 6.2 %; HDL 32.2 mg/dL; LDL 86.9 mg/dL; Triglycerides 110.5 mg/dL; Creatinine 1 mg/dL; Hemoglobin 11.2 g/dL; Weight 86.8 kg; Total cholesterol 141.2 mg/dL; HbA1c 6.2 %; HDL 32.2 mg/dL; LDL 86.9 mg/dL; Triglycerides 110.5 mg/dL; Creatinine 1 mg/dL; Hemoglobin 11.3 g/dL; Weight 86.8 kg; Total cholesterol 141.2 mg/dL
+[Ms. Merna Bartoletti | ID 423d2ce3] 1983-01-14: BP 130/82 mmHg; Potassium 3.8 mmol/L; Sodium 140.5 mmol/L; Creatinine 1.1 mg/dL; BUN 11.1 mg/dL; Glucose 70.2 mg/dL; Heart rate 77 /min; Resp rate 15 /min; BMI 30.4 kg/m2; Weight 86.8 kg; Height 169 cm; HbA1c 5.9 %
+[Ms. Merna Bartoletti | ID 423d2ce3] 1982-09-23: Glucose 85.2 mg/dL; BUN 11.4 mg/dL; Creatinine 1.1 mg/dL; Sodium 142 mmol/L; Potassium 4.2 mmol/L
+[Ms. Merna Bartoletti | ID 423d2ce3] 1982-09-09: HDL 29.9 mg/dL; HbA1c 6.3 %; Triglycerides 103.9 mg/dL; LDL 91.7 mg/dL; Creatinine 1.2 mg/dL; Hemoglobin 16.1 g/dL; Weight 86.8 kg; Total cholesterol 142.4 mg/dL
+[Ms. Merna Bartoletti | ID 423d2ce3] 1982-01-08: BP 138/90 mmHg; Hemoglobin 15.6 g/dL; Potassium 3.8 mmol/L; Sodium 140.8 mmol/L; Creatinine 0.9 mg/dL; BUN 14.9 mg/dL; Glucose 72.9 mg/dL; Resp rate 15 /min; BMI 30.4 kg/m2; Weight 86.8 kg; Height 169 cm; HbA1c 6.2 %; Heart rate 85 /min
+[Ms. Merna Bartoletti | ID 423d2ce3] 1981-09-04: BP 135/89 mmHg; Potassium 4.3 mmol/L; Sodium 136.6 mmol/L; BUN 10.7 mg/dL; Glucose 79 mg/dL; Resp rate 15 /min; Heart rate 77 /min; Creatinine 1.5 mg/dL; BMI 30.4 kg/m2; Weight 86.8 kg; Height 169 cm; HbA1c 6.4 %
+[Ms. Merna Bartoletti | ID 423d2ce3] 1981-01-02: BP 133/88 mmHg; BUN 12.2 mg/dL; LDL 117.6 mg/dL; Triglycerides 113 mg/dL; Total cholesterol 170 mg/dL; Potassium 4.9 mmol/L; Sodium 143.2 mmol/L; Creatinine 1.1 mg/dL; Glucose 72.7 mg/dL; HDL 29.8 mg/dL; Heart rate 65 /min; BMI 30.4 kg/m2; Weight 86.8 kg; Height 169 cm; HbA1c 6 %; Resp rate 15 /min
+[Ms. Merna Bartoletti | ID 423d2ce3] 1979-12-28: BP 138/87 mmHg; HbA1c 6.1 %; Potassium 4.4 mmol/L; Sodium 142.8 mmol/L; BUN 12 mg/dL; Glucose 86.9 mg/dL; Resp rate 13 /min; Creatinine 0.9 mg/dL; BMI 30.4 kg/m2; Weight 86.8 kg; Height 169 cm; Heart rate 90 /min

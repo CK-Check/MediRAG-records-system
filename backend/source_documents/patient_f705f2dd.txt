@@ -1,0 +1,49 @@
+PATIENT SUMMARY | Eric Williamson | ID f705f2dd
+DOB: 2012-07-24 | Age: 14 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Eric Williamson | ID f705f2dd
+- None recorded.
+
+RESOLVED CONDITIONS | Eric Williamson | ID f705f2dd
+- Otitis media — 2017-03-23 to 2017-07-04
+- Acute viral pharyngitis — 2018-03-28 to 2018-04-09
+- Viral sinusitis — 2020-03-20 to 2024-08-09
+- Gingival disease — 2020-07-28 to 2025-09-02
+- Gingivitis — 2022-05-10 to 2025-09-02
+- Acute bronchitis — 2022-05-17 to 2022-05-29
+- Streptococcal sore throat — 2023-06-16 to 2023-06-30
+
+CURRENT MEDICATIONS | Eric Williamson | ID f705f2dd
+- None recorded.
+
+PAST MEDICATIONS | Eric Williamson | ID f705f2dd
+- Acetaminophen 160 MG Chewable Tablet — 2017-03-23 to 2017-04-06
+- Acetaminophen 325 MG Oral Tablet — 2022-05-17 to 2022-05-29
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet — 2024-07-16 to 2024-08-09
+- Amoxicillin 500 MG Oral Tablet — 2017-03-23 to 2017-04-06
+- Penicillin V Potassium 250 MG Oral Tablet — 2023-06-16 to 2023-06-30
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2018-07-17 to 2025-09-02
+
+ALLERGIES | Eric Williamson | ID f705f2dd
+- No known allergies.
+
+LATEST VITALS & LABS | Eric Williamson | ID f705f2dd
+- BMI: 15.5 kg/m2 (2025-08-19)
+- Heart rate: 72 /min (2025-08-19)
+- Height: 168.7 cm (2025-08-19)
+- Hemoglobin: 15.6 g/dL (2023-08-08)
+- Resp rate: 15 /min (2025-08-19)
+- Weight: 44.1 kg (2025-08-19)
+- Blood pressure: 99/73 mmHg (2025-08-19)
+
+VISIT HISTORY (vitals & labs by date) | Eric Williamson | ID f705f2dd
+[Eric Williamson | ID f705f2dd] 2025-08-19: BP 99/73 mmHg; Heart rate 72 /min; Height 168.7 cm; Weight 44.1 kg; BMI 15.5 kg/m2; Resp rate 15 /min
+[Eric Williamson | ID f705f2dd] 2024-08-13: BP 105/76 mmHg; Resp rate 15 /min; Heart rate 61 /min; Weight 38.8 kg; Height 161.2 cm; BMI 14.9 kg/m2
+[Eric Williamson | ID f705f2dd] 2023-08-08: BP 103/65 mmHg; Hemoglobin 15.6 g/dL; Resp rate 15 /min; Heart rate 87 /min; BMI 14.8 kg/m2; Weight 35.5 kg; Height 154.9 cm
+[Eric Williamson | ID f705f2dd] 2022-08-02: BP 105/65 mmHg; Resp rate 16 /min; Heart rate 66 /min; Height 149.3 cm; BMI 14.5 kg/m2; Weight 32.4 kg
+[Eric Williamson | ID f705f2dd] 2022-05-10: BP 103/76 mmHg; Height 147.9 cm; Weight 31.5 kg; BMI 14.4 kg/m2; Heart rate 92 /min; Resp rate 15 /min
+[Eric Williamson | ID f705f2dd] 2021-07-27: BP 91/76 mmHg; Heart rate 81 /min; Resp rate 15 /min; Weight 29 kg; Height 143.5 cm; BMI 14.1 kg/m2
+[Eric Williamson | ID f705f2dd] 2020-07-21: BP 99/75 mmHg; Height 136.7 cm; Weight 26.5 kg; BMI 14.2 kg/m2; Heart rate 61 /min; Resp rate 14 /min
+[Eric Williamson | ID f705f2dd] 2019-07-16: BP 107/74 mmHg; Heart rate 99 /min; Resp rate 14 /min; Height 129.9 cm; BMI 14.4 kg/m2; Weight 24.3 kg
+[Eric Williamson | ID f705f2dd] 2018-07-10: BP 103/77 mmHg; Hemoglobin 14.6 g/dL; Resp rate 12 /min; Heart rate 91 /min; Weight 21.2 kg; BMI 14.1 kg/m2; Height 122.9 cm
+[Eric Williamson | ID f705f2dd] 2017-07-04: BP 107/68 mmHg; Height 115.7 cm; Weight 19.8 kg; BMI 14.8 kg/m2; Heart rate 91 /min; Resp rate 14 /min

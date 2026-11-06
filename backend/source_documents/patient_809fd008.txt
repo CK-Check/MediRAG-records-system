@@ -1,0 +1,40 @@
+PATIENT SUMMARY | Mr. Dwain Berge | ID 809fd008
+DOB: 2001-10-22 | Age: 25 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Mr. Dwain Berge | ID 809fd008
+- Misuses drugs — since 2023-12-25
+
+RESOLVED CONDITIONS | Mr. Dwain Berge | ID 809fd008
+- Sprain of wrist — 2019-01-04 to 2019-02-07
+- Sprain — 2019-01-04 to 2019-02-07
+- Acute bronchitis — 2020-09-07 to 2020-09-14
+- Limited social contact — 2020-09-14 to 2020-12-21
+- Victim of intimate partner abuse — 2020-09-14 to 2020-12-21
+
+CURRENT MEDICATIONS | Mr. Dwain Berge | ID 809fd008
+- None recorded.
+
+PAST MEDICATIONS | Mr. Dwain Berge | ID 809fd008
+- Acetaminophen 325 MG Oral Tablet — 2019-01-04 to 2020-09-14
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2018-12-24 to 2021-01-04
+
+ALLERGIES | Mr. Dwain Berge | ID 809fd008
+- No known allergies.
+
+LATEST VITALS & LABS | Mr. Dwain Berge | ID 809fd008
+- BMI: 27.2 kg/m2 (2023-12-25)
+- Heart rate: 62 /min (2023-12-25)
+- Height: 174.8 cm (2023-12-25)
+- Hemoglobin: 17.4 g/dL (2023-12-25)
+- Resp rate: 16 /min (2023-12-25)
+- Weight: 83.2 kg (2023-12-25)
+- Blood pressure: 124/85 mmHg (2023-12-25)
+
+VISIT HISTORY (vitals & labs by date) | Mr. Dwain Berge | ID 809fd008
+[Mr. Dwain Berge | ID 809fd008] 2023-12-25: BP 124/85 mmHg; Resp rate 16 /min; Height 174.8 cm; Weight 83.2 kg; BMI 27.2 kg/m2; Heart rate 62 /min; Hemoglobin 17.4 g/dL
+[Mr. Dwain Berge | ID 809fd008] 2020-12-21: BP 130/83 mmHg; Resp rate 14 /min; Heart rate 96 /min; BMI 25.4 kg/m2; Weight 77.6 kg; Height 174.6 cm
+[Mr. Dwain Berge | ID 809fd008] 2020-09-14: BP 134/78 mmHg; Height 174.6 cm; Weight 77.4 kg; BMI 25.4 kg/m2; Heart rate 62 /min; Resp rate 15 /min
+[Mr. Dwain Berge | ID 809fd008] 2019-12-16: BP 129/85 mmHg; Heart rate 65 /min; Resp rate 13 /min; BMI 26.5 kg/m2; Weight 80.3 kg; Height 174.2 cm
+[Mr. Dwain Berge | ID 809fd008] 2018-12-10: BP 128/86 mmHg; Height 173.4 cm; Weight 82.5 kg; BMI 27.4 kg/m2; Heart rate 66 /min; Resp rate 13 /min
+[Mr. Dwain Berge | ID 809fd008] 2017-12-04: BP 118/86 mmHg; Hemoglobin 13.8 g/dL; Resp rate 13 /min; Heart rate 93 /min; BMI 26.2 kg/m2; Weight 77.2 kg; Height 171.7 cm
+[Mr. Dwain Berge | ID 809fd008] 2016-11-28: BP 125/85 mmHg; Height 168.3 cm; Weight 70.8 kg; BMI 25 kg/m2; Heart rate 90 /min; Resp rate 14 /min

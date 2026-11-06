@@ -1,0 +1,53 @@
+PATIENT SUMMARY | Mrs. Chun Grady | ID 9230f79b
+DOB: 1981-05-27 | Age: 45 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Mrs. Chun Grady | ID 9230f79b
+- Chronic sinusitis — since 2003-03-05
+- History of tubal ligation — since 2007-04-18
+- Anemia — since 2009-08-05
+- Prediabetes — since 2009-08-05
+- Body mass index 30+ - obesity — since 2015-08-12
+- Victim of intimate partner abuse — since 2023-06-07
+
+RESOLVED CONDITIONS | Mrs. Chun Grady | ID 9230f79b
+- Acute bacterial sinusitis — 2018-07-30 to 2018-08-25
+- Viral sinusitis — 2023-03-01 to 2023-03-28
+- Gingivitis — 2023-06-07 to 2025-06-25
+- Gingival disease — 2023-06-21 to 2023-06-21
+- Acute viral pharyngitis — 2025-04-30 to 2025-05-09
+
+CURRENT MEDICATIONS | Mrs. Chun Grady | ID 9230f79b
+- None recorded.
+
+PAST MEDICATIONS | Mrs. Chun Grady | ID 9230f79b
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet — 2023-03-01 to 2023-03-28
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2018-08-29 to 2025-06-25
+
+ALLERGIES | Mrs. Chun Grady | ID 9230f79b
+- No known allergies.
+
+LATEST VITALS & LABS | Mrs. Chun Grady | ID 9230f79b
+- BMI: 27.6 kg/m2 (2025-06-11)
+- BUN: 12.2 mg/dL (2025-06-11)
+- Creatinine: 1 mg/dL (2025-06-11)
+- Glucose: 89.5 mg/dL (2025-06-11)
+- HDL: 52.2 mg/dL (2023-02-08)
+- HbA1c: 6.1 % (2025-06-11)
+- Heart rate: 61 /min (2025-06-11)
+- Height: 168.3 cm (2025-06-11)
+- Hemoglobin: 16.3 g/dL (2021-06-02)
+- LDL: 70.8 mg/dL (2023-02-08)
+- Potassium: 3.7 mmol/L (2025-06-11)
+- Resp rate: 13 /min (2025-06-11)
+- Sodium: 141.7 mmol/L (2025-06-11)
+- Total cholesterol: 149.4 mg/dL (2023-02-08)
+- Triglycerides: 132.2 mg/dL (2023-02-08)
+- Weight: 78.1 kg (2025-06-11)
+- Blood pressure: 109/84 mmHg (2025-06-11)
+
+VISIT HISTORY (vitals & labs by date) | Mrs. Chun Grady | ID 9230f79b
+[Mrs. Chun Grady | ID 9230f79b] 2025-06-11: BP 109/84 mmHg; Creatinine 1 mg/dL; BUN 12.2 mg/dL; Glucose 89.5 mg/dL; Resp rate 13 /min; Heart rate 61 /min; BMI 27.6 kg/m2; Weight 78.1 kg; Height 168.3 cm; HbA1c 6.1 %; Sodium 141.7 mmol/L; Potassium 3.7 mmol/L
+[Mrs. Chun Grady | ID 9230f79b] 2023-06-07: BP 112/89 mmHg; Potassium 4.4 mmol/L; Sodium 139.2 mmol/L; Creatinine 1.2 mg/dL; BUN 13.2 mg/dL; Resp rate 12 /min; Heart rate 89 /min; Glucose 80.9 mg/dL; BMI 30.3 kg/m2; Weight 85.9 kg; Height 168.3 cm; HbA1c 6.1 %
+[Mrs. Chun Grady | ID 9230f79b] 2023-02-08: BP 117/84 mmHg; Creatinine 1 mg/dL; HDL 52.2 mg/dL; LDL 70.8 mg/dL; Triglycerides 132.2 mg/dL; Total cholesterol 149.4 mg/dL; Potassium 3.9 mmol/L; Sodium 137.2 mmol/L; BUN 12.9 mg/dL; Resp rate 14 /min; Heart rate 75 /min; BMI 30.3 kg/m2; Weight 85.9 kg; Height 168.3 cm; HbA1c 5.9 %; Glucose 94 mg/dL
+[Mrs. Chun Grady | ID 9230f79b] 2021-06-02: BP 125/84 mmHg; Glucose 97.7 mg/dL; Hemoglobin 16.3 g/dL; Potassium 4.5 mmol/L; Sodium 141.1 mmol/L; Creatinine 1.8 mg/dL; BUN 7.8 mg/dL; Resp rate 13 /min; Weight 85.9 kg; BMI 30.3 kg/m2; Height 168.3 cm; HbA1c 6.2 %; Heart rate 72 /min
+[Mrs. Chun Grady | ID 9230f79b] 2018-08-15: BP 124/84 mmHg; HbA1c 6.2 %; HDL 53.9 mg/dL; LDL 79.9 mg/dL; Triglycerides 128.3 mg/dL; Total cholesterol 159.5 mg/dL; Potassium 4.4 mmol/L; Creatinine 1.7 mg/dL; BUN 19.3 mg/dL; Sodium 140 mmol/L; Resp rate 13 /min; Heart rate 66 /min; BMI 30.3 kg/m2; Weight 85.9 kg; Height 168.3 cm; Glucose 77.5 mg/dL

@@ -1,0 +1,44 @@
+PATIENT SUMMARY | Roxanne Boyle | ID 51d9b81e
+DOB: 2009-09-08 | Age: 17 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Roxanne Boyle | ID 51d9b81e
+- Chronic sinusitis — since 2023-05-23
+
+RESOLVED CONDITIONS | Roxanne Boyle | ID 51d9b81e
+- Acute viral pharyngitis — 2018-01-19 to 2018-01-27
+- Gingivitis — 2018-09-11 to 2025-11-04
+- Injury of knee — 2022-06-24 to 2022-09-19
+- Injury of medial collateral ligament of knee — 2022-06-24 to 2022-09-19
+- Acute bacterial sinusitis — 2023-03-09 to 2023-05-30
+- Viral sinusitis — 2025-07-23 to 2025-08-01
+
+CURRENT MEDICATIONS | Roxanne Boyle | ID 51d9b81e
+- Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet — since 2022-07-01
+
+PAST MEDICATIONS | Roxanne Boyle | ID 51d9b81e
+- Acetaminophen 325 MG Oral Tablet — 2022-06-24 to 2022-09-19
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2019-09-24 to 2020-09-29
+
+ALLERGIES | Roxanne Boyle | ID 51d9b81e
+- No known allergies.
+
+LATEST VITALS & LABS | Roxanne Boyle | ID 51d9b81e
+- BMI: 32 kg/m2 (2025-10-21)
+- Heart rate: 91 /min (2025-10-21)
+- Height: 161.5 cm (2025-10-21)
+- Hemoglobin: 13.5 g/dL (2025-10-21)
+- Resp rate: 13 /min (2025-10-21)
+- Weight: 83.4 kg (2025-10-21)
+- Blood pressure: 107/74 mmHg (2025-10-21)
+
+VISIT HISTORY (vitals & labs by date) | Roxanne Boyle | ID 51d9b81e
+[Roxanne Boyle | ID 51d9b81e] 2025-10-21: BP 107/74 mmHg; Resp rate 13 /min; Height 161.5 cm; Weight 83.4 kg; BMI 32 kg/m2; Heart rate 91 /min; Hemoglobin 13.5 g/dL
+[Roxanne Boyle | ID 51d9b81e] 2024-10-15: BP 110/73 mmHg; Resp rate 15 /min; Heart rate 91 /min; Weight 87.3 kg; Height 160.8 cm; BMI 33.7 kg/m2
+[Roxanne Boyle | ID 51d9b81e] 2023-10-10: BP 109/77 mmHg; Resp rate 14 /min; Heart rate 96 /min; Weight 73.5 kg; BMI 28.9 kg/m2; Height 159.5 cm
+[Roxanne Boyle | ID 51d9b81e] 2022-10-04: BP 97/73 mmHg; Height 156.1 cm; Weight 66 kg; BMI 27.1 kg/m2; Heart rate 65 /min; Resp rate 14 /min
+[Roxanne Boyle | ID 51d9b81e] 2021-09-28: BP 105/69 mmHg; Heart rate 87 /min; Resp rate 13 /min; Weight 64.1 kg; Height 150.2 cm; BMI 28.4 kg/m2
+[Roxanne Boyle | ID 51d9b81e] 2020-09-22: BP 105/77 mmHg; Heart rate 79 /min; Resp rate 15 /min; Hemoglobin 14.2 g/dL; BMI 25.6 kg/m2; Weight 52.4 kg; Height 143 cm
+[Roxanne Boyle | ID 51d9b81e] 2019-09-17: BP 109/74 mmHg; Height 137 cm; Weight 42.7 kg; BMI 22.7 kg/m2; Heart rate 96 /min; Resp rate 13 /min
+[Roxanne Boyle | ID 51d9b81e] 2018-09-11: BP 100/74 mmHg; Heart rate 67 /min; Resp rate 14 /min; Weight 36.2 kg; BMI 20.8 kg/m2; Height 132 cm
+[Roxanne Boyle | ID 51d9b81e] 2017-09-05: BP 105/71 mmHg; Resp rate 15 /min; Heart rate 89 /min; Weight 30.6 kg; BMI 19.2 kg/m2; Height 126.3 cm
+[Roxanne Boyle | ID 51d9b81e] 2016-08-30: BP 97/71 mmHg; Height 120.3 cm; Weight 36.6 kg; BMI 25.3 kg/m2; Heart rate 91 /min; Resp rate 13 /min

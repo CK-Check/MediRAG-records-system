@@ -1,0 +1,53 @@
+PATIENT SUMMARY | Mrs. Winnie Kohler | ID 38f90e89
+DOB: 1991-08-24 | Age: 35 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Mrs. Winnie Kohler | ID 38f90e89
+- Mitral valve regurgitation — since 1997-11-12
+- Chronic sinusitis — since 1998-06-29
+- Body mass index 30+ - obesity — since 2019-11-02
+- Acute viral pharyngitis — since 2020-10-23
+
+RESOLVED CONDITIONS | Mrs. Winnie Kohler | ID 38f90e89
+- Normal pregnancy — 2018-07-21 to 2021-10-30
+- Gingivitis — 2019-11-02 to 2019-11-16
+- Gingival disease — 2019-11-16 to 2025-11-22
+- Primary dental caries — 2019-11-16 to 2019-11-16
+- Victim of intimate partner abuse — 2020-10-31 to 2024-05-18
+- Acute bronchitis — 2024-05-10 to 2024-05-18
+- Viral sinusitis — 2025-08-25 to 2025-09-21
+
+CURRENT MEDICATIONS | Mrs. Winnie Kohler | ID 38f90e89
+- {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] — since 2025-12-06
+
+PAST MEDICATIONS | Mrs. Winnie Kohler | ID 38f90e89
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection — 2021-12-18 to 2022-12-13
+- Acetaminophen 325 MG Oral Tablet — 2024-05-10 to 2024-05-18
+- Etonogestrel 68 MG Drug Implant — 2024-12-02 to 2025-11-27
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2016-11-12 to 2025-11-22
+- {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day] — 2023-12-08 to 2024-12-02
+- {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] — 2016-06-30 to 2017-06-25
+
+ALLERGIES | Mrs. Winnie Kohler | ID 38f90e89
+- No known allergies.
+
+LATEST VITALS & LABS | Mrs. Winnie Kohler | ID 38f90e89
+- BMI: 30.2 kg/m2 (2026-08-15)
+- HDL: 52.3 mg/dL (2025-11-08)
+- Heart rate: 96 /min (2026-08-15)
+- Height: 173.4 cm (2026-08-15)
+- Hemoglobin: 16.5 g/dL (2025-11-08)
+- LDL: 64.6 mg/dL (2025-11-08)
+- Resp rate: 13 /min (2026-08-15)
+- Total cholesterol: 138.1 mg/dL (2025-11-08)
+- Triglycerides: 105.9 mg/dL (2025-11-08)
+- Weight: 90.7 kg (2026-08-15)
+- Blood pressure: 108/78 mmHg (2026-08-15)
+
+VISIT HISTORY (vitals & labs by date) | Mrs. Winnie Kohler | ID 38f90e89
+[Mrs. Winnie Kohler | ID 38f90e89] 2026-08-15: BP 108/78 mmHg; Heart rate 96 /min; Height 173.4 cm; Weight 90.7 kg; BMI 30.2 kg/m2; Resp rate 13 /min
+[Mrs. Winnie Kohler | ID 38f90e89] 2025-11-08: BP 106/73 mmHg; HDL 52.3 mg/dL; LDL 64.6 mg/dL; Triglycerides 105.9 mg/dL; Hemoglobin 16.5 g/dL; Total cholesterol 138.1 mg/dL; Resp rate 13 /min; BMI 30.2 kg/m2; Weight 90.7 kg; Height 173.4 cm; Heart rate 91 /min
+[Mrs. Winnie Kohler | ID 38f90e89] 2024-05-18: BP 99/74 mmHg; Resp rate 14 /min; Heart rate 84 /min; BMI 30.2 kg/m2; Weight 90.7 kg; Height 173.4 cm
+[Mrs. Winnie Kohler | ID 38f90e89] 2022-11-05: BP 100/76 mmHg; Resp rate 13 /min; HDL 46.7 mg/dL; LDL 85.4 mg/dL; Triglycerides 122.4 mg/dL; Heart rate 96 /min; Total cholesterol 156.5 mg/dL; BMI 30.2 kg/m2; Weight 90.7 kg; Height 173.4 cm
+[Mrs. Winnie Kohler | ID 38f90e89] 2020-10-31: BP 102/79 mmHg; Height 173.4 cm; Weight 90.7 kg; BMI 30.2 kg/m2; Heart rate 91 /min; Resp rate 14 /min
+[Mrs. Winnie Kohler | ID 38f90e89] 2019-11-02: BP 106/79 mmHg; Hemoglobin 13 g/dL; Heart rate 74 /min; Resp rate 14 /min; BMI 30.2 kg/m2; Weight 90.7 kg; Height 173.4 cm
+[Mrs. Winnie Kohler | ID 38f90e89] 2016-10-29: BP 98/71 mmHg; Height 173.4 cm; Weight 85.8 kg; BMI 28.5 kg/m2; Heart rate 91 /min; Resp rate 12 /min

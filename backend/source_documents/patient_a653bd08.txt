@@ -1,0 +1,68 @@
+PATIENT SUMMARY | Mr. Gerardo Glover | ID a653bd08
+DOB: 1984-01-19 | Age: 42 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Mr. Gerardo Glover | ID a653bd08
+- Anemia — since 2015-04-02
+- Prediabetes — since 2015-04-02
+- Essential hypertension — since 2019-08-15
+- Diabetes mellitus type 2 — since 2024-09-19
+- Unhealthy alcohol drinking behavior — since 2024-09-19
+- Chronic kidney disease stage 1 — since 2025-09-25
+- Disorder of kidney due to diabetes mellitus — since 2025-09-25
+- Hypertriglyceridemia — since 2025-09-25
+
+RESOLVED CONDITIONS | Mr. Gerardo Glover | ID a653bd08
+- Limited social contact — 2009-03-26 to 2024-09-19
+- Gingivitis — 2018-04-05 to 2025-10-09
+- Acute bronchitis — 2019-08-29 to 2019-09-06
+- Primary dental caries — 2020-09-10 to 2020-09-10
+- Victim of intimate partner abuse — 2021-09-02 to 2022-09-08
+- Fractured dental filling — 2024-10-03 to 2024-10-03
+
+CURRENT MEDICATIONS | Mr. Gerardo Glover | ID a653bd08
+- Hydrochlorothiazide 25 MG Oral Tablet — since 2025-09-25, for Essential hypertension
+- amLODIPine 2.5 MG Oral Tablet — since 2025-09-25, for Essential hypertension
+- ferrous sulfate 325 MG Oral Tablet — since 2015-04-09
+- insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] — since 2025-09-25, for Diabetes mellitus type 2
+- lisinopril 10 MG Oral Tablet — since 2025-09-25, for Essential hypertension
+
+PAST MEDICATIONS | Mr. Gerardo Glover | ID a653bd08
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution — 2019-08-29 to 2019-09-06
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2018-04-19 to 2025-10-09
+- tropicamide 5 MG/ML Ophthalmic Solution — 2024-10-10 to 2026-08-01
+
+ALLERGIES | Mr. Gerardo Glover | ID a653bd08
+- No known allergies.
+
+LATEST VITALS & LABS | Mr. Gerardo Glover | ID a653bd08
+- BMI: 29.4 kg/m2 (2025-09-25)
+- BUN: 10.7 mg/dL (2025-09-25)
+- Creatinine: 1.4 mg/dL (2025-09-25)
+- Glucose: 108.9 mg/dL (2025-09-25)
+- HDL: 57.2 mg/dL (2025-09-25)
+- HbA1c: 7.4 % (2025-09-25)
+- Heart rate: 76 /min (2025-09-25)
+- Height: 186.4 cm (2025-09-25)
+- Hemoglobin: 15.3 g/dL (2023-09-14)
+- LDL: 130.1 mg/dL (2025-09-25)
+- Potassium: 5 mmol/L (2025-09-25)
+- Resp rate: 15 /min (2025-09-25)
+- Sodium: 141.6 mmol/L (2025-09-25)
+- Total cholesterol: 225.1 mg/dL (2025-09-25)
+- Triglycerides: 188.9 mg/dL (2025-09-25)
+- Weight: 102.3 kg (2025-09-25)
+- Blood pressure: 104/93 mmHg (2025-09-25)
+
+VISIT HISTORY (vitals & labs by date) | Mr. Gerardo Glover | ID a653bd08
+[Mr. Gerardo Glover | ID a653bd08] 2025-09-25: BP 104/93 mmHg; Triglycerides 188.9 mg/dL; Total cholesterol 225.1 mg/dL; Potassium 5 mmol/L; Sodium 141.6 mmol/L; Creatinine 2.1 mg/dL; BUN 10.7 mg/dL; Glucose 108.9 mg/dL; Resp rate 15 /min; BMI 29.4 kg/m2; Weight 102.3 kg; Height 186.4 cm; HbA1c 7.4 %; Creatinine 1.4 mg/dL; LDL 130.1 mg/dL; Heart rate 76 /min; HDL 57.2 mg/dL
+[Mr. Gerardo Glover | ID a653bd08] 2024-09-19: BP 104/93 mmHg; HDL 54.4 mg/dL; LDL 186.1 mg/dL; Triglycerides 139.2 mg/dL; Potassium 4.4 mmol/L; Sodium 137.2 mmol/L; Creatinine 1.4 mg/dL; BUN 16.6 mg/dL; Glucose 98.6 mg/dL; Total cholesterol 268.4 mg/dL; Heart rate 94 /min; BMI 28.7 kg/m2; Weight 99.8 kg; Height 186.4 cm; HbA1c 7.2 %; Resp rate 14 /min
+[Mr. Gerardo Glover | ID a653bd08] 2023-09-14: BP 109/94 mmHg; Glucose 78.7 mg/dL; Potassium 4 mmol/L; Sodium 139.8 mmol/L; Creatinine 1.4 mg/dL; BUN 13.7 mg/dL; Resp rate 16 /min; Hemoglobin 15.3 g/dL; BMI 28 kg/m2; Weight 97.2 kg; Height 186.4 cm; HbA1c 6.1 %; Heart rate 60 /min
+[Mr. Gerardo Glover | ID a653bd08] 2022-09-08: BP 112/95 mmHg; Potassium 4.3 mmol/L; Sodium 143.1 mmol/L; Creatinine 1.4 mg/dL; BUN 8.4 mg/dL; Glucose 77.1 mg/dL; Resp rate 14 /min; BMI 28.6 kg/m2; Weight 99.3 kg; Height 186.4 cm; HbA1c 6.3 %; Heart rate 77 /min
+[Mr. Gerardo Glover | ID a653bd08] 2021-09-02: BP 101/93 mmHg; BUN 12.1 mg/dL; HDL 58.2 mg/dL; LDL 193.4 mg/dL; Triglycerides 147.4 mg/dL; Potassium 4.6 mmol/L; Sodium 143.6 mmol/L; Creatinine 1.6 mg/dL; Glucose 88.6 mg/dL; Total cholesterol 281.1 mg/dL; Heart rate 66 /min; BMI 29.9 kg/m2; Resp rate 13 /min; Weight 104 kg; Height 186.4 cm; HbA1c 6.1 %
+[Mr. Gerardo Glover | ID a653bd08] 2020-08-27: BP 108/103 mmHg; Sodium 136.2 mmol/L; Creatinine 1.5 mg/dL; BUN 19.7 mg/dL; Potassium 3.7 mmol/L; Glucose 76.9 mg/dL; Resp rate 14 /min; BMI 29.5 kg/m2; Weight 102.5 kg; Height 186.4 cm; HbA1c 6.2 %; Heart rate 81 /min
+[Mr. Gerardo Glover | ID a653bd08] 2020-01-12: BP 108/93 mmHg
+[Mr. Gerardo Glover | ID a653bd08] 2019-11-13: BP 127/106 mmHg
+[Mr. Gerardo Glover | ID a653bd08] 2019-09-14: BP 130/112 mmHg
+[Mr. Gerardo Glover | ID a653bd08] 2019-08-22: HbA1c 5.8 %
+[Mr. Gerardo Glover | ID a653bd08] 2019-08-15: BP 144/134 mmHg; Resp rate 15 /min; Potassium 4 mmol/L; Creatinine 1.9 mg/dL; BUN 15 mg/dL; Glucose 66.3 mg/dL; Heart rate 99 /min; Sodium 139.1 mmol/L; BMI 29 kg/m2; Weight 100.6 kg; Height 186.4 cm; HbA1c 6.2 %
+[Mr. Gerardo Glover | ID a653bd08] 2018-04-05: BP 129/80 mmHg; HbA1c 6.2 %; Hemoglobin 12.7 g/dL; HDL 54 mg/dL; LDL 184.7 mg/dL; Triglycerides 130.4 mg/dL; Total cholesterol 264.8 mg/dL; Potassium 4.2 mmol/L; Creatinine 1.5 mg/dL; BUN 12.5 mg/dL; Sodium 142.5 mmol/L; Resp rate 14 /min; Heart rate 73 /min; BMI 28.6 kg/m2; Weight 99.2 kg; Height 186.4 cm; Glucose 99.9 mg/dL

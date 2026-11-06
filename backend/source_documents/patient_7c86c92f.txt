@@ -1,0 +1,47 @@
+PATIENT SUMMARY | Ms. Krista Abbott | ID 7c86c92f
+DOB: 1990-02-24 | Age: 36 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Ms. Krista Abbott | ID 7c86c92f
+- Body mass index 30+ - obesity — since 2015-05-02
+- Past pregnancy history of miscarriage — since 2020-07-24
+- Has a criminal record — since 2024-05-11
+
+RESOLVED CONDITIONS | Ms. Krista Abbott | ID 7c86c92f
+- Limited social contact — 2015-05-02 to 2018-05-05
+- Normal pregnancy — 2016-10-01 to 2026-08-08
+- Acute viral pharyngitis — 2019-10-07 to 2023-03-12
+- Blighted ovum — 2020-07-11 to 2020-07-24
+- Miscarriage in first trimester — 2020-07-11 to 2020-07-24
+- Viral sinusitis — 2026-03-21 to 2026-04-12
+
+CURRENT MEDICATIONS | Ms. Krista Abbott | ID 7c86c92f
+- None recorded.
+
+PAST MEDICATIONS | Ms. Krista Abbott | ID 7c86c92f
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection — 2025-03-22 to 2025-11-01
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet — 2026-03-21 to 2026-04-12
+- levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena] — 2018-06-26 to 2019-06-24
+- {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day] — 2022-07-22 to 2023-07-17
+- {28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day] — 2021-07-27 to 2022-07-22
+
+ALLERGIES | Ms. Krista Abbott | ID 7c86c92f
+- No known allergies.
+
+LATEST VITALS & LABS | Ms. Krista Abbott | ID 7c86c92f
+- BMI: 28.5 kg/m2 (2026-03-14)
+- HDL: 30 mg/dL (2024-05-11)
+- Heart rate: 70 /min (2026-03-14)
+- Height: 172.4 cm (2026-03-14)
+- Hemoglobin: 12.6 g/dL (2024-05-11)
+- LDL: 99.2 mg/dL (2024-05-11)
+- Resp rate: 14 /min (2026-03-14)
+- Total cholesterol: 151 mg/dL (2024-05-11)
+- Triglycerides: 108.8 mg/dL (2024-05-11)
+- Weight: 84.8 kg (2026-03-14)
+- Blood pressure: 130/92 mmHg (2026-03-14)
+
+VISIT HISTORY (vitals & labs by date) | Ms. Krista Abbott | ID 7c86c92f
+[Ms. Krista Abbott | ID 7c86c92f] 2026-03-14: BP 130/92 mmHg; Heart rate 70 /min; Height 172.4 cm; Weight 84.8 kg; BMI 28.5 kg/m2; Resp rate 14 /min
+[Ms. Krista Abbott | ID 7c86c92f] 2024-05-11: BP 135/86 mmHg; Hemoglobin 12.6 g/dL; HDL 30 mg/dL; LDL 99.2 mg/dL; Triglycerides 108.8 mg/dL; Total cholesterol 151 mg/dL; Resp rate 15 /min; BMI 30.9 kg/m2; Weight 91.7 kg; Height 172.4 cm; Heart rate 64 /min
+[Ms. Krista Abbott | ID 7c86c92f] 2021-05-08: BP 130/82 mmHg; LDL 123.8 mg/dL; Triglycerides 117.2 mg/dL; Total cholesterol 177.3 mg/dL; Resp rate 12 /min; Heart rate 71 /min; HDL 30 mg/dL; BMI 30.9 kg/m2; Weight 91.7 kg; Height 172.4 cm
+[Ms. Krista Abbott | ID 7c86c92f] 2018-05-05: BP 133/84 mmHg; Height 172.4 cm; Weight 91.7 kg; BMI 30.9 kg/m2; Heart rate 96 /min; Resp rate 14 /min; Hemoglobin 17.3 g/dL

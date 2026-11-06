@@ -1,0 +1,47 @@
+PATIENT SUMMARY | Ms. Pearl Kuphal | ID 60d0c785
+DOB: 2000-10-01 | Age: 26 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Ms. Pearl Kuphal | ID 60d0c785
+- None recorded.
+
+RESOLVED CONDITIONS | Ms. Pearl Kuphal | ID 60d0c785
+- Normal pregnancy — 2017-02-19 to 2017-09-17
+- Gingivitis — 2019-07-28 to 2022-12-18
+- Acute bronchitis — 2019-08-04 to 2019-08-13
+- Gingival disease — 2019-08-11 to 2019-08-12
+- Acute viral pharyngitis — 2022-11-20 to 2022-11-30
+- Limited social contact — 2022-12-04 to 2025-12-07
+- Acute infective cystitis — 2023-08-23 to 2023-08-25
+- Acute bacterial sinusitis — 2025-01-06 to 2025-01-30
+
+CURRENT MEDICATIONS | Ms. Pearl Kuphal | ID 60d0c785
+- 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System — since 2025-09-24
+
+PAST MEDICATIONS | Ms. Pearl Kuphal | ID 60d0c785
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution — 2019-08-04 to 2019-08-13
+- nitrofurantoin  macrocrystals 25 MG / nitrofurantoin  monohydrate 75 MG Oral Capsule — 2023-08-23 to 2023-08-25
+- {21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day] — 2019-10-26 to 2020-10-20
+- {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] — 2023-10-05 to 2024-09-29
+- {7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique] — 2020-10-20 to 2021-10-15
+- {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] — 2018-10-31 to 2019-10-26
+
+ALLERGIES | Ms. Pearl Kuphal | ID 60d0c785
+- No known allergies.
+
+LATEST VITALS & LABS | Ms. Pearl Kuphal | ID 60d0c785
+- BMI: 23.2 kg/m2 (2025-12-07)
+- Heart rate: 99 /min (2025-12-07)
+- Height: 165.3 cm (2025-12-07)
+- Hemoglobin: 15.7 g/dL (2022-12-04)
+- Resp rate: 15 /min (2025-12-07)
+- Weight: 63.5 kg (2025-12-07)
+- Blood pressure: 124/80 mmHg (2025-12-07)
+
+VISIT HISTORY (vitals & labs by date) | Ms. Pearl Kuphal | ID 60d0c785
+[Ms. Pearl Kuphal | ID 60d0c785] 2025-12-07: BP 124/80 mmHg; Heart rate 99 /min; Height 165.3 cm; Weight 63.5 kg; BMI 23.2 kg/m2; Resp rate 15 /min
+[Ms. Pearl Kuphal | ID 60d0c785] 2022-12-04: BP 124/81 mmHg; Hemoglobin 15.7 g/dL; Resp rate 15 /min; Heart rate 81 /min; BMI 21.3 kg/m2; Weight 58.2 kg; Height 165.3 cm
+[Ms. Pearl Kuphal | ID 60d0c785] 2019-12-01: BP 124/75 mmHg; Height 165.3 cm; Weight 52.9 kg; BMI 19.4 kg/m2; Heart rate 97 /min; Resp rate 15 /min
+[Ms. Pearl Kuphal | ID 60d0c785] 2019-07-28: BP 122/82 mmHg; Heart rate 66 /min; Resp rate 15 /min; BMI 19 kg/m2; Weight 51.8 kg; Height 165.2 cm
+[Ms. Pearl Kuphal | ID 60d0c785] 2018-11-25: BP 117/83 mmHg; Height 165.1 cm; Weight 53.8 kg; BMI 19.7 kg/m2; Heart rate 82 /min; Resp rate 13 /min
+[Ms. Pearl Kuphal | ID 60d0c785] 2017-11-19: BP 113/83 mmHg; Resp rate 14 /min; Heart rate 96 /min; Weight 55.8 kg; Height 164.9 cm; BMI 20.5 kg/m2
+[Ms. Pearl Kuphal | ID 60d0c785] 2016-11-13: BP 123/76 mmHg; Height 164.6 cm; Weight 53.6 kg; BMI 19.8 kg/m2; Heart rate 90 /min; Resp rate 15 /min; Hemoglobin 15.6 g/dL

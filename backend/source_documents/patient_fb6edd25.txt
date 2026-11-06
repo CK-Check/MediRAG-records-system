@@ -1,0 +1,52 @@
+PATIENT SUMMARY | Gabriel Schmeler | ID fb6edd25
+DOB: 2015-01-13 | Age: 11 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Gabriel Schmeler | ID fb6edd25
+- History of seizure — since 2016-02-27
+- Seizure disorder — since 2016-02-27
+- Epilepsy — since 2016-08-22
+- Child attention deficit disorder — since 2023-11-11
+
+RESOLVED CONDITIONS | Gabriel Schmeler | ID fb6edd25
+- Primary dental caries — 2022-01-11 to 2022-01-11
+- Viral sinusitis — 2022-09-11 to 2022-09-28
+- Concussion injury of brain — 2022-10-17 to 2022-11-24
+- Concussion with no loss of consciousness — 2022-10-17 to 2022-11-24
+- Gingivitis — 2024-01-16 to 2025-02-04
+- Gingival disease — 2024-01-23 to 2024-01-23
+- Acute viral pharyngitis — 2025-02-11 to 2025-02-24
+
+CURRENT MEDICATIONS | Gabriel Schmeler | ID fb6edd25
+- Diazepam 5 MG Oral Tablet — since 2020-12-29, for Seizure disorder
+
+PAST MEDICATIONS | Gabriel Schmeler | ID fb6edd25
+- carbamazepine 20 MG/ML Oral Suspension [Tegretol] — 2016-08-22 to 2021-06-02
+- clonazePAM 0.25 MG Oral Tablet — 2016-02-27 to 2019-07-29
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2024-01-23 to 2024-01-23
+
+ALLERGIES | Gabriel Schmeler | ID fb6edd25
+- No known allergies.
+
+LATEST VITALS & LABS | Gabriel Schmeler | ID fb6edd25
+- BMI: 15 kg/m2 (2026-01-27)
+- Heart rate: 64 /min (2026-01-27)
+- Height: 146.6 cm (2026-01-27)
+- Hemoglobin: 15.3 g/dL (2026-01-27)
+- Resp rate: 13 /min (2026-01-27)
+- Weight: 32.3 kg (2026-01-27)
+- Blood pressure: 142/88 mmHg (2026-01-27)
+
+VISIT HISTORY (vitals & labs by date) | Gabriel Schmeler | ID fb6edd25
+[Gabriel Schmeler | ID fb6edd25] 2026-01-27: BP 142/88 mmHg; Heart rate 64 /min; Resp rate 13 /min; Weight 32.3 kg; Height 146.6 cm; BMI 15 kg/m2; Hemoglobin 15.3 g/dL
+[Gabriel Schmeler | ID fb6edd25] 2025-01-28: BP 129/87 mmHg; Heart rate 97 /min; Height 141.6 cm; Weight 29.9 kg; BMI 14.9 kg/m2; Resp rate 13 /min
+[Gabriel Schmeler | ID fb6edd25] 2025-01-21: BP 133/93 mmHg; Resp rate 14 /min; Heart rate 64 /min; Weight 29.9 kg; Height 141.6 cm; BMI 14.9 kg/m2
+[Gabriel Schmeler | ID fb6edd25] 2024-01-16: BP 131/91 mmHg; Heart rate 87 /min; Resp rate 13 /min; BMI 15 kg/m2; Weight 27.8 kg; Height 136.3 cm
+[Gabriel Schmeler | ID fb6edd25] 2023-01-10: BP 128/93 mmHg; Heart rate 83 /min; Height 130 cm; Weight 25.3 kg; BMI 15 kg/m2; Resp rate 13 /min
+[Gabriel Schmeler | ID fb6edd25] 2022-01-04: BP 125/91 mmHg; Resp rate 12 /min; Heart rate 69 /min; Weight 22.4 kg; Height 123.7 cm; BMI 14.6 kg/m2
+[Gabriel Schmeler | ID fb6edd25] 2020-12-29: BP 136/87 mmHg; Resp rate 12 /min; Hemoglobin 16.2 g/dL; Heart rate 90 /min; BMI 14.3 kg/m2; Weight 19.6 kg; Height 117.2 cm
+[Gabriel Schmeler | ID fb6edd25] 2019-12-24: BP 131/87 mmHg; Height 110.5 cm; Weight 18.2 kg; BMI 14.9 kg/m2; Heart rate 83 /min; Resp rate 13 /min
+[Gabriel Schmeler | ID fb6edd25] 2018-12-18: BP 125/89 mmHg; Heart rate 73 /min; Resp rate 14 /min; Weight 17 kg; Height 103.7 cm; BMI 15.8 kg/m2
+[Gabriel Schmeler | ID fb6edd25] 2018-06-19: BP 132/93 mmHg; Heart rate 64 /min; Resp rate 15 /min; Weight 16.1 kg; BMI 16.1 kg/m2; Height 100.1 cm
+[Gabriel Schmeler | ID fb6edd25] 2017-12-19: BP 134/87 mmHg; Height 96.3 cm; Weight 14.9 kg; BMI 16.1 kg/m2; Heart rate 82 /min; Resp rate 15 /min
+[Gabriel Schmeler | ID fb6edd25] 2017-06-20: BP 131/94 mmHg; Resp rate 13 /min; Heart rate 78 /min; Weight 13.8 kg; Height 92.2 cm; BMI 16.2 kg/m2
+[Gabriel Schmeler | ID fb6edd25] 2016-12-20: BP 127/88 mmHg; Height 88.3 cm; Weight 12.9 kg; Heart rate 87 /min; Resp rate 15 /min

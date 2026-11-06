@@ -1,0 +1,57 @@
+PATIENT SUMMARY | Mrs. Sana Schmidt | ID 44df0753
+DOB: 1991-05-17 | Age: 35 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Mrs. Sana Schmidt | ID 44df0753
+- Chronic pain — since 2014-02-02
+- Transformed migraine — since 2014-02-02
+- Past pregnancy history of miscarriage — since 2016-05-11
+- Prediabetes — since 2016-07-22
+- Anemia — since 2021-07-30
+
+RESOLVED CONDITIONS | Mrs. Sana Schmidt | ID 44df0753
+- Normal pregnancy — 2017-05-05 to 2026-05-01
+- Gingival disease — 2019-08-09 to 2019-08-09
+- Acute viral pharyngitis — 2019-12-14 to 2021-07-27
+- Pre-eclampsia — 2020-11-20 to 2021-01-08
+- Gingivitis — 2022-07-29 to 2025-08-15
+- Congenital uterine anomaly — 2026-04-24 to 2026-05-01
+- Miscarriage in second trimester — 2026-04-24 to 2026-05-01
+
+CURRENT MEDICATIONS | Mrs. Sana Schmidt | ID 44df0753
+- None recorded.
+
+PAST MEDICATIONS | Mrs. Sana Schmidt | ID 44df0753
+- Etonogestrel 68 MG Drug Implant — 2026-05-08 to 2026-05-08
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2019-08-09 to 2019-08-09
+- {21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day] — 2022-02-21 to 2023-02-16
+- {5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day] — 2021-02-26 to 2024-02-11
+- {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] — 2019-01-21 to 2020-01-16
+
+ALLERGIES | Mrs. Sana Schmidt | ID 44df0753
+- No known allergies.
+
+LATEST VITALS & LABS | Mrs. Sana Schmidt | ID 44df0753
+- BMI: 27.9 kg/m2 (2025-08-01)
+- BUN: 7.8 mg/dL (2025-08-01)
+- Creatinine: 0.9 mg/dL (2025-08-01)
+- Glucose: 64.2 mg/dL (2025-08-01)
+- HDL: 61 mg/dL (2025-08-01)
+- HbA1c: 6.1 % (2025-08-01)
+- Heart rate: 73 /min (2025-08-01)
+- Height: 157.6 cm (2025-08-01)
+- Hemoglobin: 13.5 g/dL (2025-08-01)
+- LDL: 161.1 mg/dL (2025-08-01)
+- Potassium: 4 mmol/L (2025-08-01)
+- Resp rate: 12 /min (2025-08-01)
+- Sodium: 140.7 mmol/L (2025-08-01)
+- Total cholesterol: 250.2 mg/dL (2025-08-01)
+- Triglycerides: 140.2 mg/dL (2025-08-01)
+- Weight: 69.4 kg (2025-08-01)
+- Blood pressure: 106/71 mmHg (2025-08-01)
+
+VISIT HISTORY (vitals & labs by date) | Mrs. Sana Schmidt | ID 44df0753
+[Mrs. Sana Schmidt | ID 44df0753] 2025-08-01: BP 106/71 mmHg; BUN 7.8 mg/dL; LDL 161.1 mg/dL; Triglycerides 140.2 mg/dL; Total cholesterol 250.2 mg/dL; Potassium 4 mmol/L; Sodium 140.7 mmol/L; Creatinine 0.9 mg/dL; Glucose 64.2 mg/dL; Weight 69.4 kg; Heart rate 73 /min; BMI 27.9 kg/m2; HDL 61 mg/dL; Height 157.6 cm; HbA1c 6.1 %; Resp rate 12 /min; Hemoglobin 13.5 g/dL
+[Mrs. Sana Schmidt | ID 44df0753] 2022-07-29: BP 104/72 mmHg; HbA1c 6.2 %; Potassium 4.9 mmol/L; Sodium 142.1 mmol/L; BUN 13 mg/dL; Glucose 95 mg/dL; Resp rate 14 /min; Creatinine 0.9 mg/dL; BMI 27.9 kg/m2; Weight 69.4 kg; Height 157.6 cm; Heart rate 98 /min
+[Mrs. Sana Schmidt | ID 44df0753] 2021-08-06: Hemoglobin 11.4 g/dL
+[Mrs. Sana Schmidt | ID 44df0753] 2021-07-30: BP 98/69 mmHg; BUN 13.3 mg/dL; Triglycerides 133.9 mg/dL; Total cholesterol 288 mg/dL; Potassium 5 mmol/L; Sodium 138 mmol/L; Creatinine 0.9 mg/dL; Glucose 86.4 mg/dL; Height 157.6 cm; Heart rate 90 /min; BMI 27.9 kg/m2; Weight 69.4 kg; LDL 208.2 mg/dL; HbA1c 6.1 %; Resp rate 15 /min; HDL 53 mg/dL
+[Mrs. Sana Schmidt | ID 44df0753] 2019-07-26: BP 98/73 mmHg; HbA1c 6 %; Hemoglobin 12.7 g/dL; Potassium 4.5 mmol/L; Sodium 142 mmol/L; BUN 7.1 mg/dL; Glucose 91.4 mg/dL; Resp rate 13 /min; Creatinine 0.9 mg/dL; BMI 27.9 kg/m2; Weight 69.4 kg; Height 157.6 cm; Heart rate 94 /min

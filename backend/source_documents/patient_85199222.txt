@@ -1,0 +1,45 @@
+PATIENT SUMMARY | Mr. Trevor Aufderhar | ID 85199222
+DOB: 2006-07-18 | Age: 20 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Mr. Trevor Aufderhar | ID 85199222
+- None recorded.
+
+RESOLVED CONDITIONS | Mr. Trevor Aufderhar | ID 85199222
+- Acute viral pharyngitis — 2017-11-21 to 2017-11-28
+- Injury of neck — 2018-12-09 to 2019-03-08
+- Whiplash injury to neck — 2018-12-09 to 2019-03-08
+- Gingivitis — 2019-08-13 to 2023-09-19
+- Viral sinusitis — 2019-08-20 to 2019-09-07
+- Gingival disease — 2019-08-27 to 2019-08-27
+- Fractured dental filling — 2020-09-01 to 2020-09-01
+
+CURRENT MEDICATIONS | Mr. Trevor Aufderhar | ID 85199222
+- None recorded.
+
+PAST MEDICATIONS | Mr. Trevor Aufderhar | ID 85199222
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet — 2019-08-20 to 2019-09-07
+- Ibuprofen 200 MG Oral Tablet — 2018-12-09 to 2019-03-08
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2019-08-27 to 2023-09-19
+
+ALLERGIES | Mr. Trevor Aufderhar | ID 85199222
+- No known allergies.
+
+LATEST VITALS & LABS | Mr. Trevor Aufderhar | ID 85199222
+- BMI: 21.6 kg/m2 (2025-09-16)
+- Heart rate: 70 /min (2025-09-16)
+- Height: 180.4 cm (2025-09-16)
+- Hemoglobin: 12.2 g/dL (2022-08-30)
+- Resp rate: 15 /min (2025-09-16)
+- Weight: 70.1 kg (2025-09-16)
+- Blood pressure: 113/88 mmHg (2025-09-16)
+
+VISIT HISTORY (vitals & labs by date) | Mr. Trevor Aufderhar | ID 85199222
+[Mr. Trevor Aufderhar | ID 85199222] 2025-09-16: BP 113/88 mmHg; Heart rate 70 /min; Weight 70.1 kg; Height 180.4 cm; BMI 21.6 kg/m2; Resp rate 15 /min
+[Mr. Trevor Aufderhar | ID 85199222] 2024-09-10: BP 114/87 mmHg; Heart rate 66 /min; Height 180 cm; Weight 68.3 kg; BMI 21.1 kg/m2; Resp rate 14 /min
+[Mr. Trevor Aufderhar | ID 85199222] 2023-09-05: BP 112/87 mmHg; Resp rate 12 /min; Heart rate 69 /min; Weight 66.8 kg; Height 179.2 cm; BMI 20.8 kg/m2
+[Mr. Trevor Aufderhar | ID 85199222] 2022-08-30: BP 125/87 mmHg; Height 177.7 cm; Weight 64.1 kg; BMI 20.3 kg/m2; Heart rate 86 /min; Resp rate 13 /min; Hemoglobin 12.2 g/dL
+[Mr. Trevor Aufderhar | ID 85199222] 2021-08-24: BP 118/96 mmHg; Heart rate 73 /min; Resp rate 14 /min; BMI 19.9 kg/m2; Weight 60.7 kg; Height 174.5 cm
+[Mr. Trevor Aufderhar | ID 85199222] 2020-08-18: BP 112/89 mmHg; Height 168.9 cm; Weight 54.5 kg; BMI 19.1 kg/m2; Heart rate 98 /min; Resp rate 15 /min
+[Mr. Trevor Aufderhar | ID 85199222] 2019-08-13: BP 122/90 mmHg; Heart rate 74 /min; Resp rate 15 /min; Height 160.5 cm; BMI 19.8 kg/m2; Weight 51 kg
+[Mr. Trevor Aufderhar | ID 85199222] 2018-08-07: BP 115/88 mmHg; Resp rate 14 /min; Heart rate 95 /min; Height 153.2 cm; BMI 19.2 kg/m2; Weight 45.1 kg
+[Mr. Trevor Aufderhar | ID 85199222] 2017-08-01: BP 114/91 mmHg; Height 147.4 cm; Weight 39.2 kg; BMI 18 kg/m2; Heart rate 87 /min; Resp rate 14 /min; Hemoglobin 12.3 g/dL

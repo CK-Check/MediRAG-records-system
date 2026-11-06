@@ -1,0 +1,57 @@
+PATIENT SUMMARY | Mrs. Shu Reinger | ID 688464ef
+DOB: 1953-10-08 | Age: 73 | Gender: F | Status: Deceased
+
+ACTIVE CONDITIONS | Mrs. Shu Reinger | ID 688464ef
+- Recurrent urinary tract infection — since 1969-12-04
+- Body mass index 30+ - obesity — since 1975-12-11
+- Past pregnancy history of miscarriage — since 1994-11-09
+- Chronic low back pain — since 2014-02-01
+- Chronic neck pain — since 2014-02-01
+- Chronic pain — since 2014-02-01
+- Bullet wound — since 2017-03-12
+- Gunshot wound — since 2017-03-12
+
+RESOLVED CONDITIONS | Mrs. Shu Reinger | ID 688464ef
+- Unhealthy alcohol drinking behavior — 2005-10-20 to 2010-11-18
+- Limited social contact — 2007-11-01 to 2008-11-06
+- Sprain of ankle — 2009-04-28 to 2009-06-05
+- Sprain — 2009-04-28 to 2009-06-05
+- Gingivitis — 2009-11-12 to 2011-12-08
+- Gingival disease — 2009-11-26 to 2009-11-26
+- Viral sinusitis — 2011-07-04 to 2011-07-26
+- Victim of intimate partner abuse — 2012-11-29 to 2013-12-05
+
+CURRENT MEDICATIONS | Mrs. Shu Reinger | ID 688464ef
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet — since 2016-12-22
+
+PAST MEDICATIONS | Mrs. Shu Reinger | ID 688464ef
+- Ibuprofen 200 MG Oral Tablet — 2009-04-28 to 2009-06-05
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2011-12-08 to 2014-12-25
+
+ALLERGIES | Mrs. Shu Reinger | ID 688464ef
+- No known allergies.
+
+LATEST VITALS & LABS | Mrs. Shu Reinger | ID 688464ef
+- BMI: 31.2 kg/m2 (2016-12-22)
+- HDL: 52.9 mg/dL (2015-12-17)
+- Heart rate: 65 /min (2016-12-22)
+- Height: 158.1 cm (2016-12-22)
+- Hemoglobin: 13.4 g/dL (2015-12-17)
+- LDL: 96.5 mg/dL (2015-12-17)
+- Resp rate: 13 /min (2016-12-22)
+- Total cholesterol: 178.6 mg/dL (2015-12-17)
+- Triglycerides: 146.1 mg/dL (2015-12-17)
+- Weight: 78 kg (2016-12-22)
+- Blood pressure: 130/78 mmHg (2016-12-22)
+
+VISIT HISTORY (vitals & labs by date) | Mrs. Shu Reinger | ID 688464ef
+[Mrs. Shu Reinger | ID 688464ef] 2016-12-22: BP 130/78 mmHg; Heart rate 65 /min; Height 158.1 cm; Weight 78 kg; BMI 31.2 kg/m2; Resp rate 13 /min
+[Mrs. Shu Reinger | ID 688464ef] 2015-12-17: BP 131/80 mmHg; Hemoglobin 13.4 g/dL; HDL 52.9 mg/dL; LDL 96.5 mg/dL; Triglycerides 146.1 mg/dL; Resp rate 15 /min; Total cholesterol 178.6 mg/dL; BMI 31.2 kg/m2; Weight 78 kg; Height 158.1 cm; Heart rate 84 /min
+[Mrs. Shu Reinger | ID 688464ef] 2014-12-11: BP 130/79 mmHg; Heart rate 94 /min; Resp rate 13 /min; Weight 78 kg; Height 158.1 cm; BMI 31.2 kg/m2
+[Mrs. Shu Reinger | ID 688464ef] 2013-12-05: BP 133/84 mmHg; Height 158.1 cm; Weight 78 kg; BMI 31.2 kg/m2; Heart rate 81 /min; Resp rate 15 /min
+[Mrs. Shu Reinger | ID 688464ef] 2012-11-29: BP 138/86 mmHg; Total cholesterol 205.7 mg/dL; HDL 55.7 mg/dL; LDL 129.4 mg/dL; Triglycerides 103.2 mg/dL; Resp rate 14 /min; Weight 78 kg; BMI 31.2 kg/m2; Heart rate 68 /min; Height 158.1 cm
+[Mrs. Shu Reinger | ID 688464ef] 2011-11-24: BP 126/77 mmHg; Height 158.1 cm; Weight 78 kg; BMI 31.2 kg/m2; Heart rate 60 /min; Resp rate 13 /min
+[Mrs. Shu Reinger | ID 688464ef] 2010-11-18: BP 124/77 mmHg; Resp rate 16 /min; Heart rate 96 /min; Hemoglobin 13.2 g/dL; BMI 31.1 kg/m2; Weight 77.8 kg; Height 158.1 cm
+[Mrs. Shu Reinger | ID 688464ef] 2009-11-12: BP 125/76 mmHg; Resp rate 13 /min; HDL 57.1 mg/dL; LDL 79.8 mg/dL; Total cholesterol 160.5 mg/dL; Heart rate 89 /min; Triglycerides 117.7 mg/dL; BMI 30.4 kg/m2; Weight 75.9 kg; Height 158.1 cm
+[Mrs. Shu Reinger | ID 688464ef] 2008-11-06: BP 126/81 mmHg; Resp rate 13 /min; Heart rate 72 /min; BMI 29.6 kg/m2; Weight 73.9 kg; Height 158.1 cm
+[Mrs. Shu Reinger | ID 688464ef] 2007-11-01: BP 133/76 mmHg; Height 158.1 cm; Weight 72 kg; BMI 28.8 kg/m2; Heart rate 73 /min; Resp rate 12 /min

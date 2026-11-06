@@ -1,0 +1,68 @@
+PATIENT SUMMARY | Mr. Dino Rohan | ID c75193d7
+DOB: 1983-04-02 | Age: 43 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Mr. Dino Rohan | ID c75193d7
+- Prediabetes — since 2005-06-04
+- Anemia — since 2011-06-11
+- Chronic low back pain — since 2014-02-03
+- Chronic pain — since 2014-02-03
+- Chronic sinusitis — since 2018-12-08
+- Has a criminal record — since 2020-03-21
+- Body mass index 30+ - obesity — since 2025-04-19
+
+RESOLVED CONDITIONS | Mr. Dino Rohan | ID c75193d7
+- Limited social contact — 2005-06-04 to 2022-04-02
+- Victim of intimate partner abuse — 2018-10-13 to 2020-03-21
+- Acute bacterial sinusitis — 2018-10-20 to 2018-12-22
+- Gingivitis — 2018-12-15 to 2025-05-03
+- Sinusitis — 2021-02-16 to 2021-03-17
+- Gingival disease — 2021-04-10 to 2021-04-10
+- Primary dental caries — 2021-04-10 to 2021-04-10
+- Acute bronchitis — 2023-10-21 to 2023-11-02
+- Dental filling lost — 2025-05-03 to 2025-05-03
+
+CURRENT MEDICATIONS | Mr. Dino Rohan | ID c75193d7
+- Acetaminophen 325 MG Oral Tablet [Tylenol] — since 2026-04-25
+
+PAST MEDICATIONS | Mr. Dino Rohan | ID c75193d7
+- Acetaminophen 325 MG Oral Tablet — 2023-10-21 to 2023-11-02
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet — 2021-02-16 to 2021-03-17
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2018-12-29 to 2025-05-03
+
+ALLERGIES | Mr. Dino Rohan | ID c75193d7
+- No known allergies.
+
+LATEST VITALS & LABS | Mr. Dino Rohan | ID c75193d7
+- BMI: 27.7 kg/m2 (2026-04-25)
+- BUN: 11.7 mg/dL (2026-04-25)
+- Creatinine: 1.3 mg/dL (2026-04-25)
+- Glucose: 96.9 mg/dL (2026-04-25)
+- HDL: 56.6 mg/dL (2026-04-25)
+- HbA1c: 5.9 % (2026-04-25)
+- Heart rate: 82 /min (2026-04-25)
+- Height: 183.9 cm (2026-04-25)
+- Hemoglobin: 12.2 g/dL (2026-04-25)
+- LDL: 41.8 mg/dL (2026-04-25)
+- Potassium: 3.8 mmol/L (2026-04-25)
+- Resp rate: 15 /min (2026-04-25)
+- Sodium: 143.2 mmol/L (2026-04-25)
+- Total cholesterol: 125 mg/dL (2026-04-25)
+- Triglycerides: 133 mg/dL (2026-04-25)
+- Weight: 93.7 kg (2026-04-25)
+- Blood pressure: 99/82 mmHg (2026-04-25)
+
+VISIT HISTORY (vitals & labs by date) | Mr. Dino Rohan | ID c75193d7
+[Mr. Dino Rohan | ID c75193d7] 2026-04-25: BP 99/82 mmHg; Sodium 143.2 mmol/L; Creatinine 1.3 mg/dL; Potassium 3.8 mmol/L; BUN 11.7 mg/dL; Triglycerides 133 mg/dL; LDL 41.8 mg/dL; Total cholesterol 125 mg/dL; Glucose 96.9 mg/dL; HDL 56.6 mg/dL; Heart rate 82 /min; BMI 27.7 kg/m2; Weight 93.7 kg; Height 183.9 cm; HbA1c 5.9 %; Resp rate 15 /min; Hemoglobin 12.2 g/dL
+[Mr. Dino Rohan | ID c75193d7] 2025-04-19: BP 109/73 mmHg; Glucose 74.5 mg/dL; Potassium 4.9 mmol/L; Sodium 138.1 mmol/L; Creatinine 1.6 mg/dL; BUN 14.8 mg/dL; Resp rate 13 /min; HbA1c 6.2 %; BMI 30.2 kg/m2; Weight 102.1 kg; Height 183.9 cm; Heart rate 99 /min
+[Mr. Dino Rohan | ID c75193d7] 2024-04-13: BP 115/82 mmHg; Creatinine 1.4 mg/dL; Potassium 4.6 mmol/L; Sodium 140.5 mmol/L; BUN 18.3 mg/dL; Glucose 71.8 mg/dL; Resp rate 13 /min; BMI 29.5 kg/m2; Weight 99.9 kg; Height 183.9 cm; HbA1c 6.2 %; Heart rate 82 /min
+[Mr. Dino Rohan | ID c75193d7] 2023-10-14: HbA1c 6.3 %
+[Mr. Dino Rohan | ID c75193d7] 2023-10-07: BP 112/80 mmHg; BUN 14.2 mg/dL; Creatinine 1.4 mg/dL; Potassium 4.1 mmol/L; Glucose 65.3 mg/dL; Sodium 137.5 mmol/L; Resp rate 14 /min; BMI 29.2 kg/m2; Weight 98.8 kg; Height 183.9 cm; HbA1c 6 %; Heart rate 79 /min
+[Mr. Dino Rohan | ID c75193d7] 2023-04-08: BP 107/81 mmHg; LDL 121.9 mg/dL; Triglycerides 108.8 mg/dL; Total cholesterol 196.5 mg/dL; Potassium 4.4 mmol/L; Sodium 142.8 mmol/L; Creatinine 1.4 mg/dL; BUN 15.7 mg/dL; Glucose 69.2 mg/dL; Heart rate 81 /min; BMI 28.9 kg/m2; Weight 97.7 kg; HbA1c 6.1 %; HDL 52.9 mg/dL; Resp rate 13 /min; Height 183.9 cm
+[Mr. Dino Rohan | ID c75193d7] 2022-04-02: BP 114/84 mmHg; Potassium 5.2 mmol/L; Creatinine 1.3 mg/dL; BUN 16.2 mg/dL; Glucose 83.2 mg/dL; Resp rate 14 /min; Heart rate 62 /min; Sodium 141.6 mmol/L; BMI 28.2 kg/m2; Weight 95.5 kg; Height 183.9 cm; HbA1c 5.9 %
+[Mr. Dino Rohan | ID c75193d7] 2021-03-27: BP 106/82 mmHg; BUN 14.9 mg/dL; Hemoglobin 15.5 g/dL; Potassium 4.3 mmol/L; Sodium 138.1 mmol/L; Creatinine 1.5 mg/dL; Glucose 82.5 mg/dL; Resp rate 15 /min; Heart rate 92 /min; BMI 28.1 kg/m2; Weight 94.9 kg; Height 183.9 cm; HbA1c 6 %
+[Mr. Dino Rohan | ID c75193d7] 2020-03-21: BP 111/80 mmHg; Creatinine 1.5 mg/dL; LDL 2.6 mg/dL; HDL 62.4 mg/dL; Triglycerides 113.3 mg/dL; Total cholesterol 87.7 mg/dL; Potassium 4.6 mmol/L; Sodium 139 mmol/L; BUN 18.8 mg/dL; Height 183.9 cm; Resp rate 14 /min; Heart rate 82 /min; BMI 29.8 kg/m2; Weight 100.7 kg; HbA1c 5.8 %; Glucose 72.3 mg/dL
+[Mr. Dino Rohan | ID c75193d7] 2019-03-16: BP 111/84 mmHg; Potassium 4.4 mmol/L; Sodium 138.7 mmol/L; Creatinine 1.5 mg/dL; BUN 17.7 mg/dL; Glucose 81.2 mg/dL; Heart rate 91 /min; Resp rate 14 /min; BMI 29.3 kg/m2; Weight 99.2 kg; Height 183.9 cm; HbA1c 6.2 %
+[Mr. Dino Rohan | ID c75193d7] 2018-12-15: BP 115/81 mmHg; BUN 17 mg/dL; Creatinine 1.7 mg/dL; Glucose 71.2 mg/dL; Potassium 5 mmol/L; Sodium 142.3 mmol/L; Resp rate 13 /min; Weight 99.2 kg; BMI 29.3 kg/m2; Heart rate 78 /min; Height 183.9 cm; HbA1c 6.3 %
+[Mr. Dino Rohan | ID c75193d7] 2018-10-13: BP 114/79 mmHg; Heart rate 62 /min; Potassium 4.8 mmol/L; Sodium 143 mmol/L; Creatinine 1.5 mg/dL; BUN 18.2 mg/dL; Glucose 92.9 mg/dL; Resp rate 14 /min; BMI 29.3 kg/m2; Weight 99.2 kg; Height 183.9 cm; HbA1c 5.9 %
+[Mr. Dino Rohan | ID c75193d7] 2018-03-10: BP 115/82 mmHg; Glucose 81.1 mg/dL; Potassium 5 mmol/L; Sodium 137.8 mmol/L; Creatinine 1.4 mg/dL; BUN 9.3 mg/dL; Heart rate 96 /min; Resp rate 13 /min; BMI 29 kg/m2; Weight 98 kg; Height 183.9 cm; HbA1c 6.2 %
+[Mr. Dino Rohan | ID c75193d7] 2017-03-04: BP 103/75 mmHg; HbA1c 5.9 %; HDL 59.8 mg/dL; LDL 64.6 mg/dL; Triglycerides 106.2 mg/dL; Total cholesterol 145.7 mg/dL; Potassium 4.3 mmol/L; Creatinine 1.4 mg/dL; BUN 7.1 mg/dL; Sodium 138.4 mmol/L; Resp rate 14 /min; Heart rate 92 /min; BMI 28.4 kg/m2; Weight 96.2 kg; Height 183.9 cm; Glucose 96.3 mg/dL

@@ -1,0 +1,46 @@
+PATIENT SUMMARY | Mr. Christian Sipes | ID 143e4881
+DOB: 2004-05-06 | Age: 22 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Mr. Christian Sipes | ID 143e4881
+- Loss of teeth — since 2020-07-09
+- Body mass index 30+ - obesity — since 2026-07-09
+
+RESOLVED CONDITIONS | Mr. Christian Sipes | ID 143e4881
+- Primary dental caries — 2019-06-27 to 2019-06-27
+- Gingivitis — 2020-06-18 to 2020-07-02
+- Infection of tooth — 2020-07-02 to 2020-07-02
+- Alveolitis of jaw — 2020-07-07 to 2020-07-07
+- Torus palatinus — 2020-07-09 to 2020-07-24
+- Sprain of ankle — 2021-03-25 to 2021-05-03
+- Sprain — 2021-03-25 to 2021-05-03
+- Loose dental filling — 2021-07-08 to 2021-07-08
+- Limited social contact — 2022-06-30 to 2023-07-06
+
+CURRENT MEDICATIONS | Mr. Christian Sipes | ID 143e4881
+- None recorded.
+
+PAST MEDICATIONS | Mr. Christian Sipes | ID 143e4881
+- Naproxen sodium 220 MG Oral Tablet — 2021-03-25 to 2021-05-03
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2019-06-27 to 2019-06-27
+
+ALLERGIES | Mr. Christian Sipes | ID 143e4881
+- No known allergies.
+
+LATEST VITALS & LABS | Mr. Christian Sipes | ID 143e4881
+- BMI: 30 kg/m2 (2026-07-09)
+- Heart rate: 76 /min (2026-07-09)
+- Height: 178.5 cm (2026-07-09)
+- Hemoglobin: 13.2 g/dL (2026-07-09)
+- Resp rate: 16 /min (2026-07-09)
+- Weight: 95.7 kg (2026-07-09)
+- Blood pressure: 137/78 mmHg (2026-07-09)
+
+VISIT HISTORY (vitals & labs by date) | Mr. Christian Sipes | ID 143e4881
+[Mr. Christian Sipes | ID 143e4881] 2026-07-09: BP 137/78 mmHg; Resp rate 16 /min; Height 178.5 cm; Weight 95.7 kg; BMI 30 kg/m2; Heart rate 76 /min; Hemoglobin 13.2 g/dL
+[Mr. Christian Sipes | ID 143e4881] 2023-07-06: BP 142/76 mmHg; Resp rate 13 /min; Heart rate 87 /min; Weight 91.4 kg; Height 178.3 cm; BMI 28.8 kg/m2
+[Mr. Christian Sipes | ID 143e4881] 2022-06-30: BP 144/76 mmHg; Resp rate 14 /min; Heart rate 80 /min; Weight 89.2 kg; Height 177.9 cm; BMI 28.2 kg/m2
+[Mr. Christian Sipes | ID 143e4881] 2021-06-24: BP 138/81 mmHg; Height 177.1 cm; Weight 84.3 kg; BMI 26.9 kg/m2; Heart rate 65 /min; Resp rate 13 /min
+[Mr. Christian Sipes | ID 143e4881] 2020-06-18: BP 135/80 mmHg; Heart rate 80 /min; Resp rate 14 /min; Hemoglobin 16.3 g/dL; BMI 25.7 kg/m2; Weight 79.1 kg; Height 175.5 cm
+[Mr. Christian Sipes | ID 143e4881] 2019-06-13: BP 141/77 mmHg; Height 172.3 cm; Weight 72.7 kg; BMI 24.5 kg/m2; Heart rate 74 /min; Resp rate 15 /min
+[Mr. Christian Sipes | ID 143e4881] 2018-06-07: BP 136/79 mmHg; Resp rate 14 /min; Heart rate 72 /min; Weight 65.9 kg; Height 166.6 cm; BMI 23.8 kg/m2
+[Mr. Christian Sipes | ID 143e4881] 2017-06-01: BP 143/79 mmHg; Height 158.2 cm; Weight 65.4 kg; BMI 26.1 kg/m2; Heart rate 80 /min; Resp rate 15 /min

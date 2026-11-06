@@ -1,0 +1,188 @@
+PATIENT SUMMARY | Mr. Juan Carlos Pagan | ID acc0a847
+DOB: 1956-09-07 | Age: 70 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Mr. Juan Carlos Pagan | ID acc0a847
+- Sepsis — since 1983-03-19
+- Septic shock — since 1983-03-19
+- Essential hypertension — since 1993-11-26
+- Refugee (person) — since 1994-12-02
+- Prediabetes — since 1998-12-25
+- Anemia — since 1999-12-31
+- Chronic kidney disease stage 1 — since 2008-02-15
+- Disorder of kidney due to diabetes mellitus — since 2008-02-15
+- Chronic kidney disease stage 2 — since 2009-02-20
+- Microalbuminuria due to type 2 diabetes mellitus — since 2009-02-20
+- Chronic kidney disease stage 3 — since 2012-10-12
+- Proteinuria due to type 2 diabetes mellitus — since 2012-10-12
+- Acute ST segment elevation myocardial infarction — since 2016-02-25
+- History of myocardial infarction — since 2016-02-25
+- Has a criminal record — since 2016-08-19
+- Leukemia  disease — since 2025-08-21
+- Loss of teeth — since 2025-11-07
+- History of autologous bone marrow transplant — since 2025-12-05
+
+RESOLVED CONDITIONS | Mr. Juan Carlos Pagan | ID acc0a847
+- Gingivitis — 2017-05-26 to 2024-05-31
+- Viral sinusitis — 2017-07-07 to 2020-01-01
+- Victim of intimate partner abuse — 2017-09-15 to 2023-10-13
+- Leaking dental filling — 2018-02-23 to 2018-02-23
+- Limited social contact — 2018-10-26 to 2024-01-12
+- Acute bronchitis — 2019-07-26 to 2019-08-15
+- Gingival disease — 2020-01-24 to 2024-05-31
+- Acute viral pharyngitis — 2020-01-31 to 2020-02-09
+- Dental filling lost — 2020-07-17 to 2020-07-17
+- Sprain of ankle — 2021-12-13 to 2022-01-15
+- Sprain — 2021-12-13 to 2022-01-15
+- Loose dental filling — 2024-01-26 to 2024-01-26
+- Awaiting transplantation of bone marrow — 2025-10-28 to 2025-12-05
+- Infection of tooth — 2025-10-31 to 2025-10-31
+- Alveolitis of jaw — 2025-11-05 to 2025-11-05
+- Resorption of alveolar process due to dental trauma — 2025-11-07 to 2026-01-02
+
+CURRENT MEDICATIONS | Mr. Juan Carlos Pagan | ID acc0a847
+- amLODIPine 2.5 MG Oral Tablet — since 2026-07-31, for Essential hypertension
+- aspirin 81 MG Oral Tablet — since 2016-02-25
+- atorvastatin 40 MG Oral Tablet — since 2016-02-25
+- carvedilol 25 MG Oral Tablet — since 2016-02-25
+- insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] — since 2026-07-31, for Prediabetes
+- lisinopril 40 MG Oral Tablet — since 2016-02-25
+- prasugrel 10 MG Oral Tablet — since 2016-02-25
+
+PAST MEDICATIONS | Mr. Juan Carlos Pagan | ID acc0a847
+- Acetaminophen 325 MG Oral Tablet — 2019-07-26 to 2019-08-15
+- Naproxen sodium 220 MG Oral Tablet — 2021-12-13 to 2022-01-15
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2017-06-30 to 2025-06-13
+
+ALLERGIES | Mr. Juan Carlos Pagan | ID acc0a847
+- No known allergies.
+
+LATEST VITALS & LABS | Mr. Juan Carlos Pagan | ID acc0a847
+- BMI: 28 kg/m2 (2026-07-31)
+- BUN: 14.3 mg/dL (2026-07-31)
+- Creatinine: 1.9 mg/dL (2026-07-31)
+- Glucose: 64.7 mg/dL (2026-07-31)
+- HDL: 65.1 mg/dL (2024-05-17)
+- HbA1c: 3.4 % (2026-07-31)
+- Heart rate: 64 /min (2026-07-31)
+- Height: 177.6 cm (2026-07-31)
+- Hemoglobin: 15.7 g/dL (2026-05-29)
+- LDL: 96 mg/dL (2024-05-17)
+- Potassium: 3.9 mmol/L (2026-07-31)
+- Resp rate: 13 /min (2026-07-31)
+- Sodium: 141.1 mmol/L (2026-07-31)
+- Total cholesterol: 184.3 mg/dL (2024-05-17)
+- Triglycerides: 116.3 mg/dL (2024-05-17)
+- Weight: 88.3 kg (2026-07-31)
+- Blood pressure: 128/77 mmHg (2026-07-31)
+
+VISIT HISTORY (vitals & labs by date) | Mr. Juan Carlos Pagan | ID acc0a847
+[Mr. Juan Carlos Pagan | ID acc0a847] 2026-07-31: BP 128/77 mmHg; Heart rate 64 /min; Creatinine 3.5 mg/dL; BUN 14.3 mg/dL; Glucose 64.7 mg/dL; Resp rate 13 /min; Sodium 141.1 mmol/L; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.4 %; Creatinine 1.9 mg/dL; Potassium 3.9 mmol/L
+[Mr. Juan Carlos Pagan | ID acc0a847] 2026-05-29: BP 126/83 mmHg; Hemoglobin 15.7 g/dL; Potassium 4 mmol/L; Sodium 137.1 mmol/L; Creatinine 3.5 mg/dL; BUN 18.2 mg/dL; Glucose 97.8 mg/dL; Resp rate 16 /min; Heart rate 85 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.3 %; Creatinine 2 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2026-04-03: BP 126/81 mmHg; Sodium 140.3 mmol/L; Creatinine 4.3 mg/dL; Potassium 4.9 mmol/L; BUN 18.5 mg/dL; Glucose 88.3 mg/dL; Resp rate 12 /min; Heart rate 67 /min; Height 177.6 cm; BMI 28 kg/m2; Weight 88.3 kg; HbA1c 2.8 %; Creatinine 2 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-12-27: Hemoglobin 12.8 g/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-12-26: Hemoglobin 17.4 g/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-12-25: Hemoglobin 14.1 g/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-12-24: Hemoglobin 15.4 g/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-12-23: Hemoglobin 15.7 g/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-12-22: Hemoglobin 15.3 g/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-12-21: Hemoglobin 15.6 g/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-12-20: Hemoglobin 13.2 g/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-12-19: Hemoglobin 13.2 g/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-12-18: Hemoglobin 13.6 g/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-12-17: Hemoglobin 14 g/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-12-15: Hemoglobin 13 g/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-12-14: Hemoglobin 16 g/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-12-13: Hemoglobin 16.6 g/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-12-12: Hemoglobin 12.9 g/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-12-11: Hemoglobin 15.3 g/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-12-10: Hemoglobin 13.3 g/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-12-09: Hemoglobin 12.3 g/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-12-08: Hemoglobin 16.1 g/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-12-07: Hemoglobin 15.9 g/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-12-06: Hemoglobin 16.5 g/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-12-05: Hemoglobin 17.1 g/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-11-28: BP 129/74 mmHg; Resp rate 16 /min; Sodium 143.4 mmol/L; Creatinine 3.9 mg/dL; Potassium 4.8 mmol/L; Glucose 93.4 mg/dL; Heart rate 88 /min; BUN 17.6 mg/dL; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.1 %; Creatinine 2 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-10-28: Hemoglobin 11.2 g/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-10-03: BP 123/80 mmHg; Potassium 4 mmol/L; Sodium 139.7 mmol/L; Creatinine 5.5 mg/dL; BUN 11.2 mg/dL; Glucose 83.7 mg/dL; Resp rate 15 /min; Heart rate 69 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 2.9 %; Creatinine 1.9 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-07-04: BP 126/83 mmHg; Potassium 5.1 mmol/L; Sodium 138.8 mmol/L; Creatinine 3.7 mg/dL; BUN 19.7 mg/dL; Glucose 93.9 mg/dL; Resp rate 15 /min; Heart rate 86 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3 %; Creatinine 2.1 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-06-06: BP 128/73 mmHg; Potassium 3.7 mmol/L; Sodium 138.2 mmol/L; Creatinine 4.3 mg/dL; BUN 12 mg/dL; Glucose 87.7 mg/dL; Resp rate 12 /min; Heart rate 66 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 2.8 %; Creatinine 2.1 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-05-23: BP 131/73 mmHg; Resp rate 16 /min; Sodium 141.1 mmol/L; Creatinine 3.5 mg/dL; BUN 7.1 mg/dL; Potassium 5.1 mmol/L; Heart rate 81 /min; Glucose 69.7 mg/dL; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.1 %; Creatinine 2 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-03-07: BP 131/80 mmHg; Potassium 4.1 mmol/L; Sodium 137.9 mmol/L; Creatinine 5.7 mg/dL; BUN 14.7 mg/dL; Glucose 82.6 mg/dL; Resp rate 16 /min; Heart rate 92 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 2.8 %; Creatinine 2 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2025-02-07: BP 121/73 mmHg; Heart rate 62 /min; Potassium 4.4 mmol/L; Sodium 139 mmol/L; Creatinine 3.8 mg/dL; BUN 17.6 mg/dL; Glucose 76.3 mg/dL; Resp rate 13 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 2.9 %; Creatinine 2 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2024-10-04: BP 130/80 mmHg; Potassium 4.6 mmol/L; Sodium 141.8 mmol/L; Creatinine 3.7 mg/dL; BUN 14.2 mg/dL; Resp rate 13 /min; Glucose 76.8 mg/dL; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.2 %; Creatinine 2 mg/dL; Heart rate 69 /min
+[Mr. Juan Carlos Pagan | ID acc0a847] 2024-07-12: BP 130/81 mmHg; Resp rate 16 /min; Potassium 4.6 mmol/L; Sodium 143.5 mmol/L; Creatinine 3.7 mg/dL; BUN 14.5 mg/dL; Glucose 78.4 mg/dL; Heart rate 94 /min; BMI 28 kg/m2; Creatinine 1.9 mg/dL; HbA1c 3.3 %; Weight 88.3 kg; Height 177.6 cm
+[Mr. Juan Carlos Pagan | ID acc0a847] 2024-05-17: BP 128/75 mmHg; HDL 65.1 mg/dL; LDL 96 mg/dL; Triglycerides 116.3 mg/dL; Total cholesterol 184.3 mg/dL; Potassium 4.9 mmol/L; Sodium 144 mmol/L; Creatinine 4.3 mg/dL; BUN 8.4 mg/dL; Glucose 88.8 mg/dL; Resp rate 13 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.3 %; Creatinine 1.9 mg/dL; Heart rate 64 /min
+[Mr. Juan Carlos Pagan | ID acc0a847] 2024-01-12: BP 121/79 mmHg; Potassium 4.5 mmol/L; Sodium 143.7 mmol/L; Creatinine 3.3 mg/dL; BUN 19.2 mg/dL; Resp rate 14 /min; Heart rate 74 /min; Glucose 95.1 mg/dL; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.1 %; Creatinine 2 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2023-12-15: BP 129/80 mmHg; Potassium 4.9 mmol/L; Sodium 138.7 mmol/L; Creatinine 3.4 mg/dL; BUN 19.4 mg/dL; Glucose 99.1 mg/dL; Resp rate 15 /min; Heart rate 77 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.2 %; Creatinine 2 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2023-10-13: BP 118/83 mmHg; Potassium 4.4 mmol/L; Sodium 138.8 mmol/L; Creatinine 4.8 mg/dL; Resp rate 14 /min; BUN 17.6 mg/dL; Glucose 70.5 mg/dL; Heart rate 90 /min; Height 177.6 cm; BMI 28 kg/m2; Weight 88.3 kg; HbA1c 3.3 %; Creatinine 1.9 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2023-07-14: BP 128/80 mmHg; Glucose 79.2 mg/dL; BUN 19.9 mg/dL; Resp rate 14 /min; Potassium 4.1 mmol/L; Creatinine 5.5 mg/dL; Heart rate 67 /min; Sodium 142.6 mmol/L; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.3 %; Creatinine 2.1 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2023-05-12: BP 131/83 mmHg; Potassium 5.2 mmol/L; Sodium 141.9 mmol/L; Creatinine 3.7 mg/dL; BUN 16.6 mg/dL; Glucose 76.2 mg/dL; Resp rate 13 /min; Heart rate 73 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.3 %; Creatinine 2 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2022-05-06: BP 129/78 mmHg; Resp rate 15 /min; Sodium 138.9 mmol/L; Creatinine 3.8 mg/dL; BUN 11.2 mg/dL; Glucose 75 mg/dL; Potassium 4.9 mmol/L; Heart rate 81 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.1 %; Creatinine 2 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2021-11-19: BP 124/81 mmHg; Potassium 4.2 mmol/L; Sodium 139.2 mmol/L; Creatinine 3.7 mg/dL; BUN 12.5 mg/dL; Glucose 92 mg/dL; Resp rate 15 /min; Heart rate 92 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3 %; Creatinine 2 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2021-09-24: BP 111/74 mmHg; BUN 14.8 mg/dL; Creatinine 4 mg/dL; Weight 88.3 kg; Potassium 4.4 mmol/L; Glucose 98.9 mg/dL; Sodium 141.3 mmol/L; Resp rate 14 /min; HbA1c 3.3 %; BMI 28 kg/m2; Height 177.6 cm; Heart rate 68 /min; Creatinine 1.9 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2021-04-30: Creatinine 1.9 mg/dL; HbA1c 3.1 %
+[Mr. Juan Carlos Pagan | ID acc0a847] 2021-04-23: BP 126/80 mmHg; Hemoglobin 13.9 g/dL; HDL 62.5 mg/dL; LDL 98.5 mg/dL; Triglycerides 134.5 mg/dL; Total cholesterol 187.9 mg/dL; Potassium 4.7 mmol/L; Sodium 137 mmol/L; Creatinine 3.3 mg/dL; BUN 17.6 mg/dL; Heart rate 75 /min; Resp rate 15 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 2.8 %; Creatinine 2 mg/dL; Glucose 66.2 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2021-02-26: BP 112/78 mmHg; Glucose 80.1 mg/dL; Creatinine 4.5 mg/dL; BUN 19.8 mg/dL; Potassium 4.9 mmol/L; Sodium 137.3 mmol/L; Heart rate 90 /min; Resp rate 14 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.3 %; Creatinine 2 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2020-11-27: BP 119/76 mmHg; Potassium 4.2 mmol/L; Sodium 138.1 mmol/L; Creatinine 3.7 mg/dL; BUN 15.3 mg/dL; Glucose 71.8 mg/dL; Resp rate 15 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3 %; Creatinine 2.1 mg/dL; Heart rate 79 /min
+[Mr. Juan Carlos Pagan | ID acc0a847] 2020-10-30: BP 123/75 mmHg; Glucose 90.2 mg/dL; BUN 15.7 mg/dL; Sodium 143.2 mmol/L; Potassium 3.8 mmol/L; Resp rate 14 /min; Creatinine 5.7 mg/dL; Heart rate 80 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.1 %; Creatinine 2.1 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2020-07-03: BP 120/82 mmHg; Potassium 4 mmol/L; Sodium 140.1 mmol/L; Creatinine 5.8 mg/dL; BUN 13.1 mg/dL; Glucose 93.8 mg/dL; Resp rate 15 /min; Heart rate 60 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 2.8 %; Creatinine 2 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2020-05-29: BP 115/81 mmHg; Glucose 69.7 mg/dL; BUN 13.7 mg/dL; Sodium 137.1 mmol/L; Potassium 4.7 mmol/L; Creatinine 4.5 mg/dL; Resp rate 15 /min; Weight 88.3 kg; BMI 28 kg/m2; Height 177.6 cm; HbA1c 3.2 %; Creatinine 2 mg/dL; Heart rate 60 /min
+[Mr. Juan Carlos Pagan | ID acc0a847] 2020-04-24: BP 128/82 mmHg; Resp rate 13 /min; Potassium 4.8 mmol/L; Sodium 136.4 mmol/L; Creatinine 3.4 mg/dL; BUN 15.7 mg/dL; Glucose 71.2 mg/dL; Heart rate 84 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.2 %; Creatinine 1.9 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2020-02-14: Creatinine 2 mg/dL; HbA1c 3.4 %
+[Mr. Juan Carlos Pagan | ID acc0a847] 2020-02-07: BP 120/82 mmHg; Glucose 96.6 mg/dL; BUN 7.9 mg/dL; Resp rate 15 /min; Sodium 137.5 mmol/L; Potassium 5 mmol/L; Creatinine 4.8 mg/dL; Heart rate 84 /min; BMI 28 kg/m2; Creatinine 2 mg/dL; HbA1c 2.8 %; Weight 88.3 kg; Height 177.6 cm
+[Mr. Juan Carlos Pagan | ID acc0a847] 2020-01-17: Creatinine 1.9 mg/dL; HbA1c 2.9 %
+[Mr. Juan Carlos Pagan | ID acc0a847] 2020-01-10: BP 128/77 mmHg; Potassium 5 mmol/L; Sodium 142.3 mmol/L; Creatinine 5.1 mg/dL; BUN 15.1 mg/dL; Glucose 86.9 mg/dL; Resp rate 16 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.4 %; Creatinine 2.1 mg/dL; Heart rate 62 /min
+[Mr. Juan Carlos Pagan | ID acc0a847] 2020-01-03: Creatinine 2 mg/dL; HbA1c 2.9 %
+[Mr. Juan Carlos Pagan | ID acc0a847] 2019-12-27: BP 112/82 mmHg; Potassium 4.4 mmol/L; Sodium 139.9 mmol/L; Creatinine 3.3 mg/dL; BUN 11.6 mg/dL; Glucose 85.6 mg/dL; Resp rate 15 /min; Heart rate 67 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.2 %; Creatinine 2.1 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2019-12-20: Creatinine 2 mg/dL; HbA1c 3.3 %
+[Mr. Juan Carlos Pagan | ID acc0a847] 2019-12-13: BP 119/75 mmHg; Potassium 4.4 mmol/L; Sodium 141 mmol/L; Creatinine 4.2 mg/dL; BUN 7.1 mg/dL; Glucose 97.4 mg/dL; Resp rate 15 /min; Heart rate 86 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 2.9 %; Creatinine 2 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2019-11-22: Creatinine 2.1 mg/dL; HbA1c 3.3 %
+[Mr. Juan Carlos Pagan | ID acc0a847] 2019-11-15: BP 130/81 mmHg; Glucose 70.4 mg/dL; BUN 8.6 mg/dL; Resp rate 13 /min; Sodium 143.9 mmol/L; Potassium 5.2 mmol/L; Creatinine 3.5 mg/dL; Heart rate 83 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.2 %; Creatinine 1.9 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2019-11-08: Creatinine 2.1 mg/dL; HbA1c 3 %
+[Mr. Juan Carlos Pagan | ID acc0a847] 2019-11-01: BP 131/81 mmHg; Potassium 4.5 mmol/L; Sodium 143.3 mmol/L; Creatinine 4.7 mg/dL; BUN 18.6 mg/dL; Glucose 83.2 mg/dL; Resp rate 14 /min; Heart rate 68 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 2.8 %; Creatinine 2 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2019-10-25: Creatinine 2 mg/dL; HbA1c 3.1 %
+[Mr. Juan Carlos Pagan | ID acc0a847] 2019-10-18: BP 121/82 mmHg; Heart rate 82 /min; Potassium 4.4 mmol/L; Sodium 138.9 mmol/L; Creatinine 3.6 mg/dL; BUN 12.5 mg/dL; Glucose 74.8 mg/dL; Resp rate 14 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.1 %; Creatinine 2.1 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2019-10-04: BP 124/81 mmHg; Potassium 4 mmol/L; Sodium 140.4 mmol/L; Creatinine 4.4 mg/dL; BUN 8.6 mg/dL; Resp rate 14 /min; Glucose 91.3 mg/dL; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 2.9 %; Creatinine 2.1 mg/dL; Heart rate 72 /min
+[Mr. Juan Carlos Pagan | ID acc0a847] 2019-08-16: BP 130/79 mmHg; Glucose 91.7 mg/dL; BUN 12.6 mg/dL; Resp rate 13 /min; Creatinine 4.1 mg/dL; Sodium 136.1 mmol/L; Potassium 4.9 mmol/L; Heart rate 90 /min; Height 177.6 cm; Creatinine 2.1 mg/dL; HbA1c 2.9 %; BMI 28 kg/m2; Weight 88.3 kg
+[Mr. Juan Carlos Pagan | ID acc0a847] 2019-07-19: Creatinine 2 mg/dL; HbA1c 2.8 %
+[Mr. Juan Carlos Pagan | ID acc0a847] 2019-07-12: BP 122/77 mmHg; Potassium 5.1 mmol/L; Sodium 143.2 mmol/L; Creatinine 3.8 mg/dL; BUN 13.3 mg/dL; Glucose 82.1 mg/dL; Resp rate 13 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 2.8 %; Creatinine 2 mg/dL; Heart rate 60 /min
+[Mr. Juan Carlos Pagan | ID acc0a847] 2019-07-05: Creatinine 1.9 mg/dL; HbA1c 3.3 %
+[Mr. Juan Carlos Pagan | ID acc0a847] 2019-06-28: BP 123/79 mmHg; Potassium 4.1 mmol/L; Sodium 136.6 mmol/L; Creatinine 4.1 mg/dL; BUN 17.8 mg/dL; Glucose 69.9 mg/dL; Resp rate 15 /min; Heart rate 99 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.2 %; Creatinine 2 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2019-06-21: Creatinine 2 mg/dL; HbA1c 3.1 %
+[Mr. Juan Carlos Pagan | ID acc0a847] 2019-06-14: BP 120/83 mmHg; Potassium 3.9 mmol/L; Sodium 137.8 mmol/L; Creatinine 3.4 mg/dL; BUN 8.3 mg/dL; Glucose 67.5 mg/dL; Resp rate 13 /min; Heart rate 61 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3 %; Creatinine 2 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2019-06-07: Creatinine 2 mg/dL; HbA1c 2.9 %
+[Mr. Juan Carlos Pagan | ID acc0a847] 2019-05-31: BP 123/82 mmHg; BUN 9.1 mg/dL; Creatinine 3.7 mg/dL; BMI 28 kg/m2; Potassium 5.1 mmol/L; Glucose 92.9 mg/dL; Sodium 142.8 mmol/L; Resp rate 15 /min; Height 177.6 cm; Weight 88.3 kg; Heart rate 81 /min; HbA1c 3.4 %; Creatinine 2 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2019-05-24: Creatinine 1.9 mg/dL; HbA1c 2.9 %
+[Mr. Juan Carlos Pagan | ID acc0a847] 2019-05-17: BP 117/82 mmHg; Potassium 4.8 mmol/L; Sodium 139 mmol/L; Creatinine 5 mg/dL; BUN 11.2 mg/dL; Glucose 90 mg/dL; Resp rate 15 /min; Heart rate 81 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3 %; Creatinine 2.1 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2019-04-19: BP 125/69 mmHg; Resp rate 13 /min; Sodium 140.9 mmol/L; Creatinine 4 mg/dL; BUN 10.9 mg/dL; Glucose 86.9 mg/dL; Potassium 4.9 mmol/L; Heart rate 76 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 2.8 %; Creatinine 2.1 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2019-04-12: Creatinine 2 mg/dL; HbA1c 2.9 %
+[Mr. Juan Carlos Pagan | ID acc0a847] 2019-04-05: BP 127/82 mmHg; Potassium 5 mmol/L; Sodium 136.3 mmol/L; Creatinine 4.4 mg/dL; BUN 11.9 mg/dL; Glucose 97.6 mg/dL; Heart rate 87 /min; Resp rate 13 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.2 %; Creatinine 2 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2019-03-22: BP 128/77 mmHg; Creatinine 5.3 mg/dL; BUN 8.5 mg/dL; Height 177.6 cm; Potassium 4.7 mmol/L; Glucose 91.9 mg/dL; Sodium 136.9 mmol/L; Resp rate 13 /min; Creatinine 2 mg/dL; BMI 28 kg/m2; Weight 88.3 kg; HbA1c 2.9 %; Heart rate 99 /min
+[Mr. Juan Carlos Pagan | ID acc0a847] 2019-03-15: Creatinine 2 mg/dL; HbA1c 3.2 %
+[Mr. Juan Carlos Pagan | ID acc0a847] 2019-03-08: BP 126/79 mmHg; Potassium 4.8 mmol/L; Sodium 141.4 mmol/L; Creatinine 5.3 mg/dL; BUN 14.4 mg/dL; Glucose 67.1 mg/dL; Resp rate 15 /min; Heart rate 61 /min; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.2 %; Creatinine 1.9 mg/dL; BMI 28 kg/m2
+[Mr. Juan Carlos Pagan | ID acc0a847] 2019-03-01: Creatinine 2.1 mg/dL; HbA1c 3 %
+[Mr. Juan Carlos Pagan | ID acc0a847] 2019-02-22: BP 129/75 mmHg; Resp rate 15 /min; Potassium 4 mmol/L; Sodium 137.3 mmol/L; Creatinine 4.5 mg/dL; BUN 16 mg/dL; Glucose 67.3 mg/dL; Heart rate 97 /min; BMI 28 kg/m2; Creatinine 2 mg/dL; HbA1c 3.4 %; Height 177.6 cm; Weight 88.3 kg
+[Mr. Juan Carlos Pagan | ID acc0a847] 2018-12-14: BP 129/78 mmHg; Resp rate 13 /min; Potassium 4.7 mmol/L; Sodium 138.1 mmol/L; Creatinine 4.2 mg/dL; BUN 19.7 mg/dL; Glucose 79.3 mg/dL; Heart rate 87 /min; Height 177.6 cm; BMI 28 kg/m2; Weight 88.3 kg; HbA1c 3.2 %; Creatinine 2 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2018-11-23: BP 128/81 mmHg; Potassium 4 mmol/L; Sodium 136.2 mmol/L; Creatinine 5.2 mg/dL; BUN 12.1 mg/dL; Resp rate 14 /min; Heart rate 92 /min; Glucose 88.9 mg/dL; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.3 %; Creatinine 2 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2018-11-16: HbA1c 3.3 %; Creatinine 1.9 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2018-11-09: BP 128/81 mmHg; Creatinine 4.3 mg/dL; BUN 19.1 mg/dL; Glucose 89.2 mg/dL; Resp rate 14 /min; Heart rate 69 /min; Height 177.6 cm; BMI 28 kg/m2; Weight 88.3 kg; HbA1c 3.2 %; Creatinine 2 mg/dL; Sodium 142.8 mmol/L; Potassium 4.1 mmol/L
+[Mr. Juan Carlos Pagan | ID acc0a847] 2018-11-02: Creatinine 2 mg/dL; HbA1c 3 %
+[Mr. Juan Carlos Pagan | ID acc0a847] 2018-10-26: BP 127/83 mmHg; Potassium 5 mmol/L; Sodium 139.6 mmol/L; BUN 9.2 mg/dL; Glucose 77.6 mg/dL; Resp rate 15 /min; Heart rate 86 /min; Creatinine 4.5 mg/dL; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.3 %; Creatinine 2 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2018-06-08: BP 120/74 mmHg; Sodium 143.3 mmol/L; Creatinine 4.9 mg/dL; BUN 16.3 mg/dL; Potassium 4.4 mmol/L; Resp rate 14 /min; Heart rate 66 /min; Glucose 65.6 mg/dL; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3 %; Creatinine 2.1 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2018-04-13: BP 125/83 mmHg; HDL 56.6 mg/dL; LDL 55.2 mg/dL; Triglycerides 136.1 mg/dL; Total cholesterol 139 mg/dL; Potassium 3.8 mmol/L; Sodium 143.8 mmol/L; Creatinine 3.9 mg/dL; BUN 18.2 mg/dL; Glucose 68.5 mg/dL; Resp rate 13 /min; Heart rate 70 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.1 %; Creatinine 2.1 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2018-02-09: BP 130/80 mmHg; Sodium 141 mmol/L; Creatinine 6 mg/dL; BUN 10.4 mg/dL; Glucose 99.9 mg/dL; Resp rate 13 /min; Heart rate 84 /min; Potassium 4.4 mmol/L; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.3 %; Creatinine 2 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2018-01-12: BP 129/76 mmHg; Potassium 4.2 mmol/L; Sodium 141.6 mmol/L; Creatinine 3.4 mg/dL; BUN 12.4 mg/dL; Glucose 86.8 mg/dL; Resp rate 15 /min; Heart rate 78 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.1 %; Creatinine 2.1 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2017-09-15: BP 119/83 mmHg; Resp rate 13 /min; Potassium 4.5 mmol/L; Sodium 137.3 mmol/L; Creatinine 6 mg/dL; BUN 14.3 mg/dL; Glucose 91 mg/dL; Heart rate 87 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.2 %; Creatinine 2 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2017-08-18: BP 126/76 mmHg; Potassium 3.9 mmol/L; Sodium 137.9 mmol/L; Creatinine 5.4 mg/dL; BUN 14.4 mg/dL; Glucose 89.2 mg/dL; Resp rate 15 /min; Heart rate 74 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.2 %; Creatinine 1.9 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2017-07-28: BP 127/82 mmHg; Resp rate 15 /min; Potassium 4 mmol/L; Sodium 143.4 mmol/L; Creatinine 6.3 mg/dL; BUN 16.2 mg/dL; Glucose 84.1 mg/dL; Heart rate 62 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3 %; Creatinine 1.9 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2017-07-21: Creatinine 2 mg/dL; HbA1c 2.9 %
+[Mr. Juan Carlos Pagan | ID acc0a847] 2017-07-14: BP 130/79 mmHg; Potassium 4.2 mmol/L; Sodium 140.3 mmol/L; Creatinine 3.7 mg/dL; BUN 16.2 mg/dL; Glucose 79.5 mg/dL; Heart rate 80 /min; Resp rate 16 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3 %; Creatinine 1.9 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2017-06-23: BP 120/78 mmHg; Resp rate 13 /min; Potassium 5.2 mmol/L; Sodium 140.4 mmol/L; Creatinine 4.3 mg/dL; BUN 8.6 mg/dL; Glucose 90.6 mg/dL; Heart rate 78 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.4 %; Creatinine 2 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2017-06-16: Creatinine 1.9 mg/dL; HbA1c 3.2 %
+[Mr. Juan Carlos Pagan | ID acc0a847] 2017-06-09: BP 124/83 mmHg; Potassium 4.4 mmol/L; Sodium 143.4 mmol/L; Creatinine 4.6 mg/dL; BUN 15.9 mg/dL; Glucose 92.6 mg/dL; Resp rate 13 /min; Heart rate 78 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.3 %; Creatinine 2 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2017-06-02: Creatinine 1.9 mg/dL; HbA1c 2.8 %
+[Mr. Juan Carlos Pagan | ID acc0a847] 2017-05-26: BP 131/76 mmHg; Resp rate 13 /min; Potassium 5 mmol/L; Sodium 139.5 mmol/L; Creatinine 5.5 mg/dL; BUN 20 mg/dL; Glucose 91.8 mg/dL; Heart rate 68 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 2.9 %; Creatinine 2.1 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2017-04-07: BP 129/81 mmHg; Potassium 3.9 mmol/L; Sodium 137.2 mmol/L; Creatinine 4.7 mg/dL; BUN 12.5 mg/dL; Glucose 83.6 mg/dL; Resp rate 14 /min; Heart rate 70 /min; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 3.2 %; Creatinine 2 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2017-01-20: BP 128/77 mmHg; Resp rate 15 /min; Potassium 4.7 mmol/L; Sodium 141.2 mmol/L; Creatinine 5.6 mg/dL; BUN 16.9 mg/dL; Glucose 89.5 mg/dL; Heart rate 86 /min; Weight 88.3 kg; BMI 28 kg/m2; Height 177.6 cm; HbA1c 3.2 %; Creatinine 2.1 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2016-12-16: BP 130/82 mmHg; Resp rate 15 /min; Potassium 3.8 mmol/L; Sodium 144 mmol/L; Creatinine 5.1 mg/dL; BUN 15.7 mg/dL; Glucose 78.9 mg/dL; Heart rate 99 /min; Weight 88.3 kg; BMI 28 kg/m2; Height 177.6 cm; HbA1c 3 %; Creatinine 1.9 mg/dL
+[Mr. Juan Carlos Pagan | ID acc0a847] 2016-10-21: BP 123/72 mmHg; Creatinine 2 mg/dL; Potassium 4.9 mmol/L; Sodium 136.9 mmol/L; Creatinine 4.2 mg/dL; Glucose 78.4 mg/dL; Resp rate 14 /min; Heart rate 82 /min; BUN 10 mg/dL; BMI 28 kg/m2; Weight 88.3 kg; Height 177.6 cm; HbA1c 2.9 %

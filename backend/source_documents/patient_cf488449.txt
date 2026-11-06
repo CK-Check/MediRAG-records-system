@@ -1,0 +1,75 @@
+PATIENT SUMMARY | Mr. Michale Bins | ID cf488449
+DOB: 1945-05-20 | Age: 81 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Mr. Michale Bins | ID cf488449
+- Body mass index 30+ - obesity — since 1973-07-29
+- Gout — since 1975-03-27
+- Victim of intimate partner abuse — since 1987-05-31
+- Osteoarthritis of hip — since 1989-06-11
+- Polyp of colon — since 2000-05-27
+- Recurrent rectal polyp — since 2001-09-03
+- Anemia — since 2001-09-06
+- Limited social contact — since 2011-06-19
+- Ischemic heart disease — since 2015-09-13
+- Abnormal findings diagnostic imaging heart+coronary circulat — since 2015-09-26
+- Aortic valve stenosis — since 2022-05-01
+- History of aortic valve replacement — since 2022-06-24
+
+RESOLVED CONDITIONS | Mr. Michale Bins | ID cf488449
+- Gingivitis — 2016-09-18 to 2025-11-23
+- Injury of neck — 2017-06-15 to 2017-08-08
+- Whiplash injury to neck — 2017-06-15 to 2017-08-08
+- Gingival disease — 2021-10-31 to 2021-10-31
+- Fracture of ankle — 2022-05-15 to 2022-09-07
+- Fracture of bone — 2022-05-15 to 2022-09-07
+- Acute viral pharyngitis — 2024-06-13 to 2024-06-20
+
+CURRENT MEDICATIONS | Mr. Michale Bins | ID cf488449
+- 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet — since 2015-09-20
+- Clopidogrel 75 MG Oral Tablet — since 2015-09-20
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray — since 2015-09-20
+- Simvastatin 20 MG Oral Tablet — since 2015-09-20
+- aspirin 81 MG Oral Capsule [Vazalore] — since 2025-11-09
+
+PAST MEDICATIONS | Mr. Michale Bins | ID cf488449
+- Acetaminophen 325 MG Oral Tablet — 2017-06-15 to 2017-08-08
+- Allopurinol 100 MG Oral Tablet — 2018-12-20 to 2019-01-15
+- Ibuprofen 200 MG Oral Tablet — 2022-05-15 to 2022-09-07
+- Naproxen 500 MG Oral Tablet — 2018-12-20 to 2019-01-15
+- cefazolin 2000 MG Injection — 2022-06-23 to 2022-06-23
+- heparin sodium  porcine 1000 UNT/ML Injectable Solution — 2022-06-23 to 2022-06-23
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2017-10-08 to 2025-11-23
+
+ALLERGIES | Mr. Michale Bins | ID cf488449
+- No known allergies.
+
+LATEST VITALS & LABS | Mr. Michale Bins | ID cf488449
+- BMI: 27.8 kg/m2 (2025-11-09)
+- Creatinine: 3.2 mg/dL (2022-06-25)
+- HDL: 50.1 mg/dL (2025-11-09)
+- HbA1c: 5.5 % (2022-05-27)
+- Heart rate: 88 /min (2025-11-09)
+- Height: 172.7 cm (2025-11-09)
+- Hemoglobin: 16.5 g/dL (2022-10-23)
+- LDL: 156.7 mg/dL (2025-11-09)
+- Resp rate: 15 /min (2025-11-09)
+- Total cholesterol: 232.1 mg/dL (2025-11-09)
+- Triglycerides: 126.6 mg/dL (2025-11-09)
+- Weight: 82.8 kg (2025-11-09)
+- Blood pressure: 114/70 mmHg (2025-11-09)
+
+VISIT HISTORY (vitals & labs by date) | Mr. Michale Bins | ID cf488449
+[Mr. Michale Bins | ID cf488449] 2025-11-09: BP 114/70 mmHg; Resp rate 15 /min; Triglycerides 126.6 mg/dL; Total cholesterol 232.1 mg/dL; Heart rate 88 /min; LDL 156.7 mg/dL; BMI 27.8 kg/m2; Weight 82.8 kg; Height 172.7 cm; HDL 50.1 mg/dL
+[Mr. Michale Bins | ID cf488449] 2024-11-03: BP 110/72 mmHg; Resp rate 15 /min; Heart rate 91 /min; Height 172.7 cm; BMI 27.8 kg/m2; Weight 82.8 kg
+[Mr. Michale Bins | ID cf488449] 2024-06-23: BP 110/74 mmHg; Height 172.7 cm; Weight 82.8 kg; BMI 27.8 kg/m2; Heart rate 77 /min; Resp rate 13 /min
+[Mr. Michale Bins | ID cf488449] 2023-10-29: BP 117/75 mmHg; Heart rate 96 /min; Resp rate 15 /min; Weight 82.8 kg; BMI 27.8 kg/m2; Height 172.7 cm
+[Mr. Michale Bins | ID cf488449] 2022-10-23: BP 111/73 mmHg; BMI 27.8 kg/m2; LDL 45.4 mg/dL; Triglycerides 142.3 mg/dL; Total cholesterol 137.7 mg/dL; Resp rate 12 /min; Weight 82.8 kg; HDL 63.8 mg/dL; Height 172.7 cm; Heart rate 96 /min; Hemoglobin 16.5 g/dL
+[Mr. Michale Bins | ID cf488449] 2022-06-25: Hemoglobin 12.1 g/dL; Creatinine 3.2 mg/dL
+[Mr. Michale Bins | ID cf488449] 2022-06-24: Hemoglobin 12.4 g/dL; Creatinine 2.1 mg/dL; Hemoglobin 12 g/dL; Creatinine 1.9 mg/dL
+[Mr. Michale Bins | ID cf488449] 2022-05-27: HDL 49.2 mg/dL; HbA1c 5.5 %; LDL 127.6 mg/dL; Total cholesterol 291.1 mg/dL; Creatinine 2.7 mg/dL; Hemoglobin 12.1 g/dL; Triglycerides 279.2 mg/dL
+[Mr. Michale Bins | ID cf488449] 2021-10-17: BP 116/68 mmHg; Height 172.7 cm; Weight 82.8 kg; BMI 27.8 kg/m2; Heart rate 87 /min; Resp rate 14 /min
+[Mr. Michale Bins | ID cf488449] 2020-10-11: BP 119/78 mmHg; Resp rate 13 /min; Heart rate 63 /min; Weight 82.8 kg; Height 172.7 cm; BMI 27.8 kg/m2
+[Mr. Michale Bins | ID cf488449] 2019-10-06: BP 112/74 mmHg; Total cholesterol 185.8 mg/dL; HDL 57.3 mg/dL; LDL 104.2 mg/dL; Triglycerides 121.8 mg/dL; Resp rate 15 /min; Height 172.7 cm; BMI 27.8 kg/m2; Weight 82.8 kg; Heart rate 77 /min
+[Mr. Michale Bins | ID cf488449] 2018-09-30: BP 111/67 mmHg; Height 172.7 cm; Weight 82.8 kg; BMI 27.8 kg/m2; Heart rate 97 /min; Resp rate 14 /min
+[Mr. Michale Bins | ID cf488449] 2017-09-24: BP 115/69 mmHg; Hemoglobin 12.2 g/dL; Resp rate 12 /min; Heart rate 86 /min; BMI 27.8 kg/m2; Weight 82.8 kg; Height 172.7 cm
+[Mr. Michale Bins | ID cf488449] 2016-09-18: BP 123/75 mmHg; Height 172.7 cm; Weight 82.8 kg; BMI 27.8 kg/m2; Heart rate 74 /min; Resp rate 14 /min; Total cholesterol 158.6 mg/dL; Triglycerides 141.6 mg/dL; LDL 73.3 mg/dL; HDL 56.9 mg/dL

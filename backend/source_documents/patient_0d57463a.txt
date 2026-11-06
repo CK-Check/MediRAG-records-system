@@ -1,0 +1,74 @@
+PATIENT SUMMARY | Mrs. Shelba Pollich | ID 0d57463a
+DOB: 1934-02-01 | Age: 92 | Gender: F | Status: Deceased
+
+ACTIVE CONDITIONS | Mrs. Shelba Pollich | ID 0d57463a
+- Body mass index 30+ - obesity — since 1965-04-15
+- Past pregnancy history of miscarriage — since 1983-12-29
+- Diabetes mellitus type 2 — since 1990-03-15
+- Hypertriglyceridemia — since 1991-03-21
+- Metabolic syndrome X — since 1991-03-21
+- Essential hypertension — since 1997-04-24
+- Familial Alzheimer's disease of early onset — since 1997-04-24
+- Neuropathy due to type 2 diabetes mellitus — since 1997-04-24
+- Pneumonia — since 2004-03-18
+
+RESOLVED CONDITIONS | Mrs. Shelba Pollich | ID 0d57463a
+- Gingivitis — 1994-04-07 to 2000-05-25
+- Limited social contact — 1995-04-13 to 2002-05-23
+- Gingival disease — 1997-11-20 to 1997-11-20
+- Viral sinusitis — 1997-11-27 to 1997-12-21
+- Acute viral pharyngitis — 1998-02-04 to 1998-02-17
+- Otitis media — 2001-01-10 to 2001-05-17
+
+CURRENT MEDICATIONS | Mrs. Shelba Pollich | ID 0d57463a
+- Donepezil hydrochloride 23 MG Oral Tablet — since 1998-10-01, for Familial Alzheimer's disease of early onset
+- Vitamin B12 5 MG/ML Injectable Solution — since 1967-02-23
+- amLODIPine 2.5 MG Oral Tablet — since 2003-05-29, for Essential hypertension
+
+PAST MEDICATIONS | Mrs. Shelba Pollich | ID 0d57463a
+- Amoxicillin 250 MG Oral Capsule — 2001-01-10 to 2001-01-24
+- Donepezil hydrochloride 10 MG Oral Tablet — 1997-04-24 to 1998-10-01
+- Ibuprofen 200 MG Oral Tablet — 2001-01-10 to 2001-01-24
+- sodium fluoride 0.0272 MG/MG Oral Gel — 1997-05-08 to 2000-05-25
+
+ALLERGIES | Mrs. Shelba Pollich | ID 0d57463a
+- No known allergies.
+
+LATEST VITALS & LABS | Mrs. Shelba Pollich | ID 0d57463a
+- BMI: 27.8 kg/m2 (2003-05-29)
+- BUN: 13.9 mg/dL (2003-05-29)
+- Creatinine: 0.7 mg/dL (2003-05-29)
+- Glucose: 117.2 mg/dL (2003-05-29)
+- HDL: 42.9 mg/dL (2003-05-29)
+- HbA1c: 7 % (2003-05-29)
+- Heart rate: 65 /min (2003-05-29)
+- Height: 151.1 cm (2003-05-29)
+- Hemoglobin: 12.6 g/dL (2001-05-17)
+- LDL: 149 mg/dL (2003-05-29)
+- Potassium: 4.4 mmol/L (2003-05-29)
+- Resp rate: 12 /min (2003-05-29)
+- Sodium: 142.8 mmol/L (2003-05-29)
+- Total cholesterol: 224.8 mg/dL (2003-05-29)
+- Triglycerides: 164.7 mg/dL (2003-05-29)
+- Weight: 63.5 kg (2003-05-29)
+- Blood pressure: 115/84 mmHg (2003-05-29)
+
+VISIT HISTORY (vitals & labs by date) | Mrs. Shelba Pollich | ID 0d57463a
+[Mrs. Shelba Pollich | ID 0d57463a] 2003-05-29: BP 115/84 mmHg; BUN 13.9 mg/dL; Triglycerides 164.7 mg/dL; Total cholesterol 224.8 mg/dL; Potassium 4.4 mmol/L; Sodium 142.8 mmol/L; Creatinine 0.7 mg/dL; Glucose 117.2 mg/dL; LDL 149 mg/dL; Heart rate 65 /min; BMI 27.8 kg/m2; Weight 63.5 kg; Height 151.1 cm; HbA1c 7 %; Resp rate 12 /min; HDL 42.9 mg/dL
+[Mrs. Shelba Pollich | ID 0d57463a] 2002-05-23: BP 124/86 mmHg; BUN 12.1 mg/dL; LDL 121 mg/dL; Triglycerides 194.4 mg/dL; Total cholesterol 203.5 mg/dL; Potassium 5.1 mmol/L; Sodium 138.4 mmol/L; Creatinine 0.7 mg/dL; HDL 43.6 mg/dL; Resp rate 14 /min; Heart rate 98 /min; BMI 27.8 kg/m2; Weight 63.5 kg; Height 151.1 cm; HbA1c 7 %; Glucose 104.6 mg/dL
+[Mrs. Shelba Pollich | ID 0d57463a] 2001-05-17: BP 126/86 mmHg; Hemoglobin 12.6 g/dL; LDL 122.1 mg/dL; Triglycerides 177.3 mg/dL; Total cholesterol 204.8 mg/dL; Potassium 4.7 mmol/L; Sodium 138.8 mmol/L; Creatinine 0.6 mg/dL; BUN 19.8 mg/dL; HDL 47.2 mg/dL; Resp rate 13 /min; HbA1c 7 %; Height 151.1 cm; Weight 63.5 kg; Glucose 121.8 mg/dL; Heart rate 83 /min; BMI 27.8 kg/m2
+[Mrs. Shelba Pollich | ID 0d57463a] 2000-05-11: BP 121/79 mmHg; HDL 51.2 mg/dL; LDL 151.5 mg/dL; Triglycerides 166.3 mg/dL; Total cholesterol 235.9 mg/dL; Potassium 3.7 mmol/L; Creatinine 0.8 mg/dL; Sodium 142.3 mmol/L; BUN 9.3 mg/dL; Resp rate 15 /min; Heart rate 87 /min; BMI 27.8 kg/m2; Weight 63.5 kg; Height 151.1 cm; HbA1c 7 %; Glucose 110.5 mg/dL
+[Mrs. Shelba Pollich | ID 0d57463a] 1999-05-06: BP 125/82 mmHg; BUN 7 mg/dL; LDL 160.1 mg/dL; Triglycerides 166 mg/dL; Total cholesterol 237.1 mg/dL; Potassium 4.8 mmol/L; Sodium 141.9 mmol/L; Creatinine 0.6 mg/dL; Glucose 107.6 mg/dL; HDL 43.8 mg/dL; Heart rate 86 /min; BMI 27.8 kg/m2; Weight 63.5 kg; Height 151.1 cm; HbA1c 7 %; Resp rate 15 /min
+[Mrs. Shelba Pollich | ID 0d57463a] 1998-04-30: BP 123/86 mmHg; LDL 147.9 mg/dL; Triglycerides 185.4 mg/dL; Total cholesterol 226.8 mg/dL; Potassium 3.9 mmol/L; Sodium 136.5 mmol/L; Creatinine 0.9 mg/dL; BUN 17.8 mg/dL; HDL 41.9 mg/dL; Resp rate 16 /min; Heart rate 88 /min; BMI 27.8 kg/m2; Weight 63.5 kg; Height 151.1 cm; HbA1c 7 %; Glucose 100.1 mg/dL
+[Mrs. Shelba Pollich | ID 0d57463a] 1998-02-19: HbA1c 7 %
+[Mrs. Shelba Pollich | ID 0d57463a] 1998-02-12: BP 127/79 mmHg; HDL 53.6 mg/dL; LDL 151.3 mg/dL; Triglycerides 170.5 mg/dL; Total cholesterol 239 mg/dL; Potassium 4 mmol/L; Sodium 139.8 mmol/L; Creatinine 0.6 mg/dL; BUN 9.7 mg/dL; Glucose 123.2 mg/dL; Resp rate 13 /min; Heart rate 95 /min; BMI 27.8 kg/m2; Weight 63.5 kg; Height 151.1 cm; HbA1c 7 %
+[Mrs. Shelba Pollich | ID 0d57463a] 1997-12-04: BP 117/78 mmHg; Creatinine 0.6 mg/dL; HDL 50.8 mg/dL; LDL 136.9 mg/dL; Triglycerides 187.3 mg/dL; Total cholesterol 225.1 mg/dL; Potassium 4.9 mmol/L; Sodium 143.6 mmol/L; BUN 18.2 mg/dL; Resp rate 16 /min; Glucose 104.6 mg/dL; Heart rate 75 /min; BMI 27.8 kg/m2; Weight 63.5 kg; Height 151.1 cm; HbA1c 7 %
+[Mrs. Shelba Pollich | ID 0d57463a] 1997-11-13: BP 123/82 mmHg; HDL 51.6 mg/dL; BUN 14 mg/dL; LDL 140.5 mg/dL; Triglycerides 187 mg/dL; Total cholesterol 229.5 mg/dL; Potassium 3.8 mmol/L; Sodium 143.4 mmol/L; Creatinine 0.6 mg/dL; Resp rate 15 /min; Heart rate 64 /min; BMI 27.8 kg/m2; Weight 63.5 kg; Height 151.1 cm; HbA1c 7 %; Glucose 104 mg/dL
+[Mrs. Shelba Pollich | ID 0d57463a] 1997-11-06: HbA1c 7 %
+[Mrs. Shelba Pollich | ID 0d57463a] 1997-10-30: BP 125/84 mmHg; LDL 139.7 mg/dL; Triglycerides 178.3 mg/dL; Total cholesterol 216.8 mg/dL; Potassium 4.3 mmol/L; Sodium 138.4 mmol/L; Creatinine 0.7 mg/dL; BUN 9.3 mg/dL; HDL 41.5 mg/dL; Glucose 122.9 mg/dL; Heart rate 64 /min; HbA1c 7 %; Height 151.1 cm; Weight 63.5 kg; Resp rate 13 /min; BMI 27.8 kg/m2
+[Mrs. Shelba Pollich | ID 0d57463a] 1997-10-23: HbA1c 7 %
+[Mrs. Shelba Pollich | ID 0d57463a] 1997-10-16: BP 123/88 mmHg; Sodium 139.1 mmol/L; HDL 44.3 mg/dL; LDL 158.6 mg/dL; Triglycerides 178 mg/dL; Total cholesterol 238.6 mg/dL; Potassium 4.2 mmol/L; Creatinine 0.6 mg/dL; BUN 12.9 mg/dL; Glucose 103.7 mg/dL; Resp rate 16 /min; Heart rate 77 /min; BMI 27.8 kg/m2; Weight 63.5 kg; Height 151.1 cm; HbA1c 7 %
+[Mrs. Shelba Pollich | ID 0d57463a] 1997-04-24: BP 129/98 mmHg; BUN 15 mg/dL; HDL 47.1 mg/dL; LDL 127 mg/dL; Triglycerides 177.8 mg/dL; Total cholesterol 209.7 mg/dL; Sodium 137.7 mmol/L; Creatinine 0.7 mg/dL; Glucose 124.1 mg/dL; Potassium 3.9 mmol/L; Heart rate 95 /min; HbA1c 7 %; Height 151.1 cm; Weight 63.5 kg; Resp rate 15 /min; BMI 27.8 kg/m2
+[Mrs. Shelba Pollich | ID 0d57463a] 1996-04-18: BP 91/74 mmHg; Hemoglobin 14 g/dL; BUN 19.3 mg/dL; LDL 124.5 mg/dL; Triglycerides 151.4 mg/dL; Total cholesterol 211.9 mg/dL; Potassium 4.2 mmol/L; Sodium 140 mmol/L; Creatinine 0.6 mg/dL; HDL 57.1 mg/dL; Glucose 121.5 mg/dL; Heart rate 88 /min; BMI 27.8 kg/m2; Weight 63.5 kg; Height 151.1 cm; HbA1c 7 %; Resp rate 14 /min
+[Mrs. Shelba Pollich | ID 0d57463a] 1995-04-13: BP 97/83 mmHg; BUN 11.5 mg/dL; HDL 40.7 mg/dL; LDL 132.5 mg/dL; Triglycerides 193.1 mg/dL; Total cholesterol 211.8 mg/dL; Sodium 138.1 mmol/L; Creatinine 0.6 mg/dL; Glucose 119 mg/dL; Potassium 4.3 mmol/L; Heart rate 74 /min; HbA1c 7 %; Height 151.1 cm; Weight 63.5 kg; Resp rate 13 /min; BMI 27.8 kg/m2
+[Mrs. Shelba Pollich | ID 0d57463a] 1994-04-07: BP 90/83 mmHg; HbA1c 7 %; HDL 43.3 mg/dL; LDL 144.9 mg/dL; Triglycerides 178.5 mg/dL; Total cholesterol 223.8 mg/dL; Sodium 140.5 mmol/L; Creatinine 0.8 mg/dL; BUN 17.2 mg/dL; Potassium 4.4 mmol/L; Resp rate 15 /min; Heart rate 98 /min; BMI 27.8 kg/m2; Weight 63.5 kg; Height 151.1 cm; Glucose 108.8 mg/dL

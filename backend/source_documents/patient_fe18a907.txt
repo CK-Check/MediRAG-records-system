@@ -1,0 +1,61 @@
+PATIENT SUMMARY | Mr. Quincy Ortiz | ID fe18a907
+DOB: 1981-06-18 | Age: 45 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Mr. Quincy Ortiz | ID fe18a907
+- Traumatic or nontraumatic brain injury — since 1994-07-29
+- Chronic pain — since 1995-07-22
+- Impacted molars — since 1996-02-15
+- Chronic intractable migraine without aura — since 1997-01-08
+- Dependent drug abuse — since 2001-06-01
+- Body mass index 30+ - obesity — since 2003-07-03
+- Pulmonary emphysema — since 2003-07-03
+- Limited social contact — since 2015-10-29
+- Victim of intimate partner abuse — since 2017-11-09
+- Essential hypertension — since 2022-12-08
+
+RESOLVED CONDITIONS | Mr. Quincy Ortiz | ID fe18a907
+- Severe anxiety (panic) — 2018-11-15 to 2019-11-21
+- Overdose — 2019-08-20 to 2019-08-22
+- Gingivitis — 2020-11-26 to 2026-01-08
+- Gingival disease — 2020-12-10 to 2020-12-10
+- Viral sinusitis — 2023-05-04 to 2023-05-14
+
+CURRENT MEDICATIONS | Mr. Quincy Ortiz | ID fe18a907
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler — since 2025-12-25, for Pulmonary emphysema
+- albuterol 5 MG/ML Inhalation Solution — since 2025-12-25, for Pulmonary emphysema
+- amLODIPine 2.5 MG Oral Tablet — since 2025-12-25, for Essential hypertension
+
+PAST MEDICATIONS | Mr. Quincy Ortiz | ID fe18a907
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2020-12-11 to 2026-01-08
+
+ALLERGIES | Mr. Quincy Ortiz | ID fe18a907
+- No known allergies.
+
+LATEST VITALS & LABS | Mr. Quincy Ortiz | ID fe18a907
+- BMI: 31 kg/m2 (2025-12-25)
+- HDL: 52.4 mg/dL (2023-12-14)
+- Heart rate: 66 /min (2025-12-25)
+- Height: 182.8 cm (2025-12-25)
+- Hemoglobin: 13.8 g/dL (2023-12-14)
+- LDL: 66.6 mg/dL (2023-12-14)
+- Resp rate: 14 /min (2025-12-25)
+- Total cholesterol: 147 mg/dL (2023-12-14)
+- Triglycerides: 140 mg/dL (2023-12-14)
+- Weight: 103.4 kg (2025-12-25)
+- Blood pressure: 112/73 mmHg (2025-12-25)
+
+VISIT HISTORY (vitals & labs by date) | Mr. Quincy Ortiz | ID fe18a907
+[Mr. Quincy Ortiz | ID fe18a907] 2025-12-25: BP 112/73 mmHg; Heart rate 66 /min; Weight 103.4 kg; Height 182.8 cm; BMI 31 kg/m2; Resp rate 14 /min
+[Mr. Quincy Ortiz | ID fe18a907] 2024-12-19: BP 124/75 mmHg; Height 182.8 cm; Weight 100.9 kg; BMI 30.2 kg/m2; Heart rate 95 /min; Resp rate 14 /min
+[Mr. Quincy Ortiz | ID fe18a907] 2023-12-14: BP 125/71 mmHg; HDL 52.4 mg/dL; Total cholesterol 147 mg/dL; LDL 66.6 mg/dL; Triglycerides 140 mg/dL; Hemoglobin 13.8 g/dL; Resp rate 13 /min; Weight 98.5 kg; BMI 29.5 kg/m2; Height 182.8 cm; Heart rate 74 /min
+[Mr. Quincy Ortiz | ID fe18a907] 2023-05-07: BP 125/72 mmHg
+[Mr. Quincy Ortiz | ID fe18a907] 2023-04-27: BP 129/82 mmHg; Heart rate 80 /min; Height 182.8 cm; Weight 96.9 kg; Resp rate 15 /min; BMI 29 kg/m2
+[Mr. Quincy Ortiz | ID fe18a907] 2023-03-08: BP 123/83 mmHg
+[Mr. Quincy Ortiz | ID fe18a907] 2023-01-07: BP 134/77 mmHg
+[Mr. Quincy Ortiz | ID fe18a907] 2022-12-08: BP 149/76 mmHg; Heart rate 60 /min; Height 182.8 cm; Weight 96 kg; BMI 28.7 kg/m2; Resp rate 14 /min
+[Mr. Quincy Ortiz | ID fe18a907] 2021-12-02: BP 103/76 mmHg; Heart rate 80 /min; Resp rate 14 /min; Weight 101.3 kg; Height 182.8 cm; BMI 30.3 kg/m2
+[Mr. Quincy Ortiz | ID fe18a907] 2020-11-26: BP 100/71 mmHg; HDL 53.2 mg/dL; LDL 159.3 mg/dL; Triglycerides 126.1 mg/dL; Total cholesterol 237.7 mg/dL; Resp rate 16 /min; Weight 104.8 kg; BMI 31.4 kg/m2; Height 182.8 cm; Heart rate 78 /min
+[Mr. Quincy Ortiz | ID fe18a907] 2019-11-21: BP 103/76 mmHg; Height 182.8 cm; Weight 104.8 kg; BMI 31.4 kg/m2; Heart rate 86 /min; Resp rate 14 /min
+[Mr. Quincy Ortiz | ID fe18a907] 2018-11-15: BP 100/73 mmHg; Resp rate 14 /min; Hemoglobin 16.2 g/dL; Heart rate 73 /min; BMI 31.4 kg/m2; Weight 104.8 kg; Height 182.8 cm
+[Mr. Quincy Ortiz | ID fe18a907] 2017-11-09: BP 104/67 mmHg; HDL 56.7 mg/dL; LDL 88.1 mg/dL; Triglycerides 134.5 mg/dL; Total cholesterol 171.8 mg/dL; Resp rate 12 /min; BMI 31.4 kg/m2; Weight 104.8 kg; Height 182.8 cm; Heart rate 96 /min
+[Mr. Quincy Ortiz | ID fe18a907] 2016-11-03: BP 100/72 mmHg; Height 182.8 cm; Weight 104.8 kg; BMI 31.4 kg/m2; Heart rate 93 /min; Resp rate 13 /min

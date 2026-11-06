@@ -1,0 +1,52 @@
+PATIENT SUMMARY | Kris Beatty | ID 469c82cc
+DOB: 2011-06-26 | Age: 15 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Kris Beatty | ID 469c82cc
+- None recorded.
+
+RESOLVED CONDITIONS | Kris Beatty | ID 469c82cc
+- Facial laceration — 2017-02-20 to 2017-03-18
+- Laceration - injury — 2017-02-20 to 2024-04-30
+- Viral sinusitis — 2018-04-30 to 2018-05-09
+- Streptococcal sore throat — 2019-04-16 to 2019-04-25
+- Child attention deficit disorder — 2021-02-27 to 2021-12-11
+- Gingivitis — 2022-07-10 to 2025-08-10
+- Burn injury — 2023-02-25 to 2023-05-19
+- Partial thickness burn — 2023-02-25 to 2023-05-19
+- Laceration of thigh — 2024-04-11 to 2024-04-30
+
+CURRENT MEDICATIONS | Kris Beatty | ID 469c82cc
+- None recorded.
+
+PAST MEDICATIONS | Kris Beatty | ID 469c82cc
+- Acetaminophen 160 MG Chewable Tablet — 2023-02-25 to 2023-05-19
+- Acetaminophen 325 MG Oral Tablet — 2024-04-11 to 2024-04-30
+- Amoxicillin 500 MG Oral Tablet — 2023-02-25 to 2023-05-19
+- Ibuprofen 100 MG Oral Tablet — 2017-02-20 to 2017-03-18
+- Penicillin V Potassium 250 MG Oral Tablet — 2019-04-16 to 2019-04-25
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2017-06-18 to 2024-07-28
+
+ALLERGIES | Kris Beatty | ID 469c82cc
+- No known allergies.
+
+LATEST VITALS & LABS | Kris Beatty | ID 469c82cc
+- BMI: 26.8 kg/m2 (2026-08-02)
+- Heart rate: 79 /min (2026-08-02)
+- Height: 164.1 cm (2026-08-02)
+- Hemoglobin: 13.3 g/dL (2022-07-10)
+- Resp rate: 16 /min (2026-08-02)
+- Weight: 72.2 kg (2026-08-02)
+- Blood pressure: 119/82 mmHg (2026-08-02)
+
+VISIT HISTORY (vitals & labs by date) | Kris Beatty | ID 469c82cc
+[Kris Beatty | ID 469c82cc] 2026-08-02: BP 119/82 mmHg; Heart rate 79 /min; Height 164.1 cm; Weight 72.2 kg; BMI 26.8 kg/m2; Resp rate 16 /min
+[Kris Beatty | ID 469c82cc] 2025-07-27: BP 127/82 mmHg; Resp rate 14 /min; Heart rate 65 /min; Weight 61.5 kg; Height 158.2 cm; BMI 24.6 kg/m2
+[Kris Beatty | ID 469c82cc] 2024-07-21: BP 134/83 mmHg; Heart rate 83 /min; Resp rate 12 /min; Weight 51 kg; BMI 22.6 kg/m2; Height 150.1 cm
+[Kris Beatty | ID 469c82cc] 2023-07-16: BP 135/82 mmHg; Height 143.4 cm; Weight 46.8 kg; BMI 22.8 kg/m2; Heart rate 84 /min; Resp rate 15 /min
+[Kris Beatty | ID 469c82cc] 2022-07-10: BP 132/81 mmHg; Resp rate 13 /min; Heart rate 76 /min; Hemoglobin 13.3 g/dL; BMI 22.6 kg/m2; Weight 43 kg; Height 138.1 cm
+[Kris Beatty | ID 469c82cc] 2021-07-04: BP 124/82 mmHg; Heart rate 78 /min; Resp rate 13 /min; BMI 21.9 kg/m2; Weight 39.1 kg; Height 133.5 cm
+[Kris Beatty | ID 469c82cc] 2020-06-28: BP 130/82 mmHg; Heart rate 64 /min; Height 128.8 cm; Weight 32.7 kg; BMI 19.7 kg/m2; Resp rate 13 /min
+[Kris Beatty | ID 469c82cc] 2019-06-23: BP 135/83 mmHg; Resp rate 13 /min; Heart rate 96 /min; Weight 29.7 kg; Height 123 cm; BMI 19.6 kg/m2
+[Kris Beatty | ID 469c82cc] 2019-04-28: BP 127/82 mmHg; Heart rate 91 /min; Resp rate 12 /min; Weight 29.6 kg; Height 122.6 cm; BMI 19.7 kg/m2
+[Kris Beatty | ID 469c82cc] 2018-06-17: BP 134/74 mmHg; Resp rate 15 /min; Heart rate 72 /min; Height 117.2 cm; BMI 20.9 kg/m2; Weight 28.7 kg
+[Kris Beatty | ID 469c82cc] 2017-06-11: BP 135/72 mmHg; Height 111.1 cm; Weight 26.1 kg; BMI 21.1 kg/m2; Heart rate 61 /min; Resp rate 13 /min; Hemoglobin 12.6 g/dL

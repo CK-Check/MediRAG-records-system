@@ -1,0 +1,69 @@
+PATIENT SUMMARY | Mr. Rafael Farrell | ID 7b29f2bd
+DOB: 1961-01-27 | Age: 65 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Mr. Rafael Farrell | ID 7b29f2bd
+- Serving in military service — since 1979-03-23
+- Impacted molars — since 1990-04-05
+- Chronic pain — since 1990-05-26
+- Recurrent urinary tract infection — since 1991-03-13
+- Chronic intractable migraine without aura — since 1991-03-28
+- Dependent drug abuse — since 1994-11-05
+- Osteoarthritis of knee — since 1996-11-25
+- Body mass index 30+ - obesity — since 1998-04-17
+- Ischemic heart disease — since 2009-02-20
+- Abnormal findings diagnostic imaging heart+coronary circulat — since 2009-03-05
+- Refugee (person) — since 2012-02-03
+- Anemia — since 2015-02-20
+- Prediabetes — since 2015-02-20
+
+RESOLVED CONDITIONS | Mr. Rafael Farrell | ID 7b29f2bd
+- Gingivitis — 2017-03-03 to 2020-04-03
+- Limited social contact — 2017-03-03 to 2026-04-24
+- Viral sinusitis — 2018-04-20 to 2018-05-14
+- Victim of intimate partner abuse — 2023-04-07 to 2024-04-12
+- Overdose — 2024-11-07 to 2026-02-06
+- Gingival disease — 2025-05-09 to 2025-05-09
+
+CURRENT MEDICATIONS | Mr. Rafael Farrell | ID 7b29f2bd
+- 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet — since 2009-02-27
+- Clopidogrel 75 MG Oral Tablet — since 2009-02-27
+- Naproxen sodium 220 MG Oral Tablet — since 1996-11-25, for Osteoarthritis of knee
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray — since 2009-02-27
+- Simvastatin 20 MG Oral Tablet — since 2009-02-27
+
+PAST MEDICATIONS | Mr. Rafael Farrell | ID 7b29f2bd
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2017-03-17 to 2025-05-09
+
+ALLERGIES | Mr. Rafael Farrell | ID 7b29f2bd
+- No known allergies.
+
+LATEST VITALS & LABS | Mr. Rafael Farrell | ID 7b29f2bd
+- BMI: 30.5 kg/m2 (2026-04-24)
+- BUN: 8.9 mg/dL (2026-04-24)
+- Creatinine: 0.9 mg/dL (2026-04-24)
+- Glucose: 78.5 mg/dL (2026-04-24)
+- HDL: 67 mg/dL (2026-04-24)
+- HbA1c: 6.4 % (2026-04-24)
+- Heart rate: 63 /min (2026-04-24)
+- Height: 171.3 cm (2026-04-24)
+- Hemoglobin: 12.3 g/dL (2023-04-07)
+- LDL: 199.6 mg/dL (2026-04-24)
+- Potassium: 4 mmol/L (2026-04-24)
+- Resp rate: 14 /min (2026-04-24)
+- Sodium: 137.4 mmol/L (2026-04-24)
+- Total cholesterol: 292.5 mg/dL (2026-04-24)
+- Triglycerides: 129.8 mg/dL (2026-04-24)
+- Weight: 89.4 kg (2026-04-24)
+- Blood pressure: 102/67 mmHg (2026-04-24)
+
+VISIT HISTORY (vitals & labs by date) | Mr. Rafael Farrell | ID 7b29f2bd
+[Mr. Rafael Farrell | ID 7b29f2bd] 2026-04-24: BP 102/67 mmHg; Triglycerides 129.8 mg/dL; Total cholesterol 292.5 mg/dL; Potassium 4 mmol/L; Sodium 137.4 mmol/L; Creatinine 0.9 mg/dL; BUN 8.9 mg/dL; Glucose 78.5 mg/dL; Heart rate 63 /min; BMI 30.5 kg/m2; Weight 89.4 kg; Height 171.3 cm; HbA1c 6.4 %; LDL 199.6 mg/dL; Resp rate 14 /min; HDL 67 mg/dL
+[Mr. Rafael Farrell | ID 7b29f2bd] 2025-04-18: BP 98/61 mmHg; Potassium 4.2 mmol/L; Creatinine 1 mg/dL; BUN 9.2 mg/dL; Glucose 72.5 mg/dL; Resp rate 13 /min; Heart rate 99 /min; Sodium 142.6 mmol/L; BMI 30.5 kg/m2; Weight 89.4 kg; Height 171.3 cm; HbA1c 6.2 %
+[Mr. Rafael Farrell | ID 7b29f2bd] 2024-04-12: BP 104/66 mmHg; Glucose 78.8 mg/dL; Sodium 139.2 mmol/L; Creatinine 1 mg/dL; Potassium 4 mmol/L; BUN 18 mg/dL; Resp rate 14 /min; Weight 89.4 kg; BMI 30.5 kg/m2; Height 171.3 cm; HbA1c 6.2 %; Heart rate 91 /min
+[Mr. Rafael Farrell | ID 7b29f2bd] 2023-04-07: BP 88/68 mmHg; Creatinine 1 mg/dL; Hemoglobin 12.3 g/dL; HDL 60 mg/dL; LDL 201.3 mg/dL; Triglycerides 104.7 mg/dL; Total cholesterol 282.2 mg/dL; Potassium 3.7 mmol/L; Sodium 137.5 mmol/L; BUN 18.2 mg/dL; Weight 89.4 kg; Resp rate 14 /min; Heart rate 75 /min; BMI 30.5 kg/m2; Height 171.3 cm; HbA1c 5.9 %; Glucose 95.8 mg/dL
+[Mr. Rafael Farrell | ID 7b29f2bd] 2022-04-01: BP 93/66 mmHg; Potassium 4.3 mmol/L; Sodium 140.7 mmol/L; Creatinine 1 mg/dL; BUN 17.6 mg/dL; Glucose 77.2 mg/dL; Heart rate 85 /min; Resp rate 14 /min; BMI 29.8 kg/m2; Weight 87.5 kg; Height 171.3 cm; HbA1c 6.3 %
+[Mr. Rafael Farrell | ID 7b29f2bd] 2021-03-26: BP 106/65 mmHg; Resp rate 13 /min; Sodium 140.8 mmol/L; Creatinine 1 mg/dL; BUN 12.3 mg/dL; Glucose 90.1 mg/dL; Heart rate 96 /min; Potassium 4 mmol/L; BMI 29.1 kg/m2; Weight 85.4 kg; Height 171.3 cm; HbA1c 6.3 %
+[Mr. Rafael Farrell | ID 7b29f2bd] 2020-03-20: BP 104/68 mmHg; HDL 65.4 mg/dL; LDL 236.4 mg/dL; Triglycerides 129.1 mg/dL; Total cholesterol 327.6 mg/dL; Potassium 4.3 mmol/L; Sodium 140.1 mmol/L; Creatinine 0.9 mg/dL; BUN 14 mg/dL; Glucose 95.4 mg/dL; Heart rate 62 /min; BMI 28.4 kg/m2; Weight 83.4 kg; Height 171.3 cm; HbA1c 5.9 %; Resp rate 14 /min
+[Mr. Rafael Farrell | ID 7b29f2bd] 2019-03-15: BP 99/67 mmHg; Glucose 87.7 mg/dL; Potassium 4.7 mmol/L; Sodium 143.6 mmol/L; Creatinine 1.2 mg/dL; BUN 8.9 mg/dL; Resp rate 13 /min; Weight 81.6 kg; BMI 27.8 kg/m2; Height 171.3 cm; HbA1c 6.2 %; Heart rate 84 /min
+[Mr. Rafael Farrell | ID 7b29f2bd] 2018-03-09: BP 102/65 mmHg; Glucose 82.6 mg/dL; Hemoglobin 17.2 g/dL; Potassium 4.2 mmol/L; Sodium 142.4 mmol/L; Creatinine 1 mg/dL; BUN 8.5 mg/dL; Resp rate 15 /min; Height 171.3 cm; BMI 30.5 kg/m2; Weight 89.4 kg; HbA1c 6 %; Heart rate 87 /min
+[Mr. Rafael Farrell | ID 7b29f2bd] 2017-03-03: BP 104/63 mmHg; HbA1c 6.1 %; HDL 62 mg/dL; LDL 218.2 mg/dL; Triglycerides 127.1 mg/dL; Total cholesterol 305.6 mg/dL; Potassium 5.2 mmol/L; Creatinine 1 mg/dL; BUN 7.9 mg/dL; Sodium 142.5 mmol/L; Resp rate 13 /min; Heart rate 74 /min; BMI 29.9 kg/m2; Weight 87.7 kg; Height 171.3 cm; Glucose 79.3 mg/dL

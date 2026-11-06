@@ -1,0 +1,54 @@
+PATIENT SUMMARY | Ms. Brandee Hansen | ID 1e40b50f
+DOB: 1999-03-30 | Age: 27 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Ms. Brandee Hansen | ID 1e40b50f
+- None recorded.
+
+RESOLVED CONDITIONS | Ms. Brandee Hansen | ID 1e40b50f
+- Perennial allergic rhinitis with seasonal variation — 2002-01-19 to 2018-04-03
+- Atopic dermatitis — 2003-11-03 to 2017-06-06
+- Severe anxiety (panic) — 2014-05-06 to 2017-05-23
+- Laceration - injury — 2017-02-20 to 2017-03-10
+- Laceration of foot — 2017-02-20 to 2017-03-10
+- Gingivitis — 2018-05-29 to 2024-06-18
+- Acute viral pharyngitis — 2018-06-19 to 2018-07-01
+- Normal pregnancy — 2019-09-10 to 2026-04-07
+- Sinusitis — 2022-09-23 to 2022-10-22
+- Primary dental caries — 2024-06-18 to 2024-06-18
+- Viral sinusitis — 2025-01-17 to 2025-01-26
+
+CURRENT MEDICATIONS | Ms. Brandee Hansen | ID 1e40b50f
+- Loratadine 5 MG Chewable Tablet — since 2002-01-19
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector — since 2002-01-29
+
+PAST MEDICATIONS | Ms. Brandee Hansen | ID 1e40b50f
+- 1 ML medroxyprogesterone acetate 150 MG/ML Injection — 2026-06-17 to 2026-06-17
+- 21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing] — 2018-03-03 to 2019-02-26
+- Etonogestrel 68 MG Drug Implant — 2024-06-27 to 2025-06-22
+- Naproxen sodium 220 MG Oral Tablet — 2017-02-20 to 2017-03-10
+- {21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day] — 2016-03-13 to 2017-03-08
+- {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] — 2017-03-08 to 2018-03-03
+
+ALLERGIES | Ms. Brandee Hansen | ID 1e40b50f
+- Latex (environment allergy) — reaction: Anaphylaxis (SEVERE)
+- Bee venom (environment allergy)
+- Mold (organism) (environment allergy)
+- House dust mite (organism) (environment allergy)
+- Animal dander (environment allergy) — reaction: Rhinoconjunctivitis (MODERATE)
+- Grass pollen (environment allergy)
+- Tree pollen (environment allergy)
+
+LATEST VITALS & LABS | Ms. Brandee Hansen | ID 1e40b50f
+- BMI: 28.3 kg/m2 (2024-06-04)
+- Heart rate: 63 /min (2024-06-04)
+- Height: 166.5 cm (2024-06-04)
+- Hemoglobin: 13.1 g/dL (2021-06-01)
+- Resp rate: 13 /min (2024-06-04)
+- Weight: 78.5 kg (2024-06-04)
+- Blood pressure: 89/80 mmHg (2024-06-04)
+
+VISIT HISTORY (vitals & labs by date) | Ms. Brandee Hansen | ID 1e40b50f
+[Ms. Brandee Hansen | ID 1e40b50f] 2024-06-04: BP 89/80 mmHg; Heart rate 63 /min; Height 166.5 cm; Weight 78.5 kg; BMI 28.3 kg/m2; Resp rate 13 /min
+[Ms. Brandee Hansen | ID 1e40b50f] 2021-06-01: BP 101/80 mmHg; Heart rate 97 /min; Hemoglobin 13.1 g/dL; Resp rate 13 /min; Height 166.5 cm; BMI 26.8 kg/m2; Weight 74.2 kg
+[Ms. Brandee Hansen | ID 1e40b50f] 2018-05-29: BP 101/76 mmHg; Resp rate 16 /min; Heart rate 91 /min; Weight 69.4 kg; BMI 25 kg/m2; Height 166.5 cm
+[Ms. Brandee Hansen | ID 1e40b50f] 2017-05-23: BP 102/80 mmHg; Height 166.4 cm; Weight 68.6 kg; BMI 24.8 kg/m2; Heart rate 69 /min; Resp rate 13 /min

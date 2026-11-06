@@ -1,0 +1,81 @@
+PATIENT SUMMARY | Ms. Clyde Reilly | ID fa5a8262
+DOB: 1956-03-30 | Age: 70 | Gender: F | Status: Deceased
+
+ACTIVE CONDITIONS | Ms. Clyde Reilly | ID fa5a8262
+- Past pregnancy history of miscarriage — since 1977-11-26
+- History of tubal ligation — since 1982-02-03
+- Chronic sinusitis — since 1982-04-26
+- Limited social contact — since 2002-04-19
+- Chronic congestive heart failure — since 2006-09-17
+- Shock — since 2007-05-05
+
+RESOLVED CONDITIONS | Ms. Clyde Reilly | ID fa5a8262
+- Gingivitis — 2000-04-14 to 2000-04-28
+- Viral sinusitis — 2001-06-03 to 2005-12-10
+
+CURRENT MEDICATIONS | Ms. Clyde Reilly | ID fa5a8262
+- Furosemide 40 MG Oral Tablet — since 2007-04-06, for Chronic congestive heart failure
+- carvedilol 25 MG Oral Tablet — since 2007-04-06, for Chronic congestive heart failure
+- losartan potassium 50 MG Oral Tablet — since 2007-04-06, for Chronic congestive heart failure
+
+PAST MEDICATIONS | Ms. Clyde Reilly | ID fa5a8262
+- 10 ML Furosemide 10 MG/ML Injection — 2007-04-13 to 2007-05-10
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet — 2001-06-03 to 2001-06-16
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2000-04-28 to 2000-04-28
+
+ALLERGIES | Ms. Clyde Reilly | ID fa5a8262
+- Mold (organism) (environment allergy) — reaction: Cutaneous hypersensitivity (MILD)
+- Lisinopril (medication intolerance)
+- Cow's milk (food allergy) — reaction: Wheal (MILD)
+
+LATEST VITALS & LABS | Ms. Clyde Reilly | ID fa5a8262
+- BMI: 29.2 kg/m2 (2007-04-06)
+- BUN: 12.7 mg/dL (2006-10-04)
+- Creatinine: 0.8 mg/dL (2007-05-10)
+- Glucose: 76.1 mg/dL (2006-10-04)
+- HDL: 57.6 mg/dL (2007-05-10)
+- HbA1c: 5.5 % (2007-05-10)
+- Heart rate: 68 /min (2007-04-06)
+- Height: 159.7 cm (2007-04-06)
+- Hemoglobin: 11.7 g/dL (2007-05-10)
+- LDL: 87.9 mg/dL (2007-05-10)
+- Potassium: 5 mmol/L (2006-10-04)
+- Resp rate: 13 /min (2007-04-06)
+- Sodium: 136.6 mmol/L (2006-10-04)
+- Total cholesterol: 175 mg/dL (2007-05-10)
+- Triglycerides: 147.2 mg/dL (2007-05-10)
+- Weight: 74.5 kg (2007-05-10)
+- Blood pressure: 89/58 mmHg (2007-05-01)
+
+VISIT HISTORY (vitals & labs by date) | Ms. Clyde Reilly | ID fa5a8262
+[Ms. Clyde Reilly | ID fa5a8262] 2007-05-10: HDL 57.6 mg/dL; Weight 74.5 kg; Hemoglobin 11.7 g/dL; Creatinine 0.8 mg/dL; Total cholesterol 175 mg/dL; Triglycerides 147.2 mg/dL; LDL 87.9 mg/dL; HbA1c 5.5 %
+[Ms. Clyde Reilly | ID fa5a8262] 2007-05-09: HbA1c 5.5 %; HDL 57.6 mg/dL; LDL 87.9 mg/dL; Triglycerides 147.2 mg/dL; Creatinine 0.8 mg/dL; Hemoglobin 15.4 g/dL; Weight 74.5 kg; Total cholesterol 175 mg/dL
+[Ms. Clyde Reilly | ID fa5a8262] 2007-05-08: Weight 74.5 kg; Hemoglobin 13.8 g/dL; Creatinine 0.8 mg/dL; Total cholesterol 175 mg/dL; Triglycerides 147.2 mg/dL; LDL 87.9 mg/dL; HDL 57.6 mg/dL; HbA1c 5.5 %
+[Ms. Clyde Reilly | ID fa5a8262] 2007-05-07: HDL 57.6 mg/dL; HbA1c 5.5 %; LDL 87.9 mg/dL; Triglycerides 147.2 mg/dL; Hemoglobin 16.5 g/dL; Creatinine 0.8 mg/dL; Weight 74.5 kg; Total cholesterol 175 mg/dL
+[Ms. Clyde Reilly | ID fa5a8262] 2007-05-06: Weight 74.5 kg; Hemoglobin 16.2 g/dL; Creatinine 0.8 mg/dL; Total cholesterol 175 mg/dL; Triglycerides 147.2 mg/dL; LDL 87.9 mg/dL; HDL 57.6 mg/dL; HbA1c 5.5 %
+[Ms. Clyde Reilly | ID fa5a8262] 2007-05-05: HbA1c 5.5 %; HDL 57.6 mg/dL; LDL 87.9 mg/dL; Triglycerides 147.2 mg/dL; Total cholesterol 175 mg/dL; Creatinine 0.8 mg/dL; Hemoglobin 16.8 g/dL; Weight 74.5 kg
+[Ms. Clyde Reilly | ID fa5a8262] 2007-05-01: BP 89/58 mmHg
+[Ms. Clyde Reilly | ID fa5a8262] 2007-04-29: BP 90/55 mmHg
+[Ms. Clyde Reilly | ID fa5a8262] 2007-04-28: BP 84/62 mmHg
+[Ms. Clyde Reilly | ID fa5a8262] 2007-04-26: BP 89/61 mmHg
+[Ms. Clyde Reilly | ID fa5a8262] 2007-04-25: HbA1c 5.1 %; HDL 49.6 mg/dL; Triglycerides 142.2 mg/dL; LDL 109 mg/dL; Creatinine 0.9 mg/dL; Hemoglobin 12 g/dL; Weight 74.5 kg; Total cholesterol 187.1 mg/dL
+[Ms. Clyde Reilly | ID fa5a8262] 2007-04-24: Weight 74.5 kg; Hemoglobin 13 g/dL; Creatinine 0.9 mg/dL; Total cholesterol 187.1 mg/dL; Triglycerides 142.2 mg/dL; LDL 109 mg/dL; HDL 49.6 mg/dL; HbA1c 5.1 %
+[Ms. Clyde Reilly | ID fa5a8262] 2007-04-23: HbA1c 5.1 %; HDL 49.6 mg/dL; LDL 109 mg/dL; Triglycerides 142.2 mg/dL; Total cholesterol 187.1 mg/dL; Hemoglobin 15.4 g/dL; Weight 74.5 kg; Creatinine 0.9 mg/dL
+[Ms. Clyde Reilly | ID fa5a8262] 2007-04-22: Weight 74.5 kg; Hemoglobin 15.9 g/dL; Creatinine 0.9 mg/dL; Total cholesterol 187.1 mg/dL; Triglycerides 142.2 mg/dL; LDL 109 mg/dL; HDL 49.6 mg/dL; HbA1c 5.1 %
+[Ms. Clyde Reilly | ID fa5a8262] 2007-04-21: LDL 109 mg/dL; HDL 49.6 mg/dL; Triglycerides 142.2 mg/dL; HbA1c 5.1 %; Creatinine 0.9 mg/dL; Hemoglobin 15.4 g/dL; Weight 74.5 kg; Total cholesterol 187.1 mg/dL
+[Ms. Clyde Reilly | ID fa5a8262] 2007-04-20: Weight 74.5 kg; Hemoglobin 13.9 g/dL; Creatinine 1.3 mg/dL; Total cholesterol 199.5 mg/dL; Triglycerides 116.7 mg/dL; LDL 126.5 mg/dL; HDL 49.7 mg/dL; HbA1c 5.5 %
+[Ms. Clyde Reilly | ID fa5a8262] 2007-04-19: HDL 49.7 mg/dL; LDL 126.5 mg/dL; Triglycerides 116.7 mg/dL; HbA1c 5.5 %; Creatinine 1.3 mg/dL; Hemoglobin 16.7 g/dL; Weight 74.5 kg; Total cholesterol 199.5 mg/dL
+[Ms. Clyde Reilly | ID fa5a8262] 2007-04-18: HDL 49.7 mg/dL; HbA1c 5.5 %; Triglycerides 116.7 mg/dL; LDL 126.5 mg/dL; Creatinine 1.3 mg/dL; Total cholesterol 199.5 mg/dL; Hemoglobin 14.2 g/dL; Weight 74.5 kg
+[Ms. Clyde Reilly | ID fa5a8262] 2007-04-17: Weight 74.5 kg; Hemoglobin 16.1 g/dL; Creatinine 1.3 mg/dL; Total cholesterol 199.5 mg/dL; Triglycerides 116.7 mg/dL; LDL 126.5 mg/dL; HDL 49.7 mg/dL; HbA1c 5.5 %
+[Ms. Clyde Reilly | ID fa5a8262] 2007-04-16: HbA1c 5.5 %; HDL 49.7 mg/dL; LDL 126.5 mg/dL; Triglycerides 116.7 mg/dL; Total cholesterol 199.5 mg/dL; Hemoglobin 12.7 g/dL; Weight 74.5 kg; Creatinine 1.3 mg/dL
+[Ms. Clyde Reilly | ID fa5a8262] 2007-04-15: Weight 74.5 kg; Hemoglobin 12.9 g/dL; Creatinine 1.3 mg/dL; Total cholesterol 199.5 mg/dL; Triglycerides 116.7 mg/dL; LDL 126.5 mg/dL; HDL 49.7 mg/dL; HbA1c 5.5 %
+[Ms. Clyde Reilly | ID fa5a8262] 2007-04-14: HbA1c 5.5 %; HDL 49.7 mg/dL; Triglycerides 116.7 mg/dL; LDL 126.5 mg/dL; Creatinine 1.3 mg/dL; Hemoglobin 15.5 g/dL; Weight 74.5 kg; Total cholesterol 199.5 mg/dL
+[Ms. Clyde Reilly | ID fa5a8262] 2007-04-13: Weight 74.5 kg; Hemoglobin 15 g/dL; Creatinine 1.1 mg/dL; Total cholesterol 163.2 mg/dL; Triglycerides 110 mg/dL; LDL 79.6 mg/dL; HDL 61.6 mg/dL; HbA1c 5.4 %
+[Ms. Clyde Reilly | ID fa5a8262] 2007-04-06: BP 89/58 mmHg; Resp rate 13 /min; Heart rate 68 /min; Weight 74.5 kg; Height 159.7 cm; BMI 29.2 kg/m2
+[Ms. Clyde Reilly | ID fa5a8262] 2006-10-04: Glucose 76.1 mg/dL; BUN 12.7 mg/dL; Creatinine 0.8 mg/dL; Sodium 136.6 mmol/L; Potassium 5 mmol/L
+[Ms. Clyde Reilly | ID fa5a8262] 2006-09-17: LDL 34.9 mg/dL; HDL 55.8 mg/dL; Triglycerides 114.9 mg/dL; HbA1c 5.6 %; Creatinine 0.8 mg/dL; Hemoglobin 15.6 g/dL; Weight 74.5 kg; Total cholesterol 113.7 mg/dL
+[Ms. Clyde Reilly | ID fa5a8262] 2006-03-31: BP 122/85 mmHg; Total cholesterol 189.3 mg/dL; HDL 58.1 mg/dL; LDL 105.4 mg/dL; Triglycerides 128.8 mg/dL; Resp rate 15 /min; Height 159.7 cm; BMI 29.2 kg/m2; Weight 74.5 kg; Heart rate 68 /min
+[Ms. Clyde Reilly | ID fa5a8262] 2004-04-23: BP 118/83 mmHg; Resp rate 15 /min; Heart rate 88 /min; BMI 29.2 kg/m2; Weight 74.5 kg; Height 159.7 cm
+[Ms. Clyde Reilly | ID fa5a8262] 2002-04-19: BP 109/84 mmHg; Triglycerides 106.5 mg/dL; Hemoglobin 15.8 g/dL; HDL 46.3 mg/dL; LDL 106.9 mg/dL; Resp rate 15 /min; Total cholesterol 174.5 mg/dL; Heart rate 85 /min; BMI 29.2 kg/m2; Weight 74.5 kg; Height 159.7 cm
+[Ms. Clyde Reilly | ID fa5a8262] 2000-04-14: BP 124/83 mmHg; Resp rate 16 /min; Heart rate 86 /min; Height 159.7 cm; BMI 29.2 kg/m2; Weight 74.5 kg
+[Ms. Clyde Reilly | ID fa5a8262] 1998-04-10: BP 120/81 mmHg; Height 159.7 cm; Weight 74.5 kg; BMI 29.2 kg/m2; Heart rate 79 /min; Resp rate 13 /min; Total cholesterol 122.9 mg/dL; Triglycerides 136.6 mg/dL; LDL 35.3 mg/dL; HDL 60.3 mg/dL

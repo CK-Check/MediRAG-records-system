@@ -1,0 +1,42 @@
+PATIENT SUMMARY | Otha Wehner | ID 6e5a32f3
+DOB: 2009-11-09 | Age: 16 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Otha Wehner | ID 6e5a32f3
+- None recorded.
+
+RESOLVED CONDITIONS | Otha Wehner | ID 6e5a32f3
+- Gingivitis — 2018-11-12 to 2026-01-05
+- Viral sinusitis — 2019-11-01 to 2019-11-08
+- Sprain of wrist — 2024-02-02 to 2024-03-13
+- Sprain — 2024-02-02 to 2024-03-13
+
+CURRENT MEDICATIONS | Otha Wehner | ID 6e5a32f3
+- None recorded.
+
+PAST MEDICATIONS | Otha Wehner | ID 6e5a32f3
+- Naproxen sodium 220 MG Oral Tablet — 2024-02-02 to 2024-03-13
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2018-11-19 to 2026-01-05
+
+ALLERGIES | Otha Wehner | ID 6e5a32f3
+- No known allergies.
+
+LATEST VITALS & LABS | Otha Wehner | ID 6e5a32f3
+- BMI: 20.1 kg/m2 (2025-12-22)
+- Heart rate: 96 /min (2025-12-22)
+- Height: 177.5 cm (2025-12-22)
+- Hemoglobin: 12.3 g/dL (2025-12-22)
+- Resp rate: 14 /min (2025-12-22)
+- Weight: 63.2 kg (2025-12-22)
+- Blood pressure: 106/73 mmHg (2025-12-22)
+
+VISIT HISTORY (vitals & labs by date) | Otha Wehner | ID 6e5a32f3
+[Otha Wehner | ID 6e5a32f3] 2025-12-22: BP 106/73 mmHg; Resp rate 14 /min; Height 177.5 cm; Weight 63.2 kg; BMI 20.1 kg/m2; Heart rate 96 /min; Hemoglobin 12.3 g/dL
+[Otha Wehner | ID 6e5a32f3] 2024-12-16: BP 105/75 mmHg; Resp rate 15 /min; Heart rate 88 /min; Weight 62.1 kg; Height 174.3 cm; BMI 20.4 kg/m2
+[Otha Wehner | ID 6e5a32f3] 2023-12-11: BP 101/69 mmHg; Resp rate 14 /min; Heart rate 68 /min; Weight 58.7 kg; BMI 20.6 kg/m2; Height 168.7 cm
+[Otha Wehner | ID 6e5a32f3] 2022-12-05: BP 91/76 mmHg; Height 160.3 cm; Weight 52.7 kg; BMI 20.5 kg/m2; Heart rate 85 /min; Resp rate 13 /min
+[Otha Wehner | ID 6e5a32f3] 2021-11-29: BP 99/74 mmHg; Heart rate 98 /min; Resp rate 15 /min; Weight 45.4 kg; Height 153 cm; BMI 19.4 kg/m2
+[Otha Wehner | ID 6e5a32f3] 2020-11-23: BP 100/72 mmHg; Heart rate 83 /min; Resp rate 15 /min; Hemoglobin 14.9 g/dL; BMI 18.4 kg/m2; Weight 39.8 kg; Height 147.2 cm
+[Otha Wehner | ID 6e5a32f3] 2019-11-18: BP 106/74 mmHg; Height 142.1 cm; Weight 34.2 kg; BMI 16.9 kg/m2; Heart rate 96 /min; Resp rate 14 /min
+[Otha Wehner | ID 6e5a32f3] 2018-11-12: BP 97/72 mmHg; Heart rate 80 /min; Resp rate 13 /min; Weight 30.2 kg; BMI 16.1 kg/m2; Height 136.8 cm
+[Otha Wehner | ID 6e5a32f3] 2017-11-06: BP 100/72 mmHg; Resp rate 13 /min; Heart rate 99 /min; Weight 27.2 kg; BMI 16 kg/m2; Height 130.5 cm
+[Otha Wehner | ID 6e5a32f3] 2016-10-31: BP 108/69 mmHg; Height 124.2 cm; Weight 24.3 kg; BMI 15.8 kg/m2; Heart rate 87 /min; Resp rate 13 /min

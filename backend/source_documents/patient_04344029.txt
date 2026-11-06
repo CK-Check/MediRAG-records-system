@@ -1,0 +1,52 @@
+PATIENT SUMMARY | Mr. Agustin Barrows | ID 04344029
+DOB: 1985-06-11 | Age: 41 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Mr. Agustin Barrows | ID 04344029
+- Chronic sinusitis — since 2011-03-10
+- Body mass index 30+ - obesity — since 2021-11-16
+- Prediabetes — since 2024-01-30
+
+RESOLVED CONDITIONS | Mr. Agustin Barrows | ID 04344029
+- Unhealthy alcohol drinking behavior — 2010-08-18 to 2021-11-17
+- Gingivitis — 2019-08-28 to 2019-09-11
+- Acute bronchitis — 2021-11-23 to 2021-12-12
+- Viral sinusitis — 2024-01-31 to 2025-07-21
+
+CURRENT MEDICATIONS | Mr. Agustin Barrows | ID 04344029
+- Terfenadine 60 MG Oral Tablet — since 1986-03-13
+- doxycycline hyclate 100 MG — since 1997-08-17, for Viral sinusitis
+
+PAST MEDICATIONS | Mr. Agustin Barrows | ID 04344029
+- Acetaminophen 325 MG Oral Tablet — 2021-11-23 to 2021-12-12
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2025-07-02 to 2025-07-02
+
+ALLERGIES | Mr. Agustin Barrows | ID 04344029
+- Tree pollen (environment allergy)
+- Penicillin V (medication allergy) — reaction: Wheal (MILD)
+- Wheat (food allergy) — reaction: Eruption of skin (MODERATE)
+
+LATEST VITALS & LABS | Mr. Agustin Barrows | ID 04344029
+- BMI: 30.5 kg/m2 (2025-06-17)
+- BUN: 16.8 mg/dL (2025-06-17)
+- Creatinine: 1.4 mg/dL (2025-06-17)
+- Glucose: 99 mg/dL (2025-06-17)
+- HDL: 62.2 mg/dL (2022-08-30)
+- HbA1c: 6.3 % (2025-06-17)
+- Heart rate: 69 /min (2025-06-17)
+- Height: 181.6 cm (2025-06-17)
+- Hemoglobin: 12.7 g/dL (2025-06-17)
+- LDL: 185.8 mg/dL (2022-08-30)
+- Potassium: 4.2 mmol/L (2025-06-17)
+- Resp rate: 15 /min (2025-06-17)
+- Sodium: 137.9 mmol/L (2025-06-17)
+- Total cholesterol: 270.8 mg/dL (2022-08-30)
+- Triglycerides: 114.4 mg/dL (2022-08-30)
+- Weight: 100.5 kg (2025-06-17)
+- Blood pressure: 88/80 mmHg (2025-06-17)
+
+VISIT HISTORY (vitals & labs by date) | Mr. Agustin Barrows | ID 04344029
+[Mr. Agustin Barrows | ID 04344029] 2025-06-17: BP 88/80 mmHg; Sodium 137.9 mmol/L; Creatinine 1.4 mg/dL; BUN 16.8 mg/dL; Glucose 99 mg/dL; Resp rate 15 /min; Heart rate 69 /min; BMI 30.5 kg/m2; Weight 100.5 kg; Height 181.6 cm; HbA1c 6.3 %; Potassium 4.2 mmol/L; Hemoglobin 12.7 g/dL
+[Mr. Agustin Barrows | ID 04344029] 2024-01-30: BP 98/81 mmHg; Potassium 5.2 mmol/L; Sodium 137.2 mmol/L; BUN 19.4 mg/dL; Glucose 92.8 mg/dL; Resp rate 14 /min; Heart rate 78 /min; Creatinine 1.4 mg/dL; BMI 30.5 kg/m2; Weight 100.5 kg; Height 181.6 cm; HbA1c 5.9 %
+[Mr. Agustin Barrows | ID 04344029] 2022-08-30: BP 99/80 mmHg; Resp rate 12 /min; HDL 62.2 mg/dL; Triglycerides 114.4 mg/dL; Total cholesterol 270.8 mg/dL; Heart rate 72 /min; LDL 185.8 mg/dL; BMI 30.5 kg/m2; Weight 100.5 kg; Height 181.6 cm
+[Mr. Agustin Barrows | ID 04344029] 2021-11-16: BP 100/78 mmHg; Resp rate 15 /min; Heart rate 94 /min; Weight 99.2 kg; Height 181.6 cm; BMI 30.1 kg/m2
+[Mr. Agustin Barrows | ID 04344029] 2019-08-27: BP 102/78 mmHg; Height 181.6 cm; HDL 47.8 mg/dL; LDL 191.9 mg/dL; Triglycerides 148.6 mg/dL; Total cholesterol 269.3 mg/dL; Resp rate 16 /min; Hemoglobin 14.3 g/dL; BMI 28.5 kg/m2; Weight 94 kg; Heart rate 72 /min

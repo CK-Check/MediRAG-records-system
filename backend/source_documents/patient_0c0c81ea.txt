@@ -1,0 +1,87 @@
+PATIENT SUMMARY | Mr. Miguel Borrego | ID 0c0c81ea
+DOB: 1970-02-24 | Age: 56 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Mr. Miguel Borrego | ID 0c0c81ea
+- Anemia — since 1989-04-25
+- Prediabetes — since 1989-04-25
+- Impacted molars — since 1990-02-01
+- Chronic pain — since 1990-03-10
+- Chronic intractable migraine without aura — since 1990-12-06
+- Dependent drug abuse — since 2002-07-22
+- Refugee (person) — since 2003-07-22
+- Body mass index 30+ - obesity — since 2012-03-06
+- Essential hypertension — since 2012-03-06
+- Hyperlipidemia — since 2017-04-04
+- Loss of teeth — since 2018-05-01
+- Metabolic syndrome X — since 2019-04-16
+- Victim of intimate partner abuse — since 2020-12-29
+- Chronic sinusitis — since 2026-04-22
+
+RESOLVED CONDITIONS | Mr. Miguel Borrego | ID 0c0c81ea
+- Overdose — 2017-05-22 to 2025-06-26
+- Gingival disease — 2018-04-24 to 2025-06-03
+- Infection of tooth — 2018-04-24 to 2018-04-24
+- Primary dental caries — 2018-04-24 to 2018-04-24
+- Acute bronchitis — 2020-12-19 to 2022-04-02
+- Gingivitis — 2022-03-01 to 2026-05-19
+- Viral sinusitis — 2022-05-17 to 2022-05-27
+- Acute bacterial sinusitis — 2026-03-24 to 2026-05-27
+
+CURRENT MEDICATIONS | Mr. Miguel Borrego | ID 0c0c81ea
+- Hydrochlorothiazide 25 MG Oral Tablet — since 2026-06-02, for Essential hypertension
+- Simvastatin 10 MG Oral Tablet — since 2026-06-09, for Hyperlipidemia
+- lisinopril 10 MG Oral Tablet — since 2026-06-02, for Essential hypertension
+
+PAST MEDICATIONS | Mr. Miguel Borrego | ID 0c0c81ea
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution — 2022-03-15 to 2022-04-02
+- Acetaminophen 325 MG Oral Tablet — 2020-12-19 to 2021-01-08
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2018-04-24 to 2025-06-03
+
+ALLERGIES | Mr. Miguel Borrego | ID 0c0c81ea
+- No known allergies.
+
+LATEST VITALS & LABS | Mr. Miguel Borrego | ID 0c0c81ea
+- BMI: 30.1 kg/m2 (2026-06-02)
+- BUN: 19.3 mg/dL (2026-06-09)
+- Creatinine: 3.1 mg/dL (2026-06-09)
+- Glucose: 91.7 mg/dL (2026-06-09)
+- HDL: 37.6 mg/dL (2026-06-09)
+- HbA1c: 6.1 % (2026-06-02)
+- Heart rate: 90 /min (2026-06-02)
+- Height: 191.4 cm (2026-06-02)
+- Hemoglobin: 13.8 g/dL (2025-05-20)
+- LDL: 96.7 mg/dL (2026-06-09)
+- Potassium: 4 mmol/L (2026-06-09)
+- Resp rate: 15 /min (2026-06-02)
+- Sodium: 138.2 mmol/L (2026-06-09)
+- Total cholesterol: 162.4 mg/dL (2026-06-09)
+- Triglycerides: 197.9 mg/dL (2026-06-09)
+- Weight: 110.2 kg (2026-06-02)
+- Blood pressure: 120/93 mmHg (2026-06-02)
+
+VISIT HISTORY (vitals & labs by date) | Mr. Miguel Borrego | ID 0c0c81ea
+[Mr. Miguel Borrego | ID 0c0c81ea] 2026-06-09: LDL 96.7 mg/dL; Glucose 91.7 mg/dL; BUN 19.3 mg/dL; Creatinine 3.1 mg/dL; Sodium 138.2 mmol/L; Potassium 4 mmol/L; Total cholesterol 162.4 mg/dL; Triglycerides 197.9 mg/dL; HDL 37.6 mg/dL
+[Mr. Miguel Borrego | ID 0c0c81ea] 2026-06-02: BP 120/93 mmHg; Sodium 140.9 mmol/L; Potassium 4.5 mmol/L; Creatinine 1.4 mg/dL; BUN 19.1 mg/dL; Glucose 88.5 mg/dL; Resp rate 15 /min; Height 191.4 cm; BMI 30.1 kg/m2; Weight 110.2 kg; HbA1c 6.1 %; Heart rate 90 /min
+[Mr. Miguel Borrego | ID 0c0c81ea] 2026-05-05: BP 120/94 mmHg; Potassium 4.4 mmol/L; Sodium 138.8 mmol/L; Creatinine 1.3 mg/dL; BUN 9.5 mg/dL; Glucose 94.9 mg/dL; Resp rate 13 /min; Heart rate 89 /min; BMI 30.1 kg/m2; Weight 110.2 kg; Height 191.4 cm; HbA1c 6 %
+[Mr. Miguel Borrego | ID 0c0c81ea] 2026-03-17: BP 118/93 mmHg; Resp rate 15 /min; Sodium 143.9 mmol/L; Potassium 4.8 mmol/L; BUN 19.9 mg/dL; Glucose 77.2 mg/dL; Heart rate 78 /min; Creatinine 1.3 mg/dL; BMI 30 kg/m2; Weight 110.1 kg; Height 191.4 cm; HbA1c 6.2 %
+[Mr. Miguel Borrego | ID 0c0c81ea] 2025-05-27: HDL 61.6 mg/dL; LDL 91.3 mg/dL; Triglycerides 159.5 mg/dL; Total cholesterol 172.1 mg/dL; Sodium 137.6 mmol/L; Creatinine 3.5 mg/dL; BUN 18.7 mg/dL; Glucose 70.2 mg/dL; Potassium 4.9 mmol/L
+[Mr. Miguel Borrego | ID 0c0c81ea] 2025-05-20: BP 119/91 mmHg; Hemoglobin 13.8 g/dL; Sodium 140.4 mmol/L; Creatinine 1.3 mg/dL; BUN 12.9 mg/dL; Glucose 92.3 mg/dL; Resp rate 13 /min; Potassium 4.7 mmol/L; BMI 29.4 kg/m2; Weight 107.9 kg; Height 191.4 cm; HbA1c 6.2 %; Heart rate 98 /min
+[Mr. Miguel Borrego | ID 0c0c81ea] 2024-05-16: HDL 74.5 mg/dL; LDL 100.2 mg/dL; Triglycerides 102.6 mg/dL; Potassium 4.3 mmol/L; Total cholesterol 154 mg/dL; Creatinine 2.9 mg/dL; BUN 13.1 mg/dL; Glucose 82.6 mg/dL; Sodium 140.1 mmol/L
+[Mr. Miguel Borrego | ID 0c0c81ea] 2024-05-14: BP 126/93 mmHg; Creatinine 1.3 mg/dL; LDL 120.7 mg/dL; Triglycerides 120.7 mg/dL; HDL 54.2 mg/dL; Total cholesterol 199.1 mg/dL; Potassium 4.1 mmol/L; Sodium 143.6 mmol/L; BUN 16.4 mg/dL; Weight 105.1 kg; Resp rate 14 /min; Heart rate 62 /min; BMI 28.7 kg/m2; Height 191.4 cm; HbA1c 6.4 %; Glucose 79.1 mg/dL
+[Mr. Miguel Borrego | ID 0c0c81ea] 2023-05-17: HDL 50.8 mg/dL; LDL 96.7 mg/dL; Triglycerides 197.1 mg/dL; Potassium 3.9 mmol/L; Total cholesterol 191.1 mg/dL; Creatinine 3.3 mg/dL; BUN 13.9 mg/dL; Glucose 89.4 mg/dL; Sodium 136.3 mmol/L
+[Mr. Miguel Borrego | ID 0c0c81ea] 2023-05-09: BP 119/91 mmHg; Potassium 3.8 mmol/L; Sodium 139.5 mmol/L; Creatinine 1.2 mg/dL; BUN 9.8 mg/dL; Glucose 99.3 mg/dL; Resp rate 15 /min; Heart rate 83 /min; BMI 28 kg/m2; Weight 102.4 kg; Height 191.4 cm; HbA1c 5.8 %
+[Mr. Miguel Borrego | ID 0c0c81ea] 2022-05-17: Total cholesterol 188.8 mg/dL; HDL 31.7 mg/dL; LDL 102.2 mg/dL; Triglycerides 125.9 mg/dL; Sodium 138 mmol/L; Creatinine 3.3 mg/dL; BUN 11 mg/dL; Glucose 84.7 mg/dL; Potassium 4.9 mmol/L
+[Mr. Miguel Borrego | ID 0c0c81ea] 2022-05-03: BP 117/95 mmHg; Sodium 140.2 mmol/L; BUN 10.2 mg/dL; Glucose 97.8 mg/dL; Resp rate 13 /min; Heart rate 94 /min; Potassium 4.4 mmol/L; HbA1c 5.9 %; Creatinine 1.2 mg/dL; Weight 99.7 kg; Height 191.4 cm; BMI 27.2 kg/m2
+[Mr. Miguel Borrego | ID 0c0c81ea] 2022-03-08: HbA1c 6 %
+[Mr. Miguel Borrego | ID 0c0c81ea] 2022-03-01: BP 120/91 mmHg; Resp rate 13 /min; Potassium 4.8 mmol/L; Sodium 136.1 mmol/L; BUN 7.6 mg/dL; Glucose 94.2 mg/dL; Heart rate 85 /min; Creatinine 1.2 mg/dL; HbA1c 6 %; Height 191.4 cm; Weight 100.6 kg; BMI 27.5 kg/m2
+[Mr. Miguel Borrego | ID 0c0c81ea] 2021-05-07: HDL 69.7 mg/dL; LDL 123.5 mg/dL; Triglycerides 149.2 mg/dL; Total cholesterol 173.2 mg/dL; Sodium 136.6 mmol/L; Creatinine 3 mg/dL; BUN 15 mg/dL; Glucose 95.2 mg/dL; Potassium 4 mmol/L
+[Mr. Miguel Borrego | ID 0c0c81ea] 2021-04-27: BP 124/94 mmHg; HDL 53.6 mg/dL; LDL 78.3 mg/dL; Triglycerides 148.6 mg/dL; Total cholesterol 161.6 mg/dL; Sodium 143.4 mmol/L; Creatinine 1.4 mg/dL; BUN 7.9 mg/dL; Glucose 72 mg/dL; Potassium 3.7 mmol/L; Heart rate 62 /min; BMI 29.9 kg/m2; Weight 109.6 kg; Height 191.4 cm; HbA1c 5.9 %; Resp rate 16 /min
+[Mr. Miguel Borrego | ID 0c0c81ea] 2021-01-05: HbA1c 6.3 %
+[Mr. Miguel Borrego | ID 0c0c81ea] 2020-12-29: BP 117/92 mmHg; Resp rate 16 /min; Sodium 140.7 mmol/L; Creatinine 1.4 mg/dL; Potassium 5 mmol/L; Glucose 83.5 mg/dL; Heart rate 77 /min; BUN 7.5 mg/dL; BMI 30 kg/m2; Weight 109.8 kg; Height 191.4 cm; HbA1c 5.8 %
+[Mr. Miguel Borrego | ID 0c0c81ea] 2020-05-07: HDL 76.6 mg/dL; LDL 125.3 mg/dL; Triglycerides 156.6 mg/dL; Total cholesterol 156.3 mg/dL; Sodium 142.7 mmol/L; Creatinine 3.2 mg/dL; BUN 12.3 mg/dL; Glucose 78.8 mg/dL; Potassium 5.2 mmol/L
+[Mr. Miguel Borrego | ID 0c0c81ea] 2020-04-21: BP 125/92 mmHg; Hemoglobin 17 g/dL; Sodium 142.1 mmol/L; Creatinine 1.4 mg/dL; BUN 9.2 mg/dL; Glucose 92.7 mg/dL; Resp rate 15 /min; Potassium 3.9 mmol/L; BMI 29.6 kg/m2; Weight 108.4 kg; Height 191.4 cm; HbA1c 6.2 %; Heart rate 79 /min
+[Mr. Miguel Borrego | ID 0c0c81ea] 2019-05-08: Total cholesterol 165.1 mg/dL; LDL 86.6 mg/dL; Triglycerides 192.5 mg/dL; Potassium 3.7 mmol/L; HDL 51.3 mg/dL; Creatinine 3.5 mg/dL; BUN 20 mg/dL; Glucose 84.6 mg/dL; Sodium 136 mmol/L
+[Mr. Miguel Borrego | ID 0c0c81ea] 2019-04-16: BP 125/93 mmHg; Potassium 4.4 mmol/L; Sodium 136.3 mmol/L; Creatinine 1.3 mg/dL; BUN 9.7 mg/dL; Glucose 93.6 mg/dL; Resp rate 14 /min; Heart rate 69 /min; BMI 29.1 kg/m2; Weight 106.4 kg; Height 191.4 cm; HbA1c 6 %
+[Mr. Miguel Borrego | ID 0c0c81ea] 2018-05-08: LDL 89.8 mg/dL; Triglycerides 152.8 mg/dL; Total cholesterol 161.8 mg/dL; Potassium 4.2 mmol/L; HDL 59.5 mg/dL; Creatinine 3.3 mg/dL; BUN 8 mg/dL; Glucose 97.8 mg/dL; Sodium 139.8 mmol/L
+[Mr. Miguel Borrego | ID 0c0c81ea] 2018-04-10: BP 125/90 mmHg; BUN 19.7 mg/dL; HDL 51.6 mg/dL; LDL 90.2 mg/dL; Triglycerides 107.3 mg/dL; Total cholesterol 163.2 mg/dL; Potassium 4.5 mmol/L; Sodium 137.5 mmol/L; Glucose 98 mg/dL; Creatinine 1.3 mg/dL; Heart rate 81 /min; Resp rate 13 /min; BMI 28.5 kg/m2; Weight 104.5 kg; Height 191.4 cm; HbA1c 6.3 %
+[Mr. Miguel Borrego | ID 0c0c81ea] 2017-04-04: BP 120/92 mmHg; HbA1c 6.4 %; Potassium 4.1 mmol/L; Sodium 141.3 mmol/L; Creatinine 1.3 mg/dL; BUN 15.7 mg/dL; Glucose 88.5 mg/dL; Resp rate 16 /min; Heart rate 94 /min; BMI 28 kg/m2; Weight 102.5 kg; Potassium 4.1 mmol/L; Total cholesterol 251.4 mg/dL; Height 191.4 cm; LDL 110.3 mg/dL; HDL 20.1 mg/dL; Triglycerides 151.4 mg/dL; BUN 15.7 mg/dL; Creatinine 2.9 mg/dL; Sodium 141.3 mmol/L; Glucose 88.5 mg/dL

@@ -1,0 +1,112 @@
+PATIENT SUMMARY | Mr. Edmund Jenkins | ID a814bf67
+DOB: 1977-12-13 | Age: 48 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Mr. Edmund Jenkins | ID a814bf67
+- Serving in military service — since 1996-02-06
+- Body mass index 30+ - obesity — since 1998-04-21
+- Essential hypertension — since 2003-02-18
+- Chronic kidney disease stage 1 — since 2004-02-24
+- Disorder of kidney due to diabetes mellitus — since 2004-02-24
+- Chronic kidney disease stage 2 — since 2004-09-14
+- Microalbuminuria due to type 2 diabetes mellitus — since 2004-09-14
+- Has a criminal record — since 2010-03-30
+- Chronic kidney disease stage 3 — since 2020-11-24
+- Proteinuria due to type 2 diabetes mellitus — since 2020-11-24
+
+RESOLVED CONDITIONS | Mr. Edmund Jenkins | ID a814bf67
+- Limited social contact — 2016-03-15 to 2023-06-13
+- Gingivitis — 2016-09-13 to 2024-07-02
+- Victim of intimate partner abuse — 2016-09-13 to 2017-05-09
+- Sprain of ankle — 2017-12-11 to 2018-01-11
+- Sprain — 2017-12-11 to 2018-01-11
+- Viral sinusitis — 2020-05-19 to 2021-10-22
+- Primary dental caries — 2020-06-09 to 2020-06-09
+- Infection of tooth — 2021-06-22 to 2021-06-22
+- Gingival disease — 2023-12-19 to 2023-12-19
+- Leaking dental filling — 2024-12-17 to 2026-01-06
+- Streptococcal sore throat — 2025-10-28 to 2025-11-08
+
+CURRENT MEDICATIONS | Mr. Edmund Jenkins | ID a814bf67
+- Hydrochlorothiazide 25 MG Oral Tablet — since 2026-06-30, for Essential hypertension
+- amLODIPine 2.5 MG Oral Tablet — since 2026-06-30, for Essential hypertension
+- lisinopril 10 MG Oral Tablet — since 2026-06-30, for Essential hypertension
+
+PAST MEDICATIONS | Mr. Edmund Jenkins | ID a814bf67
+- Acetaminophen 325 MG Oral Tablet — 2017-12-11 to 2018-01-11
+- Penicillin V Potassium 500 MG Oral Tablet — 2025-10-28 to 2025-11-08
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2016-09-27 to 2026-01-06
+
+ALLERGIES | Mr. Edmund Jenkins | ID a814bf67
+- No known allergies.
+
+LATEST VITALS & LABS | Mr. Edmund Jenkins | ID a814bf67
+- BMI: 39 kg/m2 (2026-06-30)
+- Creatinine: 2 mg/dL (2026-06-30)
+- HDL: 51 mg/dL (2026-06-30)
+- Heart rate: 67 /min (2026-06-30)
+- Height: 173.9 cm (2026-06-30)
+- Hemoglobin: 12.9 g/dL (2025-06-24)
+- LDL: 158.2 mg/dL (2026-06-30)
+- Resp rate: 15 /min (2026-06-30)
+- Total cholesterol: 235.2 mg/dL (2026-06-30)
+- Triglycerides: 130 mg/dL (2026-06-30)
+- Weight: 117.9 kg (2026-06-30)
+- Blood pressure: 112/86 mmHg (2026-06-30)
+
+VISIT HISTORY (vitals & labs by date) | Mr. Edmund Jenkins | ID a814bf67
+[Mr. Edmund Jenkins | ID a814bf67] 2026-06-30: BP 112/86 mmHg; Triglycerides 130 mg/dL; Total cholesterol 235.2 mg/dL; Resp rate 15 /min; Heart rate 67 /min; Creatinine 2 mg/dL; BMI 39 kg/m2; Weight 117.9 kg; Height 173.9 cm; LDL 158.2 mg/dL; HDL 51 mg/dL
+[Mr. Edmund Jenkins | ID a814bf67] 2026-04-28: BP 110/87 mmHg; Creatinine 2.1 mg/dL; Height 173.9 cm; Weight 117.9 kg; BMI 39 kg/m2; Heart rate 81 /min; Resp rate 15 /min
+[Mr. Edmund Jenkins | ID a814bf67] 2025-12-23: BP 104/83 mmHg; Heart rate 67 /min; Resp rate 13 /min; BMI 39 kg/m2; Height 173.9 cm; Creatinine 1.9 mg/dL; Weight 117.9 kg
+[Mr. Edmund Jenkins | ID a814bf67] 2025-11-25: BP 106/82 mmHg; Resp rate 15 /min; Heart rate 65 /min; Height 173.9 cm; Weight 117.9 kg; Creatinine 2 mg/dL; BMI 39 kg/m2
+[Mr. Edmund Jenkins | ID a814bf67] 2025-10-21: BP 101/88 mmHg; Resp rate 16 /min; Creatinine 2 mg/dL; Height 173.9 cm; Weight 117.9 kg; BMI 39 kg/m2; Heart rate 87 /min
+[Mr. Edmund Jenkins | ID a814bf67] 2025-06-24: BP 117/92 mmHg; Hemoglobin 12.9 g/dL; Resp rate 14 /min; Heart rate 91 /min; Weight 117.9 kg; Creatinine 2 mg/dL; BMI 39 kg/m2; Height 173.9 cm
+[Mr. Edmund Jenkins | ID a814bf67] 2024-12-03: BP 101/82 mmHg; Creatinine 2 mg/dL; Height 173.9 cm; Weight 117.9 kg; BMI 39 kg/m2; Heart rate 83 /min; Resp rate 14 /min
+[Mr. Edmund Jenkins | ID a814bf67] 2024-06-18: BP 100/84 mmHg; Heart rate 62 /min; Resp rate 15 /min; Weight 117.9 kg; Height 173.9 cm; Creatinine 2 mg/dL; BMI 39 kg/m2
+[Mr. Edmund Jenkins | ID a814bf67] 2023-12-05: BP 111/82 mmHg; Heart rate 86 /min; Resp rate 14 /min; Weight 117.9 kg; BMI 39 kg/m2; Height 173.9 cm; Creatinine 2 mg/dL
+[Mr. Edmund Jenkins | ID a814bf67] 2023-09-05: BP 109/85 mmHg; Resp rate 14 /min; Heart rate 70 /min; Height 173.9 cm; Weight 117.9 kg; Creatinine 1.9 mg/dL; BMI 39 kg/m2
+[Mr. Edmund Jenkins | ID a814bf67] 2023-08-08: BP 104/85 mmHg; Creatinine 2 mg/dL; Height 173.9 cm; Weight 117.9 kg; BMI 39 kg/m2; Heart rate 88 /min; Resp rate 14 /min
+[Mr. Edmund Jenkins | ID a814bf67] 2023-06-20: Creatinine 2 mg/dL
+[Mr. Edmund Jenkins | ID a814bf67] 2023-06-13: BP 118/83 mmHg; Triglycerides 114.7 mg/dL; Total cholesterol 188.1 mg/dL; Resp rate 13 /min; Heart rate 63 /min; Creatinine 2 mg/dL; BMI 39 kg/m2; Weight 117.9 kg; Height 173.9 cm; LDL 104.2 mg/dL; HDL 60.9 mg/dL
+[Mr. Edmund Jenkins | ID a814bf67] 2023-04-11: BP 110/84 mmHg; Creatinine 1.9 mg/dL; Height 173.9 cm; Weight 117.9 kg; BMI 39 kg/m2; Heart rate 63 /min; Resp rate 14 /min
+[Mr. Edmund Jenkins | ID a814bf67] 2022-08-16: BP 107/88 mmHg; Resp rate 13 /min; Heart rate 80 /min; BMI 39 kg/m2; Height 173.9 cm; Creatinine 2 mg/dL; Weight 117.9 kg
+[Mr. Edmund Jenkins | ID a814bf67] 2022-06-07: BP 114/86 mmHg; Height 173.9 cm; Weight 117.9 kg; BMI 39 kg/m2; Heart rate 79 /min; Resp rate 14 /min; Creatinine 2 mg/dL
+[Mr. Edmund Jenkins | ID a814bf67] 2022-05-17: BP 104/85 mmHg; Heart rate 67 /min; Resp rate 16 /min; Weight 117.9 kg; Height 173.9 cm; Creatinine 2 mg/dL; BMI 39 kg/m2
+[Mr. Edmund Jenkins | ID a814bf67] 2021-10-26: Creatinine 1.9 mg/dL
+[Mr. Edmund Jenkins | ID a814bf67] 2021-10-19: BP 101/92 mmHg; Resp rate 15 /min; Heart rate 65 /min; Weight 117.9 kg; Creatinine 2 mg/dL; BMI 39 kg/m2; Height 173.9 cm
+[Mr. Edmund Jenkins | ID a814bf67] 2021-10-05: BP 114/84 mmHg; Creatinine 2 mg/dL; Height 173.9 cm; Weight 117.9 kg; BMI 39 kg/m2; Heart rate 70 /min; Resp rate 13 /min
+[Mr. Edmund Jenkins | ID a814bf67] 2021-09-28: Creatinine 2.1 mg/dL
+[Mr. Edmund Jenkins | ID a814bf67] 2021-09-21: BP 103/88 mmHg; Heart rate 89 /min; Resp rate 14 /min; Weight 117.9 kg; Height 173.9 cm; Creatinine 2 mg/dL; BMI 39 kg/m2
+[Mr. Edmund Jenkins | ID a814bf67] 2021-08-17: BP 107/86 mmHg; Resp rate 14 /min; Heart rate 96 /min; Weight 117.9 kg; Height 173.9 cm; BMI 39 kg/m2; Creatinine 1.9 mg/dL
+[Mr. Edmund Jenkins | ID a814bf67] 2021-06-15: Creatinine 2.1 mg/dL
+[Mr. Edmund Jenkins | ID a814bf67] 2021-06-08: BP 108/90 mmHg; Resp rate 15 /min; Heart rate 82 /min; BMI 39 kg/m2; Weight 117.9 kg; Height 173.9 cm; Creatinine 2.1 mg/dL
+[Mr. Edmund Jenkins | ID a814bf67] 2021-06-01: Creatinine 2 mg/dL
+[Mr. Edmund Jenkins | ID a814bf67] 2021-05-25: BP 111/87 mmHg; Heart rate 88 /min; Resp rate 15 /min; Weight 117.9 kg; BMI 39 kg/m2; Height 173.9 cm; Creatinine 2 mg/dL
+[Mr. Edmund Jenkins | ID a814bf67] 2021-05-04: Creatinine 2 mg/dL
+[Mr. Edmund Jenkins | ID a814bf67] 2021-04-27: BP 109/86 mmHg; Resp rate 16 /min; Heart rate 93 /min; Height 173.9 cm; Weight 117.9 kg; Creatinine 2.1 mg/dL; BMI 39 kg/m2
+[Mr. Edmund Jenkins | ID a814bf67] 2021-04-20: Creatinine 2 mg/dL
+[Mr. Edmund Jenkins | ID a814bf67] 2021-04-13: BP 104/85 mmHg; Creatinine 1.9 mg/dL; Height 173.9 cm; Weight 117.9 kg; BMI 39 kg/m2; Heart rate 68 /min; Resp rate 14 /min
+[Mr. Edmund Jenkins | ID a814bf67] 2021-04-06: Creatinine 2.1 mg/dL
+[Mr. Edmund Jenkins | ID a814bf67] 2021-03-30: BP 107/91 mmHg; Heart rate 99 /min; Creatinine 2 mg/dL; Height 173.9 cm; Weight 117.9 kg; BMI 39 kg/m2; Resp rate 15 /min
+[Mr. Edmund Jenkins | ID a814bf67] 2021-03-23: Creatinine 2.1 mg/dL
+[Mr. Edmund Jenkins | ID a814bf67] 2021-03-16: BP 103/82 mmHg; Resp rate 14 /min; Heart rate 64 /min; Weight 117.9 kg; Height 173.9 cm; Creatinine 2 mg/dL; BMI 39 kg/m2
+[Mr. Edmund Jenkins | ID a814bf67] 2021-03-09: Creatinine 2.1 mg/dL
+[Mr. Edmund Jenkins | ID a814bf67] 2021-03-02: BP 106/85 mmHg; Heart rate 87 /min; Resp rate 15 /min; Height 173.9 cm; Weight 117.9 kg; Creatinine 2 mg/dL; BMI 39 kg/m2
+[Mr. Edmund Jenkins | ID a814bf67] 2020-12-22: BP 115/86 mmHg; Creatinine 2 mg/dL; Height 173.9 cm; Weight 117.9 kg; BMI 39 kg/m2; Heart rate 91 /min; Resp rate 13 /min
+[Mr. Edmund Jenkins | ID a814bf67] 2020-11-24: BP 100/84 mmHg; Resp rate 15 /min; Heart rate 69 /min; Weight 117.9 kg; Height 173.9 cm; Creatinine 2.1 mg/dL; BMI 39 kg/m2
+[Mr. Edmund Jenkins | ID a814bf67] 2020-06-02: Creatinine 2 mg/dL
+[Mr. Edmund Jenkins | ID a814bf67] 2020-05-26: BP 104/82 mmHg; HDL 65.9 mg/dL; LDL 133.6 mg/dL; Triglycerides 114.4 mg/dL; Resp rate 14 /min; Heart rate 81 /min; Total cholesterol 222.3 mg/dL; BMI 39 kg/m2; Weight 117.9 kg; Height 173.9 cm; Creatinine 1.8 mg/dL
+[Mr. Edmund Jenkins | ID a814bf67] 2020-05-05: Creatinine 1.9 mg/dL
+[Mr. Edmund Jenkins | ID a814bf67] 2020-04-28: BP 103/83 mmHg; Hemoglobin 15.5 g/dL; Resp rate 13 /min; Heart rate 94 /min; BMI 39 kg/m2; Weight 117.9 kg; Height 173.9 cm; Creatinine 2.1 mg/dL
+[Mr. Edmund Jenkins | ID a814bf67] 2020-04-21: Creatinine 1.9 mg/dL
+[Mr. Edmund Jenkins | ID a814bf67] 2020-04-14: BP 100/82 mmHg; Heart rate 64 /min; Resp rate 15 /min; Weight 117.9 kg; BMI 39 kg/m2; Height 173.9 cm; Creatinine 1.9 mg/dL
+[Mr. Edmund Jenkins | ID a814bf67] 2019-11-26: BP 109/83 mmHg; Creatinine 1.9 mg/dL; Height 173.9 cm; Weight 117.9 kg; BMI 39 kg/m2; Heart rate 84 /min; Resp rate 14 /min
+[Mr. Edmund Jenkins | ID a814bf67] 2019-05-21: BP 113/86 mmHg; Heart rate 74 /min; Resp rate 15 /min; Weight 117.9 kg; Height 173.9 cm; Creatinine 2.1 mg/dL; BMI 39 kg/m2
+[Mr. Edmund Jenkins | ID a814bf67] 2019-03-05: BP 104/83 mmHg; Resp rate 13 /min; Heart rate 73 /min; BMI 39 kg/m2; Height 173.9 cm; Creatinine 2 mg/dL; Weight 117.9 kg
+[Mr. Edmund Jenkins | ID a814bf67] 2018-06-12: BP 105/83 mmHg; Creatinine 2 mg/dL; Weight 117.9 kg; BMI 39 kg/m2; Heart rate 99 /min; Resp rate 12 /min; Height 173.9 cm
+[Mr. Edmund Jenkins | ID a814bf67] 2018-05-15: BP 107/86 mmHg; Heart rate 73 /min; Resp rate 13 /min; Weight 117.9 kg; Height 173.9 cm; Creatinine 2 mg/dL; BMI 39 kg/m2
+[Mr. Edmund Jenkins | ID a814bf67] 2018-02-06: BP 113/89 mmHg; Resp rate 15 /min; Heart rate 97 /min; Weight 117.9 kg; Creatinine 1.9 mg/dL; BMI 39 kg/m2; Height 173.9 cm
+[Mr. Edmund Jenkins | ID a814bf67] 2017-10-10: BP 111/83 mmHg; Creatinine 2 mg/dL; Height 173.9 cm; Weight 117.9 kg; BMI 39 kg/m2; Heart rate 98 /min; Resp rate 14 /min
+[Mr. Edmund Jenkins | ID a814bf67] 2017-06-13: BP 101/87 mmHg; Resp rate 13 /min; Heart rate 77 /min; Weight 117.9 kg; Height 173.9 cm; Creatinine 1.8 mg/dL; BMI 39 kg/m2
+[Mr. Edmund Jenkins | ID a814bf67] 2017-05-16: Creatinine 1.8 mg/dL
+[Mr. Edmund Jenkins | ID a814bf67] 2017-05-09: BP 105/84 mmHg; LDL 69.8 mg/dL; Triglycerides 143.2 mg/dL; Total cholesterol 149.1 mg/dL; Resp rate 15 /min; Heart rate 81 /min; HDL 50.7 mg/dL; BMI 39 kg/m2; Weight 117.9 kg; Height 173.9 cm; Creatinine 1.8 mg/dL
+[Mr. Edmund Jenkins | ID a814bf67] 2016-09-13: BP 102/89 mmHg; Creatinine 1.9 mg/dL; Height 173.9 cm; Weight 117.9 kg; BMI 39 kg/m2; Heart rate 99 /min; Resp rate 13 /min

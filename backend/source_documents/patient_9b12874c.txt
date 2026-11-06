@@ -1,0 +1,78 @@
+PATIENT SUMMARY | Mrs. Iola Keeling | ID 9b12874c
+DOB: 1965-03-31 | Age: 61 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Mrs. Iola Keeling | ID 9b12874c
+- Past pregnancy history of miscarriage — since 2012-02-18
+- Chronic low back pain — since 2014-01-31
+- Chronic neck pain — since 2014-01-31
+- Chronic pain — since 2014-01-31
+- Hyperlipidemia — since 2019-05-29
+
+RESOLVED CONDITIONS | Mrs. Iola Keeling | ID 9b12874c
+- Unhealthy alcohol drinking behavior — 2011-04-20 to 2017-05-17
+- Injury of neck — 2018-05-01 to 2018-06-01
+- Whiplash injury to neck — 2018-05-01 to 2018-06-01
+- Gingivitis — 2018-05-23 to 2026-07-22
+- Limited social contact — 2018-05-23 to 2019-05-29
+- Victim of intimate partner abuse — 2018-05-23 to 2019-05-29
+- Disease caused by severe acute respiratory syndrome coronavirus 2 — 2020-12-23 to 2021-01-24
+- Fever — 2020-12-23 to 2021-01-24
+- Joint pain — 2020-12-23 to 2021-01-24
+- Loss of taste — 2020-12-23 to 2021-01-24
+- Muscle pain — 2020-12-23 to 2021-01-24
+- Nasal congestion — 2020-12-23 to 2021-01-24
+- Suspected disease caused by Severe acute respiratory coronavirus 2 — 2020-12-23 to 2020-12-23
+- Laceration - injury — 2021-06-13 to 2025-09-12
+- Laceration of foot — 2021-06-13 to 2025-09-12
+- Concussion injury of brain — 2023-07-12 to 2023-08-27
+- Concussion with no loss of consciousness — 2023-07-12 to 2023-08-27
+- Dental filling lost — 2026-07-22 to 2026-07-22
+
+CURRENT MEDICATIONS | Mrs. Iola Keeling | ID 9b12874c
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet — since 2026-07-08
+- Simvastatin 10 MG Oral Tablet — since 2026-07-09, for Hyperlipidemia
+
+PAST MEDICATIONS | Mrs. Iola Keeling | ID 9b12874c
+- Acetaminophen 325 MG Oral Tablet — 2018-05-01 to 2025-09-12
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2022-06-29 to 2023-07-05
+
+ALLERGIES | Mrs. Iola Keeling | ID 9b12874c
+- No known allergies.
+
+LATEST VITALS & LABS | Mrs. Iola Keeling | ID 9b12874c
+- BMI: 27.4 kg/m2 (2026-07-08)
+- BUN: 18.7 mg/dL (2026-07-09)
+- Creatinine: 3.5 mg/dL (2026-07-09)
+- Glucose: 66.6 mg/dL (2026-07-09)
+- HDL: 47.5 mg/dL (2026-07-09)
+- Heart rate: 67 /min (2026-07-08)
+- Height: 169.5 cm (2026-07-08)
+- Hemoglobin: 12.6 g/dL (2026-07-08)
+- LDL: 141.9 mg/dL (2026-07-09)
+- Potassium: 4.3 mmol/L (2026-07-09)
+- Resp rate: 16 /min (2026-07-08)
+- Sodium: 137.7 mmol/L (2026-07-09)
+- Total cholesterol: 174.9 mg/dL (2026-07-09)
+- Triglycerides: 152 mg/dL (2026-07-09)
+- Weight: 78.7 kg (2026-07-08)
+- Blood pressure: 127/69 mmHg (2026-07-08)
+
+VISIT HISTORY (vitals & labs by date) | Mrs. Iola Keeling | ID 9b12874c
+[Mrs. Iola Keeling | ID 9b12874c] 2026-07-09: LDL 141.9 mg/dL; Glucose 66.6 mg/dL; BUN 18.7 mg/dL; Creatinine 3.5 mg/dL; Sodium 137.7 mmol/L; Potassium 4.3 mmol/L; Total cholesterol 174.9 mg/dL; Triglycerides 152 mg/dL; HDL 47.5 mg/dL
+[Mrs. Iola Keeling | ID 9b12874c] 2026-07-08: BP 127/69 mmHg; Hemoglobin 12.6 g/dL; Heart rate 67 /min; Resp rate 16 /min; BMI 27.4 kg/m2; Weight 78.7 kg; Height 169.5 cm
+[Mrs. Iola Keeling | ID 9b12874c] 2025-07-09: HDL 55.3 mg/dL; LDL 98.1 mg/dL; Triglycerides 120.5 mg/dL; Potassium 3.7 mmol/L; Total cholesterol 172.5 mg/dL; Creatinine 2.6 mg/dL; BUN 16.8 mg/dL; Glucose 79.1 mg/dL; Sodium 137.5 mmol/L
+[Mrs. Iola Keeling | ID 9b12874c] 2025-07-02: BP 126/71 mmHg; HDL 52.8 mg/dL; LDL 81.6 mg/dL; Triglycerides 111.4 mg/dL; Total cholesterol 156.7 mg/dL; Resp rate 16 /min; Heart rate 99 /min; BMI 27.4 kg/m2; Weight 78.7 kg; Height 169.5 cm
+[Mrs. Iola Keeling | ID 9b12874c] 2024-06-27: HDL 66.1 mg/dL; Total cholesterol 197.4 mg/dL; LDL 128.2 mg/dL; Triglycerides 145.2 mg/dL; Potassium 4.3 mmol/L; Creatinine 3.3 mg/dL; BUN 17 mg/dL; Glucose 80.3 mg/dL; Sodium 140.8 mmol/L
+[Mrs. Iola Keeling | ID 9b12874c] 2024-06-26: BP 125/67 mmHg; Height 169.5 cm; Weight 78.7 kg; BMI 27.4 kg/m2; Heart rate 73 /min; Resp rate 14 /min
+[Mrs. Iola Keeling | ID 9b12874c] 2023-06-28: LDL 83.7 mg/dL; Triglycerides 173.7 mg/dL; Total cholesterol 165.2 mg/dL; Potassium 4.1 mmol/L; HDL 54.9 mg/dL; Creatinine 2.6 mg/dL; Glucose 71 mg/dL; Sodium 138.8 mmol/L; BUN 16.8 mg/dL
+[Mrs. Iola Keeling | ID 9b12874c] 2023-06-21: BP 133/68 mmHg; Heart rate 90 /min; Resp rate 13 /min; Weight 78.7 kg; Height 169.5 cm; BMI 27.4 kg/m2
+[Mrs. Iola Keeling | ID 9b12874c] 2022-06-18: Glucose 94.8 mg/dL; BUN 12.7 mg/dL; Creatinine 2.9 mg/dL; Sodium 140 mmol/L; Potassium 4.4 mmol/L; Total cholesterol 173.3 mg/dL; Triglycerides 180.5 mg/dL; LDL 96.8 mg/dL; HDL 64.4 mg/dL
+[Mrs. Iola Keeling | ID 9b12874c] 2022-06-15: BP 134/72 mmHg; Total cholesterol 147 mg/dL; Resp rate 16 /min; HDL 57.2 mg/dL; LDL 61.8 mg/dL; Heart rate 80 /min; Triglycerides 139.7 mg/dL; Height 169.5 cm; Weight 78.7 kg; BMI 27.4 kg/m2
+[Mrs. Iola Keeling | ID 9b12874c] 2021-06-18: HDL 55.3 mg/dL; Glucose 67.9 mg/dL; BUN 17.2 mg/dL; Creatinine 2.9 mg/dL; Sodium 142.4 mmol/L; Potassium 5.2 mmol/L; Total cholesterol 169.4 mg/dL; Triglycerides 154.2 mg/dL; LDL 94.8 mg/dL
+[Mrs. Iola Keeling | ID 9b12874c] 2021-06-09: BP 131/70 mmHg; Resp rate 13 /min; BMI 27.4 kg/m2; Hemoglobin 15.9 g/dL; Heart rate 65 /min; Height 169.5 cm; Weight 78.7 kg
+[Mrs. Iola Keeling | ID 9b12874c] 2020-12-23: BP 135/71 mmHg; Weight 78.7 kg; Resp rate 20 /min; Heart rate 184.6 /min
+[Mrs. Iola Keeling | ID 9b12874c] 2020-06-18: LDL 138.4 mg/dL; HDL 56.8 mg/dL; Triglycerides 118.9 mg/dL; Potassium 4.1 mmol/L; Total cholesterol 186.1 mg/dL; Creatinine 2.9 mg/dL; BUN 12.4 mg/dL; Glucose 68.1 mg/dL; Sodium 142.4 mmol/L
+[Mrs. Iola Keeling | ID 9b12874c] 2020-06-03: BP 130/64 mmHg; Heart rate 68 /min; Resp rate 15 /min; Weight 78.7 kg; Height 169.5 cm; BMI 27.4 kg/m2
+[Mrs. Iola Keeling | ID 9b12874c] 2019-05-29: BP 133/69 mmHg; BMI 27.4 kg/m2; HDL 55.2 mg/dL; LDL 85.3 mg/dL; Triglycerides 116.4 mg/dL; Total cholesterol 163.8 mg/dL; Resp rate 12 /min; Heart rate 91 /min; Weight 78.7 kg; Glucose 79.4 mg/dL; Potassium 4.5 mmol/L; Sodium 137.8 mmol/L; Creatinine 2.8 mg/dL; BUN 14.3 mg/dL; HDL 34 mg/dL; LDL 145.8 mg/dL; Triglycerides 387.2 mg/dL; Total cholesterol 262.1 mg/dL; Height 169.5 cm
+[Mrs. Iola Keeling | ID 9b12874c] 2018-05-23: BP 132/71 mmHg; Resp rate 15 /min; Heart rate 85 /min; Weight 78.7 kg; Height 169.5 cm; BMI 27.4 kg/m2
+[Mrs. Iola Keeling | ID 9b12874c] 2017-05-17: BP 126/71 mmHg; Height 169.5 cm; Weight 78.7 kg; BMI 27.4 kg/m2; Heart rate 60 /min; Resp rate 14 /min

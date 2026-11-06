@@ -1,0 +1,93 @@
+PATIENT SUMMARY | Mrs. William Hammes | ID ca061f40
+DOB: 1960-10-10 | Age: 66 | Gender: F | Status: Deceased
+
+ACTIVE CONDITIONS | Mrs. William Hammes | ID ca061f40
+- Serving in military service — since 1978-12-04
+- Essential hypertension — since 1985-12-16
+- Victim of intimate partner abuse — since 1993-01-25
+- Chronic kidney disease stage 1 — since 1996-02-12
+- Disorder of kidney due to diabetes mellitus — since 1996-02-12
+- Prediabetes — since 1996-02-12
+- History of tubal ligation — since 1996-08-02
+- Chronic kidney disease stage 2 — since 1996-11-18
+- Microalbuminuria due to type 2 diabetes mellitus — since 1996-11-18
+- Malignant neoplasm of breast — since 2001-01-07
+- Limited social contact — since 2001-03-12
+- Chronic kidney disease stage 3 — since 2004-01-12
+- Proteinuria due to type 2 diabetes mellitus — since 2004-01-12
+
+RESOLVED CONDITIONS | Mrs. William Hammes | ID ca061f40
+- Unhealthy alcohol drinking behavior — 1995-02-06 to 1996-02-12
+- Sterilization requested — 1996-07-24 to 1996-08-02
+- Gingivitis — 1999-03-01 to 2003-04-14
+- Primary dental caries — 2003-04-14 to 2004-05-24
+- Acute viral pharyngitis — 2003-04-21 to 2003-05-01
+
+CURRENT MEDICATIONS | Mrs. William Hammes | ID ca061f40
+- Hydrochlorothiazide 25 MG Oral Tablet — since 2004-06-14, for Essential hypertension
+- insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] — since 2004-06-14, for Prediabetes
+- lisinopril 10 MG Oral Tablet — since 2004-06-14, for Essential hypertension
+
+PAST MEDICATIONS | Mrs. William Hammes | ID ca061f40
+- 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] — 2004-09-09 to 2004-09-19
+- 10 ML Doxorubicin Hydrochloride 2 MG/ML Injection — 2001-02-05 to 2001-07-04
+- Tamoxifen 10 MG Oral Tablet — 2001-10-13 to 2001-10-13
+- sodium fluoride 0.0272 MG/MG Oral Gel — 1999-09-20 to 2004-04-12
+- {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] — 1995-07-30 to 1996-07-24
+
+ALLERGIES | Mrs. William Hammes | ID ca061f40
+- No known allergies.
+
+LATEST VITALS & LABS | Mrs. William Hammes | ID ca061f40
+- BMI: 27.1 kg/m2 (2004-06-14)
+- BUN: 19.2 mg/dL (2004-09-09)
+- Creatinine: 3 mg/dL (2004-09-09)
+- Glucose: 97.4 mg/dL (2004-09-09)
+- HDL: 58.4 mg/dL (2003-03-17)
+- HbA1c: 3 % (2004-06-14)
+- Heart rate: 69 /min (2004-06-14)
+- Height: 160.7 cm (2004-06-14)
+- Hemoglobin: 14 g/dL (2003-03-03)
+- LDL: 5 mg/dL (2003-03-17)
+- Potassium: 3.9 mmol/L (2004-09-09)
+- Resp rate: 15 /min (2004-06-14)
+- Sodium: 142.9 mmol/L (2004-09-09)
+- Total cholesterol: 91.5 mg/dL (2003-03-17)
+- Triglycerides: 140.7 mg/dL (2003-03-17)
+- Weight: 70.1 kg (2004-06-14)
+- Blood pressure: 117/67 mmHg (2004-06-14)
+
+VISIT HISTORY (vitals & labs by date) | Mrs. William Hammes | ID ca061f40
+[Mrs. William Hammes | ID ca061f40] 2004-09-09: Sodium 142.9 mmol/L; Glucose 97.4 mg/dL; BUN 19.2 mg/dL; Creatinine 3 mg/dL; Potassium 3.9 mmol/L
+[Mrs. William Hammes | ID ca061f40] 2004-06-14: BP 117/67 mmHg; Potassium 4.7 mmol/L; Sodium 140 mmol/L; Creatinine 3.9 mg/dL; BUN 12.2 mg/dL; Glucose 74.6 mg/dL; Resp rate 15 /min; Heart rate 69 /min; BMI 27.1 kg/m2; Weight 70.1 kg; Height 160.7 cm; HbA1c 3 %; Creatinine 2 mg/dL
+[Mrs. William Hammes | ID ca061f40] 2004-05-10: BP 107/73 mmHg; Potassium 3.7 mmol/L; Sodium 139.3 mmol/L; Creatinine 3.1 mg/dL; BUN 12.9 mg/dL; Glucose 81 mg/dL; Resp rate 13 /min; Heart rate 98 /min; BMI 27.1 kg/m2; Weight 70.1 kg; Height 160.7 cm; HbA1c 3 %; Creatinine 2 mg/dL
+[Mrs. William Hammes | ID ca061f40] 2004-03-29: BP 116/72 mmHg; Potassium 5 mmol/L; Sodium 136.3 mmol/L; Creatinine 3.2 mg/dL; BUN 17.3 mg/dL; Glucose 91.3 mg/dL; Resp rate 14 /min; Heart rate 79 /min; BMI 27.1 kg/m2; Weight 70.1 kg; Height 160.7 cm; HbA1c 2.9 %; Creatinine 1.9 mg/dL
+[Mrs. William Hammes | ID ca061f40] 2004-03-15: BP 113/66 mmHg; Resp rate 15 /min; Sodium 141.3 mmol/L; Creatinine 4.8 mg/dL; BUN 9.7 mg/dL; Glucose 86.3 mg/dL; Heart rate 86 /min; Potassium 4.8 mmol/L; BMI 27.1 kg/m2; Weight 70.1 kg; Height 160.7 cm; HbA1c 3 %; Creatinine 2 mg/dL
+[Mrs. William Hammes | ID ca061f40] 2004-02-16: BP 103/71 mmHg; Potassium 4.9 mmol/L; Sodium 143 mmol/L; Creatinine 3.6 mg/dL; BUN 8.6 mg/dL; Glucose 88.5 mg/dL; Resp rate 14 /min; Heart rate 76 /min; BMI 27.1 kg/m2; Weight 70.1 kg; Height 160.7 cm; HbA1c 2.9 %; Creatinine 2.1 mg/dL
+[Mrs. William Hammes | ID ca061f40] 2004-01-12: BP 112/70 mmHg; Sodium 136.9 mmol/L; Creatinine 4.8 mg/dL; BUN 12.5 mg/dL; Glucose 89.3 mg/dL; Resp rate 15 /min; Heart rate 65 /min; Potassium 4.6 mmol/L; BMI 27.1 kg/m2; Weight 70.1 kg; Height 160.7 cm; HbA1c 2.8 %; Creatinine 2.1 mg/dL
+[Mrs. William Hammes | ID ca061f40] 2003-06-16: BP 113/73 mmHg; Resp rate 13 /min; Sodium 143.4 mmol/L; Creatinine 1.5 mg/dL; BUN 17.8 mg/dL; Glucose 82 mg/dL; Potassium 4.3 mmol/L; Heart rate 86 /min; BMI 27.1 kg/m2; Weight 70.1 kg; Height 160.7 cm; HbA1c 3.4 %; Creatinine 2.1 mg/dL
+[Mrs. William Hammes | ID ca061f40] 2003-05-05: Creatinine 1.8 mg/dL; HbA1c 3 %
+[Mrs. William Hammes | ID ca061f40] 2003-04-28: BP 117/67 mmHg; Creatinine 1.8 mg/dL; Potassium 3.9 mmol/L; Sodium 137.4 mmol/L; BUN 12.3 mg/dL; Glucose 78.5 mg/dL; Resp rate 16 /min; Heart rate 78 /min; Creatinine 2.5 mg/dL; BMI 27.1 kg/m2; Weight 70.1 kg; Height 160.7 cm; HbA1c 3 %
+[Mrs. William Hammes | ID ca061f40] 2003-04-07: HbA1c 3 %; Creatinine 1.9 mg/dL
+[Mrs. William Hammes | ID ca061f40] 2003-03-31: BP 111/73 mmHg; Sodium 137.2 mmol/L; Creatinine 2.3 mg/dL; BUN 14.9 mg/dL; Glucose 80.4 mg/dL; Resp rate 13 /min; Heart rate 85 /min; Height 160.7 cm; BMI 27.1 kg/m2; Weight 70.1 kg; Potassium 4.2 mmol/L; HbA1c 3.3 %; Creatinine 2.1 mg/dL
+[Mrs. William Hammes | ID ca061f40] 2003-03-24: Creatinine 1.8 mg/dL; HbA1c 3.3 %
+[Mrs. William Hammes | ID ca061f40] 2003-03-17: BP 116/72 mmHg; BUN 18.8 mg/dL; HDL 58.4 mg/dL; LDL 5 mg/dL; Triglycerides 140.7 mg/dL; Total cholesterol 91.5 mg/dL; Potassium 3.8 mmol/L; Sodium 143.1 mmol/L; Creatinine 1.4 mg/dL; Glucose 83.8 mg/dL; Resp rate 16 /min; Heart rate 89 /min; BMI 27.1 kg/m2; Weight 70.1 kg; Height 160.7 cm; HbA1c 3.3 %; Creatinine 1.8 mg/dL
+[Mrs. William Hammes | ID ca061f40] 2003-03-10: HbA1c 2.9 %; Creatinine 1.9 mg/dL
+[Mrs. William Hammes | ID ca061f40] 2003-03-03: BP 111/74 mmHg; Hemoglobin 14 g/dL; Potassium 4.3 mmol/L; Sodium 143.9 mmol/L; Creatinine 2.6 mg/dL; BUN 18.7 mg/dL; Glucose 86.3 mg/dL; Resp rate 13 /min; Creatinine 2 mg/dL; BMI 27.1 kg/m2; Weight 70.1 kg; Height 160.7 cm; HbA1c 2.8 %; Heart rate 96 /min
+[Mrs. William Hammes | ID ca061f40] 2003-02-24: Creatinine 1.8 mg/dL; HbA1c 2.9 %
+[Mrs. William Hammes | ID ca061f40] 2003-02-17: BP 113/69 mmHg; Potassium 4.1 mmol/L; Sodium 138.5 mmol/L; Creatinine 1.8 mg/dL; BUN 9 mg/dL; Glucose 72.5 mg/dL; Resp rate 13 /min; Heart rate 85 /min; BMI 27.1 kg/m2; Weight 70.1 kg; Height 160.7 cm; HbA1c 2.9 %; Creatinine 2 mg/dL
+[Mrs. William Hammes | ID ca061f40] 2003-02-10: Creatinine 1.9 mg/dL; HbA1c 3.1 %
+[Mrs. William Hammes | ID ca061f40] 2003-02-03: BP 104/71 mmHg; Resp rate 16 /min; Potassium 4.4 mmol/L; Sodium 143.5 mmol/L; Creatinine 1.6 mg/dL; BUN 14.9 mg/dL; Heart rate 88 /min; Glucose 76.3 mg/dL; BMI 27.1 kg/m2; Weight 70.1 kg; Height 160.7 cm; HbA1c 3.1 %; Creatinine 2.1 mg/dL
+[Mrs. William Hammes | ID ca061f40] 2002-03-18: BP 117/70 mmHg; Potassium 4.9 mmol/L; Sodium 140.3 mmol/L; Creatinine 1.8 mg/dL; BUN 18.3 mg/dL; Glucose 97.6 mg/dL; Resp rate 15 /min; Heart rate 64 /min; BMI 27.1 kg/m2; Weight 70.1 kg; Height 160.7 cm; HbA1c 2.9 %; Creatinine 1.9 mg/dL
+[Mrs. William Hammes | ID ca061f40] 2001-03-12: BP 106/70 mmHg; Potassium 4.6 mmol/L; Sodium 137.6 mmol/L; Creatinine 2.5 mg/dL; BUN 18.4 mg/dL; Glucose 84.5 mg/dL; Resp rate 15 /min; Heart rate 76 /min; BMI 27.1 kg/m2; Weight 70.1 kg; Height 160.7 cm; HbA1c 3.2 %; Creatinine 2.1 mg/dL
+[Mrs. William Hammes | ID ca061f40] 2000-09-04: BP 117/70 mmHg; Potassium 4 mmol/L; Sodium 143.6 mmol/L; Creatinine 1.8 mg/dL; BUN 11.9 mg/dL; Glucose 92.7 mg/dL; Heart rate 72 /min; Resp rate 13 /min; BMI 27.1 kg/m2; Weight 70.1 kg; Height 160.7 cm; HbA1c 3.3 %; Creatinine 2 mg/dL
+[Mrs. William Hammes | ID ca061f40] 2000-04-03: BP 111/73 mmHg; Resp rate 13 /min; Sodium 142 mmol/L; Potassium 3.8 mmol/L; BUN 12.4 mg/dL; Glucose 77.8 mg/dL; Heart rate 84 /min; Creatinine 2.2 mg/dL; Creatinine 1.9 mg/dL; HbA1c 2.8 %; Weight 70.1 kg; BMI 27.1 kg/m2; Height 160.7 cm
+[Mrs. William Hammes | ID ca061f40] 2000-03-06: BP 116/71 mmHg; BUN 13.6 mg/dL; HDL 50.4 mg/dL; LDL 100.8 mg/dL; Triglycerides 144.6 mg/dL; Total cholesterol 180.1 mg/dL; Potassium 5 mmol/L; Sodium 143.2 mmol/L; Creatinine 1.9 mg/dL; Glucose 74.5 mg/dL; HbA1c 3 %; Heart rate 75 /min; BMI 27.1 kg/m2; Weight 70.1 kg; Height 160.7 cm; Creatinine 2 mg/dL; Resp rate 12 /min
+[Mrs. William Hammes | ID ca061f40] 1999-09-06: BP 110/72 mmHg; Potassium 4.2 mmol/L; Sodium 140.6 mmol/L; Creatinine 1.5 mg/dL; BUN 19.9 mg/dL; Glucose 78.1 mg/dL; Resp rate 14 /min; Heart rate 93 /min; BMI 27.1 kg/m2; Weight 70.1 kg; Height 160.7 cm; HbA1c 3.3 %; Creatinine 1.9 mg/dL
+[Mrs. William Hammes | ID ca061f40] 1999-03-01: BP 107/68 mmHg; Resp rate 14 /min; Potassium 4 mmol/L; Creatinine 1.7 mg/dL; BUN 13.5 mg/dL; Glucose 65.9 mg/dL; Heart rate 61 /min; Sodium 138.2 mmol/L; BMI 27.1 kg/m2; Weight 70.1 kg; Height 160.7 cm; HbA1c 2.8 %; Creatinine 1.9 mg/dL
+[Mrs. William Hammes | ID ca061f40] 1998-08-10: BP 111/72 mmHg; Potassium 5.2 mmol/L; Sodium 141.3 mmol/L; Creatinine 2 mg/dL; BUN 19.4 mg/dL; Glucose 72.9 mg/dL; Resp rate 14 /min; Heart rate 99 /min; BMI 27.1 kg/m2; Weight 70.1 kg; Height 160.7 cm; HbA1c 3.3 %; Creatinine 1.9 mg/dL
+[Mrs. William Hammes | ID ca061f40] 1998-02-23: BP 110/72 mmHg; Hemoglobin 13.6 g/dL; Sodium 141 mmol/L; Creatinine 2 mg/dL; BUN 12.7 mg/dL; Glucose 91.7 mg/dL; Resp rate 14 /min; Heart rate 91 /min; Potassium 3.7 mmol/L; BMI 27.1 kg/m2; Weight 70.1 kg; Height 160.7 cm; HbA1c 3.4 %; Creatinine 1.9 mg/dL
+[Mrs. William Hammes | ID ca061f40] 1997-02-17: BP 117/73 mmHg; BUN 18.7 mg/dL; HDL 50.8 mg/dL; LDL 139.6 mg/dL; Triglycerides 109.4 mg/dL; Total cholesterol 212.4 mg/dL; Potassium 4.9 mmol/L; Sodium 142 mmol/L; Creatinine 2.1 mg/dL; Glucose 98.5 mg/dL; Resp rate 13 /min; Heart rate 69 /min; BMI 27.1 kg/m2; Weight 70.1 kg; Height 160.7 cm; HbA1c 3.3 %; Creatinine 2.1 mg/dL
+[Mrs. William Hammes | ID ca061f40] 1996-11-18: BP 112/63 mmHg; Potassium 4.9 mmol/L; Sodium 141.6 mmol/L; Creatinine 1.9 mg/dL; BUN 19 mg/dL; Glucose 93 mg/dL; Resp rate 14 /min; Heart rate 76 /min; Creatinine 1.9 mg/dL; BMI 27.1 kg/m2; Weight 70.1 kg; Height 160.7 cm; HbA1c 2.9 %
+[Mrs. William Hammes | ID ca061f40] 1996-02-12: BP 110/74 mmHg; Potassium 4.7 mmol/L; Sodium 141.2 mmol/L; Creatinine 1 mg/dL; BUN 10.2 mg/dL; Glucose 77.4 mg/dL; Resp rate 13 /min; Heart rate 67 /min; BMI 27.1 kg/m2; Weight 70.1 kg; Height 160.7 cm; HbA1c 6.4 %; Creatinine 1.8 mg/dL
+[Mrs. William Hammes | ID ca061f40] 1995-02-06: BP 116/70 mmHg; Height 160.7 cm; Weight 70.1 kg; BMI 27.1 kg/m2; Heart rate 70 /min; Resp rate 15 /min

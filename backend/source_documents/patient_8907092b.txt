@@ -1,0 +1,56 @@
+PATIENT SUMMARY | Tameika Gulgowski | ID 8907092b
+DOB: 2018-02-06 | Age: 8 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Tameika Gulgowski | ID 8907092b
+- Childhood asthma — since 2022-09-10
+
+RESOLVED CONDITIONS | Tameika Gulgowski | ID 8907092b
+- Acute viral pharyngitis — 2018-07-24 to 2018-08-01
+- Streptococcal sore throat — 2022-01-16 to 2022-06-07
+- Viral sinusitis — 2023-06-06 to 2023-06-29
+- Acute bronchitis — 2025-02-04 to 2025-02-18
+
+CURRENT MEDICATIONS | Tameika Gulgowski | ID 8907092b
+- 120 ACTUAT fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler [Flovent] — since 2026-02-03, for Childhood asthma
+- albuterol 0.417 MG/ML Inhalation Solution — since 2026-02-03, for Childhood asthma
+
+PAST MEDICATIONS | Tameika Gulgowski | ID 8907092b
+- Acetaminophen 325 MG Oral Tablet — 2025-02-04 to 2025-02-18
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet — 2023-06-06 to 2023-06-29
+- Penicillin V Potassium 250 MG Oral Tablet — 2022-01-16 to 2022-06-07
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2021-07-21 to 2025-02-12
+
+ALLERGIES | Tameika Gulgowski | ID 8907092b
+- No known allergies.
+
+LATEST VITALS & LABS | Tameika Gulgowski | ID 8907092b
+- BMI: 16 kg/m2 (2026-02-03)
+- Heart rate: 83 /min (2026-02-03)
+- Height: 120.9 cm (2026-02-03)
+- Hemoglobin: 16.3 g/dL (2023-05-23)
+- Resp rate: 14 /min (2026-02-03)
+- Weight: 23.4 kg (2026-02-03)
+- Blood pressure: 96/84 mmHg (2026-02-03)
+
+VISIT HISTORY (vitals & labs by date) | Tameika Gulgowski | ID 8907092b
+[Tameika Gulgowski | ID 8907092b] 2026-02-03: BP 96/84 mmHg; Heart rate 83 /min; Height 120.9 cm; Weight 23.4 kg; BMI 16 kg/m2; Resp rate 14 /min
+[Tameika Gulgowski | ID 8907092b] 2025-01-28: BP 90/83 mmHg; Resp rate 13 /min; Heart rate 97 /min; Weight 19.9 kg; Height 115.2 cm; BMI 15 kg/m2
+[Tameika Gulgowski | ID 8907092b] 2025-01-14: BP 100/76 mmHg; Resp rate 16 /min; Heart rate 93 /min; Weight 19.9 kg; Height 115.2 cm; BMI 15 kg/m2
+[Tameika Gulgowski | ID 8907092b] 2025-01-07: BP 100/86 mmHg; Height 115.2 cm; Weight 19.9 kg; BMI 15 kg/m2; Heart rate 89 /min; Resp rate 16 /min
+[Tameika Gulgowski | ID 8907092b] 2024-01-23: BP 98/77 mmHg; Resp rate 13 /min; Heart rate 70 /min; Weight 17.9 kg; BMI 15.1 kg/m2; Height 108.8 cm
+[Tameika Gulgowski | ID 8907092b] 2023-05-30: BP 102/86 mmHg; Height 104.4 cm; Weight 16.9 kg; BMI 15.5 kg/m2; Heart rate 95 /min; Resp rate 14 /min
+[Tameika Gulgowski | ID 8907092b] 2023-05-23: BP 98/82 mmHg; Heart rate 72 /min; Hemoglobin 16.3 g/dL; Resp rate 16 /min; Height 104.4 cm; BMI 15.5 kg/m2; Weight 16.9 kg
+[Tameika Gulgowski | ID 8907092b] 2023-01-17: BP 96/85 mmHg; Resp rate 16 /min; Heart rate 91 /min; Height 102.2 cm; BMI 15.6 kg/m2; Weight 16.3 kg
+[Tameika Gulgowski | ID 8907092b] 2022-01-11: BP 88/82 mmHg; Height 95.7 cm; Weight 13.8 kg; BMI 15.1 kg/m2; Heart rate 99 /min; Resp rate 13 /min
+[Tameika Gulgowski | ID 8907092b] 2021-07-13: BP 101/78 mmHg; Heart rate 66 /min; Resp rate 15 /min; Height 92.5 cm; BMI 14.9 kg/m2; Weight 12.8 kg
+[Tameika Gulgowski | ID 8907092b] 2021-01-12: BP 97/82 mmHg; Height 89.3 cm; Weight 12.1 kg; BMI 15.2 kg/m2; Heart rate 65 /min; Resp rate 14 /min
+[Tameika Gulgowski | ID 8907092b] 2020-07-14: BP 102/84 mmHg; Heart rate 77 /min; Resp rate 14 /min; Weight 11.4 kg; Height 85.4 cm; BMI 15.6 kg/m2
+[Tameika Gulgowski | ID 8907092b] 2020-01-14: BP 97/82 mmHg; Heart rate 97 /min; Resp rate 13 /min; Weight 10.6 kg; Height 81.4 cm
+[Tameika Gulgowski | ID 8907092b] 2019-07-16: BP 89/82 mmHg; Height 76.2 cm; Weight 9.7 kg; Heart rate 79 /min; Resp rate 12 /min
+[Tameika Gulgowski | ID 8907092b] 2019-04-16: BP 96/85 mmHg; Height 73.2 cm; Weight 9 kg; Heart rate 89 /min; Resp rate 13 /min
+[Tameika Gulgowski | ID 8907092b] 2019-01-15: BP 95/84 mmHg; Resp rate 16 /min; Heart rate 81 /min; Weight 8.3 kg; Height 69.9 cm
+[Tameika Gulgowski | ID 8907092b] 2018-10-16: BP 88/74 mmHg; Height 66.1 cm; Weight 7.3 kg; Heart rate 68 /min; Resp rate 14 /min
+[Tameika Gulgowski | ID 8907092b] 2018-07-17: BP 93/82 mmHg; Resp rate 13 /min; Height 61.5 cm; Weight 6 kg; Heart rate 71 /min
+[Tameika Gulgowski | ID 8907092b] 2018-05-15: BP 94/80 mmHg; Resp rate 14 /min; Heart rate 84 /min; Weight 5 kg; Height 57.7 cm
+[Tameika Gulgowski | ID 8907092b] 2018-03-13: BP 97/86 mmHg; Height 52.6 cm; Weight 3.8 kg; Heart rate 81 /min; Resp rate 14 /min
+[Tameika Gulgowski | ID 8907092b] 2018-02-06: BP 94/79 mmHg; Height 49.1 cm; Weight 3.2 kg; Heart rate 69 /min; Resp rate 16 /min; Hemoglobin 16.4 g/dL

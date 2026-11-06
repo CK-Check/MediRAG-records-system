@@ -1,0 +1,35 @@
+PATIENT SUMMARY | Tad Grimes | ID 1c865592
+DOB: 2025-01-17 | Age: 1 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Tad Grimes | ID 1c865592
+- None recorded.
+
+RESOLVED CONDITIONS | Tad Grimes | ID 1c865592
+- Viral sinusitis — 2025-07-04 to 2025-07-25
+
+CURRENT MEDICATIONS | Tad Grimes | ID 1c865592
+- None recorded.
+
+PAST MEDICATIONS | Tad Grimes | ID 1c865592
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet — 2025-07-04 to 2025-07-25
+
+ALLERGIES | Tad Grimes | ID 1c865592
+- No known allergies.
+
+LATEST VITALS & LABS | Tad Grimes | ID 1c865592
+- Heart rate: 87 /min (2026-06-26)
+- Height: 80 cm (2026-06-26)
+- Hemoglobin: 12.6 g/dL (2025-01-17)
+- Resp rate: 15 /min (2026-06-26)
+- Weight: 9.9 kg (2026-06-26)
+- Blood pressure: 130/83 mmHg (2026-06-26)
+
+VISIT HISTORY (vitals & labs by date) | Tad Grimes | ID 1c865592
+[Tad Grimes | ID 1c865592] 2026-06-26: BP 130/83 mmHg; Heart rate 87 /min; Height 80 cm; Weight 9.9 kg; Resp rate 15 /min
+[Tad Grimes | ID 1c865592] 2026-03-27: BP 115/80 mmHg; Height 77 cm; Weight 9.4 kg; Heart rate 72 /min; Resp rate 13 /min
+[Tad Grimes | ID 1c865592] 2025-12-26: BP 116/83 mmHg; Resp rate 12 /min; Heart rate 69 /min; Weight 8.7 kg; Height 73.6 cm
+[Tad Grimes | ID 1c865592] 2025-09-26: BP 132/80 mmHg; Height 69.7 cm; Weight 7.7 kg; Heart rate 94 /min; Resp rate 15 /min
+[Tad Grimes | ID 1c865592] 2025-06-27: BP 133/84 mmHg; Heart rate 96 /min; Resp rate 15 /min; Weight 6.4 kg; Height 64.9 cm
+[Tad Grimes | ID 1c865592] 2025-04-25: BP 133/85 mmHg; Height 60.9 cm; Weight 5.3 kg; Heart rate 94 /min; Resp rate 12 /min
+[Tad Grimes | ID 1c865592] 2025-02-21: BP 126/81 mmHg; Resp rate 15 /min; Heart rate 71 /min; Weight 3.9 kg; Height 55.5 cm
+[Tad Grimes | ID 1c865592] 2025-01-17: BP 111/80 mmHg; Height 51.5 cm; Weight 3.1 kg; Heart rate 93 /min; Resp rate 16 /min; Hemoglobin 12.6 g/dL

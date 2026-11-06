@@ -1,0 +1,56 @@
+PATIENT SUMMARY | Mr. Dominick Schuster | ID 85bea069
+DOB: 2001-04-21 | Age: 25 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Mr. Dominick Schuster | ID 85bea069
+- Chronic low back pain — since 2019-05-27
+- Chronic pain — since 2019-05-27
+- Fibromyalgia — since 2019-05-27
+- Severe anxiety (panic) — since 2024-09-07
+
+RESOLVED CONDITIONS | Mr. Dominick Schuster | ID 85bea069
+- Child attention deficit disorder — 2014-06-12 to 2019-04-27
+- Limited social contact — 2019-06-15 to 2020-08-15
+- Injury of neck — 2020-05-26 to 2020-09-08
+- Whiplash injury to neck — 2020-05-26 to 2020-09-08
+- Victim of intimate partner abuse — 2020-08-15 to 2021-08-21
+- Viral sinusitis — 2021-01-13 to 2022-04-18
+- Burn injury — 2021-09-19 to 2024-12-07
+- Partial thickness burn — 2021-09-19 to 2021-10-12
+- Gingivitis — 2023-09-02 to 2023-09-16
+- Gingival disease — 2023-09-16 to 2023-09-16
+- Primary dental caries — 2023-09-16 to 2023-09-16
+- Epidermal burn of skin — 2024-10-09 to 2024-12-07
+
+CURRENT MEDICATIONS | Mr. Dominick Schuster | ID 85bea069
+- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] — since 2025-09-13
+- Meperidine Hydrochloride 50 MG Oral Tablet — since 2021-09-19
+
+PAST MEDICATIONS | Mr. Dominick Schuster | ID 85bea069
+- Amoxicillin 250 MG Oral Capsule — 2021-09-19 to 2021-10-12
+- Ibuprofen 200 MG Oral Tablet — 2020-05-26 to 2020-09-08
+- Methylphenidate Hydrochloride 20 MG Oral Tablet — 2014-06-12 to 2019-04-27
+- Naproxen sodium 220 MG Oral Tablet — 2021-09-19 to 2024-12-07
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2020-08-29 to 2024-09-21
+
+ALLERGIES | Mr. Dominick Schuster | ID 85bea069
+- No known allergies.
+
+LATEST VITALS & LABS | Mr. Dominick Schuster | ID 85bea069
+- BMI: 26 kg/m2 (2025-09-13)
+- Heart rate: 63 /min (2025-09-13)
+- Height: 177.6 cm (2025-09-13)
+- Hemoglobin: 16.4 g/dL (2022-08-27)
+- Resp rate: 14 /min (2025-09-13)
+- Weight: 81.9 kg (2025-09-13)
+- Blood pressure: 121/85 mmHg (2025-09-13)
+
+VISIT HISTORY (vitals & labs by date) | Mr. Dominick Schuster | ID 85bea069
+[Mr. Dominick Schuster | ID 85bea069] 2025-09-13: BP 121/85 mmHg; Heart rate 63 /min; Weight 81.9 kg; Height 177.6 cm; BMI 26 kg/m2; Resp rate 14 /min
+[Mr. Dominick Schuster | ID 85bea069] 2024-09-07: BP 129/85 mmHg; Heart rate 98 /min; Height 177.6 cm; Weight 80.7 kg; BMI 25.6 kg/m2; Resp rate 15 /min
+[Mr. Dominick Schuster | ID 85bea069] 2023-09-02: BP 129/91 mmHg; Resp rate 15 /min; Heart rate 63 /min; Weight 79.7 kg; Height 177.6 cm; BMI 25.3 kg/m2
+[Mr. Dominick Schuster | ID 85bea069] 2022-08-27: BP 132/85 mmHg; Height 177.6 cm; Weight 78.2 kg; BMI 24.8 kg/m2; Heart rate 81 /min; Resp rate 13 /min; Hemoglobin 16.4 g/dL
+[Mr. Dominick Schuster | ID 85bea069] 2021-08-21: BP 121/90 mmHg; Heart rate 66 /min; Resp rate 13 /min; BMI 24.3 kg/m2; Weight 76.6 kg; Height 177.6 cm
+[Mr. Dominick Schuster | ID 85bea069] 2020-08-15: BP 124/84 mmHg; Height 177.4 cm; Weight 74.9 kg; BMI 23.8 kg/m2; Heart rate 92 /min; Resp rate 15 /min
+[Mr. Dominick Schuster | ID 85bea069] 2019-06-15: BP 132/84 mmHg; Heart rate 80 /min; Resp rate 14 /min; Height 177 cm; BMI 21.8 kg/m2; Weight 68.4 kg
+[Mr. Dominick Schuster | ID 85bea069] 2018-06-09: BP 130/93 mmHg; Resp rate 13 /min; Heart rate 63 /min; Height 176.2 cm; BMI 21.5 kg/m2; Weight 66.9 kg
+[Mr. Dominick Schuster | ID 85bea069] 2017-06-03: BP 136/86 mmHg; Height 174.6 cm; Weight 65 kg; BMI 21.3 kg/m2; Heart rate 60 /min; Resp rate 13 /min; Hemoglobin 16.8 g/dL

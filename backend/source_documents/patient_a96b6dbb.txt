@@ -1,0 +1,56 @@
+PATIENT SUMMARY | Dorsey Gleichner | ID a96b6dbb
+DOB: 2015-11-12 | Age: 10 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Dorsey Gleichner | ID a96b6dbb
+- None recorded.
+
+RESOLVED CONDITIONS | Dorsey Gleichner | ID a96b6dbb
+- Primary dental caries — 2019-04-25 to 2019-04-25
+- Fractured dental filling — 2019-10-24 to 2019-10-24
+- Acute bronchitis — 2020-01-21 to 2024-02-22
+- Acute viral pharyngitis — 2020-02-24 to 2021-01-12
+- Gingivitis — 2023-11-09 to 2024-03-07
+- Loose dental filling — 2023-11-16 to 2023-11-16
+- Child attention deficit disorder — 2023-12-14 to 2024-02-29
+- Streptococcal sore throat — 2023-12-14 to 2023-12-25
+- Viral sinusitis — 2024-09-10 to 2024-10-02
+
+CURRENT MEDICATIONS | Dorsey Gleichner | ID a96b6dbb
+- None recorded.
+
+PAST MEDICATIONS | Dorsey Gleichner | ID a96b6dbb
+- Acetaminophen 325 MG Oral Tablet — 2020-01-21 to 2024-02-22
+- Penicillin V Potassium 250 MG Oral Tablet — 2023-12-14 to 2023-12-25
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2022-11-10 to 2024-03-07
+
+ALLERGIES | Dorsey Gleichner | ID a96b6dbb
+- No known allergies.
+
+LATEST VITALS & LABS | Dorsey Gleichner | ID a96b6dbb
+- BMI: 15.5 kg/m2 (2025-11-20)
+- Heart rate: 84 /min (2025-11-20)
+- Height: 140.8 cm (2025-11-20)
+- Hemoglobin: 12.1 g/dL (2021-10-28)
+- Resp rate: 16 /min (2025-11-20)
+- Weight: 30.8 kg (2025-11-20)
+- Blood pressure: 118/74 mmHg (2025-11-20)
+
+VISIT HISTORY (vitals & labs by date) | Dorsey Gleichner | ID a96b6dbb
+[Dorsey Gleichner | ID a96b6dbb] 2025-11-20: BP 118/74 mmHg; Heart rate 84 /min; Weight 30.8 kg; Height 140.8 cm; BMI 15.5 kg/m2; Resp rate 16 /min
+[Dorsey Gleichner | ID a96b6dbb] 2024-11-14: BP 123/78 mmHg; Heart rate 94 /min; Height 135.6 cm; Weight 28.5 kg; BMI 15.5 kg/m2; Resp rate 15 /min
+[Dorsey Gleichner | ID a96b6dbb] 2024-02-22: BP 126/75 mmHg; BMI 15.8 kg/m2; Resp rate 15 /min; Heart rate 99 /min; Weight 27.3 kg; Height 131.4 cm
+[Dorsey Gleichner | ID a96b6dbb] 2024-02-15: BP 127/73 mmHg; Height 131.4 cm; Weight 27.3 kg; BMI 15.8 kg/m2; Heart rate 66 /min; Resp rate 14 /min
+[Dorsey Gleichner | ID a96b6dbb] 2023-12-21: BP 123/73 mmHg; Heart rate 71 /min; Resp rate 13 /min; BMI 16 kg/m2; Weight 27.1 kg; Height 130.4 cm
+[Dorsey Gleichner | ID a96b6dbb] 2023-12-07: BP 117/75 mmHg; Heart rate 96 /min; Height 129.9 cm; Weight 27 kg; BMI 16 kg/m2; Resp rate 14 /min
+[Dorsey Gleichner | ID a96b6dbb] 2023-11-09: BP 121/72 mmHg; Resp rate 13 /min; Heart rate 81 /min; Weight 27 kg; Height 129.4 cm; BMI 16.1 kg/m2
+[Dorsey Gleichner | ID a96b6dbb] 2022-11-03: BP 119/76 mmHg; Height 123.2 cm; Weight 24.3 kg; BMI 16 kg/m2; Heart rate 85 /min; Resp rate 13 /min
+[Dorsey Gleichner | ID a96b6dbb] 2021-10-28: BP 118/73 mmHg; Heart rate 93 /min; Hemoglobin 12.1 g/dL; Resp rate 15 /min; BMI 16 kg/m2; Weight 21.8 kg; Height 116.7 cm
+[Dorsey Gleichner | ID a96b6dbb] 2020-10-22: BP 127/73 mmHg; Height 110 cm; Weight 20.1 kg; BMI 16.6 kg/m2; Heart rate 92 /min; Resp rate 16 /min
+[Dorsey Gleichner | ID a96b6dbb] 2019-10-17: BP 125/73 mmHg; Resp rate 14 /min; Heart rate 75 /min; Weight 17.8 kg; Height 103.2 cm; BMI 16.7 kg/m2
+[Dorsey Gleichner | ID a96b6dbb] 2019-04-18: BP 118/74 mmHg; Height 99.6 cm; Weight 17.1 kg; BMI 17.2 kg/m2; Heart rate 69 /min; Resp rate 15 /min
+[Dorsey Gleichner | ID a96b6dbb] 2018-10-18: BP 120/75 mmHg; Heart rate 86 /min; Resp rate 13 /min; Height 95.8 cm; BMI 18 kg/m2; Weight 16.5 kg
+[Dorsey Gleichner | ID a96b6dbb] 2018-04-19: BP 127/73 mmHg; Resp rate 14 /min; Heart rate 69 /min; Height 91.8 cm; BMI 18.7 kg/m2; Weight 15.7 kg
+[Dorsey Gleichner | ID a96b6dbb] 2017-10-19: BP 119/77 mmHg; Height 87.9 cm; Weight 14.7 kg; Heart rate 61 /min; Resp rate 15 /min
+[Dorsey Gleichner | ID a96b6dbb] 2017-04-20: BP 117/81 mmHg; Resp rate 13 /min; Heart rate 100 /min; Weight 13.6 kg; Height 82.4 cm
+[Dorsey Gleichner | ID a96b6dbb] 2017-01-19: BP 119/76 mmHg; Height 79.3 cm; Weight 12.8 kg; Heart rate 94 /min; Resp rate 13 /min
+[Dorsey Gleichner | ID a96b6dbb] 2016-10-20: BP 116/77 mmHg; Height 75.8 cm; Weight 11.9 kg; Heart rate 88 /min; Resp rate 14 /min

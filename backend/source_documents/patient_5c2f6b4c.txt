@@ -1,0 +1,72 @@
+PATIENT SUMMARY | Claire Bashirian | ID 5c2f6b4c
+DOB: 2017-03-04 | Age: 9 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Claire Bashirian | ID 5c2f6b4c
+- Atopic dermatitis — since 2017-10-10
+- Dyspnea — since 2020-10-30
+- Fever — since 2020-10-30
+- Sputum finding — since 2020-10-30
+- Wheezing — since 2020-10-30
+- Perennial allergic rhinitis — since 2021-10-17
+
+RESOLVED CONDITIONS | Claire Bashirian | ID 5c2f6b4c
+- Otitis media — 2017-04-15 to 2017-06-10
+- Acute bronchitis — 2020-09-15 to 2020-10-01
+- Primary dental caries — 2020-10-03 to 2020-10-03
+- Suspected disease caused by Severe acute respiratory coronavirus 2 — 2020-10-30 to 2020-10-30
+- Sprain of ankle — 2022-05-31 to 2022-06-25
+- Sprain — 2022-05-31 to 2022-06-25
+- Gingivitis — 2025-03-01 to 2025-03-08
+- Gingival disease — 2025-03-08 to 2025-03-08
+
+CURRENT MEDICATIONS | Claire Bashirian | ID 5c2f6b4c
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector — since 2018-06-15
+- cetirizine hydrochloride 5 MG Oral Tablet — since 2018-06-15
+
+PAST MEDICATIONS | Claire Bashirian | ID 5c2f6b4c
+- Acetaminophen 160 MG Chewable Tablet — 2022-05-31 to 2022-06-25
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution — 2020-09-15 to 2020-10-01
+- Amoxicillin 500 MG Oral Tablet — 2017-04-15 to 2017-04-29
+- Ibuprofen 100 MG Oral Tablet — 2017-04-15 to 2017-04-29
+
+ALLERGIES | Claire Bashirian | ID 5c2f6b4c
+- Latex (environment allergy) — reaction: Allergic angioedema (MODERATE)
+- Mold (organism) (environment allergy) — reaction: Nasal discharge present (MILD)
+- House dust mite (organism) (environment allergy)
+- Animal dander (environment allergy) — reaction: Rhinoconjunctivitis (MODERATE)
+- Tree pollen (environment allergy)
+- Aspirin (medication allergy) — reaction: Abdominal pain (MODERATE)
+- Cow's milk (food allergy)
+- Wheat (food allergy) — reaction: Eruption of skin (MODERATE)
+- Fish (food allergy) — reaction: Finding of vomiting (MILD)
+
+LATEST VITALS & LABS | Claire Bashirian | ID 5c2f6b4c
+- BMI: 14.1 kg/m2 (2026-03-07)
+- Heart rate: 90 /min (2026-03-07)
+- Height: 134.9 cm (2026-03-07)
+- Hemoglobin: 15.6 g/dL (2023-02-18)
+- Resp rate: 15 /min (2026-03-07)
+- Weight: 25.7 kg (2026-03-07)
+- Blood pressure: 138/87 mmHg (2026-03-07)
+
+VISIT HISTORY (vitals & labs by date) | Claire Bashirian | ID 5c2f6b4c
+[Claire Bashirian | ID 5c2f6b4c] 2026-03-07: BP 138/87 mmHg; Heart rate 90 /min; Weight 25.7 kg; Height 134.9 cm; BMI 14.1 kg/m2; Resp rate 15 /min
+[Claire Bashirian | ID 5c2f6b4c] 2025-03-01: BP 131/86 mmHg; Heart rate 82 /min; Height 129 cm; Weight 24.3 kg; BMI 14.6 kg/m2; Resp rate 14 /min
+[Claire Bashirian | ID 5c2f6b4c] 2024-02-24: BP 130/88 mmHg; Resp rate 15 /min; Heart rate 67 /min; Weight 24.5 kg; Height 122.8 cm; BMI 16.3 kg/m2
+[Claire Bashirian | ID 5c2f6b4c] 2023-02-18: BP 131/91 mmHg; Height 115.9 cm; Weight 21 kg; BMI 15.7 kg/m2; Heart rate 81 /min; Resp rate 12 /min; Hemoglobin 15.6 g/dL
+[Claire Bashirian | ID 5c2f6b4c] 2022-02-12: BP 126/89 mmHg; Heart rate 84 /min; Resp rate 14 /min; BMI 14.6 kg/m2; Weight 17.2 kg; Height 108.7 cm
+[Claire Bashirian | ID 5c2f6b4c] 2021-02-06: BP 132/84 mmHg; Resp rate 15 /min; Heart rate 87 /min; Height 101.7 cm; BMI 14.6 kg/m2; Weight 15.1 kg
+[Claire Bashirian | ID 5c2f6b4c] 2020-10-30: BP 126/84 mmHg; Resp rate 38.7 /min; Heart rate 197.6 /min; Weight 14.2 kg
+[Claire Bashirian | ID 5c2f6b4c] 2020-09-26: BP 134/85 mmHg; Resp rate 14 /min; Heart rate 69 /min; Weight 14 kg; Height 98.8 cm; BMI 14.4 kg/m2
+[Claire Bashirian | ID 5c2f6b4c] 2020-08-08: BP 128/84 mmHg; Height 98.2 cm; Weight 13.8 kg; BMI 14.3 kg/m2; Heart rate 94 /min; Resp rate 16 /min
+[Claire Bashirian | ID 5c2f6b4c] 2020-02-08: BP 128/85 mmHg; Heart rate 83 /min; Resp rate 14 /min; BMI 14 kg/m2; Weight 12.6 kg; Height 94.7 cm
+[Claire Bashirian | ID 5c2f6b4c] 2019-08-10: BP 147/85 mmHg; Heart rate 87 /min; Height 90.6 cm; Weight 11.8 kg; BMI 14.3 kg/m2; Resp rate 13 /min
+[Claire Bashirian | ID 5c2f6b4c] 2019-02-09: BP 135/87 mmHg; Resp rate 13 /min; Heart rate 65 /min; Height 86.3 cm; Weight 11 kg
+[Claire Bashirian | ID 5c2f6b4c] 2018-08-11: BP 125/87 mmHg; Resp rate 12 /min; Heart rate 90 /min; Height 80.7 cm; Weight 10 kg
+[Claire Bashirian | ID 5c2f6b4c] 2018-05-12: BP 143/84 mmHg; Height 77.5 cm; Weight 9.3 kg; Heart rate 87 /min; Resp rate 16 /min
+[Claire Bashirian | ID 5c2f6b4c] 2018-02-10: BP 131/89 mmHg; Heart rate 88 /min; Resp rate 13 /min; Weight 8.6 kg; Height 74 cm
+[Claire Bashirian | ID 5c2f6b4c] 2017-11-11: BP 128/89 mmHg; Height 69.9 cm; Weight 7.6 kg; Heart rate 74 /min; Resp rate 14 /min
+[Claire Bashirian | ID 5c2f6b4c] 2017-08-12: BP 126/89 mmHg; Resp rate 14 /min; Height 65.1 cm; Weight 6.3 kg; Heart rate 91 /min
+[Claire Bashirian | ID 5c2f6b4c] 2017-06-10: BP 139/84 mmHg; Resp rate 13 /min; Heart rate 92 /min; Weight 5.3 kg; Height 61.1 cm
+[Claire Bashirian | ID 5c2f6b4c] 2017-04-08: BP 126/87 mmHg; Height 56 cm; Weight 4 kg; Heart rate 95 /min; Resp rate 15 /min
+[Claire Bashirian | ID 5c2f6b4c] 2017-03-04: BP 126/86 mmHg; Height 52.4 cm; Weight 3.3 kg; Heart rate 83 /min; Resp rate 15 /min; Hemoglobin 16.2 g/dL

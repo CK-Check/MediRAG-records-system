@@ -1,0 +1,43 @@
+PATIENT SUMMARY | Mr. Antwan Mayer | ID 8dfe9f82
+DOB: 2005-05-07 | Age: 21 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Mr. Antwan Mayer | ID 8dfe9f82
+- None recorded.
+
+RESOLVED CONDITIONS | Mr. Antwan Mayer | ID 8dfe9f82
+- Gingivitis — 2017-05-27 to 2022-07-09
+- Primary dental caries — 2017-06-10 to 2019-06-22
+- Severe anxiety (panic) — 2018-06-02 to 2019-06-08
+- Gingival disease — 2021-07-03 to 2021-07-04
+- Viral sinusitis — 2022-07-16 to 2026-06-05
+- Acute bronchitis — 2023-05-17 to 2023-05-30
+
+CURRENT MEDICATIONS | Mr. Antwan Mayer | ID 8dfe9f82
+- None recorded.
+
+PAST MEDICATIONS | Mr. Antwan Mayer | ID 8dfe9f82
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution — 2023-05-17 to 2023-05-30
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2017-06-10 to 2023-07-15
+
+ALLERGIES | Mr. Antwan Mayer | ID 8dfe9f82
+- No known allergies.
+
+LATEST VITALS & LABS | Mr. Antwan Mayer | ID 8dfe9f82
+- BMI: 19.8 kg/m2 (2024-07-06)
+- Heart rate: 93 /min (2024-07-06)
+- Height: 181.7 cm (2024-07-06)
+- Hemoglobin: 16 g/dL (2021-06-19)
+- Resp rate: 15 /min (2024-07-06)
+- Weight: 65.4 kg (2024-07-06)
+- Blood pressure: 122/79 mmHg (2024-07-06)
+
+VISIT HISTORY (vitals & labs by date) | Mr. Antwan Mayer | ID 8dfe9f82
+[Mr. Antwan Mayer | ID 8dfe9f82] 2024-07-06: BP 122/79 mmHg; Heart rate 93 /min; Height 181.7 cm; Weight 65.4 kg; BMI 19.8 kg/m2; Resp rate 15 /min
+[Mr. Antwan Mayer | ID 8dfe9f82] 2023-07-01: BP 126/81 mmHg; Resp rate 13 /min; Heart rate 97 /min; Weight 63.6 kg; Height 181.3 cm; BMI 19.4 kg/m2
+[Mr. Antwan Mayer | ID 8dfe9f82] 2023-05-27: BP 126/85 mmHg; Resp rate 14 /min; Heart rate 63 /min; Weight 63.6 kg; Height 181.2 cm; BMI 19.4 kg/m2
+[Mr. Antwan Mayer | ID 8dfe9f82] 2022-06-25: BP 117/83 mmHg; Height 180.5 cm; Weight 63.1 kg; BMI 19.4 kg/m2; Heart rate 81 /min; Resp rate 13 /min
+[Mr. Antwan Mayer | ID 8dfe9f82] 2021-06-19: BP 128/85 mmHg; Heart rate 78 /min; Hemoglobin 16 g/dL; Resp rate 16 /min; BMI 19.1 kg/m2; Weight 61.1 kg; Height 179 cm
+[Mr. Antwan Mayer | ID 8dfe9f82] 2020-06-13: BP 121/80 mmHg; Height 175.9 cm; Weight 56.1 kg; BMI 18.1 kg/m2; Heart rate 68 /min; Resp rate 16 /min
+[Mr. Antwan Mayer | ID 8dfe9f82] 2019-06-08: BP 130/81 mmHg; Heart rate 72 /min; Resp rate 13 /min; Weight 52.2 kg; BMI 18 kg/m2; Height 170.3 cm
+[Mr. Antwan Mayer | ID 8dfe9f82] 2018-06-02: BP 126/82 mmHg; Resp rate 14 /min; Heart rate 84 /min; Weight 47.3 kg; BMI 18 kg/m2; Height 162 cm
+[Mr. Antwan Mayer | ID 8dfe9f82] 2017-05-27: BP 131/84 mmHg; Height 154.6 cm; Weight 45.9 kg; BMI 19.2 kg/m2; Heart rate 88 /min; Resp rate 15 /min

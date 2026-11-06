@@ -1,0 +1,38 @@
+PATIENT SUMMARY | Mr. Landon Leffler | ID ebc8239a
+DOB: 1997-12-02 | Age: 28 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Mr. Landon Leffler | ID ebc8239a
+- None recorded.
+
+RESOLVED CONDITIONS | Mr. Landon Leffler | ID ebc8239a
+- Gingivitis — 2017-01-31 to 2026-02-24
+- Victim of intimate partner abuse — 2017-01-31 to 2020-02-04
+- Primary dental caries — 2017-02-14 to 2017-02-14
+- Acute bronchitis — 2020-05-26 to 2020-06-11
+- Viral sinusitis — 2023-07-24 to 2023-08-17
+
+CURRENT MEDICATIONS | Mr. Landon Leffler | ID ebc8239a
+- None recorded.
+
+PAST MEDICATIONS | Mr. Landon Leffler | ID ebc8239a
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution — 2020-05-26 to 2020-06-11
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2026-02-24 to 2026-02-24
+
+ALLERGIES | Mr. Landon Leffler | ID ebc8239a
+- No known allergies.
+
+LATEST VITALS & LABS | Mr. Landon Leffler | ID ebc8239a
+- BMI: 29.6 kg/m2 (2026-02-10)
+- Heart rate: 63 /min (2026-02-10)
+- Height: 183.4 cm (2026-02-10)
+- Hemoglobin: 15.5 g/dL (2026-02-10)
+- Resp rate: 14 /min (2026-02-10)
+- Weight: 99.5 kg (2026-02-10)
+- Blood pressure: 117/77 mmHg (2026-02-10)
+
+VISIT HISTORY (vitals & labs by date) | Mr. Landon Leffler | ID ebc8239a
+[Mr. Landon Leffler | ID ebc8239a] 2026-02-10: BP 117/77 mmHg; Resp rate 14 /min; Height 183.4 cm; Weight 99.5 kg; BMI 29.6 kg/m2; Heart rate 63 /min; Hemoglobin 15.5 g/dL
+[Mr. Landon Leffler | ID ebc8239a] 2023-02-07: BP 114/75 mmHg; Resp rate 13 /min; Heart rate 99 /min; Weight 92.4 kg; Height 183.4 cm; BMI 27.5 kg/m2
+[Mr. Landon Leffler | ID ebc8239a] 2020-05-12: BP 114/79 mmHg; Heart rate 73 /min; Resp rate 12 /min; BMI 29.2 kg/m2; Weight 98.3 kg; Height 183.4 cm
+[Mr. Landon Leffler | ID ebc8239a] 2020-02-04: BP 122/73 mmHg; Hemoglobin 15.4 g/dL; Resp rate 15 /min; Heart rate 84 /min; Weight 98.3 kg; BMI 29.2 kg/m2; Height 183.4 cm
+[Mr. Landon Leffler | ID ebc8239a] 2017-01-31: BP 110/77 mmHg; Height 183.1 cm; Weight 84.2 kg; BMI 25.1 kg/m2; Heart rate 70 /min; Resp rate 15 /min

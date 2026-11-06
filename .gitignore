@@ -1,0 +1,34 @@
+# --- Python (backend) ---
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# --- Node / Vite (frontend) ---
+node_modules/
+dist/
+*.log
+
+# --- Local settings (commit .env.example instead) ---
+.env
+.env.*
+!.env.example
+
+# --- Patient data and generated search data: never commit real records ---
+# **/source_documents/*
+# !**/source_documents/.gitkeep
+# !**/source_documents/sample_*.txt
+records/
+index/
+vectorstore/
+qdrant_data/
+
+# --- Editor, OS and packaged downloads ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.zip

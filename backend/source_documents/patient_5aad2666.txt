@@ -1,0 +1,82 @@
+PATIENT SUMMARY | Mrs. Guillermina Torres | ID 5aad2666
+DOB: 1964-06-30 | Age: 62 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Mrs. Guillermina Torres | ID 5aad2666
+- Chronic sinusitis — since 1967-06-21
+- Body mass index 30+ - obesity — since 1989-09-05
+- History of tubal ligation — since 1989-10-13
+- Hyperlipidemia — since 2008-07-15
+- Victim of intimate partner abuse — since 2008-07-15
+- Chronic low back pain — since 2014-02-06
+- Chronic pain — since 2014-02-06
+- Ischemic heart disease — since 2016-06-21
+- Abnormal findings diagnostic imaging heart+coronary circulat — since 2016-07-02
+- History of coronary artery bypass grafting — since 2016-07-11
+- Essential hypertension — since 2023-08-01
+
+RESOLVED CONDITIONS | Mrs. Guillermina Torres | ID 5aad2666
+- Gingivitis — 2018-07-03 to 2025-08-26
+- Fractured dental filling — 2022-08-09 to 2022-08-09
+- Limited social contact — 2024-08-06 to 2025-08-12
+- Injury of neck — 2025-04-09 to 2025-05-30
+- Whiplash injury to neck — 2025-04-09 to 2025-05-30
+
+CURRENT MEDICATIONS | Mrs. Guillermina Torres | ID 5aad2666
+- 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet — since 2016-06-28
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet — since 2014-04-01
+- Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] — since 2026-08-18
+- Clopidogrel 75 MG Oral Tablet — since 2016-06-28
+- Hydrochlorothiazide 25 MG Oral Tablet — since 2026-08-18, for Essential hypertension
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray — since 2016-06-28
+- Simvastatin 10 MG Oral Tablet — since 2025-08-13, for Hyperlipidemia
+- Simvastatin 20 MG Oral Tablet — since 2016-06-28
+- amLODIPine 2.5 MG Oral Tablet — since 2026-08-18, for Essential hypertension
+
+PAST MEDICATIONS | Mrs. Guillermina Torres | ID 5aad2666
+- Ibuprofen 200 MG Oral Tablet — 2025-04-09 to 2025-05-30
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2022-08-09 to 2025-08-26
+
+ALLERGIES | Mrs. Guillermina Torres | ID 5aad2666
+- No known allergies.
+
+LATEST VITALS & LABS | Mrs. Guillermina Torres | ID 5aad2666
+- BMI: 27.7 kg/m2 (2026-08-18)
+- BUN: 16.1 mg/dL (2025-08-13)
+- Creatinine: 2.9 mg/dL (2025-08-13)
+- Glucose: 64.5 mg/dL (2025-08-13)
+- HDL: 53.8 mg/dL (2026-08-18)
+- Heart rate: 65 /min (2026-08-18)
+- Height: 170.3 cm (2026-08-18)
+- Hemoglobin: 16.2 g/dL (2026-08-18)
+- LDL: 102.2 mg/dL (2026-08-18)
+- Potassium: 5.2 mmol/L (2025-08-13)
+- Resp rate: 13 /min (2026-08-18)
+- Sodium: 142.4 mmol/L (2025-08-13)
+- Total cholesterol: 184.6 mg/dL (2026-08-18)
+- Triglycerides: 143.1 mg/dL (2026-08-18)
+- Weight: 80.3 kg (2026-08-18)
+- Blood pressure: 98/61 mmHg (2026-08-18)
+
+VISIT HISTORY (vitals & labs by date) | Mrs. Guillermina Torres | ID 5aad2666
+[Mrs. Guillermina Torres | ID 5aad2666] 2026-08-18: BP 98/61 mmHg; HDL 53.8 mg/dL; Height 170.3 cm; Weight 80.3 kg; BMI 27.7 kg/m2; Heart rate 65 /min; Resp rate 13 /min; Total cholesterol 184.6 mg/dL; Triglycerides 143.1 mg/dL; LDL 102.2 mg/dL; Hemoglobin 16.2 g/dL
+[Mrs. Guillermina Torres | ID 5aad2666] 2025-08-13: LDL 139.9 mg/dL; Triglycerides 101.8 mg/dL; Total cholesterol 174.1 mg/dL; Potassium 5.2 mmol/L; HDL 44.9 mg/dL; Creatinine 2.9 mg/dL; BUN 16.1 mg/dL; Glucose 64.5 mg/dL; Sodium 142.4 mmol/L
+[Mrs. Guillermina Torres | ID 5aad2666] 2025-08-12: BP 95/57 mmHg; Resp rate 13 /min; Heart rate 62 /min; Weight 80.3 kg; BMI 27.7 kg/m2; Height 170.3 cm
+[Mrs. Guillermina Torres | ID 5aad2666] 2024-08-13: HDL 39.7 mg/dL; LDL 105.9 mg/dL; Triglycerides 125.4 mg/dL; Total cholesterol 177 mg/dL; Creatinine 2.6 mg/dL; Sodium 143.7 mmol/L; BUN 14.6 mg/dL; Glucose 76.8 mg/dL; Potassium 3.7 mmol/L
+[Mrs. Guillermina Torres | ID 5aad2666] 2024-08-06: BP 100/55 mmHg; Height 170.3 cm; Weight 80.3 kg; BMI 27.7 kg/m2; Heart rate 83 /min; Resp rate 15 /min
+[Mrs. Guillermina Torres | ID 5aad2666] 2023-12-29: BP 109/64 mmHg
+[Mrs. Guillermina Torres | ID 5aad2666] 2023-10-30: BP 99/59 mmHg
+[Mrs. Guillermina Torres | ID 5aad2666] 2023-08-31: BP 121/79 mmHg
+[Mrs. Guillermina Torres | ID 5aad2666] 2023-08-02: Glucose 69.6 mg/dL; BUN 16.6 mg/dL; Creatinine 2.7 mg/dL; Sodium 143.1 mmol/L; Total cholesterol 188.2 mg/dL; Triglycerides 193.1 mg/dL; LDL 111.3 mg/dL; HDL 71.9 mg/dL; Potassium 4.8 mmol/L
+[Mrs. Guillermina Torres | ID 5aad2666] 2023-08-01: BP 143/89 mmHg; Total cholesterol 174.6 mg/dL; HDL 52.6 mg/dL; LDL 98.4 mg/dL; Triglycerides 118.3 mg/dL; Resp rate 12 /min; Heart rate 94 /min; Height 170.3 cm; BMI 27.7 kg/m2; Weight 80.3 kg
+[Mrs. Guillermina Torres | ID 5aad2666] 2022-08-02: HDL 38.8 mg/dL; LDL 97.5 mg/dL; Triglycerides 195.3 mg/dL; Total cholesterol 205.4 mg/dL; Creatinine 2.6 mg/dL; Sodium 141.3 mmol/L; BUN 17.9 mg/dL; Glucose 78.3 mg/dL; Potassium 4.5 mmol/L
+[Mrs. Guillermina Torres | ID 5aad2666] 2022-07-26: BP 89/62 mmHg; Height 170.3 cm; Weight 80.3 kg; BMI 27.7 kg/m2; Heart rate 71 /min; Resp rate 15 /min
+[Mrs. Guillermina Torres | ID 5aad2666] 2021-08-02: Total cholesterol 191.1 mg/dL; HDL 73.1 mg/dL; Triglycerides 114.6 mg/dL; Potassium 4.4 mmol/L; LDL 119.8 mg/dL; Creatinine 2.5 mg/dL; Glucose 79.7 mg/dL; Sodium 138.5 mmol/L; BUN 11.5 mg/dL
+[Mrs. Guillermina Torres | ID 5aad2666] 2021-07-20: BP 83/51 mmHg; Height 170.3 cm; Weight 80.3 kg; BMI 27.7 kg/m2; Heart rate 87 /min; Resp rate 13 /min; Hemoglobin 12.4 g/dL
+[Mrs. Guillermina Torres | ID 5aad2666] 2020-08-02: HDL 38 mg/dL; Triglycerides 123.2 mg/dL; Total cholesterol 173.3 mg/dL; Potassium 5 mmol/L; LDL 128.6 mg/dL; Creatinine 3.5 mg/dL; BUN 18.3 mg/dL; Glucose 72.5 mg/dL; Sodium 138.6 mmol/L
+[Mrs. Guillermina Torres | ID 5aad2666] 2020-07-14: BP 85/58 mmHg; Resp rate 15 /min; HDL 58.8 mg/dL; Triglycerides 149.4 mg/dL; Total cholesterol 184.1 mg/dL; Heart rate 99 /min; LDL 95.5 mg/dL; BMI 27.7 kg/m2; Weight 80.3 kg; Height 170.3 cm
+[Mrs. Guillermina Torres | ID 5aad2666] 2019-08-03: HDL 75.4 mg/dL; LDL 105.4 mg/dL; Triglycerides 157.3 mg/dL; Potassium 5 mmol/L; Total cholesterol 175.1 mg/dL; Creatinine 2.8 mg/dL; BUN 10.9 mg/dL; Glucose 78.1 mg/dL; Sodium 140.2 mmol/L
+[Mrs. Guillermina Torres | ID 5aad2666] 2019-07-09: BP 83/62 mmHg; Resp rate 13 /min; Heart rate 70 /min; Weight 80.3 kg; BMI 27.7 kg/m2; Height 170.3 cm
+[Mrs. Guillermina Torres | ID 5aad2666] 2018-08-03: HDL 35.4 mg/dL; LDL 136.8 mg/dL; Triglycerides 100.4 mg/dL; Total cholesterol 174.7 mg/dL; Glucose 81.1 mg/dL; Sodium 136.1 mmol/L; Creatinine 2.8 mg/dL; BUN 17.3 mg/dL; Potassium 4.8 mmol/L
+[Mrs. Guillermina Torres | ID 5aad2666] 2018-07-03: BP 88/57 mmHg; Height 170.3 cm; Weight 80.3 kg; BMI 27.7 kg/m2; Heart rate 83 /min; Resp rate 16 /min
+[Mrs. Guillermina Torres | ID 5aad2666] 2017-08-03: LDL 137.3 mg/dL; Triglycerides 162.6 mg/dL; Total cholesterol 204.4 mg/dL; Potassium 4.5 mmol/L; HDL 74.3 mg/dL; Creatinine 3 mg/dL; BUN 14.9 mg/dL; Glucose 94.4 mg/dL; Sodium 138.8 mmol/L
+[Mrs. Guillermina Torres | ID 5aad2666] 2017-06-27: BP 86/61 mmHg; Height 170.3 cm; Weight 80.3 kg; BMI 27.7 kg/m2; Heart rate 84 /min; Resp rate 13 /min; Total cholesterol 137.5 mg/dL; Triglycerides 106.9 mg/dL; LDL 53.3 mg/dL; HDL 62.8 mg/dL

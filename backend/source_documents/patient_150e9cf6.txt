@@ -1,0 +1,74 @@
+PATIENT SUMMARY | Mr. Lon Lind | ID 150e9cf6
+DOB: 1975-07-09 | Age: 51 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Mr. Lon Lind | ID 150e9cf6
+- Body mass index 30+ - obesity — since 2012-09-26
+- Chronic pain — since 2014-01-31
+- Transformed migraine — since 2014-01-31
+- Anemia — since 2015-04-01
+- Prediabetes — since 2015-04-01
+- Loss of teeth — since 2022-03-30
+
+RESOLVED CONDITIONS | Mr. Lon Lind | ID 150e9cf6
+- Victim of intimate partner abuse — 2006-09-20 to 2026-06-03
+- Acute bronchitis — 2017-06-10 to 2022-03-12
+- Gingivitis — 2017-06-21 to 2022-05-25
+- Limited social contact — 2017-06-21 to 2025-05-28
+- Primary dental caries — 2017-07-05 to 2017-07-05
+- Streptococcal sore throat — 2019-03-31 to 2019-04-10
+- Leaking dental filling — 2019-05-08 to 2019-05-08
+- Acute infective cystitis — 2021-09-26 to 2021-09-27
+- Infection of tooth — 2022-03-23 to 2022-03-23
+- Tongue tie — 2022-03-30 to 2022-04-13
+- Acute viral pharyngitis — 2022-04-06 to 2022-04-16
+- Viral sinusitis — 2023-12-19 to 2024-01-06
+- Injury of neck — 2025-09-13 to 2025-11-30
+- Whiplash injury to neck — 2025-09-13 to 2025-11-30
+- Gingival disease — 2026-06-17 to 2026-06-17
+
+CURRENT MEDICATIONS | Mr. Lon Lind | ID 150e9cf6
+- Acetaminophen 325 MG Oral Tablet [Tylenol] — since 2026-06-03
+- tramadol hydrochloride 50 MG Oral Tablet — since 2026-06-03
+
+PAST MEDICATIONS | Mr. Lon Lind | ID 150e9cf6
+- Acetaminophen 325 MG Oral Tablet — 2017-06-10 to 2025-11-30
+- Penicillin V Potassium 500 MG Oral Tablet — 2019-03-31 to 2019-04-10
+- ciprofloxacin 500 MG Oral Tablet — 2021-09-26 to 2021-09-27
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2017-07-05 to 2026-06-17
+
+ALLERGIES | Mr. Lon Lind | ID 150e9cf6
+- No known allergies.
+
+LATEST VITALS & LABS | Mr. Lon Lind | ID 150e9cf6
+- BMI: 27.7 kg/m2 (2026-06-03)
+- BUN: 12.8 mg/dL (2026-06-03)
+- Creatinine: 1 mg/dL (2026-06-03)
+- Glucose: 91.7 mg/dL (2026-06-03)
+- HDL: 48.1 mg/dL (2025-05-28)
+- HbA1c: 5.9 % (2026-06-03)
+- Heart rate: 84 /min (2026-06-03)
+- Height: 173.5 cm (2026-06-03)
+- Hemoglobin: 13.8 g/dL (2025-05-28)
+- LDL: 53.3 mg/dL (2025-05-28)
+- Potassium: 3.7 mmol/L (2026-06-03)
+- Resp rate: 13 /min (2026-06-03)
+- Sodium: 137.1 mmol/L (2026-06-03)
+- Total cholesterol: 122.5 mg/dL (2025-05-28)
+- Triglycerides: 106.1 mg/dL (2025-05-28)
+- Weight: 83.3 kg (2026-06-03)
+- Blood pressure: 127/81 mmHg (2026-06-03)
+
+VISIT HISTORY (vitals & labs by date) | Mr. Lon Lind | ID 150e9cf6
+[Mr. Lon Lind | ID 150e9cf6] 2026-06-03: BP 127/81 mmHg; Creatinine 1 mg/dL; BUN 12.8 mg/dL; Glucose 91.7 mg/dL; Resp rate 13 /min; Heart rate 84 /min; Weight 83.3 kg; BMI 27.7 kg/m2; Height 173.5 cm; HbA1c 5.9 %; Sodium 137.1 mmol/L; Potassium 3.7 mmol/L
+[Mr. Lon Lind | ID 150e9cf6] 2025-05-28: BP 122/78 mmHg; Creatinine 1.1 mg/dL; HDL 48.1 mg/dL; LDL 53.3 mg/dL; Triglycerides 106.1 mg/dL; Total cholesterol 122.5 mg/dL; Potassium 3.9 mmol/L; Hemoglobin 13.8 g/dL; Sodium 142.6 mmol/L; BUN 10.2 mg/dL; Resp rate 14 /min; Heart rate 99 /min; BMI 27.7 kg/m2; Weight 83.3 kg; Height 173.5 cm; HbA1c 6.2 %; Glucose 67.3 mg/dL
+[Mr. Lon Lind | ID 150e9cf6] 2024-05-22: BP 119/84 mmHg; Potassium 4.8 mmol/L; Sodium 143.5 mmol/L; Creatinine 1.1 mg/dL; BUN 8.6 mg/dL; Glucose 73.3 mg/dL; Heart rate 90 /min; Resp rate 14 /min; BMI 27.7 kg/m2; Weight 83.3 kg; Height 173.5 cm; HbA1c 6 %
+[Mr. Lon Lind | ID 150e9cf6] 2023-05-17: BP 128/78 mmHg; Resp rate 13 /min; Sodium 140.6 mmol/L; Creatinine 1.2 mg/dL; BUN 17.4 mg/dL; Glucose 81 mg/dL; Heart rate 91 /min; Potassium 4.7 mmol/L; BMI 27.7 kg/m2; Weight 83.3 kg; Height 173.5 cm; HbA1c 6.2 %
+[Mr. Lon Lind | ID 150e9cf6] 2022-05-11: BP 132/76 mmHg; Creatinine 1.1 mg/dL; HDL 41.2 mg/dL; LDL 134.9 mg/dL; Triglycerides 105.6 mg/dL; Total cholesterol 197.2 mg/dL; Potassium 4.4 mmol/L; Sodium 139.1 mmol/L; BUN 16 mg/dL; BMI 27.7 kg/m2; Resp rate 15 /min; Heart rate 68 /min; Weight 83.3 kg; Height 173.5 cm; HbA1c 5.9 %; Glucose 68 mg/dL
+[Mr. Lon Lind | ID 150e9cf6] 2022-03-09: BP 126/80 mmHg; Potassium 3.8 mmol/L; Sodium 140.7 mmol/L; Creatinine 1.1 mg/dL; Glucose 88.5 mg/dL; Resp rate 15 /min; Heart rate 97 /min; BUN 14.4 mg/dL; BMI 27.7 kg/m2; Weight 83.3 kg; Height 173.5 cm; HbA1c 6.3 %
+[Mr. Lon Lind | ID 150e9cf6] 2021-09-26: BP 137/72 mmHg; Heart rate 70 /min; Resp rate 15.4 /min
+[Mr. Lon Lind | ID 150e9cf6] 2021-05-05: BP 118/79 mmHg; Sodium 143.5 mmol/L; Creatinine 1.2 mg/dL; BUN 12.2 mg/dL; Glucose 66.8 mg/dL; Resp rate 13 /min; Heart rate 87 /min; BMI 28.3 kg/m2; Weight 85.1 kg; Height 173.5 cm; HbA1c 6 %; Potassium 4.2 mmol/L
+[Mr. Lon Lind | ID 150e9cf6] 2020-04-29: BP 129/79 mmHg; Hemoglobin 13.9 g/dL; Potassium 4.2 mmol/L; Sodium 137.9 mmol/L; Creatinine 1.2 mg/dL; Glucose 95.5 mg/dL; Resp rate 14 /min; BUN 8.2 mg/dL; BMI 30 kg/m2; Weight 90.4 kg; Height 173.5 cm; HbA1c 6 %; Heart rate 70 /min
+[Mr. Lon Lind | ID 150e9cf6] 2019-04-24: BP 124/79 mmHg; Creatinine 1.5 mg/dL; HDL 57.6 mg/dL; LDL 114.7 mg/dL; Triglycerides 110.2 mg/dL; Total cholesterol 194.4 mg/dL; Potassium 4.7 mmol/L; Sodium 139.1 mmol/L; BUN 17.6 mg/dL; Weight 90.4 kg; Resp rate 13 /min; Heart rate 77 /min; BMI 30 kg/m2; Height 173.5 cm; HbA1c 6.1 %; Glucose 77.2 mg/dL
+[Mr. Lon Lind | ID 150e9cf6] 2018-04-18: BP 120/72 mmHg; Potassium 4.2 mmol/L; Sodium 136.8 mmol/L; Creatinine 1.5 mg/dL; BUN 18.1 mg/dL; Glucose 95.4 mg/dL; Heart rate 83 /min; Resp rate 14 /min; BMI 30 kg/m2; Weight 90.4 kg; Height 173.5 cm; HbA1c 5.9 %
+[Mr. Lon Lind | ID 150e9cf6] 2017-06-21: BP 122/84 mmHg; Resp rate 15 /min; Potassium 4.4 mmol/L; Sodium 136.9 mmol/L; BUN 7 mg/dL; Glucose 79.1 mg/dL; Heart rate 96 /min; Creatinine 1.2 mg/dL; BMI 30 kg/m2; Weight 90.4 kg; Height 173.5 cm; HbA1c 6.3 %
+[Mr. Lon Lind | ID 150e9cf6] 2017-04-12: BP 124/81 mmHg; HbA1c 6.1 %; Potassium 4.1 mmol/L; Sodium 143.2 mmol/L; Creatinine 1.3 mg/dL; Glucose 87 mg/dL; Resp rate 13 /min; BUN 8.9 mg/dL; BMI 30 kg/m2; Weight 90.4 kg; Height 173.5 cm; Heart rate 67 /min

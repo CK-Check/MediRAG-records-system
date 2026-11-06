@@ -1,0 +1,60 @@
+PATIENT SUMMARY | Mr. Lupe Ratke | ID ee3b0e2d
+DOB: 1994-07-27 | Age: 32 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Mr. Lupe Ratke | ID ee3b0e2d
+- Chronic sinusitis — since 1999-10-17
+- Limited social contact — since 2016-09-28
+- Diabetes mellitus type 2 — since 2022-10-05
+- Nonproliferative diabetic retinopathy due to type II diabetes mellitus — since 2022-10-26
+- Anemia — since 2025-10-08
+- Hypertriglyceridemia — since 2025-10-08
+- Metabolic syndrome X — since 2025-10-08
+
+RESOLVED CONDITIONS | Mr. Lupe Ratke | ID ee3b0e2d
+- Unhealthy alcohol drinking behavior — 2019-10-02 to 2022-10-05
+- Primary dental caries — 2019-10-16 to 2019-10-16
+- Laceration - injury — 2021-05-01 to 2021-05-18
+- Laceration of hand — 2021-05-01 to 2021-05-18
+- Gingivitis — 2022-10-05 to 2025-11-12
+- Viral sinusitis — 2022-11-02 to 2022-11-11
+- Acute viral pharyngitis — 2024-09-18 to 2024-09-28
+- Acute bronchitis — 2025-10-14 to 2025-10-23
+
+CURRENT MEDICATIONS | Mr. Lupe Ratke | ID ee3b0e2d
+- Vitamin B12 5 MG/ML Injectable Solution — since 2025-10-15
+
+PAST MEDICATIONS | Mr. Lupe Ratke | ID ee3b0e2d
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution — 2025-10-14 to 2025-10-23
+- Acetaminophen 325 MG Oral Tablet — 2021-05-01 to 2021-05-18
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2019-10-16 to 2019-10-16
+- tropicamide 5 MG/ML Ophthalmic Solution — 2022-10-26 to 2025-10-10
+
+ALLERGIES | Mr. Lupe Ratke | ID ee3b0e2d
+- No known allergies.
+
+LATEST VITALS & LABS | Mr. Lupe Ratke | ID ee3b0e2d
+- BMI: 28.4 kg/m2 (2025-10-29)
+- BUN: 16.2 mg/dL (2025-10-29)
+- Creatinine: 1.3 mg/dL (2025-10-29)
+- Glucose: 113.1 mg/dL (2025-10-29)
+- HDL: 43.6 mg/dL (2025-10-29)
+- HbA1c: 7.1 % (2025-10-29)
+- Heart rate: 82 /min (2025-10-29)
+- Height: 176.8 cm (2025-10-29)
+- Hemoglobin: 10.3 g/dL (2025-10-15)
+- LDL: 139.2 mg/dL (2025-10-29)
+- Potassium: 5.1 mmol/L (2025-10-29)
+- Resp rate: 16 /min (2025-10-29)
+- Sodium: 140.9 mmol/L (2025-10-29)
+- Total cholesterol: 216.8 mg/dL (2025-10-29)
+- Triglycerides: 169.8 mg/dL (2025-10-29)
+- Weight: 88.8 kg (2025-10-29)
+- Blood pressure: 121/81 mmHg (2025-10-29)
+
+VISIT HISTORY (vitals & labs by date) | Mr. Lupe Ratke | ID ee3b0e2d
+[Mr. Lupe Ratke | ID ee3b0e2d] 2025-10-29: BP 121/81 mmHg; Triglycerides 169.8 mg/dL; Total cholesterol 216.8 mg/dL; Potassium 5.1 mmol/L; Sodium 140.9 mmol/L; Creatinine 1.3 mg/dL; BUN 16.2 mg/dL; Glucose 113.1 mg/dL; BMI 28.4 kg/m2; Heart rate 82 /min; Weight 88.8 kg; Height 176.8 cm; HbA1c 7.1 %; LDL 139.2 mg/dL; Resp rate 16 /min; HDL 43.6 mg/dL
+[Mr. Lupe Ratke | ID ee3b0e2d] 2025-10-15: Hemoglobin 10.3 g/dL
+[Mr. Lupe Ratke | ID ee3b0e2d] 2025-10-08: BP 128/85 mmHg; Creatinine 1.3 mg/dL; HDL 42.2 mg/dL; LDL 154.7 mg/dL; Triglycerides 170.6 mg/dL; Total cholesterol 231 mg/dL; Potassium 5.1 mmol/L; Sodium 141.1 mmol/L; BUN 11.8 mg/dL; HbA1c 7.1 %; Resp rate 15 /min; Heart rate 84 /min; BMI 28.4 kg/m2; Weight 88.8 kg; Height 176.8 cm; Glucose 122.8 mg/dL
+[Mr. Lupe Ratke | ID ee3b0e2d] 2022-10-05: BP 119/84 mmHg; Hemoglobin 12.9 g/dL; HDL 60.6 mg/dL; LDL 92.5 mg/dL; Triglycerides 135.5 mg/dL; Total cholesterol 180.2 mg/dL; Potassium 4.7 mmol/L; Sodium 141.2 mmol/L; Creatinine 1.3 mg/dL; BUN 10.4 mg/dL; Resp rate 16 /min; Heart rate 63 /min; BMI 26.7 kg/m2; Weight 83.4 kg; Height 176.8 cm; HbA1c 6.6 %; Glucose 71 mg/dL
+[Mr. Lupe Ratke | ID ee3b0e2d] 2019-10-02: BP 120/89 mmHg; Resp rate 16 /min; Heart rate 82 /min; BMI 25.2 kg/m2; Weight 78.9 kg; Height 176.8 cm
+[Mr. Lupe Ratke | ID ee3b0e2d] 2016-09-28: BP 115/82 mmHg; Height 176.8 cm; Weight 74.6 kg; BMI 23.9 kg/m2; Heart rate 68 /min; Resp rate 13 /min; Hemoglobin 17.3 g/dL

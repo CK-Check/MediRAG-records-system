@@ -1,0 +1,43 @@
+PATIENT SUMMARY | Corey Leffler | ID 82371fa2
+DOB: 2023-07-15 | Age: 3 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Corey Leffler | ID 82371fa2
+- None recorded.
+
+RESOLVED CONDITIONS | Corey Leffler | ID 82371fa2
+- Otitis media — 2023-08-26 to 2023-10-21
+- Fracture of bone — 2025-04-29 to 2025-07-30
+- Fracture of clavicle — 2025-04-29 to 2025-07-30
+- Sprain of wrist — 2026-06-24 to 2026-07-31
+- Sprain — 2026-06-24 to 2026-07-31
+
+CURRENT MEDICATIONS | Corey Leffler | ID 82371fa2
+- None recorded.
+
+PAST MEDICATIONS | Corey Leffler | ID 82371fa2
+- Ibuprofen 100 MG Oral Tablet — 2023-08-26 to 2026-07-31
+
+ALLERGIES | Corey Leffler | ID 82371fa2
+- No known allergies.
+
+LATEST VITALS & LABS | Corey Leffler | ID 82371fa2
+- BMI: 17.1 kg/m2 (2026-06-20)
+- Heart rate: 97 /min (2026-06-20)
+- Height: 93.1 cm (2026-06-20)
+- Hemoglobin: 14.4 g/dL (2023-07-15)
+- Resp rate: 13 /min (2026-06-20)
+- Weight: 14.9 kg (2026-06-20)
+- Blood pressure: 105/74 mmHg (2026-06-20)
+
+VISIT HISTORY (vitals & labs by date) | Corey Leffler | ID 82371fa2
+[Corey Leffler | ID 82371fa2] 2026-06-20: BP 105/74 mmHg; Heart rate 97 /min; Weight 14.9 kg; Height 93.1 cm; BMI 17.1 kg/m2; Resp rate 13 /min
+[Corey Leffler | ID 82371fa2] 2025-12-20: BP 110/80 mmHg; Height 89.1 cm; Weight 13.5 kg; BMI 17 kg/m2; Heart rate 94 /min; Resp rate 13 /min
+[Corey Leffler | ID 82371fa2] 2025-06-21: BP 100/71 mmHg; Resp rate 13 /min; Heart rate 77 /min; Height 84.9 cm; Weight 12.4 kg
+[Corey Leffler | ID 82371fa2] 2024-12-21: BP 101/75 mmHg; Height 79.4 cm; Weight 11.3 kg; Heart rate 83 /min; Resp rate 13 /min
+[Corey Leffler | ID 82371fa2] 2024-09-21: BP 115/73 mmHg; Heart rate 75 /min; Resp rate 14 /min; Weight 10.6 kg; Height 76.3 cm
+[Corey Leffler | ID 82371fa2] 2024-06-22: BP 103/71 mmHg; Resp rate 14 /min; Heart rate 76 /min; Weight 9.7 kg; Height 72.8 cm
+[Corey Leffler | ID 82371fa2] 2024-03-23: BP 107/73 mmHg; Height 68.8 cm; Weight 8.7 kg; Heart rate 92 /min; Resp rate 14 /min
+[Corey Leffler | ID 82371fa2] 2023-12-23: BP 105/70 mmHg; Resp rate 15 /min; Height 64.1 cm; Weight 7.3 kg; Heart rate 65 /min
+[Corey Leffler | ID 82371fa2] 2023-10-21: BP 103/74 mmHg; Resp rate 13 /min; Heart rate 61 /min; Weight 6.1 kg; Height 60.2 cm
+[Corey Leffler | ID 82371fa2] 2023-08-19: BP 115/72 mmHg; Height 55 cm; Weight 4.8 kg; Heart rate 88 /min; Resp rate 15 /min
+[Corey Leffler | ID 82371fa2] 2023-07-15: BP 106/73 mmHg; Height 51.4 cm; Weight 4 kg; Heart rate 68 /min; Resp rate 14 /min; Hemoglobin 14.4 g/dL

@@ -1,0 +1,60 @@
+PATIENT SUMMARY | Nikia Larkin | ID 559bdfd2
+DOB: 2019-06-29 | Age: 7 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Nikia Larkin | ID 559bdfd2
+- Atopic dermatitis — since 2020-05-03
+- Perennial allergic rhinitis with seasonal variation — since 2021-09-25
+- Childhood asthma — since 2023-01-18
+
+RESOLVED CONDITIONS | Nikia Larkin | ID 559bdfd2
+- Streptococcal sore throat — 2022-01-29 to 2022-02-10
+- Primary dental caries — 2022-12-10 to 2022-12-10
+- Otitis media — 2023-07-08 to 2024-06-08
+
+CURRENT MEDICATIONS | Nikia Larkin | ID 559bdfd2
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] — since 2026-06-20, for Childhood asthma
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector — since 2020-05-18
+- albuterol 0.83 MG/ML Inhalation Solution — since 2026-06-20, for Childhood asthma
+- cetirizine hydrochloride 5 MG Oral Tablet — since 2020-05-18
+
+PAST MEDICATIONS | Nikia Larkin | ID 559bdfd2
+- Amoxicillin 500 MG Oral Tablet — 2023-07-08 to 2023-07-22
+- Ibuprofen 100 MG Oral Tablet — 2023-07-08 to 2023-07-22
+- Penicillin V Potassium 250 MG Oral Tablet — 2022-01-29 to 2022-02-10
+
+ALLERGIES | Nikia Larkin | ID 559bdfd2
+- Mold (organism) (environment allergy) — reaction: Cutaneous hypersensitivity (MILD)
+- House dust mite (organism) (environment allergy)
+- Animal dander (environment allergy) — reaction: Eruption of skin (MILD)
+- Grass pollen (environment allergy)
+- Tree pollen (environment allergy)
+- Shellfish (food allergy) — reaction: Anaphylaxis (SEVERE)
+- Tree nut (food allergy) — reaction: Anaphylaxis (SEVERE)
+
+LATEST VITALS & LABS | Nikia Larkin | ID 559bdfd2
+- BMI: 16.4 kg/m2 (2026-06-20)
+- Heart rate: 93 /min (2026-06-20)
+- Height: 126.4 cm (2026-06-20)
+- Hemoglobin: 14.4 g/dL (2025-06-14)
+- Resp rate: 14 /min (2026-06-20)
+- Weight: 26.2 kg (2026-06-20)
+- Blood pressure: 107/84 mmHg (2026-06-20)
+
+VISIT HISTORY (vitals & labs by date) | Nikia Larkin | ID 559bdfd2
+[Nikia Larkin | ID 559bdfd2] 2026-06-20: BP 107/84 mmHg; Heart rate 93 /min; Height 126.4 cm; Weight 26.2 kg; BMI 16.4 kg/m2; Resp rate 14 /min
+[Nikia Larkin | ID 559bdfd2] 2025-06-14: BP 107/81 mmHg; Hemoglobin 14.4 g/dL; Resp rate 13 /min; Heart rate 88 /min; BMI 16.9 kg/m2; Weight 24 kg; Height 119.2 cm
+[Nikia Larkin | ID 559bdfd2] 2024-06-08: BP 108/83 mmHg; Height 111.8 cm; Weight 20.7 kg; BMI 16.6 kg/m2; Heart rate 68 /min; Resp rate 13 /min
+[Nikia Larkin | ID 559bdfd2] 2023-06-03: BP 112/80 mmHg; Heart rate 75 /min; Resp rate 14 /min; BMI 16.5 kg/m2; Weight 18.1 kg; Height 104.5 cm
+[Nikia Larkin | ID 559bdfd2] 2022-12-03: BP 106/81 mmHg; Height 100.9 cm; Weight 16.9 kg; BMI 16.6 kg/m2; Heart rate 93 /min; Resp rate 14 /min
+[Nikia Larkin | ID 559bdfd2] 2022-06-04: BP 115/86 mmHg; Resp rate 14 /min; Heart rate 70 /min; BMI 17.7 kg/m2; Weight 16.7 kg; Height 97.3 cm
+[Nikia Larkin | ID 559bdfd2] 2022-01-22: BP 116/80 mmHg; Height 93.8 cm; Weight 16.5 kg; BMI 18.7 kg/m2; Heart rate 99 /min; Resp rate 13 /min
+[Nikia Larkin | ID 559bdfd2] 2021-12-04: BP 111/83 mmHg; Heart rate 88 /min; Resp rate 12 /min; Height 93 cm; BMI 18.9 kg/m2; Weight 16.3 kg
+[Nikia Larkin | ID 559bdfd2] 2021-06-05: BP 118/79 mmHg; Heart rate 91 /min; Height 88.5 cm; Weight 14.9 kg; Resp rate 15 /min
+[Nikia Larkin | ID 559bdfd2] 2020-12-05: BP 113/81 mmHg; Height 82.7 cm; Weight 13.4 kg; Heart rate 65 /min; Resp rate 13 /min
+[Nikia Larkin | ID 559bdfd2] 2020-09-05: BP 108/78 mmHg; Resp rate 13 /min; Heart rate 79 /min; Weight 12.5 kg; Height 79.4 cm
+[Nikia Larkin | ID 559bdfd2] 2020-06-06: BP 109/80 mmHg; Height 75.8 cm; Weight 11.5 kg; Heart rate 68 /min; Resp rate 15 /min
+[Nikia Larkin | ID 559bdfd2] 2020-03-07: BP 109/88 mmHg; Resp rate 14 /min; Heart rate 90 /min; Weight 10.2 kg; Height 71.7 cm
+[Nikia Larkin | ID 559bdfd2] 2019-12-07: BP 106/82 mmHg; Height 66.7 cm; Weight 8.6 kg; Heart rate 95 /min; Resp rate 15 /min
+[Nikia Larkin | ID 559bdfd2] 2019-10-05: BP 107/83 mmHg; Resp rate 14 /min; Heart rate 61 /min; Height 62.7 cm; Weight 7.3 kg
+[Nikia Larkin | ID 559bdfd2] 2019-08-03: BP 111/78 mmHg; Height 57.5 cm; Weight 5.7 kg; Heart rate 82 /min; Resp rate 15 /min
+[Nikia Larkin | ID 559bdfd2] 2019-06-29: BP 116/79 mmHg; Height 54 cm; Weight 4.7 kg; Heart rate 72 /min; Resp rate 13 /min; Hemoglobin 16.5 g/dL

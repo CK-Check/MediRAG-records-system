@@ -1,0 +1,77 @@
+PATIENT SUMMARY | Mrs. Louie Hegmann | ID 17861819
+DOB: 1960-08-08 | Age: 66 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Mrs. Louie Hegmann | ID 17861819
+- Anemia — since 1982-10-11
+- Prediabetes — since 1982-10-11
+- Body mass index 30+ - obesity — since 1988-10-17
+- Past pregnancy history of miscarriage — since 1993-09-17
+- Essential hypertension — since 2012-08-20
+- Metabolic syndrome X — since 2013-08-26
+- Ischemic heart disease — since 2023-10-23
+- Abnormal findings diagnostic imaging heart+coronary circulat — since 2023-11-02
+
+RESOLVED CONDITIONS | Mrs. Louie Hegmann | ID 17861819
+- Limited social contact — 2015-09-07 to 2018-09-24
+- Victim of intimate partner abuse — 2016-09-12 to 2024-10-28
+- Fracture of bone — 2018-12-14 to 2019-04-08
+- Fracture of forearm — 2018-12-14 to 2019-04-08
+- Gingivitis — 2019-09-30 to 2025-11-17
+- Viral sinusitis — 2021-04-05 to 2025-04-25
+- Gingival disease — 2021-10-25 to 2025-11-17
+- Acute bronchitis — 2024-04-28 to 2024-05-08
+- Acute viral pharyngitis — 2025-07-28 to 2025-08-09
+
+CURRENT MEDICATIONS | Mrs. Louie Hegmann | ID 17861819
+- 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet — since 2023-10-30
+- Clopidogrel 75 MG Oral Tablet — since 2023-10-30
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray — since 2023-10-30
+- Simvastatin 20 MG Oral Tablet — since 2023-10-30
+- Vitamin B12 5 MG/ML Injectable Solution — since 1982-10-18
+- amLODIPine 2.5 MG Oral Tablet — since 2025-11-03, for Essential hypertension
+- lisinopril 10 MG Oral Tablet — since 2025-11-03, for Essential hypertension
+
+PAST MEDICATIONS | Mrs. Louie Hegmann | ID 17861819
+- Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet — 2018-12-14 to 2019-01-27
+- Acetaminophen 325 MG Oral Tablet — 2024-04-28 to 2024-05-08
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet — 2022-11-25 to 2022-12-06
+- Ibuprofen 200 MG Oral Tablet — 2018-12-14 to 2019-04-08
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2019-10-14 to 2025-11-17
+
+ALLERGIES | Mrs. Louie Hegmann | ID 17861819
+- No known allergies.
+
+LATEST VITALS & LABS | Mrs. Louie Hegmann | ID 17861819
+- BMI: 28.2 kg/m2 (2025-11-03)
+- BUN: 10.7 mg/dL (2025-11-03)
+- Creatinine: 0.9 mg/dL (2025-11-03)
+- Glucose: 72 mg/dL (2025-11-03)
+- HDL: 51.9 mg/dL (2025-11-03)
+- HbA1c: 5.8 % (2025-11-03)
+- Heart rate: 91 /min (2025-11-03)
+- Height: 165.1 cm (2025-11-03)
+- Hemoglobin: 16.1 g/dL (2021-10-11)
+- LDL: 81.4 mg/dL (2025-11-03)
+- Potassium: 3.8 mmol/L (2025-11-03)
+- Resp rate: 15 /min (2025-11-03)
+- Sodium: 138.3 mmol/L (2025-11-03)
+- Total cholesterol: 158.2 mg/dL (2025-11-03)
+- Triglycerides: 124.6 mg/dL (2025-11-03)
+- Weight: 76.9 kg (2025-11-03)
+- Blood pressure: 106/74 mmHg (2025-11-03)
+
+VISIT HISTORY (vitals & labs by date) | Mrs. Louie Hegmann | ID 17861819
+[Mrs. Louie Hegmann | ID 17861819] 2025-11-03: BP 106/74 mmHg; Triglycerides 124.6 mg/dL; Total cholesterol 158.2 mg/dL; Potassium 3.8 mmol/L; Sodium 138.3 mmol/L; Creatinine 0.9 mg/dL; BUN 10.7 mg/dL; Glucose 72 mg/dL; Heart rate 91 /min; BMI 28.2 kg/m2; Weight 76.9 kg; Height 165.1 cm; HbA1c 5.8 %; LDL 81.4 mg/dL; Resp rate 15 /min; HDL 51.9 mg/dL
+[Mrs. Louie Hegmann | ID 17861819] 2025-07-21: BP 112/70 mmHg; Potassium 4.9 mmol/L; Sodium 142.3 mmol/L; Creatinine 0.8 mg/dL; BUN 13.9 mg/dL; Glucose 94.5 mg/dL; Resp rate 13 /min; BMI 28.2 kg/m2; Weight 76.9 kg; Height 165.1 cm; HbA1c 6.1 %; Heart rate 70 /min
+[Mrs. Louie Hegmann | ID 17861819] 2024-10-28: BP 112/73 mmHg; Potassium 4.9 mmol/L; Sodium 142.8 mmol/L; Creatinine 0.7 mg/dL; BUN 11.6 mg/dL; Glucose 78 mg/dL; Resp rate 15 /min; BMI 28.2 kg/m2; Weight 76.9 kg; Height 165.1 cm; HbA1c 6.2 %; Heart rate 71 /min
+[Mrs. Louie Hegmann | ID 17861819] 2024-05-13: HbA1c 6.1 %
+[Mrs. Louie Hegmann | ID 17861819] 2024-05-06: BP 110/74 mmHg; Resp rate 15 /min; Potassium 4.3 mmol/L; Sodium 136.4 mmol/L; BUN 18.3 mg/dL; Glucose 79.8 mg/dL; Heart rate 69 /min; Creatinine 0.9 mg/dL; BMI 28.2 kg/m2; Weight 76.9 kg; Height 165.1 cm; HbA1c 6.2 %
+[Mrs. Louie Hegmann | ID 17861819] 2023-10-23: BP 120/87 mmHg; Potassium 3.9 mmol/L; Sodium 142.1 mmol/L; Creatinine 0.7 mg/dL; BUN 8.4 mg/dL; Glucose 74.6 mg/dL; Resp rate 13 /min; BMI 28.2 kg/m2; Weight 76.9 kg; Height 165.1 cm; HbA1c 6.3 %; Heart rate 68 /min
+[Mrs. Louie Hegmann | ID 17861819] 2022-10-17: BP 120/91 mmHg; HDL 61.8 mg/dL; LDL 127.8 mg/dL; Total cholesterol 217.8 mg/dL; Potassium 3.9 mmol/L; Sodium 137.8 mmol/L; Creatinine 0.7 mg/dL; BUN 17.8 mg/dL; Glucose 66 mg/dL; Triglycerides 141.2 mg/dL; Heart rate 69 /min; BMI 28.2 kg/m2; Weight 76.9 kg; Height 165.1 cm; HbA1c 6 %; Resp rate 15 /min
+[Mrs. Louie Hegmann | ID 17861819] 2021-10-11: BP 125/87 mmHg; Glucose 82.4 mg/dL; Hemoglobin 16.1 g/dL; Potassium 5.1 mmol/L; Sodium 139 mmol/L; Creatinine 1 mg/dL; BUN 12.9 mg/dL; Resp rate 15 /min; Heart rate 72 /min; BMI 28.2 kg/m2; Weight 76.9 kg; Height 165.1 cm; HbA1c 6.3 %
+[Mrs. Louie Hegmann | ID 17861819] 2021-03-29: BP 117/90 mmHg; Potassium 4.8 mmol/L; Sodium 140.9 mmol/L; Creatinine 0.7 mg/dL; BUN 17.7 mg/dL; Glucose 65.7 mg/dL; Resp rate 15 /min; Heart rate 70 /min; BMI 28.2 kg/m2; Weight 76.9 kg; Height 165.1 cm; HbA1c 5.9 %
+[Mrs. Louie Hegmann | ID 17861819] 2020-10-05: BP 119/85 mmHg; Sodium 140.2 mmol/L; Creatinine 0.9 mg/dL; BUN 7.1 mg/dL; Glucose 86.9 mg/dL; Resp rate 14 /min; Heart rate 83 /min; Potassium 4.5 mmol/L; BMI 28.2 kg/m2; Weight 76.9 kg; Height 165.1 cm; HbA1c 6 %
+[Mrs. Louie Hegmann | ID 17861819] 2019-09-30: BP 123/83 mmHg; Potassium 4.2 mmol/L; Sodium 136 mmol/L; Total cholesterol 186 mg/dL; Creatinine 0.7 mg/dL; LDL 111 mg/dL; HDL 53.5 mg/dL; Triglycerides 107.6 mg/dL; BUN 13.8 mg/dL; Weight 76.9 kg; Resp rate 13 /min; Heart rate 62 /min; BMI 28.2 kg/m2; Glucose 81.1 mg/dL; Height 165.1 cm; HbA1c 6.2 %
+[Mrs. Louie Hegmann | ID 17861819] 2018-09-24: BP 125/89 mmHg; Resp rate 12 /min; Potassium 3.8 mmol/L; Sodium 137.2 mmol/L; Creatinine 0.7 mg/dL; BUN 8.7 mg/dL; Glucose 80.1 mg/dL; BMI 28.2 kg/m2; Weight 76.9 kg; Height 165.1 cm; HbA1c 6.3 %; Heart rate 95 /min
+[Mrs. Louie Hegmann | ID 17861819] 2017-09-18: BP 120/88 mmHg; Glucose 96.2 mg/dL; Potassium 4 mmol/L; Sodium 142 mmol/L; Creatinine 0.8 mg/dL; BUN 12.9 mg/dL; Heart rate 93 /min; Resp rate 13 /min; BMI 28.2 kg/m2; Weight 76.9 kg; Height 165.1 cm; HbA1c 5.8 %
+[Mrs. Louie Hegmann | ID 17861819] 2016-09-12: BP 124/83 mmHg; HbA1c 6.3 %; Hemoglobin 13.7 g/dL; HDL 54.6 mg/dL; LDL 111.7 mg/dL; Triglycerides 109.7 mg/dL; Total cholesterol 188.2 mg/dL; Potassium 5.1 mmol/L; Creatinine 0.8 mg/dL; BUN 15.3 mg/dL; Sodium 136.7 mmol/L; Resp rate 14 /min; Heart rate 71 /min; BMI 28.2 kg/m2; Weight 76.9 kg; Height 165.1 cm; Glucose 99.8 mg/dL

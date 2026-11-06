@@ -1,0 +1,66 @@
+PATIENT SUMMARY | Quyen Von | ID 96f7b1cb
+DOB: 2015-08-01 | Age: 11 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Quyen Von | ID 96f7b1cb
+- Childhood asthma — since 2018-03-03
+- Perennial allergic rhinitis — since 2018-05-26
+
+RESOLVED CONDITIONS | Quyen Von | ID 96f7b1cb
+- Fracture of bone — 2016-09-10 to 2016-11-09
+- Fracture of forearm — 2016-09-10 to 2016-11-09
+- Acute allergic reaction — 2016-11-19 to 2016-11-19
+- Primary dental caries — 2019-01-12 to 2019-01-13
+- Otitis media — 2021-01-31 to 2021-07-17
+- Viral sinusitis — 2022-04-30 to 2022-05-26
+- Gingival disease — 2023-08-05 to 2023-08-06
+- Gingivitis — 2024-08-03 to 2024-08-10
+
+CURRENT MEDICATIONS | Quyen Von | ID 96f7b1cb
+- 120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler [Flovent] — since 2026-08-15, for Childhood asthma
+- Loratadine 5 MG Chewable Tablet — since 2016-12-09
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector — since 2016-12-09
+- albuterol 0.21 MG/ML Inhalation Solution — since 2026-08-15, for Childhood asthma
+
+PAST MEDICATIONS | Quyen Von | ID 96f7b1cb
+- Acetaminophen 160 MG Chewable Tablet — 2021-01-31 to 2021-02-14
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet — 2022-04-30 to 2022-05-26
+- Amoxicillin 500 MG Oral Tablet — 2021-01-31 to 2021-02-14
+- Ibuprofen 100 MG Oral Tablet — 2016-09-10 to 2016-11-09
+- predniSONE 5 MG Oral Tablet — 2016-11-19 to 2016-11-19
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2019-01-13 to 2024-08-10
+
+ALLERGIES | Quyen Von | ID 96f7b1cb
+- Mold (organism) (environment allergy)
+- House dust mite (organism) (environment allergy)
+- Animal dander (environment allergy) — reaction: Rhinoconjunctivitis (MODERATE)
+- Grass pollen (environment allergy)
+- Tree pollen (environment allergy)
+- Sulfamethoxazole / Trimethoprim (medication allergy) — reaction: Wheal (MODERATE)
+- Eggs (edible) (food allergy)
+
+LATEST VITALS & LABS | Quyen Von | ID 96f7b1cb
+- BMI: 16.8 kg/m2 (2026-08-15)
+- Heart rate: 70 /min (2026-08-15)
+- Height: 153.3 cm (2026-08-15)
+- Hemoglobin: 13.8 g/dL (2026-08-15)
+- Resp rate: 14 /min (2026-08-15)
+- Weight: 39.5 kg (2026-08-15)
+- Blood pressure: 98/75 mmHg (2026-08-15)
+
+VISIT HISTORY (vitals & labs by date) | Quyen Von | ID 96f7b1cb
+[Quyen Von | ID 96f7b1cb] 2026-08-15: BP 98/75 mmHg; Heart rate 70 /min; Resp rate 14 /min; Weight 39.5 kg; Height 153.3 cm; BMI 16.8 kg/m2; Hemoglobin 13.8 g/dL
+[Quyen Von | ID 96f7b1cb] 2025-08-09: BP 94/78 mmHg; Height 146.6 cm; Weight 35 kg; BMI 16.3 kg/m2; Heart rate 91 /min; Resp rate 15 /min
+[Quyen Von | ID 96f7b1cb] 2024-08-03: BP 94/73 mmHg; Heart rate 90 /min; Resp rate 16 /min; Weight 29.7 kg; Height 141 cm; BMI 15 kg/m2
+[Quyen Von | ID 96f7b1cb] 2023-07-29: BP 97/79 mmHg; Resp rate 14 /min; Heart rate 61 /min; BMI 14.6 kg/m2; Weight 26.5 kg; Height 134.8 cm
+[Quyen Von | ID 96f7b1cb] 2022-07-23: BP 86/79 mmHg; Height 128.2 cm; Weight 22.8 kg; BMI 13.9 kg/m2; Heart rate 88 /min; Resp rate 14 /min
+[Quyen Von | ID 96f7b1cb] 2022-04-16: BP 97/73 mmHg; Resp rate 14 /min; Heart rate 90 /min; BMI 13.9 kg/m2; Weight 22.2 kg; Height 126.4 cm
+[Quyen Von | ID 96f7b1cb] 2022-04-09: BP 99/74 mmHg; Height 126.4 cm; Weight 22.2 kg; BMI 13.9 kg/m2; Heart rate 76 /min; Resp rate 12 /min
+[Quyen Von | ID 96f7b1cb] 2021-07-17: BP 96/76 mmHg; Hemoglobin 16.4 g/dL; Resp rate 14 /min; Heart rate 93 /min; BMI 13.9 kg/m2; Weight 20.4 kg; Height 120.9 cm
+[Quyen Von | ID 96f7b1cb] 2020-07-11: BP 97/70 mmHg; Height 113.4 cm; Weight 18.5 kg; BMI 14.4 kg/m2; Heart rate 71 /min; Resp rate 12 /min
+[Quyen Von | ID 96f7b1cb] 2019-07-06: BP 100/79 mmHg; Resp rate 16 /min; Heart rate 63 /min; BMI 15.2 kg/m2; Weight 17.1 kg; Height 105.9 cm
+[Quyen Von | ID 96f7b1cb] 2019-01-05: BP 97/79 mmHg; Height 102.2 cm; Weight 16.2 kg; BMI 15.5 kg/m2; Heart rate 89 /min; Resp rate 14 /min
+[Quyen Von | ID 96f7b1cb] 2018-07-07: BP 98/78 mmHg; Heart rate 76 /min; Resp rate 14 /min; BMI 15.6 kg/m2; Weight 15.1 kg; Height 98.5 cm
+[Quyen Von | ID 96f7b1cb] 2018-01-06: BP 95/80 mmHg; Height 94.2 cm; Weight 13.8 kg; BMI 15.6 kg/m2; Heart rate 71 /min; Resp rate 14 /min
+[Quyen Von | ID 96f7b1cb] 2017-07-08: BP 90/80 mmHg; Resp rate 15 /min; Heart rate 97 /min; Weight 12.7 kg; Height 89.6 cm
+[Quyen Von | ID 96f7b1cb] 2017-01-07: BP 94/77 mmHg; Height 83.7 cm; Weight 11.5 kg; Heart rate 62 /min; Resp rate 14 /min
+[Quyen Von | ID 96f7b1cb] 2016-10-08: BP 100/78 mmHg; Height 80.4 cm; Weight 10.8 kg; Heart rate 93 /min; Resp rate 15 /min

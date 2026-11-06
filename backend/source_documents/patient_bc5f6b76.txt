@@ -1,0 +1,77 @@
+PATIENT SUMMARY | Mrs. Eusebia Schultz | ID bc5f6b76
+DOB: 1928-06-15 | Age: 98 | Gender: F | Status: Deceased
+
+ACTIVE CONDITIONS | Mrs. Eusebia Schultz | ID bc5f6b76
+- Prediabetes — since 1947-08-15
+- Anemia — since 1953-08-21
+- History of tubal ligation — since 1953-11-05
+- History of appendectomy — since 1965-02-10
+- Essential hypertension — since 1972-06-30
+- Malignant neoplasm of breast — since 1976-01-09
+- Pulmonary emphysema — since 1987-06-19
+- Diabetes mellitus type 2 — since 1994-11-04
+- Hypertriglyceridemia — since 1995-11-10
+- Metabolic syndrome X — since 1995-11-10
+- Chronic kidney disease stage 1 — since 1996-10-18
+- Disorder of kidney due to diabetes mellitus — since 1996-10-18
+- Victim of intimate partner abuse — since 1996-11-22
+
+RESOLVED CONDITIONS | Mrs. Eusebia Schultz | ID bc5f6b76
+- Gingivitis — 1987-06-19 to 1994-11-18
+- Acute viral pharyngitis — 1988-09-13 to 1996-11-25
+- Viral sinusitis — 1989-10-20 to 1993-11-03
+- Sprain of ankle — 1993-04-23 to 1993-06-02
+- Sprain — 1993-04-23 to 1993-06-02
+- Limited social contact — 1996-11-01 to 1996-11-22
+
+CURRENT MEDICATIONS | Mrs. Eusebia Schultz | ID bc5f6b76
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler — since 1996-11-29, for Pulmonary emphysema
+- albuterol 5 MG/ML Inhalation Solution — since 1996-11-29, for Pulmonary emphysema
+- insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] — since 1996-11-29, for Diabetes mellitus type 2
+- lisinopril 10 MG Oral Tablet — since 1996-11-29, for Essential hypertension
+
+PAST MEDICATIONS | Mrs. Eusebia Schultz | ID bc5f6b76
+- Acetaminophen 325 MG Oral Tablet — 1993-04-23 to 1993-06-02
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet — 1991-08-03 to 1991-08-24
+- Meperidine Hydrochloride 50 MG Oral Tablet — 1979-03-25 to 1990-04-08
+- sodium fluoride 0.0272 MG/MG Oral Gel — 1987-07-03 to 1994-11-18
+
+ALLERGIES | Mrs. Eusebia Schultz | ID bc5f6b76
+- No known allergies.
+
+LATEST VITALS & LABS | Mrs. Eusebia Schultz | ID bc5f6b76
+- BMI: 27.7 kg/m2 (1996-11-22)
+- BUN: 18.6 mg/dL (1996-11-22)
+- Creatinine: 1.5 mg/dL (1996-11-29)
+- Glucose: 118.4 mg/dL (1996-11-22)
+- HDL: 51.2 mg/dL (1996-11-22)
+- HbA1c: 3.9 % (1996-11-29)
+- Heart rate: 100 /min (1996-11-22)
+- Height: 157.4 cm (1996-11-22)
+- Hemoglobin: 14.1 g/dL (1993-10-29)
+- LDL: 110.5 mg/dL (1996-11-22)
+- Potassium: 4.4 mmol/L (1996-11-22)
+- Resp rate: 14 /min (1996-11-22)
+- Sodium: 140.8 mmol/L (1996-11-22)
+- Total cholesterol: 200.9 mg/dL (1996-11-22)
+- Triglycerides: 196.6 mg/dL (1996-11-22)
+- Weight: 68.5 kg (1996-11-22)
+- Blood pressure: 143/86 mmHg (1996-11-22)
+
+VISIT HISTORY (vitals & labs by date) | Mrs. Eusebia Schultz | ID bc5f6b76
+[Mrs. Eusebia Schultz | ID bc5f6b76] 1996-11-29: Creatinine 1.5 mg/dL; HbA1c 3.9 %
+[Mrs. Eusebia Schultz | ID bc5f6b76] 1996-11-22: BP 143/86 mmHg; Creatinine 0.8 mg/dL; Sodium 140.8 mmol/L; Potassium 4.4 mmol/L; HDL 51.2 mg/dL; Triglycerides 196.6 mg/dL; LDL 110.5 mg/dL; BUN 18.6 mg/dL; Total cholesterol 200.9 mg/dL; Glucose 118.4 mg/dL; Heart rate 100 /min; BMI 27.7 kg/m2; Weight 68.5 kg; Height 157.4 cm; HbA1c 3.9 %; Creatinine 1.5 mg/dL; Resp rate 14 /min
+[Mrs. Eusebia Schultz | ID bc5f6b76] 1996-11-01: BP 152/87 mmHg; LDL 127.3 mg/dL; Triglycerides 195.8 mg/dL; Total cholesterol 218 mg/dL; HDL 51.6 mg/dL; Sodium 140 mmol/L; Creatinine 0.8 mg/dL; BUN 10.8 mg/dL; Glucose 114.2 mg/dL; Potassium 4.1 mmol/L; Heart rate 86 /min; BMI 27.7 kg/m2; Weight 68.5 kg; Height 157.4 cm; HbA1c 3.9 %; Creatinine 1.5 mg/dL; Resp rate 13 /min
+[Mrs. Eusebia Schultz | ID bc5f6b76] 1996-10-25: HbA1c 3.9 %; Creatinine 1.5 mg/dL
+[Mrs. Eusebia Schultz | ID bc5f6b76] 1996-10-18: BP 149/89 mmHg; Glucose 114.3 mg/dL; Triglycerides 170.6 mg/dL; Total cholesterol 213.1 mg/dL; Potassium 3.9 mmol/L; Sodium 141.5 mmol/L; Creatinine 0.7 mg/dL; BUN 15.1 mg/dL; HDL 42.7 mg/dL; LDL 136.3 mg/dL; Resp rate 13 /min; BMI 27.7 kg/m2; Weight 68.5 kg; Height 157.4 cm; HbA1c 6.9 %; Creatinine 1.7 mg/dL; Heart rate 91 /min
+[Mrs. Eusebia Schultz | ID bc5f6b76] 1995-11-10: BP 162/91 mmHg; Creatinine 0.6 mg/dL; HDL 42.8 mg/dL; LDL 129.6 mg/dL; Triglycerides 173.2 mg/dL; Total cholesterol 207 mg/dL; Potassium 5.1 mmol/L; Sodium 136.7 mmol/L; BUN 9.2 mg/dL; BMI 27.7 kg/m2; Resp rate 15 /min; Glucose 101.3 mg/dL; HbA1c 6.9 %; Weight 68.5 kg; Height 157.4 cm; Heart rate 70 /min
+[Mrs. Eusebia Schultz | ID bc5f6b76] 1994-11-04: BP 147/89 mmHg; HDL 55.7 mg/dL; LDL 81.9 mg/dL; Triglycerides 122.3 mg/dL; Total cholesterol 162 mg/dL; Potassium 4.3 mmol/L; Creatinine 0.6 mg/dL; BUN 7.2 mg/dL; Glucose 81.3 mg/dL; Sodium 143.2 mmol/L; Heart rate 65 /min; BMI 27.7 kg/m2; Weight 68.5 kg; Height 157.4 cm; HbA1c 6.9 %; Resp rate 16 /min
+[Mrs. Eusebia Schultz | ID bc5f6b76] 1993-10-29: BP 145/87 mmHg; Glucose 90.8 mg/dL; Hemoglobin 14.1 g/dL; Potassium 5.2 mmol/L; Sodium 138 mmol/L; Creatinine 0.6 mg/dL; BUN 10.2 mg/dL; Resp rate 15 /min; Weight 68.5 kg; HbA1c 6.2 %; Height 157.4 cm; Heart rate 98 /min; BMI 27.7 kg/m2
+[Mrs. Eusebia Schultz | ID bc5f6b76] 1992-10-23: BP 146/92 mmHg; Potassium 4.6 mmol/L; Sodium 137.5 mmol/L; Creatinine 0.7 mg/dL; BUN 15.2 mg/dL; Glucose 99.1 mg/dL; Resp rate 14 /min; BMI 27.7 kg/m2; Weight 68.5 kg; Height 157.4 cm; HbA1c 6.1 %; Heart rate 72 /min
+[Mrs. Eusebia Schultz | ID bc5f6b76] 1991-10-18: BP 156/87 mmHg; LDL 105.1 mg/dL; Triglycerides 101.3 mg/dL; Total cholesterol 185.5 mg/dL; Potassium 4.6 mmol/L; Sodium 142.9 mmol/L; Creatinine 0.9 mg/dL; BUN 16.7 mg/dL; HDL 60.2 mg/dL; Glucose 71.9 mg/dL; Heart rate 83 /min; BMI 27.7 kg/m2; Weight 68.5 kg; Height 157.4 cm; HbA1c 6.3 %; Resp rate 12 /min
+[Mrs. Eusebia Schultz | ID bc5f6b76] 1990-10-12: BP 150/87 mmHg; Glucose 76.3 mg/dL; Potassium 4.2 mmol/L; Sodium 143 mmol/L; Creatinine 0.6 mg/dL; BUN 20 mg/dL; Resp rate 13 /min; Heart rate 88 /min; BMI 27.7 kg/m2; Weight 68.5 kg; Height 157.4 cm; HbA1c 5.9 %
+[Mrs. Eusebia Schultz | ID bc5f6b76] 1989-10-13: HbA1c 6 %
+[Mrs. Eusebia Schultz | ID bc5f6b76] 1989-10-06: BP 151/93 mmHg; Resp rate 14 /min; Potassium 4.8 mmol/L; Sodium 141 mmol/L; Creatinine 0.9 mg/dL; Glucose 96.9 mg/dL; Heart rate 84 /min; BUN 13.1 mg/dL; HbA1c 5.9 %; Height 157.4 cm; BMI 27.7 kg/m2; Weight 68.5 kg
+[Mrs. Eusebia Schultz | ID bc5f6b76] 1988-09-30: BP 148/91 mmHg; Hemoglobin 12.6 g/dL; HDL 59.9 mg/dL; LDL 45.7 mg/dL; Triglycerides 135.2 mg/dL; Total cholesterol 132.7 mg/dL; Potassium 4.8 mmol/L; Sodium 142.3 mmol/L; Creatinine 0.8 mg/dL; BUN 19.7 mg/dL; Glucose 85.7 mg/dL; Heart rate 91 /min; BMI 27.7 kg/m2; Weight 68.5 kg; Height 157.4 cm; HbA1c 6.2 %; Resp rate 12 /min
+[Mrs. Eusebia Schultz | ID bc5f6b76] 1987-09-25: BP 144/86 mmHg; Resp rate 13 /min; Potassium 4.2 mmol/L; Creatinine 0.7 mg/dL; BUN 7.5 mg/dL; Glucose 83.2 mg/dL; Heart rate 90 /min; Sodium 137.9 mmol/L; BMI 27.7 kg/m2; Weight 68.5 kg; Height 157.4 cm; HbA1c 5.9 %
+[Mrs. Eusebia Schultz | ID bc5f6b76] 1987-06-19: BP 151/89 mmHg; HbA1c 6.2 %; Potassium 3.7 mmol/L; Sodium 140.9 mmol/L; Creatinine 0.7 mg/dL; Glucose 84.4 mg/dL; Resp rate 16 /min; BUN 11.4 mg/dL; BMI 27.7 kg/m2; Weight 68.5 kg; Height 157.4 cm; Heart rate 70 /min

@@ -1,0 +1,49 @@
+PATIENT SUMMARY | Titus Ankunding | ID fcadc183
+DOB: 2011-08-05 | Age: 15 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Titus Ankunding | ID fcadc183
+- None recorded.
+
+RESOLVED CONDITIONS | Titus Ankunding | ID fcadc183
+- Acute viral pharyngitis — 2019-11-15 to 2026-04-04
+- Primary dental caries — 2020-08-14 to 2020-08-14
+- Gingivitis — 2021-08-13 to 2024-09-13
+- Dental filling lost — 2022-08-26 to 2022-08-26
+- Gingival disease — 2022-08-26 to 2022-08-26
+- Burn injury — 2023-07-03 to 2023-08-11
+- Epidermal burn of skin — 2023-07-03 to 2023-08-11
+- Acute bronchitis — 2026-05-22 to 2026-06-02
+
+CURRENT MEDICATIONS | Titus Ankunding | ID fcadc183
+- None recorded.
+
+PAST MEDICATIONS | Titus Ankunding | ID fcadc183
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution — 2026-05-22 to 2026-06-02
+- Ibuprofen 100 MG Oral Tablet — 2023-07-03 to 2023-08-11
+- Penicillin V Potassium 250 MG Oral Tablet — 2026-03-27 to 2026-04-04
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2021-08-20 to 2024-09-13
+
+ALLERGIES | Titus Ankunding | ID fcadc183
+- No known allergies.
+
+LATEST VITALS & LABS | Titus Ankunding | ID fcadc183
+- BMI: 18 kg/m2 (2026-05-15)
+- Heart rate: 62 /min (2026-05-15)
+- Height: 170.1 cm (2026-05-15)
+- Hemoglobin: 14.5 g/dL (2022-08-19)
+- Resp rate: 12 /min (2026-05-15)
+- Weight: 52 kg (2026-05-15)
+- Blood pressure: 132/80 mmHg (2026-05-15)
+
+VISIT HISTORY (vitals & labs by date) | Titus Ankunding | ID fcadc183
+[Titus Ankunding | ID fcadc183] 2026-05-15: BP 132/80 mmHg; Heart rate 62 /min; Height 170.1 cm; Weight 52 kg; BMI 18 kg/m2; Resp rate 12 /min
+[Titus Ankunding | ID fcadc183] 2025-09-05: BP 132/80 mmHg; Resp rate 15 /min; Heart rate 84 /min; Weight 47.9 kg; Height 165.9 cm; BMI 17.4 kg/m2
+[Titus Ankunding | ID fcadc183] 2024-08-30: BP 137/77 mmHg; Heart rate 61 /min; Resp rate 12 /min; Weight 41.4 kg; BMI 16.7 kg/m2; Height 157.6 cm
+[Titus Ankunding | ID fcadc183] 2023-08-25: BP 134/85 mmHg; Height 150.4 cm; Weight 37.2 kg; BMI 16.4 kg/m2; Heart rate 74 /min; Resp rate 15 /min
+[Titus Ankunding | ID fcadc183] 2022-08-19: BP 134/79 mmHg; Resp rate 15 /min; Heart rate 88 /min; Hemoglobin 14.5 g/dL; BMI 16.2 kg/m2; Weight 33.9 kg; Height 144.8 cm
+[Titus Ankunding | ID fcadc183] 2021-08-13: BP 131/77 mmHg; Heart rate 66 /min; Resp rate 16 /min; BMI 15.6 kg/m2; Weight 30.4 kg; Height 139.8 cm
+[Titus Ankunding | ID fcadc183] 2020-08-07: BP 129/79 mmHg; Heart rate 98 /min; Height 134.7 cm; Weight 27.1 kg; BMI 15 kg/m2; Resp rate 16 /min
+[Titus Ankunding | ID fcadc183] 2019-11-01: BP 145/76 mmHg; Resp rate 15 /min; Heart rate 99 /min; Weight 26.5 kg; Height 130 cm; BMI 15.7 kg/m2
+[Titus Ankunding | ID fcadc183] 2019-08-02: BP 131/80 mmHg; Heart rate 98 /min; Resp rate 14 /min; Weight 25.6 kg; Height 128.5 cm; BMI 15.5 kg/m2
+[Titus Ankunding | ID fcadc183] 2018-07-27: BP 135/78 mmHg; Resp rate 16 /min; Heart rate 79 /min; Height 122.3 cm; BMI 15.1 kg/m2; Weight 22.6 kg
+[Titus Ankunding | ID fcadc183] 2017-07-21: BP 130/78 mmHg; Height 115.9 cm; Weight 21 kg; BMI 15.6 kg/m2; Heart rate 69 /min; Resp rate 12 /min; Hemoglobin 12.4 g/dL

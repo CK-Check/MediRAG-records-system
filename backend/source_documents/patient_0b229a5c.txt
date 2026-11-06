@@ -1,0 +1,50 @@
+PATIENT SUMMARY | Sara Smith | ID 0b229a5c
+DOB: 2018-01-25 | Age: 8 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Sara Smith | ID 0b229a5c
+- None recorded.
+
+RESOLVED CONDITIONS | Sara Smith | ID 0b229a5c
+- Acute viral pharyngitis — 2018-05-10 to 2024-02-16
+- Concussion injury of brain — 2020-11-07 to 2021-01-07
+- Concussion with no loss of consciousness — 2020-11-07 to 2021-01-07
+- Otitis media — 2023-01-12 to 2024-01-11
+
+CURRENT MEDICATIONS | Sara Smith | ID 0b229a5c
+- None recorded.
+
+PAST MEDICATIONS | Sara Smith | ID 0b229a5c
+- Amoxicillin 500 MG Oral Tablet — 2023-01-12 to 2023-01-26
+- Ibuprofen 100 MG Oral Tablet — 2023-01-12 to 2023-01-26
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2026-01-29 to 2026-01-29
+
+ALLERGIES | Sara Smith | ID 0b229a5c
+- No known allergies.
+
+LATEST VITALS & LABS | Sara Smith | ID 0b229a5c
+- BMI: 16.2 kg/m2 (2026-01-22)
+- Heart rate: 87 /min (2026-01-22)
+- Height: 129.8 cm (2026-01-22)
+- Hemoglobin: 14.2 g/dL (2024-01-11)
+- Resp rate: 14 /min (2026-01-22)
+- Weight: 27.3 kg (2026-01-22)
+- Blood pressure: 120/85 mmHg (2026-01-22)
+
+VISIT HISTORY (vitals & labs by date) | Sara Smith | ID 0b229a5c
+[Sara Smith | ID 0b229a5c] 2026-01-22: BP 120/85 mmHg; Heart rate 87 /min; Height 129.8 cm; Weight 27.3 kg; BMI 16.2 kg/m2; Resp rate 14 /min
+[Sara Smith | ID 0b229a5c] 2025-01-16: BP 119/83 mmHg; Resp rate 14 /min; Heart rate 60 /min; Weight 25.1 kg; BMI 16.4 kg/m2; Height 123.5 cm
+[Sara Smith | ID 0b229a5c] 2024-01-11: BP 114/85 mmHg; Height 116.6 cm; Weight 20.8 kg; BMI 15.3 kg/m2; Heart rate 65 /min; Resp rate 14 /min; Hemoglobin 14.2 g/dL
+[Sara Smith | ID 0b229a5c] 2023-01-05: BP 130/81 mmHg; Heart rate 67 /min; Resp rate 12 /min; BMI 15 kg/m2; Weight 17.9 kg; Height 109.3 cm
+[Sara Smith | ID 0b229a5c] 2021-12-30: BP 121/80 mmHg; Height 102.3 cm; Weight 15.8 kg; BMI 15.1 kg/m2; Heart rate 88 /min; Resp rate 13 /min
+[Sara Smith | ID 0b229a5c] 2021-07-01: BP 124/81 mmHg; Resp rate 16 /min; Heart rate 97 /min; BMI 15.1 kg/m2; Weight 14.7 kg; Height 98.8 cm
+[Sara Smith | ID 0b229a5c] 2020-12-31: BP 129/85 mmHg; Height 95.3 cm; Weight 14.2 kg; BMI 15.6 kg/m2; Heart rate 65 /min; Resp rate 12 /min
+[Sara Smith | ID 0b229a5c] 2020-07-02: BP 126/85 mmHg; Heart rate 93 /min; Resp rate 15 /min; Height 91.1 cm; BMI 17 kg/m2; Weight 14.1 kg
+[Sara Smith | ID 0b229a5c] 2020-01-02: BP 128/79 mmHg; Heart rate 80 /min; Height 86.8 cm; Weight 13.4 kg; Resp rate 14 /min
+[Sara Smith | ID 0b229a5c] 2019-07-04: BP 125/79 mmHg; Height 81.1 cm; Weight 12.1 kg; Heart rate 81 /min; Resp rate 12 /min
+[Sara Smith | ID 0b229a5c] 2019-04-04: BP 129/83 mmHg; Resp rate 14 /min; Heart rate 69 /min; Weight 11.4 kg; Height 77.9 cm
+[Sara Smith | ID 0b229a5c] 2019-01-03: BP 129/86 mmHg; Height 74.4 cm; Weight 10.4 kg; Heart rate 66 /min; Resp rate 15 /min
+[Sara Smith | ID 0b229a5c] 2018-10-04: BP 120/84 mmHg; Resp rate 15 /min; Heart rate 98 /min; Weight 9.3 kg; Height 70.3 cm
+[Sara Smith | ID 0b229a5c] 2018-07-05: BP 122/84 mmHg; Height 65.5 cm; Weight 7.8 kg; Heart rate 74 /min; Resp rate 13 /min
+[Sara Smith | ID 0b229a5c] 2018-05-03: BP 127/83 mmHg; Resp rate 15 /min; Heart rate 73 /min; Height 61.5 cm; Weight 6.6 kg
+[Sara Smith | ID 0b229a5c] 2018-03-01: BP 118/82 mmHg; Height 56.3 cm; Weight 5.1 kg; Heart rate 80 /min; Resp rate 12 /min
+[Sara Smith | ID 0b229a5c] 2018-01-25: BP 128/71 mmHg; Height 52.7 cm; Weight 4.3 kg; Heart rate 97 /min; Resp rate 15 /min; Hemoglobin 15.2 g/dL

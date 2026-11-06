@@ -1,0 +1,63 @@
+PATIENT SUMMARY | Mr. Leonel Beahan | ID dfc38838
+DOB: 1949-07-09 | Age: 77 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Mr. Leonel Beahan | ID dfc38838
+- Ischemic heart disease — since 1991-07-20
+- Abnormal findings diagnostic imaging heart+coronary circulat — since 1991-07-31
+- Anemia — since 1993-07-24
+- Prediabetes — since 1993-07-24
+- Victim of intimate partner abuse — since 1993-07-24
+- Chronic sinusitis — since 2000-06-26
+- Diabetes mellitus type 2 — since 2022-11-19
+- Hypertriglyceridemia — since 2023-11-25
+- Metabolic syndrome X — since 2023-11-25
+
+RESOLVED CONDITIONS | Mr. Leonel Beahan | ID dfc38838
+- Viral sinusitis — 2018-04-06 to 2018-04-22
+- Limited social contact — 2020-11-07 to 2025-12-06
+- Primary dental caries — 2021-11-27 to 2021-11-27
+- Gingivitis — 2023-11-25 to 2023-12-09
+- Leaking dental filling — 2023-12-09 to 2023-12-09
+
+CURRENT MEDICATIONS | Mr. Leonel Beahan | ID dfc38838
+- 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet — since 1991-07-27
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray — since 1991-07-27
+- Simvastatin 20 MG Oral Tablet — since 1991-07-27
+
+PAST MEDICATIONS | Mr. Leonel Beahan | ID dfc38838
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2016-10-29 to 2023-12-09
+- tropicamide 5 MG/ML Ophthalmic Solution — 2022-12-17 to 2025-11-01
+
+ALLERGIES | Mr. Leonel Beahan | ID dfc38838
+- No known allergies.
+
+LATEST VITALS & LABS | Mr. Leonel Beahan | ID dfc38838
+- BMI: 27.2 kg/m2 (2025-12-06)
+- BUN: 16.7 mg/dL (2025-12-06)
+- Creatinine: 0.8 mg/dL (2025-12-06)
+- Glucose: 112.4 mg/dL (2025-12-06)
+- HDL: 50.4 mg/dL (2025-12-06)
+- HbA1c: 6.8 % (2025-12-06)
+- Heart rate: 86 /min (2025-12-06)
+- Height: 178.5 cm (2025-12-06)
+- Hemoglobin: 16.9 g/dL (2021-11-13)
+- LDL: 148.2 mg/dL (2025-12-06)
+- Potassium: 5.2 mmol/L (2025-12-06)
+- Resp rate: 13 /min (2025-12-06)
+- Sodium: 136.5 mmol/L (2025-12-06)
+- Total cholesterol: 231.4 mg/dL (2025-12-06)
+- Triglycerides: 163.9 mg/dL (2025-12-06)
+- Weight: 86.6 kg (2025-12-06)
+- Blood pressure: 124/78 mmHg (2025-12-06)
+
+VISIT HISTORY (vitals & labs by date) | Mr. Leonel Beahan | ID dfc38838
+[Mr. Leonel Beahan | ID dfc38838] 2025-12-06: BP 124/78 mmHg; Triglycerides 163.9 mg/dL; Total cholesterol 231.4 mg/dL; Potassium 5.2 mmol/L; Sodium 136.5 mmol/L; Creatinine 0.8 mg/dL; BUN 16.7 mg/dL; Glucose 112.4 mg/dL; Heart rate 86 /min; BMI 27.2 kg/m2; Weight 86.6 kg; Height 178.5 cm; HbA1c 6.8 %; LDL 148.2 mg/dL; Resp rate 13 /min; HDL 50.4 mg/dL
+[Mr. Leonel Beahan | ID dfc38838] 2024-11-30: BP 132/76 mmHg; HDL 42.4 mg/dL; LDL 135.7 mg/dL; Triglycerides 155.6 mg/dL; Total cholesterol 209.2 mg/dL; Sodium 136.4 mmol/L; Creatinine 0.8 mg/dL; BUN 11.6 mg/dL; Glucose 122.6 mg/dL; Potassium 4.1 mmol/L; Heart rate 64 /min; BMI 27.2 kg/m2; Weight 86.6 kg; Height 178.5 cm; HbA1c 6.8 %; Resp rate 13 /min
+[Mr. Leonel Beahan | ID dfc38838] 2023-11-25: BP 123/80 mmHg; BUN 15.8 mg/dL; LDL 139 mg/dL; Triglycerides 158.4 mg/dL; HDL 43.8 mg/dL; Potassium 4.1 mmol/L; Sodium 137.9 mmol/L; Creatinine 0.8 mg/dL; Glucose 112.1 mg/dL; Total cholesterol 214.5 mg/dL; Heart rate 99 /min; BMI 27.2 kg/m2; Weight 86.6 kg; Height 178.5 cm; HbA1c 6.8 %; Resp rate 13 /min
+[Mr. Leonel Beahan | ID dfc38838] 2022-11-19: BP 123/77 mmHg; HDL 26.8 mg/dL; LDL 225.9 mg/dL; Triglycerides 101.3 mg/dL; Total cholesterol 273 mg/dL; Potassium 4.3 mmol/L; Sodium 141.2 mmol/L; Creatinine 0.8 mg/dL; Glucose 95.1 mg/dL; BUN 14.4 mg/dL; Heart rate 91 /min; BMI 27.2 kg/m2; Weight 86.6 kg; Height 178.5 cm; HbA1c 6.8 %; Resp rate 15 /min
+[Mr. Leonel Beahan | ID dfc38838] 2021-11-13: BP 131/79 mmHg; Glucose 75.7 mg/dL; Hemoglobin 16.9 g/dL; Potassium 4.8 mmol/L; Sodium 138.6 mmol/L; Creatinine 0.8 mg/dL; BUN 13.8 mg/dL; Resp rate 16 /min; BMI 27.2 kg/m2; Heart rate 69 /min; Weight 86.6 kg; Height 178.5 cm; HbA1c 6.2 %
+[Mr. Leonel Beahan | ID dfc38838] 2020-11-07: BP 129/78 mmHg; Creatinine 1 mg/dL; LDL 220 mg/dL; Triglycerides 141.1 mg/dL; HDL 22.5 mg/dL; Total cholesterol 270.7 mg/dL; Potassium 4.4 mmol/L; Sodium 137.1 mmol/L; BUN 15.2 mg/dL; Weight 86.6 kg; Resp rate 15 /min; Heart rate 81 /min; BMI 27.2 kg/m2; Height 178.5 cm; HbA1c 6.1 %; Glucose 91.7 mg/dL
+[Mr. Leonel Beahan | ID dfc38838] 2019-11-02: BP 124/77 mmHg; Potassium 5.2 mmol/L; Sodium 137.8 mmol/L; Creatinine 1 mg/dL; BUN 14.2 mg/dL; Glucose 75.5 mg/dL; Heart rate 86 /min; Resp rate 13 /min; BMI 27.2 kg/m2; Weight 86.6 kg; Height 178.5 cm; HbA1c 6 %
+[Mr. Leonel Beahan | ID dfc38838] 2018-10-27: BP 125/80 mmHg; Resp rate 14 /min; Potassium 4.8 mmol/L; Sodium 142.4 mmol/L; Creatinine 0.9 mg/dL; Glucose 94.7 mg/dL; Heart rate 92 /min; BUN 15.8 mg/dL; BMI 27.2 kg/m2; Weight 86.6 kg; Height 178.5 cm; HbA1c 6.2 %
+[Mr. Leonel Beahan | ID dfc38838] 2017-10-21: BP 124/83 mmHg; Creatinine 0.9 mg/dL; HDL 31.3 mg/dL; LDL 202.1 mg/dL; Triglycerides 144.9 mg/dL; Total cholesterol 262.4 mg/dL; Potassium 4.2 mmol/L; Sodium 137.9 mmol/L; BUN 14.6 mg/dL; Resp rate 12 /min; Heart rate 88 /min; BMI 27.2 kg/m2; Weight 86.6 kg; Height 178.5 cm; HbA1c 5.9 %; Glucose 79.9 mg/dL
+[Mr. Leonel Beahan | ID dfc38838] 2016-10-15: BP 125/77 mmHg; HbA1c 5.9 %; Hemoglobin 15.5 g/dL; Potassium 4.6 mmol/L; Sodium 141.9 mmol/L; BUN 8.4 mg/dL; Glucose 73.6 mg/dL; Resp rate 15 /min; Creatinine 0.9 mg/dL; BMI 27.2 kg/m2; Weight 86.6 kg; Height 178.5 cm; Heart rate 73 /min

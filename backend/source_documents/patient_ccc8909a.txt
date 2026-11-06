@@ -1,0 +1,49 @@
+PATIENT SUMMARY | Mr. Sancho Laureano | ID ccc8909a
+DOB: 2000-07-31 | Age: 26 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Mr. Sancho Laureano | ID ccc8909a
+- Limited social contact — since 2019-09-02
+- Refugee (person) — since 2022-10-03
+
+RESOLVED CONDITIONS | Mr. Sancho Laureano | ID ccc8909a
+- Gingival disease — 2016-09-26 to 2019-09-16
+- Otitis media — 2018-04-29 to 2018-09-24
+- Acute viral pharyngitis — 2018-05-10 to 2022-04-25
+- Acute bronchitis — 2019-08-22 to 2020-06-13
+- Gingivitis — 2019-09-02 to 2025-10-20
+- Misuses drugs — 2019-09-30 to 2022-10-03
+- Infection of tooth — 2022-10-17 to 2022-10-17
+- Unhealthy alcohol drinking behavior — 2025-08-18 to 2025-10-06
+- Viral sinusitis — 2025-08-25 to 2025-09-12
+- Primary dental caries — 2025-10-20 to 2025-10-20
+
+CURRENT MEDICATIONS | Mr. Sancho Laureano | ID ccc8909a
+- None recorded.
+
+PAST MEDICATIONS | Mr. Sancho Laureano | ID ccc8909a
+- Acetaminophen 325 MG Oral Tablet — 2018-04-29 to 2020-06-13
+- Cefuroxime 250 MG Oral Tablet — 2018-04-29 to 2018-05-13
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2016-09-26 to 2025-10-20
+
+ALLERGIES | Mr. Sancho Laureano | ID ccc8909a
+- No known allergies.
+
+LATEST VITALS & LABS | Mr. Sancho Laureano | ID ccc8909a
+- BMI: 27.7 kg/m2 (2025-10-06)
+- Heart rate: 67 /min (2025-10-06)
+- Height: 167.7 cm (2025-10-06)
+- Hemoglobin: 12.4 g/dL (2022-10-03)
+- Resp rate: 14 /min (2025-10-06)
+- Weight: 77.9 kg (2025-10-06)
+- Blood pressure: 151/83 mmHg (2025-10-06)
+
+VISIT HISTORY (vitals & labs by date) | Mr. Sancho Laureano | ID ccc8909a
+[Mr. Sancho Laureano | ID ccc8909a] 2025-10-06: BP 151/83 mmHg; Heart rate 67 /min; Height 167.7 cm; Weight 77.9 kg; BMI 27.7 kg/m2; Resp rate 14 /min
+[Mr. Sancho Laureano | ID ccc8909a] 2025-08-18: BP 136/87 mmHg; Resp rate 14 /min; Heart rate 81 /min; Weight 77.9 kg; Height 167.7 cm; BMI 27.7 kg/m2
+[Mr. Sancho Laureano | ID ccc8909a] 2022-10-03: BP 135/84 mmHg; Hemoglobin 12.4 g/dL; Resp rate 15 /min; Heart rate 71 /min; BMI 26.2 kg/m2; Weight 73.7 kg; Height 167.7 cm
+[Mr. Sancho Laureano | ID ccc8909a] 2020-06-08: BP 135/86 mmHg; Height 167.6 cm; Weight 68.7 kg; BMI 24.4 kg/m2; Heart rate 92 /min; Resp rate 16 /min
+[Mr. Sancho Laureano | ID ccc8909a] 2019-09-30: BP 141/90 mmHg; Heart rate 70 /min; Resp rate 15 /min; BMI 23.3 kg/m2; Weight 65.3 kg; Height 167.4 cm
+[Mr. Sancho Laureano | ID ccc8909a] 2019-09-02: BP 145/86 mmHg; Height 167.4 cm; Weight 65.3 kg; BMI 23.3 kg/m2; Heart rate 90 /min; Resp rate 13 /min
+[Mr. Sancho Laureano | ID ccc8909a] 2018-09-24: BP 140/83 mmHg; Heart rate 91 /min; Resp rate 16 /min; Height 167 cm; BMI 21.8 kg/m2; Weight 60.7 kg
+[Mr. Sancho Laureano | ID ccc8909a] 2017-09-18: BP 134/85 mmHg; Resp rate 16 /min; Heart rate 89 /min; Height 166 cm; BMI 21.6 kg/m2; Weight 59.5 kg
+[Mr. Sancho Laureano | ID ccc8909a] 2016-09-12: BP 133/81 mmHg; Height 163.9 cm; Weight 55.7 kg; BMI 20.7 kg/m2; Heart rate 60 /min; Resp rate 13 /min; Hemoglobin 16.2 g/dL

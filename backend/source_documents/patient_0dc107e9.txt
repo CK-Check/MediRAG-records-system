@@ -1,0 +1,111 @@
+PATIENT SUMMARY | Mrs. Latonya Hahn | ID 0dc107e9
+DOB: 1956-03-30 | Age: 70 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Mrs. Latonya Hahn | ID 0dc107e9
+- Serving in military service — since 1974-05-24
+- Major depressive disorder — since 1975-05-16
+- Past pregnancy history of miscarriage — since 1988-06-11
+- Victim of intimate partner abuse — since 2006-03-31
+- Prediabetes — since 2007-04-06
+- Essential hypertension — since 2012-05-04
+- Has a criminal record — since 2014-05-16
+- Chronic kidney disease stage 2 — since 2016-05-27
+- Disorder of kidney due to diabetes mellitus — since 2016-05-27
+- Microalbuminuria due to type 2 diabetes mellitus — since 2016-05-27
+- Chronic kidney disease stage 3 — since 2017-06-02
+- Proteinuria due to type 2 diabetes mellitus — since 2017-06-02
+- Severe anxiety (panic) — since 2019-06-21
+- Limited social contact — since 2020-05-22
+- Loss of teeth — since 2025-04-18
+- Polyp of colon — since 2026-04-23
+
+RESOLVED CONDITIONS | Mrs. Latonya Hahn | ID 0dc107e9
+- Unhealthy alcohol drinking behavior — 2018-06-08 to 2019-06-21
+- Gingivitis — 2019-09-20 to 2026-07-03
+- Primary dental caries — 2019-10-04 to 2019-10-05
+- Burn injury — 2020-03-13 to 2020-04-17
+- Epidermal burn of skin — 2020-03-13 to 2020-04-17
+- Gingival disease — 2021-09-24 to 2025-04-12
+- Loose dental filling — 2024-08-03 to 2024-08-03
+- Infection of tooth — 2025-04-11 to 2025-04-12
+- Torus palatinus — 2025-04-18 to 2025-05-09
+- Viral sinusitis — 2026-07-10 to 2026-07-20
+
+CURRENT MEDICATIONS | Mrs. Latonya Hahn | ID 0dc107e9
+- FLUoxetine 20 MG Oral Capsule — since 1975-06-06, for Major depression  single episode
+- insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] — since 2026-08-14, for Prediabetes
+- lisinopril 10 MG Oral Tablet — since 2026-08-14, for Essential hypertension
+
+PAST MEDICATIONS | Mrs. Latonya Hahn | ID 0dc107e9
+- Naproxen sodium 220 MG Oral Tablet — 2020-03-13 to 2020-04-17
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2019-10-05 to 2026-07-03
+
+ALLERGIES | Mrs. Latonya Hahn | ID 0dc107e9
+- No known allergies.
+
+LATEST VITALS & LABS | Mrs. Latonya Hahn | ID 0dc107e9
+- BMI: 27.5 kg/m2 (2026-08-14)
+- BUN: 12.9 mg/dL (2026-08-14)
+- Creatinine: 1.9 mg/dL (2026-08-14)
+- Glucose: 85.1 mg/dL (2026-08-14)
+- HDL: 52.9 mg/dL (2024-07-19)
+- HbA1c: 3.4 % (2026-08-14)
+- Heart rate: 85 /min (2026-08-14)
+- Height: 151.1 cm (2026-08-14)
+- Hemoglobin: 12.8 g/dL (2023-07-14)
+- LDL: 123.8 mg/dL (2024-07-19)
+- Potassium: 4.8 mmol/L (2026-08-14)
+- Resp rate: 16 /min (2026-08-14)
+- Sodium: 136.4 mmol/L (2026-08-14)
+- Total cholesterol: 196.9 mg/dL (2024-07-19)
+- Triglycerides: 101 mg/dL (2024-07-19)
+- Weight: 62.8 kg (2026-08-14)
+- Blood pressure: 132/98 mmHg (2026-08-14)
+
+VISIT HISTORY (vitals & labs by date) | Mrs. Latonya Hahn | ID 0dc107e9
+[Mrs. Latonya Hahn | ID 0dc107e9] 2026-08-14: BP 132/98 mmHg; Resp rate 16 /min; Glucose 85.1 mg/dL; Heart rate 85 /min; Creatinine 1.9 mg/dL; BUN 12.9 mg/dL; Sodium 136.4 mmol/L; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 3.4 %; Creatinine 1.9 mg/dL; Potassium 4.8 mmol/L
+[Mrs. Latonya Hahn | ID 0dc107e9] 2026-07-31: BP 132/97 mmHg; Potassium 5.2 mmol/L; Sodium 141.7 mmol/L; Creatinine 2.2 mg/dL; BUN 18.3 mg/dL; Glucose 95.6 mg/dL; Resp rate 14 /min; Heart rate 78 /min; Weight 62.8 kg; BMI 27.5 kg/m2; Height 151.1 cm; HbA1c 3.2 %; Creatinine 2.1 mg/dL
+[Mrs. Latonya Hahn | ID 0dc107e9] 2026-07-24: Creatinine 1.9 mg/dL; HbA1c 2.9 %
+[Mrs. Latonya Hahn | ID 0dc107e9] 2026-07-17: BP 137/91 mmHg; Potassium 4.3 mmol/L; Creatinine 2.9 mg/dL; BUN 13.1 mg/dL; Glucose 98.3 mg/dL; Resp rate 14 /min; Heart rate 72 /min; Sodium 137.5 mmol/L; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 3.4 %; Creatinine 1.9 mg/dL
+[Mrs. Latonya Hahn | ID 0dc107e9] 2026-06-26: BP 126/91 mmHg; Potassium 5 mmol/L; Sodium 144 mmol/L; Creatinine 1.8 mg/dL; Glucose 72.2 mg/dL; Resp rate 15 /min; Heart rate 95 /min; BUN 11.6 mg/dL; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 2.9 %; Creatinine 1.9 mg/dL
+[Mrs. Latonya Hahn | ID 0dc107e9] 2026-06-19: Creatinine 2.1 mg/dL; HbA1c 3.1 %
+[Mrs. Latonya Hahn | ID 0dc107e9] 2026-06-12: BP 127/89 mmHg; Potassium 4 mmol/L; Sodium 138.8 mmol/L; Creatinine 2.4 mg/dL; BUN 17.9 mg/dL; Glucose 96.2 mg/dL; Resp rate 15 /min; Heart rate 93 /min; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 3 %; Creatinine 2 mg/dL
+[Mrs. Latonya Hahn | ID 0dc107e9] 2026-06-05: Creatinine 2.1 mg/dL; HbA1c 3 %
+[Mrs. Latonya Hahn | ID 0dc107e9] 2026-05-29: BP 127/96 mmHg; Glucose 78.9 mg/dL; BUN 9.5 mg/dL; Resp rate 14 /min; Sodium 137.8 mmol/L; Potassium 3.8 mmol/L; Creatinine 3.2 mg/dL; Heart rate 95 /min; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 3.4 %; Creatinine 1.9 mg/dL
+[Mrs. Latonya Hahn | ID 0dc107e9] 2026-05-22: Creatinine 1.9 mg/dL; HbA1c 3 %
+[Mrs. Latonya Hahn | ID 0dc107e9] 2026-05-15: BP 136/96 mmHg; Potassium 3.9 mmol/L; Sodium 137 mmol/L; Creatinine 2.6 mg/dL; BUN 9.1 mg/dL; Glucose 97.1 mg/dL; Resp rate 14 /min; Heart rate 66 /min; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 2.9 %; Creatinine 2 mg/dL
+[Mrs. Latonya Hahn | ID 0dc107e9] 2025-07-25: BP 132/96 mmHg; Potassium 4.7 mmol/L; Resp rate 15 /min; Sodium 141.6 mmol/L; Creatinine 2 mg/dL; BUN 17.2 mg/dL; Glucose 89.2 mg/dL; Heart rate 91 /min; Creatinine 2 mg/dL; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 2.9 %
+[Mrs. Latonya Hahn | ID 0dc107e9] 2025-03-28: BP 131/97 mmHg; Potassium 4.9 mmol/L; Creatinine 3.2 mg/dL; BUN 8.1 mg/dL; Glucose 90.3 mg/dL; Resp rate 14 /min; Heart rate 96 /min; Sodium 137.9 mmol/L; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 3 %; Creatinine 2 mg/dL
+[Mrs. Latonya Hahn | ID 0dc107e9] 2024-12-27: BP 135/90 mmHg; Potassium 4.9 mmol/L; Sodium 137.2 mmol/L; Creatinine 2.5 mg/dL; BUN 12.3 mg/dL; Glucose 94 mg/dL; Resp rate 13 /min; Heart rate 67 /min; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 2.9 %; Creatinine 2 mg/dL
+[Mrs. Latonya Hahn | ID 0dc107e9] 2024-11-22: BP 128/94 mmHg; BUN 14.4 mg/dL; Creatinine 3 mg/dL; Potassium 4.4 mmol/L; Glucose 87.4 mg/dL; Sodium 140.1 mmol/L; Resp rate 13 /min; Heart rate 81 /min; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 3 %; Creatinine 2 mg/dL
+[Mrs. Latonya Hahn | ID 0dc107e9] 2024-09-27: BP 127/92 mmHg; Sodium 139.8 mmol/L; Creatinine 2.2 mg/dL; BUN 8.2 mg/dL; Glucose 74.1 mg/dL; Resp rate 13 /min; Heart rate 65 /min; Height 151.1 cm; BMI 27.5 kg/m2; Weight 62.8 kg; HbA1c 3.2 %; Creatinine 2 mg/dL; Potassium 3.9 mmol/L
+[Mrs. Latonya Hahn | ID 0dc107e9] 2024-07-19: BP 137/97 mmHg; HDL 52.9 mg/dL; LDL 123.8 mg/dL; Triglycerides 101 mg/dL; Total cholesterol 196.9 mg/dL; Potassium 4.4 mmol/L; Creatinine 2 mg/dL; BUN 13.5 mg/dL; Glucose 73.5 mg/dL; Sodium 139.3 mmol/L; Heart rate 89 /min; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 3.3 %; Creatinine 2 mg/dL; Resp rate 15 /min
+[Mrs. Latonya Hahn | ID 0dc107e9] 2024-03-29: BP 132/93 mmHg; Potassium 5.1 mmol/L; Creatinine 2.1 mg/dL; BUN 12.2 mg/dL; Glucose 89.8 mg/dL; Resp rate 13 /min; Heart rate 87 /min; Sodium 141.5 mmol/L; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 3.3 %; Creatinine 2 mg/dL
+[Mrs. Latonya Hahn | ID 0dc107e9] 2024-02-02: BP 133/88 mmHg; Potassium 4.5 mmol/L; Sodium 143.3 mmol/L; Creatinine 3.3 mg/dL; BUN 12.6 mg/dL; Glucose 68.5 mg/dL; Resp rate 13 /min; Heart rate 88 /min; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 2.9 %; Creatinine 2 mg/dL
+[Mrs. Latonya Hahn | ID 0dc107e9] 2023-09-01: BP 134/97 mmHg; Glucose 83.7 mg/dL; Potassium 4.8 mmol/L; Sodium 141.7 mmol/L; Creatinine 2.4 mg/dL; BUN 8.5 mg/dL; Resp rate 15 /min; Heart rate 92 /min; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 3.1 %; Creatinine 2.1 mg/dL
+[Mrs. Latonya Hahn | ID 0dc107e9] 2023-07-14: BP 134/94 mmHg; Hemoglobin 12.8 g/dL; Potassium 4.5 mmol/L; Sodium 136.5 mmol/L; Creatinine 2.4 mg/dL; BUN 18.4 mg/dL; Glucose 77.3 mg/dL; Resp rate 15 /min; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 3.4 %; Creatinine 2 mg/dL; Heart rate 79 /min
+[Mrs. Latonya Hahn | ID 0dc107e9] 2023-04-07: BP 137/97 mmHg; Sodium 139.7 mmol/L; Creatinine 1.9 mg/dL; BUN 13.3 mg/dL; Glucose 90.5 mg/dL; Resp rate 15 /min; Heart rate 100 /min; Potassium 5.1 mmol/L; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 3 %; Creatinine 2 mg/dL
+[Mrs. Latonya Hahn | ID 0dc107e9] 2022-11-04: BP 131/93 mmHg; Sodium 140.9 mmol/L; Creatinine 1.9 mg/dL; BUN 10.4 mg/dL; Glucose 82.3 mg/dL; Resp rate 13 /min; Heart rate 89 /min; Potassium 5.2 mmol/L; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 3 %; Creatinine 2 mg/dL
+[Mrs. Latonya Hahn | ID 0dc107e9] 2022-10-07: BP 130/90 mmHg; Potassium 4.7 mmol/L; Sodium 143.4 mmol/L; Creatinine 2.7 mg/dL; BUN 10.6 mg/dL; Glucose 97.8 mg/dL; Resp rate 14 /min; Heart rate 63 /min; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 3 %; Creatinine 2 mg/dL
+[Mrs. Latonya Hahn | ID 0dc107e9] 2022-09-09: BP 130/96 mmHg; Glucose 69.6 mg/dL; Potassium 3.8 mmol/L; Sodium 138.4 mmol/L; Creatinine 2.1 mg/dL; BUN 8.6 mg/dL; Resp rate 14 /min; Heart rate 60 /min; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 3.1 %; Creatinine 2 mg/dL
+[Mrs. Latonya Hahn | ID 0dc107e9] 2022-08-05: BP 135/89 mmHg; Potassium 5.1 mmol/L; Sodium 142.2 mmol/L; Creatinine 2.9 mg/dL; BUN 19 mg/dL; Glucose 67.5 mg/dL; Resp rate 15 /min; Heart rate 80 /min; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 3.1 %; Creatinine 1.9 mg/dL
+[Mrs. Latonya Hahn | ID 0dc107e9] 2022-07-08: BP 132/97 mmHg; Sodium 140.1 mmol/L; Creatinine 2.6 mg/dL; BUN 9.9 mg/dL; Glucose 81.6 mg/dL; Resp rate 14 /min; Heart rate 76 /min; Potassium 4 mmol/L; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 2.9 %; Creatinine 2.1 mg/dL
+[Mrs. Latonya Hahn | ID 0dc107e9] 2021-09-10: BP 132/94 mmHg; Sodium 137.2 mmol/L; Creatinine 2 mg/dL; BUN 14.1 mg/dL; Glucose 75 mg/dL; Resp rate 13 /min; Heart rate 96 /min; Potassium 4.1 mmol/L; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 3.3 %; Creatinine 2 mg/dL
+[Mrs. Latonya Hahn | ID 0dc107e9] 2021-08-13: BP 134/97 mmHg; Potassium 5 mmol/L; Sodium 138.2 mmol/L; Creatinine 3 mg/dL; BUN 14.1 mg/dL; Glucose 92.7 mg/dL; Resp rate 15 /min; Heart rate 99 /min; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 2.8 %; Creatinine 2 mg/dL
+[Mrs. Latonya Hahn | ID 0dc107e9] 2021-07-02: BP 133/93 mmHg; Resp rate 15 /min; Sodium 140.2 mmol/L; Creatinine 2 mg/dL; BUN 17.1 mg/dL; Glucose 70.7 mg/dL; Potassium 3.8 mmol/L; Heart rate 63 /min; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 2.8 %; Creatinine 2.1 mg/dL
+[Mrs. Latonya Hahn | ID 0dc107e9] 2021-06-11: BP 137/94 mmHg; HDL 53.6 mg/dL; LDL 81.7 mg/dL; Triglycerides 100.5 mg/dL; Total cholesterol 155.4 mg/dL; Potassium 5.1 mmol/L; Sodium 143.6 mmol/L; Creatinine 2.1 mg/dL; BUN 17.5 mg/dL; Glucose 66.3 mg/dL; Heart rate 96 /min; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 2.9 %; Creatinine 2.1 mg/dL; Resp rate 12 /min
+[Mrs. Latonya Hahn | ID 0dc107e9] 2021-03-19: BP 136/94 mmHg; Resp rate 14 /min; Potassium 3.9 mmol/L; Sodium 142.5 mmol/L; Creatinine 2.5 mg/dL; BUN 10.7 mg/dL; Glucose 78 mg/dL; Heart rate 82 /min; Height 151.1 cm; BMI 27.5 kg/m2; Weight 62.8 kg; HbA1c 3.3 %; Creatinine 1.9 mg/dL
+[Mrs. Latonya Hahn | ID 0dc107e9] 2020-08-21: BP 132/96 mmHg; Resp rate 14 /min; Potassium 5.1 mmol/L; Sodium 137.7 mmol/L; Creatinine 2.8 mg/dL; BUN 16.8 mg/dL; Glucose 64.5 mg/dL; Heart rate 98 /min; Creatinine 2.1 mg/dL; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 3 %
+[Mrs. Latonya Hahn | ID 0dc107e9] 2020-06-26: BP 127/97 mmHg; Potassium 4.4 mmol/L; Sodium 140.8 mmol/L; Creatinine 2.5 mg/dL; BUN 19.8 mg/dL; Glucose 90.4 mg/dL; Resp rate 12 /min; Heart rate 99 /min; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 3.4 %; Creatinine 2 mg/dL
+[Mrs. Latonya Hahn | ID 0dc107e9] 2020-05-22: BP 133/96 mmHg; Resp rate 13 /min; Potassium 4.3 mmol/L; Sodium 136.2 mmol/L; Creatinine 3.1 mg/dL; BUN 7.8 mg/dL; Glucose 77.4 mg/dL; Heart rate 61 /min; HbA1c 3.1 %; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; Creatinine 1.9 mg/dL
+[Mrs. Latonya Hahn | ID 0dc107e9] 2019-10-25: BP 130/96 mmHg; Resp rate 12 /min; Potassium 4.9 mmol/L; Sodium 142.9 mmol/L; Creatinine 3.7 mg/dL; BUN 15.3 mg/dL; Glucose 93.6 mg/dL; Heart rate 93 /min; Creatinine 1.9 mg/dL; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 3.3 %
+[Mrs. Latonya Hahn | ID 0dc107e9] 2019-09-20: BP 129/92 mmHg; Potassium 4.8 mmol/L; Sodium 138.3 mmol/L; Creatinine 2.4 mg/dL; BUN 14.1 mg/dL; Glucose 79.3 mg/dL; Resp rate 13 /min; Heart rate 67 /min; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 3.1 %; Creatinine 2 mg/dL
+[Mrs. Latonya Hahn | ID 0dc107e9] 2019-06-21: BP 128/97 mmHg; Potassium 4.6 mmol/L; Heart rate 92 /min; Sodium 137.5 mmol/L; Creatinine 3.7 mg/dL; BUN 15.4 mg/dL; Glucose 88.7 mg/dL; Resp rate 12 /min; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 3 %; Creatinine 2.1 mg/dL
+[Mrs. Latonya Hahn | ID 0dc107e9] 2019-05-24: BP 135/93 mmHg; Potassium 5.2 mmol/L; Sodium 138.9 mmol/L; Creatinine 2.5 mg/dL; BUN 7.1 mg/dL; Glucose 98.1 mg/dL; Resp rate 13 /min; Heart rate 63 /min; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; Creatinine 1.9 mg/dL; HbA1c 3.3 %
+[Mrs. Latonya Hahn | ID 0dc107e9] 2019-04-26: BP 134/93 mmHg; Sodium 142.2 mmol/L; Creatinine 2.9 mg/dL; BUN 11.4 mg/dL; Glucose 67.7 mg/dL; Resp rate 13 /min; Heart rate 89 /min; Potassium 4.4 mmol/L; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 3.1 %; Creatinine 1.9 mg/dL
+[Mrs. Latonya Hahn | ID 0dc107e9] 2018-07-06: BP 133/97 mmHg; Resp rate 14 /min; Sodium 140.8 mmol/L; Creatinine 2.4 mg/dL; BUN 17.4 mg/dL; Glucose 66.5 mg/dL; Heart rate 88 /min; Potassium 4.6 mmol/L; Creatinine 2 mg/dL; HbA1c 3.3 %; Weight 62.8 kg; BMI 27.5 kg/m2; Height 151.1 cm
+[Mrs. Latonya Hahn | ID 0dc107e9] 2018-06-08: BP 129/93 mmHg; Hemoglobin 12.6 g/dL; HDL 50.1 mg/dL; LDL 116.6 mg/dL; Triglycerides 142.9 mg/dL; Total cholesterol 195.3 mg/dL; Potassium 4.4 mmol/L; Sodium 137.3 mmol/L; Creatinine 3.4 mg/dL; BUN 16.8 mg/dL; Glucose 95.7 mg/dL; Heart rate 97 /min; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 3.3 %; Creatinine 2 mg/dL; Resp rate 13 /min
+[Mrs. Latonya Hahn | ID 0dc107e9] 2018-03-02: BP 134/97 mmHg; Resp rate 13 /min; Potassium 5 mmol/L; Sodium 138.9 mmol/L; Creatinine 3 mg/dL; BUN 17.1 mg/dL; Glucose 76.4 mg/dL; Heart rate 86 /min; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 2.9 %; Creatinine 2 mg/dL
+[Mrs. Latonya Hahn | ID 0dc107e9] 2018-02-02: BP 131/97 mmHg; Resp rate 13 /min; Potassium 5 mmol/L; Sodium 143.6 mmol/L; Creatinine 2.2 mg/dL; BUN 18.1 mg/dL; Glucose 65.3 mg/dL; Heart rate 75 /min; Height 151.1 cm; BMI 27.5 kg/m2; Weight 62.8 kg; HbA1c 2.9 %; Creatinine 2.1 mg/dL
+[Mrs. Latonya Hahn | ID 0dc107e9] 2017-06-09: Creatinine 1.9 mg/dL; HbA1c 3.4 %
+[Mrs. Latonya Hahn | ID 0dc107e9] 2017-06-02: BP 134/92 mmHg; Creatinine 2.1 mg/dL; Potassium 4.5 mmol/L; Sodium 138.6 mmol/L; BUN 7.3 mg/dL; Glucose 94.2 mg/dL; Resp rate 14 /min; Heart rate 89 /min; Creatinine 2.4 mg/dL; BMI 27.5 kg/m2; Weight 62.8 kg; Height 151.1 cm; HbA1c 3.2 %

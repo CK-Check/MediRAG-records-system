@@ -1,0 +1,122 @@
+PATIENT SUMMARY | Ms. Margarete Wolff | ID 8ca70a68
+DOB: 1960-10-10 | Age: 66 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Ms. Margarete Wolff | ID 8ca70a68
+- Past pregnancy history of miscarriage — since 1992-04-20
+- History of tubal ligation — since 1995-11-11
+- Limited social contact — since 2008-11-03
+- Idiopathic atrophic hypothyroidism — since 2013-08-29
+- Chronic low back pain — since 2014-02-05
+- Chronic neck pain — since 2014-02-05
+- Chronic pain — since 2014-02-05
+- Hyperlipidemia — since 2017-11-20
+- Has a criminal record — since 2018-11-26
+- Chronic congestive heart failure — since 2023-11-30
+
+RESOLVED CONDITIONS | Ms. Margarete Wolff | ID 8ca70a68
+- Victim of intimate partner abuse — 2015-11-09 to 2016-11-14
+- Acute bronchitis — 2021-07-31 to 2021-08-11
+- Polyp of colon — 2022-01-15 to 2023-03-24
+- Gingivitis — 2026-01-05 to 2026-01-19
+
+CURRENT MEDICATIONS | Ms. Margarete Wolff | ID 8ca70a68
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet — since 2014-04-20
+- Furosemide 40 MG Oral Tablet — since 2026-01-05, for Chronic congestive heart failure
+- Levothyroxine Sodium 0.075 MG Oral Tablet — since 2013-08-29
+- Simvastatin 10 MG Oral Tablet — since 2026-01-12, for Hyperlipidemia
+
+PAST MEDICATIONS | Ms. Margarete Wolff | ID 8ca70a68
+- 10 ML Furosemide 10 MG/ML Injection — 2024-06-29 to 2026-07-08
+- Acetaminophen 325 MG Oral Tablet — 2021-07-31 to 2021-08-11
+
+ALLERGIES | Ms. Margarete Wolff | ID 8ca70a68
+- Sulfamethoxazole / Trimethoprim (medication allergy) — reaction: Eruption of skin (MODERATE)
+- Shellfish (food allergy) — reaction: Eruption of skin (MODERATE)
+
+LATEST VITALS & LABS | Ms. Margarete Wolff | ID 8ca70a68
+- BMI: 28.1 kg/m2 (2026-01-05)
+- BUN: 13.6 mg/dL (2026-01-12)
+- Creatinine: 1.1 mg/dL (2026-07-08)
+- Glucose: 89.6 mg/dL (2026-01-12)
+- HDL: 56.8 mg/dL (2026-07-08)
+- HbA1c: 5.6 % (2026-07-08)
+- Heart rate: 62 /min (2026-01-05)
+- Height: 172.9 cm (2026-01-05)
+- Hemoglobin: 17.1 g/dL (2026-07-08)
+- LDL: 125.1 mg/dL (2026-07-08)
+- Potassium: 4.8 mmol/L (2026-01-12)
+- Resp rate: 14 /min (2026-01-05)
+- Sodium: 140.6 mmol/L (2026-01-12)
+- Total cholesterol: 202.2 mg/dL (2026-07-08)
+- Triglycerides: 101.3 mg/dL (2026-07-08)
+- Weight: 83.9 kg (2026-07-08)
+- Blood pressure: 103/65 mmHg (2026-08-14)
+
+VISIT HISTORY (vitals & labs by date) | Ms. Margarete Wolff | ID 8ca70a68
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-08-14: BP 103/65 mmHg
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-08-12: BP 102/70 mmHg
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-08-10: BP 101/70 mmHg
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-08-09: BP 106/70 mmHg
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-08-06: BP 101/66 mmHg
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-08-05: BP 91/67 mmHg
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-08-04: BP 104/62 mmHg
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-08-03: BP 104/67 mmHg
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-08-02: BP 100/61 mmHg
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-08-01: BP 101/69 mmHg
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-07-31: BP 98/70 mmHg
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-07-30: BP 104/65 mmHg
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-07-27: BP 106/61 mmHg
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-07-26: BP 95/69 mmHg
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-07-25: BP 92/70 mmHg
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-07-24: BP 93/70 mmHg
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-07-23: BP 104/66 mmHg
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-07-22: BP 102/65 mmHg
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-07-19: BP 100/60 mmHg
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-07-18: BP 98/64 mmHg
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-07-17: BP 100/66 mmHg
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-07-14: BP 104/59 mmHg
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-07-13: BP 103/67 mmHg
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-07-10: BP 93/68 mmHg
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-07-08: LDL 125.1 mg/dL; HbA1c 5.6 %; Triglycerides 101.3 mg/dL; HDL 56.8 mg/dL; Creatinine 1.1 mg/dL; Hemoglobin 17.1 g/dL; Weight 83.9 kg; Total cholesterol 202.2 mg/dL
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-07-07: Weight 83.9 kg; Hemoglobin 12.8 g/dL; Creatinine 1.1 mg/dL; Total cholesterol 202.2 mg/dL; Triglycerides 101.3 mg/dL; LDL 125.1 mg/dL; HDL 56.8 mg/dL; HbA1c 5.6 %
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-07-06: HDL 62 mg/dL; LDL 106.4 mg/dL; Triglycerides 115.6 mg/dL; HbA1c 5.6 %; Creatinine 0.7 mg/dL; Hemoglobin 12 g/dL; Weight 83.9 kg; Total cholesterol 191.5 mg/dL
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-07-05: LDL 106.4 mg/dL; HbA1c 5.6 %; HDL 62 mg/dL; Triglycerides 115.6 mg/dL; Total cholesterol 191.5 mg/dL; Creatinine 0.7 mg/dL; Hemoglobin 17.2 g/dL; Weight 83.9 kg
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-07-04: HbA1c 5.6 %; HDL 62 mg/dL; LDL 106.4 mg/dL; Triglycerides 115.6 mg/dL; Weight 83.9 kg; Creatinine 0.7 mg/dL; Hemoglobin 15.4 g/dL; Total cholesterol 191.5 mg/dL
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-07-03: Weight 83.9 kg; Hemoglobin 15.1 g/dL; Creatinine 0.7 mg/dL; Total cholesterol 191.5 mg/dL; Triglycerides 115.6 mg/dL; LDL 106.4 mg/dL; HDL 62 mg/dL; HbA1c 5.6 %
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-07-02: HbA1c 5.6 %; HDL 62 mg/dL; LDL 106.4 mg/dL; Triglycerides 115.6 mg/dL; Creatinine 0.7 mg/dL; Hemoglobin 16.9 g/dL; Weight 83.9 kg; Total cholesterol 191.5 mg/dL
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-07-01: Weight 83.9 kg; Hemoglobin 17.7 g/dL; Creatinine 0.7 mg/dL; Total cholesterol 191.5 mg/dL; Triglycerides 115.6 mg/dL; LDL 106.4 mg/dL; HDL 62 mg/dL; HbA1c 5.6 %
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-06-30: HDL 62 mg/dL; LDL 106.4 mg/dL; Triglycerides 115.6 mg/dL; HbA1c 5.6 %; Creatinine 0.7 mg/dL; Hemoglobin 15.5 g/dL; Weight 83.9 kg; Total cholesterol 191.5 mg/dL
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-06-29: LDL 52.5 mg/dL; HDL 61.8 mg/dL; HbA1c 5.7 %; Triglycerides 129.8 mg/dL; Creatinine 1.2 mg/dL; Hemoglobin 16.5 g/dL; Weight 83.9 kg; Total cholesterol 140.3 mg/dL
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-06-28: HbA1c 5.7 %; HDL 61.8 mg/dL; LDL 52.5 mg/dL; Triglycerides 129.8 mg/dL; Weight 83.9 kg; Creatinine 1.2 mg/dL; Hemoglobin 12.4 g/dL; Total cholesterol 140.3 mg/dL
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-06-27: HbA1c 5.7 %; Weight 83.9 kg; Hemoglobin 14.2 g/dL; Creatinine 1.2 mg/dL; Total cholesterol 140.3 mg/dL; Triglycerides 129.8 mg/dL; LDL 52.5 mg/dL; HDL 61.8 mg/dL
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-06-26: LDL 52.5 mg/dL; HbA1c 5.7 %; HDL 61.8 mg/dL; Triglycerides 129.8 mg/dL; Weight 83.9 kg; Creatinine 1.2 mg/dL; Total cholesterol 140.3 mg/dL; Hemoglobin 12.4 g/dL
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-06-25: Weight 83.9 kg; Hemoglobin 11.1 g/dL; Creatinine 1.2 mg/dL; Total cholesterol 140.3 mg/dL; Triglycerides 129.8 mg/dL; LDL 52.5 mg/dL; HDL 61.8 mg/dL; HbA1c 5.7 %
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-06-24: HDL 61.8 mg/dL; LDL 52.5 mg/dL; Triglycerides 129.8 mg/dL; HbA1c 5.7 %; Creatinine 1.2 mg/dL; Hemoglobin 17.6 g/dL; Weight 83.9 kg; Total cholesterol 140.3 mg/dL
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-01-12: Triglycerides 114.8 mg/dL; HDL 69.1 mg/dL; LDL 146.5 mg/dL; Total cholesterol 200.3 mg/dL; BUN 13.6 mg/dL; Sodium 140.6 mmol/L; Creatinine 3.1 mg/dL; Potassium 4.8 mmol/L; Glucose 89.6 mg/dL
+[Ms. Margarete Wolff | ID 8ca70a68] 2026-01-05: BP 103/68 mmHg; Total cholesterol 237.9 mg/dL; HDL 57.2 mg/dL; LDL 156.5 mg/dL; Triglycerides 120.8 mg/dL; Resp rate 14 /min; Height 172.9 cm; BMI 28.1 kg/m2; Weight 83.9 kg; Heart rate 62 /min
+[Ms. Margarete Wolff | ID 8ca70a68] 2025-12-26: Potassium 4.5 mmol/L; Sodium 139.8 mmol/L; Glucose 76.5 mg/dL; BUN 8.1 mg/dL; Creatinine 0.7 mg/dL
+[Ms. Margarete Wolff | ID 8ca70a68] 2025-06-29: Glucose 75.4 mg/dL; BUN 15.8 mg/dL; Creatinine 0.8 mg/dL; Sodium 141.5 mmol/L; Potassium 4.6 mmol/L
+[Ms. Margarete Wolff | ID 8ca70a68] 2024-12-31: Glucose 72.3 mg/dL; BUN 13.4 mg/dL; Potassium 4.2 mmol/L; Creatinine 3.1 mg/dL; Triglycerides 163.4 mg/dL; LDL 116.1 mg/dL; HDL 63.5 mg/dL; Total cholesterol 187 mg/dL; Sodium 136.7 mmol/L; BUN 13.4 mg/dL; Sodium 136.7 mmol/L; Creatinine 0.8 mg/dL; Potassium 4.2 mmol/L; Glucose 72.3 mg/dL
+[Ms. Margarete Wolff | ID 8ca70a68] 2024-12-30: BP 100/68 mmHg; Height 172.9 cm; Weight 83.9 kg; BMI 28.1 kg/m2; Heart rate 80 /min; Resp rate 16 /min
+[Ms. Margarete Wolff | ID 8ca70a68] 2024-07-04: HDL 39 mg/dL; LDL 106.8 mg/dL; Triglycerides 129.6 mg/dL; HbA1c 5.5 %; Creatinine 0.8 mg/dL; Hemoglobin 14.2 g/dL; Weight 83.9 kg; Total cholesterol 171.8 mg/dL
+[Ms. Margarete Wolff | ID 8ca70a68] 2024-07-03: HDL 39 mg/dL; LDL 106.8 mg/dL; HbA1c 5.5 %; Triglycerides 129.6 mg/dL; Total cholesterol 171.8 mg/dL; Creatinine 0.8 mg/dL; Hemoglobin 16.1 g/dL; Weight 83.9 kg
+[Ms. Margarete Wolff | ID 8ca70a68] 2024-07-02: LDL 106.8 mg/dL; Triglycerides 129.6 mg/dL; Total cholesterol 171.8 mg/dL; Weight 83.9 kg; Hemoglobin 11.5 g/dL; HDL 39 mg/dL; Creatinine 0.8 mg/dL; HbA1c 5.5 %
+[Ms. Margarete Wolff | ID 8ca70a68] 2024-07-01: HDL 60.5 mg/dL; Weight 83.9 kg; Hemoglobin 11.7 g/dL; Creatinine 0.8 mg/dL; Total cholesterol 120.4 mg/dL; Triglycerides 107.4 mg/dL; LDL 38.4 mg/dL; HbA1c 5 %
+[Ms. Margarete Wolff | ID 8ca70a68] 2024-06-30: LDL 38.4 mg/dL; HbA1c 5 %; HDL 60.5 mg/dL; Triglycerides 107.4 mg/dL; Creatinine 0.8 mg/dL; Hemoglobin 14.2 g/dL; Weight 83.9 kg; Total cholesterol 120.4 mg/dL
+[Ms. Margarete Wolff | ID 8ca70a68] 2024-06-29: HbA1c 5 %; HDL 60.5 mg/dL; LDL 38.4 mg/dL; Triglycerides 107.4 mg/dL; Creatinine 0.8 mg/dL; Hemoglobin 12.4 g/dL; Weight 83.9 kg; Total cholesterol 120.4 mg/dL
+[Ms. Margarete Wolff | ID 8ca70a68] 2024-01-01: HDL 79.6 mg/dL; LDL 122.9 mg/dL; Total cholesterol 188.6 mg/dL; Potassium 4.9 mmol/L; Sodium 138.6 mmol/L; Creatinine 3.4 mg/dL; Triglycerides 108.7 mg/dL; Glucose 81.9 mg/dL; Potassium 4.9 mmol/L; Sodium 138.6 mmol/L; Creatinine 1.1 mg/dL; BUN 17.9 mg/dL; Glucose 81.9 mg/dL; BUN 17.9 mg/dL
+[Ms. Margarete Wolff | ID 8ca70a68] 2023-12-25: BP 115/74 mmHg; Resp rate 16 /min; Heart rate 77 /min; Weight 83.9 kg; Height 172.9 cm; BMI 28.1 kg/m2
+[Ms. Margarete Wolff | ID 8ca70a68] 2023-11-30: Weight 83.9 kg; Hemoglobin 16.1 g/dL; Creatinine 0.8 mg/dL; Total cholesterol 191.5 mg/dL; Triglycerides 126.5 mg/dL; LDL 112.7 mg/dL; HDL 53.5 mg/dL; HbA1c 5.2 %
+[Ms. Margarete Wolff | ID 8ca70a68] 2022-12-20: HDL 41.5 mg/dL; Triglycerides 190.7 mg/dL; Total cholesterol 162.8 mg/dL; Potassium 4.6 mmol/L; LDL 112.7 mg/dL; Creatinine 2.8 mg/dL; BUN 14.8 mg/dL; Glucose 92.4 mg/dL; Sodium 141.7 mmol/L
+[Ms. Margarete Wolff | ID 8ca70a68] 2022-12-19: BP 117/75 mmHg; Total cholesterol 196.1 mg/dL; Hemoglobin 16.2 g/dL; HDL 59.8 mg/dL; LDL 115.3 mg/dL; Triglycerides 105.1 mg/dL; Resp rate 16 /min; Heart rate 74 /min; BMI 28.1 kg/m2; Weight 83.9 kg; Height 172.9 cm
+[Ms. Margarete Wolff | ID 8ca70a68] 2021-12-20: HDL 44.4 mg/dL; LDL 103.8 mg/dL; Triglycerides 172.5 mg/dL; Potassium 3.9 mmol/L; Total cholesterol 156.9 mg/dL; Creatinine 3.4 mg/dL; BUN 10.8 mg/dL; Glucose 90.1 mg/dL; Sodium 141 mmol/L
+[Ms. Margarete Wolff | ID 8ca70a68] 2021-12-13: BP 103/76 mmHg; Resp rate 12 /min; Heart rate 94 /min; Weight 83.9 kg; Height 172.9 cm; BMI 28.1 kg/m2
+[Ms. Margarete Wolff | ID 8ca70a68] 2021-08-09: BP 117/73 mmHg; Height 172.9 cm; Weight 83.9 kg; BMI 28.1 kg/m2; Heart rate 72 /min; Resp rate 15 /min
+[Ms. Margarete Wolff | ID 8ca70a68] 2020-12-10: Total cholesterol 177 mg/dL; LDL 108.2 mg/dL; Triglycerides 132.1 mg/dL; Potassium 5.2 mmol/L; HDL 42 mg/dL; Creatinine 2.7 mg/dL; BUN 16.5 mg/dL; Glucose 96.4 mg/dL; Sodium 142.6 mmol/L
+[Ms. Margarete Wolff | ID 8ca70a68] 2020-12-07: BP 115/75 mmHg; Height 172.9 cm; Weight 83.9 kg; BMI 28.1 kg/m2; Heart rate 79 /min; Resp rate 13 /min
+[Ms. Margarete Wolff | ID 8ca70a68] 2019-12-11: HDL 42 mg/dL; Triglycerides 101.8 mg/dL; Total cholesterol 181.1 mg/dL; Potassium 5.1 mmol/L; LDL 114.5 mg/dL; Creatinine 2.6 mg/dL; BUN 9.9 mg/dL; Glucose 78.7 mg/dL; Sodium 143.8 mmol/L
+[Ms. Margarete Wolff | ID 8ca70a68] 2019-12-02: BP 118/79 mmHg; Resp rate 13 /min; LDL 115.1 mg/dL; Triglycerides 129.8 mg/dL; Total cholesterol 197.8 mg/dL; Heart rate 65 /min; HDL 56.7 mg/dL; BMI 28.1 kg/m2; Weight 83.9 kg; Height 172.9 cm
+[Ms. Margarete Wolff | ID 8ca70a68] 2018-12-11: HDL 76.9 mg/dL; LDL 122.8 mg/dL; Triglycerides 135.5 mg/dL; Potassium 4.2 mmol/L; Total cholesterol 191.6 mg/dL; Creatinine 3.3 mg/dL; BUN 19.8 mg/dL; Glucose 82.8 mg/dL; Sodium 140.4 mmol/L
+[Ms. Margarete Wolff | ID 8ca70a68] 2018-11-26: BP 115/77 mmHg; Heart rate 88 /min; Resp rate 14 /min; Weight 83.9 kg; Height 172.9 cm; BMI 28.1 kg/m2
+[Ms. Margarete Wolff | ID 8ca70a68] 2017-11-20: BP 114/70 mmHg; Height 172.9 cm; Hemoglobin 13.3 g/dL; Resp rate 12 /min; Heart rate 90 /min; BMI 28.1 kg/m2; Weight 83.9 kg; Potassium 4.2 mmol/L; Creatinine 3.5 mg/dL; BUN 9.4 mg/dL; Glucose 98 mg/dL; HDL 63 mg/dL; Sodium 136.1 mmol/L; LDL 148.6 mg/dL; Triglycerides 356.1 mg/dL; Total cholesterol 286.9 mg/dL
+[Ms. Margarete Wolff | ID 8ca70a68] 2016-11-14: BP 116/76 mmHg; Height 172.9 cm; HDL 57.1 mg/dL; Triglycerides 134.6 mg/dL; Total cholesterol 151 mg/dL; Resp rate 15 /min; LDL 67 mg/dL; BMI 28.1 kg/m2; Weight 83.9 kg; Heart rate 96 /min

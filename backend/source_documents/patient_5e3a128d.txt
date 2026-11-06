@@ -1,0 +1,47 @@
+PATIENT SUMMARY | Mr. Jason Gleason | ID 5e3a128d
+DOB: 1998-02-23 | Age: 28 | Gender: M | Status: Alive
+
+ACTIVE CONDITIONS | Mr. Jason Gleason | ID 5e3a128d
+- Victim of intimate partner abuse — since 2017-04-24
+- Anemia — since 2026-04-06
+- Prediabetes — since 2026-04-06
+
+RESOLVED CONDITIONS | Mr. Jason Gleason | ID 5e3a128d
+- Acute bronchitis — 2019-04-05 to 2026-04-14
+- Gingival disease — 2023-05-15 to 2023-05-15
+- Leaking dental filling — 2023-05-15 to 2023-05-15
+- Gingivitis — 2026-04-06 to 2026-04-27
+
+CURRENT MEDICATIONS | Mr. Jason Gleason | ID 5e3a128d
+- None recorded.
+
+PAST MEDICATIONS | Mr. Jason Gleason | ID 5e3a128d
+- Acetaminophen 325 MG Oral Tablet — 2019-04-05 to 2026-04-14
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2023-05-15 to 2026-05-25
+
+ALLERGIES | Mr. Jason Gleason | ID 5e3a128d
+- No known allergies.
+
+LATEST VITALS & LABS | Mr. Jason Gleason | ID 5e3a128d
+- BMI: 27.2 kg/m2 (2026-05-11)
+- BUN: 8.5 mg/dL (2026-05-11)
+- Creatinine: 1.3 mg/dL (2026-05-11)
+- Glucose: 77.3 mg/dL (2026-05-11)
+- HbA1c: 6.4 % (2026-05-11)
+- Heart rate: 68 /min (2026-05-11)
+- Height: 178.1 cm (2026-05-11)
+- Hemoglobin: 11.5 g/dL (2026-04-13)
+- Potassium: 3.9 mmol/L (2026-05-11)
+- Resp rate: 13 /min (2026-05-11)
+- Sodium: 142.5 mmol/L (2026-05-11)
+- Weight: 86.4 kg (2026-05-11)
+- Blood pressure: 115/83 mmHg (2026-05-11)
+
+VISIT HISTORY (vitals & labs by date) | Mr. Jason Gleason | ID 5e3a128d
+[Mr. Jason Gleason | ID 5e3a128d] 2026-05-11: BP 115/83 mmHg; Creatinine 1.3 mg/dL; BUN 8.5 mg/dL; Glucose 77.3 mg/dL; Resp rate 13 /min; Heart rate 68 /min; Weight 86.4 kg; BMI 27.2 kg/m2; Height 178.1 cm; HbA1c 6.4 %; Sodium 142.5 mmol/L; Potassium 3.9 mmol/L
+[Mr. Jason Gleason | ID 5e3a128d] 2026-04-13: Hemoglobin 11.5 g/dL
+[Mr. Jason Gleason | ID 5e3a128d] 2026-04-06: BP 118/83 mmHg; Hemoglobin 17 g/dL; Sodium 142.6 mmol/L; Creatinine 1.3 mg/dL; BUN 12 mg/dL; Glucose 91.1 mg/dL; Resp rate 13 /min; Potassium 4.4 mmol/L; BMI 27.2 kg/m2; Weight 86.4 kg; Height 178.1 cm; HbA1c 6 %; Heart rate 81 /min
+[Mr. Jason Gleason | ID 5e3a128d] 2023-05-01: BP 122/81 mmHg; Heart rate 72 /min; Resp rate 14 /min; Weight 82.3 kg; Height 178.1 cm; BMI 26 kg/m2
+[Mr. Jason Gleason | ID 5e3a128d] 2020-04-27: BP 118/78 mmHg; Height 178.1 cm; Weight 77.2 kg; BMI 24.3 kg/m2; Heart rate 89 /min; Resp rate 13 /min
+[Mr. Jason Gleason | ID 5e3a128d] 2019-04-15: BP 119/81 mmHg; Hemoglobin 15.2 g/dL; Resp rate 14 /min; Heart rate 90 /min; BMI 23.9 kg/m2; Weight 75.9 kg; Height 178.1 cm
+[Mr. Jason Gleason | ID 5e3a128d] 2017-04-24: BP 111/78 mmHg; Height 177.9 cm; Weight 69.6 kg; BMI 22 kg/m2; Heart rate 72 /min; Resp rate 12 /min

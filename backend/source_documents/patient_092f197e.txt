@@ -1,0 +1,63 @@
+PATIENT SUMMARY | Laura Bashirian | ID 092f197e
+DOB: 2014-09-21 | Age: 12 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Laura Bashirian | ID 092f197e
+- Atopic dermatitis — since 2015-03-08
+- Perennial allergic rhinitis — since 2018-05-10
+
+RESOLVED CONDITIONS | Laura Bashirian | ID 092f197e
+- Otitis media — 2017-09-16 to 2018-02-25
+- Acute viral pharyngitis — 2018-04-07 to 2018-04-15
+- Viral sinusitis — 2019-08-05 to 2026-02-15
+- Acute bronchitis — 2022-06-30 to 2022-07-13
+- Burn injury — 2022-10-02 to 2022-11-05
+- Partial thickness burn — 2022-10-02 to 2022-11-05
+- Fracture of bone — 2023-10-08 to 2023-12-10
+- Fracture of forearm — 2023-10-08 to 2023-12-10
+- Primary dental caries — 2024-10-06 to 2024-10-06
+
+CURRENT MEDICATIONS | Laura Bashirian | ID 092f197e
+- Loratadine 5 MG Chewable Tablet — since 2015-03-28
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector — since 2015-03-28
+
+PAST MEDICATIONS | Laura Bashirian | ID 092f197e
+- Acetaminophen 160 MG Chewable Tablet — 2022-10-02 to 2022-11-05
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution — 2022-06-30 to 2022-07-13
+- Amoxicillin 500 MG Oral Tablet — 2017-09-16 to 2022-11-05
+- Hydrocortisone 10 MG/ML Topical Cream — 2020-08-28 to 2025-07-04
+- Ibuprofen 100 MG Oral Tablet — 2017-09-16 to 2023-12-10
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2023-10-01 to 2024-10-06
+
+ALLERGIES | Laura Bashirian | ID 092f197e
+- Bee venom (environment allergy)
+- Mold (organism) (environment allergy)
+- Animal dander (environment allergy) — reaction: Rhinoconjunctivitis (MODERATE)
+- Grass pollen (environment allergy)
+- Tree pollen (environment allergy)
+
+LATEST VITALS & LABS | Laura Bashirian | ID 092f197e
+- BMI: 29.8 kg/m2 (2026-01-25)
+- Heart rate: 71 /min (2026-01-25)
+- Height: 153.7 cm (2026-01-25)
+- Hemoglobin: 17.2 g/dL (2025-10-05)
+- Resp rate: 16 /min (2026-01-25)
+- Weight: 70.4 kg (2026-01-25)
+- Blood pressure: 146/86 mmHg (2026-01-25)
+
+VISIT HISTORY (vitals & labs by date) | Laura Bashirian | ID 092f197e
+[Laura Bashirian | ID 092f197e] 2026-01-25: BP 146/86 mmHg; Heart rate 71 /min; Height 153.7 cm; Weight 70.4 kg; BMI 29.8 kg/m2; Resp rate 16 /min
+[Laura Bashirian | ID 092f197e] 2025-10-05: BP 139/83 mmHg; Hemoglobin 17.2 g/dL; Resp rate 14 /min; Heart rate 88 /min; BMI 33.3 kg/m2; Weight 76.2 kg; Height 151.3 cm
+[Laura Bashirian | ID 092f197e] 2024-09-29: BP 139/82 mmHg; Height 144.7 cm; Weight 59 kg; BMI 28.2 kg/m2; Heart rate 75 /min; Resp rate 15 /min
+[Laura Bashirian | ID 092f197e] 2023-09-24: BP 139/79 mmHg; Heart rate 88 /min; Resp rate 13 /min; BMI 22.9 kg/m2; Weight 44.4 kg; Height 139.2 cm
+[Laura Bashirian | ID 092f197e] 2022-09-18: BP 141/81 mmHg; Height 133.1 cm; Weight 34.7 kg; BMI 19.6 kg/m2; Heart rate 79 /min; Resp rate 13 /min
+[Laura Bashirian | ID 092f197e] 2022-07-10: BP 138/86 mmHg; Resp rate 14 /min; Heart rate 68 /min; BMI 19.2 kg/m2; Weight 33.5 kg; Height 132.1 cm
+[Laura Bashirian | ID 092f197e] 2021-09-12: BP 153/84 mmHg; Height 126.6 cm; Weight 28.6 kg; BMI 17.8 kg/m2; Heart rate 98 /min; Resp rate 15 /min
+[Laura Bashirian | ID 092f197e] 2020-09-06: BP 145/78 mmHg; Heart rate 75 /min; Resp rate 13 /min; Height 119.5 cm; BMI 17.9 kg/m2; Weight 25.5 kg
+[Laura Bashirian | ID 092f197e] 2020-05-17: BP 142/80 mmHg; Height 117 cm; Weight 25 kg; BMI 18.3 kg/m2; Heart rate 76 /min; Resp rate 15 /min; Hemoglobin 13.8 g/dL
+[Laura Bashirian | ID 092f197e] 2019-09-01: BP 140/79 mmHg; Resp rate 15 /min; Heart rate 97 /min; BMI 19.5 kg/m2; Weight 24.5 kg; Height 112 cm
+[Laura Bashirian | ID 092f197e] 2019-08-04: BP 145/78 mmHg; Height 111.4 cm; Weight 24.4 kg; BMI 19.7 kg/m2; Heart rate 83 /min; Resp rate 14 /min
+[Laura Bashirian | ID 092f197e] 2018-08-26: BP 151/88 mmHg; Heart rate 87 /min; Resp rate 14 /min; BMI 17.4 kg/m2; Weight 19.1 kg; Height 104.7 cm
+[Laura Bashirian | ID 092f197e] 2018-02-25: BP 137/79 mmHg; Height 101.1 cm; Weight 18.1 kg; BMI 17.7 kg/m2; Heart rate 75 /min; Resp rate 13 /min
+[Laura Bashirian | ID 092f197e] 2017-08-27: BP 142/79 mmHg; Resp rate 16 /min; Heart rate 73 /min; Weight 17.6 kg; BMI 18.5 kg/m2; Height 97.4 cm
+[Laura Bashirian | ID 092f197e] 2017-02-26: BP 142/81 mmHg; Height 93.2 cm; Weight 16.3 kg; BMI 18.8 kg/m2; Heart rate 79 /min; Resp rate 13 /min
+[Laura Bashirian | ID 092f197e] 2016-08-28: BP 139/81 mmHg; Height 88.7 cm; Weight 14.9 kg; Heart rate 83 /min; Resp rate 14 /min

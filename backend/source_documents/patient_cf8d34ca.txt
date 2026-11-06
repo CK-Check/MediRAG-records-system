@@ -1,0 +1,40 @@
+PATIENT SUMMARY | Mrs. Wynona Reichel | ID cf8d34ca
+DOB: 1998-06-20 | Age: 28 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Mrs. Wynona Reichel | ID cf8d34ca
+- Past pregnancy history of miscarriage — since 2022-08-26
+
+RESOLVED CONDITIONS | Mrs. Wynona Reichel | ID cf8d34ca
+- Perennial allergic rhinitis — 2001-11-11 to 2017-06-24
+- Limited social contact — 2016-08-13 to 2017-08-19
+- Gingivitis — 2017-08-19 to 2017-09-03
+- Normal pregnancy — 2019-02-23 to 2025-08-30
+- Viral sinusitis — 2020-05-18 to 2022-05-10
+- Congenital uterine anomaly — 2022-08-13 to 2024-04-24
+- Miscarriage in second trimester — 2022-08-13 to 2024-04-24
+
+CURRENT MEDICATIONS | Mrs. Wynona Reichel | ID cf8d34ca
+- Loratadine 5 MG Chewable Tablet — since 2001-11-11
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector — since 2001-12-01
+
+PAST MEDICATIONS | Mrs. Wynona Reichel | ID cf8d34ca
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet — 2022-04-25 to 2022-05-10
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2023-09-10 to 2023-09-10
+- {21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day] — 2022-10-31 to 2023-10-26
+
+ALLERGIES | Mrs. Wynona Reichel | ID cf8d34ca
+- No known allergies.
+
+LATEST VITALS & LABS | Mrs. Wynona Reichel | ID cf8d34ca
+- BMI: 27.2 kg/m2 (2023-08-26)
+- Heart rate: 75 /min (2023-08-26)
+- Height: 176.6 cm (2023-08-26)
+- Hemoglobin: 13.6 g/dL (2020-08-22)
+- Resp rate: 12 /min (2023-08-26)
+- Weight: 84.8 kg (2023-08-26)
+- Blood pressure: 116/82 mmHg (2023-08-26)
+
+VISIT HISTORY (vitals & labs by date) | Mrs. Wynona Reichel | ID cf8d34ca
+[Mrs. Wynona Reichel | ID cf8d34ca] 2023-08-26: BP 116/82 mmHg; Height 176.6 cm; Weight 84.8 kg; BMI 27.2 kg/m2; Heart rate 75 /min; Resp rate 12 /min
+[Mrs. Wynona Reichel | ID cf8d34ca] 2020-08-22: BP 116/77 mmHg; Hemoglobin 13.6 g/dL; Resp rate 15 /min; Heart rate 72 /min; BMI 25.8 kg/m2; Weight 80.5 kg; Height 176.6 cm
+[Mrs. Wynona Reichel | ID cf8d34ca] 2017-08-19: BP 111/79 mmHg; Height 176.5 cm; Weight 79 kg; BMI 25.4 kg/m2; Heart rate 62 /min; Resp rate 14 /min

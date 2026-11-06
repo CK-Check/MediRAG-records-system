@@ -1,0 +1,49 @@
+PATIENT SUMMARY | Clara Denesik | ID fdaff3b2
+DOB: 2010-05-06 | Age: 16 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Clara Denesik | ID fdaff3b2
+- None recorded.
+
+RESOLVED CONDITIONS | Clara Denesik | ID fdaff3b2
+- Otitis media — 2017-04-13 to 2017-04-27
+- Acute bronchitis — 2018-10-18 to 2018-11-07
+- Gingivitis — 2019-05-09 to 2022-06-09
+- Primary dental caries — 2019-05-16 to 2019-05-16
+- Viral sinusitis — 2021-01-16 to 2021-01-24
+- Severe anxiety (panic) — 2022-05-26 to 2024-06-06
+- Child attention deficit disorder — 2024-03-13 to 2025-08-10
+
+CURRENT MEDICATIONS | Clara Denesik | ID fdaff3b2
+- None recorded.
+
+PAST MEDICATIONS | Clara Denesik | ID fdaff3b2
+- Acetaminophen 160 MG Chewable Tablet — 2017-04-13 to 2017-04-27
+- Acetaminophen 325 MG Oral Tablet — 2018-10-18 to 2018-11-07
+- Cefuroxime 250 MG Oral Tablet — 2017-04-13 to 2017-04-27
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2018-05-10 to 2026-07-02
+- {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] — 2025-04-30 to 2026-04-25
+
+ALLERGIES | Clara Denesik | ID fdaff3b2
+- No known allergies.
+
+LATEST VITALS & LABS | Clara Denesik | ID fdaff3b2
+- BMI: 19.6 kg/m2 (2026-06-18)
+- Heart rate: 75 /min (2026-06-18)
+- Height: 155.9 cm (2026-06-18)
+- Hemoglobin: 12.4 g/dL (2026-06-18)
+- Resp rate: 13 /min (2026-06-18)
+- Weight: 47.7 kg (2026-06-18)
+- Blood pressure: 99/77 mmHg (2026-06-18)
+
+VISIT HISTORY (vitals & labs by date) | Clara Denesik | ID fdaff3b2
+[Clara Denesik | ID fdaff3b2] 2026-06-18: BP 99/77 mmHg; Heart rate 75 /min; Resp rate 13 /min; Weight 47.7 kg; Height 155.9 cm; BMI 19.6 kg/m2; Hemoglobin 12.4 g/dL
+[Clara Denesik | ID fdaff3b2] 2025-06-12: BP 99/76 mmHg; Height 155.3 cm; Weight 47.3 kg; BMI 19.6 kg/m2; Heart rate 89 /min; Resp rate 15 /min
+[Clara Denesik | ID fdaff3b2] 2024-06-06: BP 89/73 mmHg; Resp rate 13 /min; Heart rate 79 /min; Weight 42.8 kg; BMI 18.1 kg/m2; Height 153.8 cm
+[Clara Denesik | ID fdaff3b2] 2023-06-01: BP 94/74 mmHg; Heart rate 73 /min; Resp rate 14 /min; Weight 37.8 kg; Height 150.2 cm; BMI 16.8 kg/m2
+[Clara Denesik | ID fdaff3b2] 2022-05-26: BP 96/72 mmHg; Resp rate 13 /min; Height 143.8 cm; Weight 33.5 kg; BMI 16.2 kg/m2; Heart rate 81 /min
+[Clara Denesik | ID fdaff3b2] 2021-05-20: BP 92/71 mmHg; Resp rate 12 /min; Hemoglobin 15.3 g/dL; Heart rate 72 /min; BMI 15.6 kg/m2; Weight 29.1 kg; Height 136.8 cm
+[Clara Denesik | ID fdaff3b2] 2020-05-14: BP 97/77 mmHg; Heart rate 78 /min; Height 131.4 cm; Weight 26.7 kg; BMI 15.5 kg/m2; Resp rate 14 /min
+[Clara Denesik | ID fdaff3b2] 2019-05-09: BP 96/77 mmHg; Resp rate 14 /min; Heart rate 95 /min; Weight 24.8 kg; Height 126.8 cm; BMI 15.4 kg/m2
+[Clara Denesik | ID fdaff3b2] 2018-10-11: BP 91/68 mmHg; Heart rate 80 /min; Resp rate 13 /min; Weight 23 kg; Height 124 cm; BMI 15 kg/m2
+[Clara Denesik | ID fdaff3b2] 2018-05-03: BP 97/75 mmHg; Resp rate 15 /min; Heart rate 93 /min; Weight 21.3 kg; BMI 14.4 kg/m2; Height 121.4 cm
+[Clara Denesik | ID fdaff3b2] 2017-04-27: BP 89/74 mmHg; Height 115.7 cm; Weight 18.3 kg; BMI 13.7 kg/m2; Heart rate 62 /min; Resp rate 14 /min

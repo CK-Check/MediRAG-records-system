@@ -1,0 +1,61 @@
+PATIENT SUMMARY | Mrs. Serina Sauer | ID 09d73629
+DOB: 1959-04-04 | Age: 67 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Mrs. Serina Sauer | ID 09d73629
+- Prediabetes — since 1984-06-09
+- Pulmonary emphysema — since 2024-04-06
+- Severe anxiety (panic) — since 2025-01-04
+
+RESOLVED CONDITIONS | Mrs. Serina Sauer | ID 09d73629
+- Limited social contact — 2013-04-27 to 2026-07-11
+- Dental filling lost — 2017-06-03 to 2017-06-03
+- Acute viral pharyngitis — 2017-07-25 to 2025-01-20
+- Gingivitis — 2017-08-05 to 2023-07-08
+- Acute bacterial sinusitis — 2020-06-23 to 2020-08-05
+- Chronic sinusitis — 2020-07-29 to 2020-08-05
+- Leaking dental filling — 2023-07-08 to 2023-07-08
+
+CURRENT MEDICATIONS | Mrs. Serina Sauer | ID 09d73629
+- 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler — since 2026-07-11, for Pulmonary emphysema
+- albuterol 5 MG/ML Inhalation Solution — since 2026-07-11, for Pulmonary emphysema
+
+PAST MEDICATIONS | Mrs. Serina Sauer | ID 09d73629
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2017-06-03 to 2024-04-27
+
+ALLERGIES | Mrs. Serina Sauer | ID 09d73629
+- No known allergies.
+
+LATEST VITALS & LABS | Mrs. Serina Sauer | ID 09d73629
+- BMI: 27.6 kg/m2 (2026-07-11)
+- BUN: 9.9 mg/dL (2026-07-11)
+- Creatinine: 1 mg/dL (2026-07-11)
+- Glucose: 99.3 mg/dL (2026-07-11)
+- HDL: 58.7 mg/dL (2024-06-29)
+- HbA1c: 6 % (2026-07-11)
+- Heart rate: 92 /min (2026-07-11)
+- Height: 166.2 cm (2026-07-11)
+- Hemoglobin: 17.4 g/dL (2026-07-11)
+- LDL: 48.1 mg/dL (2024-06-29)
+- Potassium: 4 mmol/L (2026-07-11)
+- Resp rate: 14 /min (2026-07-11)
+- Sodium: 142.4 mmol/L (2026-07-11)
+- Total cholesterol: 134.6 mg/dL (2024-06-29)
+- Triglycerides: 139.3 mg/dL (2024-06-29)
+- Weight: 76.2 kg (2026-07-11)
+- Blood pressure: 120/82 mmHg (2026-07-11)
+
+VISIT HISTORY (vitals & labs by date) | Mrs. Serina Sauer | ID 09d73629
+[Mrs. Serina Sauer | ID 09d73629] 2026-07-11: BP 120/82 mmHg; Sodium 142.4 mmol/L; Creatinine 1 mg/dL; BUN 9.9 mg/dL; Glucose 99.3 mg/dL; Resp rate 14 /min; Heart rate 92 /min; BMI 27.6 kg/m2; Weight 76.2 kg; Height 166.2 cm; HbA1c 6 %; Potassium 4 mmol/L; Hemoglobin 17.4 g/dL
+[Mrs. Serina Sauer | ID 09d73629] 2025-07-05: BP 125/83 mmHg; Glucose 71.9 mg/dL; Sodium 140 mmol/L; Creatinine 0.7 mg/dL; Potassium 4.1 mmol/L; BUN 10.5 mg/dL; Resp rate 15 /min; Weight 76.2 kg; BMI 27.6 kg/m2; Height 166.2 cm; HbA1c 6.1 %; Heart rate 96 /min
+[Mrs. Serina Sauer | ID 09d73629] 2025-01-04: BP 124/78 mmHg; Potassium 4.2 mmol/L; Sodium 139.6 mmol/L; Creatinine 0.7 mg/dL; BUN 17.7 mg/dL; Glucose 98.6 mg/dL; Resp rate 13 /min; BMI 27.6 kg/m2; Weight 76.2 kg; Height 166.2 cm; HbA1c 6.1 %; Heart rate 86 /min
+[Mrs. Serina Sauer | ID 09d73629] 2024-06-29: BP 123/80 mmHg; BUN 18.1 mg/dL; LDL 48.1 mg/dL; Triglycerides 139.3 mg/dL; Total cholesterol 134.6 mg/dL; HDL 58.7 mg/dL; Sodium 139.6 mmol/L; Creatinine 0.9 mg/dL; Glucose 70.2 mg/dL; Potassium 4.6 mmol/L; Heart rate 80 /min; BMI 27.6 kg/m2; Weight 76.2 kg; Height 166.2 cm; HbA1c 6 %; Resp rate 13 /min
+[Mrs. Serina Sauer | ID 09d73629] 2024-04-06: BP 116/76 mmHg; Potassium 5.1 mmol/L; Sodium 136.6 mmol/L; Creatinine 0.7 mg/dL; BUN 15.5 mg/dL; Glucose 94.5 mg/dL; Resp rate 16 /min; HbA1c 6 %; BMI 27.6 kg/m2; Weight 76.2 kg; Height 166.2 cm; Heart rate 88 /min
+[Mrs. Serina Sauer | ID 09d73629] 2023-06-24: BP 120/79 mmHg; Potassium 4.1 mmol/L; Sodium 138 mmol/L; Creatinine 1.1 mg/dL; BUN 17 mg/dL; Glucose 85.9 mg/dL; Resp rate 13 /min; Heart rate 92 /min; BMI 27.6 kg/m2; Weight 76.2 kg; Height 166.2 cm; HbA1c 6.1 %
+[Mrs. Serina Sauer | ID 09d73629] 2022-06-18: BP 117/81 mmHg; Glucose 94.7 mg/dL; Potassium 4.1 mmol/L; Sodium 144 mmol/L; Creatinine 1.2 mg/dL; BUN 19 mg/dL; Resp rate 15 /min; BMI 27.6 kg/m2; Heart rate 77 /min; Weight 76.2 kg; Height 166.2 cm; HbA1c 6.4 %
+[Mrs. Serina Sauer | ID 09d73629] 2021-06-12: BP 119/78 mmHg; Creatinine 0.7 mg/dL; HDL 58.6 mg/dL; LDL 77.4 mg/dL; Hemoglobin 15.6 g/dL; Triglycerides 123.6 mg/dL; Total cholesterol 160.7 mg/dL; Potassium 4.3 mmol/L; Sodium 136.2 mmol/L; BUN 8.1 mg/dL; Weight 76.2 kg; Resp rate 14 /min; Heart rate 86 /min; BMI 27.6 kg/m2; Height 166.2 cm; HbA1c 6.1 %; Glucose 71.9 mg/dL
+[Mrs. Serina Sauer | ID 09d73629] 2020-06-06: BP 124/79 mmHg; Potassium 5.1 mmol/L; Sodium 141.6 mmol/L; Creatinine 0.7 mg/dL; BUN 19.1 mg/dL; Glucose 85.6 mg/dL; Heart rate 82 /min; Resp rate 14 /min; BMI 27.6 kg/m2; Weight 76.2 kg; Height 166.2 cm; HbA1c 6.4 %
+[Mrs. Serina Sauer | ID 09d73629] 2019-06-01: BP 123/79 mmHg; Glucose 65.2 mg/dL; Potassium 5 mmol/L; Sodium 142.2 mmol/L; Creatinine 0.8 mg/dL; BUN 9.6 mg/dL; Resp rate 13 /min; Weight 76.2 kg; BMI 27.6 kg/m2; Heart rate 64 /min; Height 166.2 cm; HbA1c 6.2 %
+[Mrs. Serina Sauer | ID 09d73629] 2018-05-26: BP 124/83 mmHg; HDL 62.1 mg/dL; LDL 52.5 mg/dL; Triglycerides 121.2 mg/dL; Total cholesterol 138.8 mg/dL; Potassium 4.7 mmol/L; Sodium 140.4 mmol/L; Creatinine 0.7 mg/dL; BUN 19.9 mg/dL; Resp rate 13 /min; Heart rate 79 /min; BMI 27.6 kg/m2; Weight 76.2 kg; Height 166.2 cm; HbA1c 6.3 %; Glucose 95.4 mg/dL
+[Mrs. Serina Sauer | ID 09d73629] 2017-08-12: HbA1c 6.2 %
+[Mrs. Serina Sauer | ID 09d73629] 2017-08-05: BP 114/85 mmHg; Resp rate 14 /min; Potassium 4.5 mmol/L; Creatinine 0.9 mg/dL; BUN 7 mg/dL; Glucose 84.8 mg/dL; Heart rate 78 /min; Sodium 142.8 mmol/L; BMI 27.6 kg/m2; Weight 76.2 kg; Height 166.2 cm; HbA1c 6.1 %
+[Mrs. Serina Sauer | ID 09d73629] 2017-05-20: BP 104/80 mmHg; HbA1c 6.3 %; Potassium 4.3 mmol/L; Sodium 139.2 mmol/L; Creatinine 0.7 mg/dL; Glucose 65.2 mg/dL; Resp rate 14 /min; BUN 16.6 mg/dL; BMI 27.6 kg/m2; Weight 76.2 kg; Height 166.2 cm; Heart rate 86 /min

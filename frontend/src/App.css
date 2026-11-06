@@ -1,0 +1,64 @@
+/* App.css - self-contained styles. Also resets the default Vite template styles
+   (centred body, narrow #root) that otherwise squash a chat layout. */
+   :root {
+    color-scheme: light dark;
+    --bg: #ffffff;
+    --fg: #1f2933;
+    --muted: rgba(100, 110, 120, 0.9);
+    --border: rgba(128, 128, 128, 0.35);
+    --accent: #2563eb;
+    --user-bg: #2563eb;
+    --user-fg: #ffffff;
+    --error-bg: rgba(220, 38, 38, 0.1);
+    --error-fg: #b91c1c;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #14181d;
+      --fg: #e6e9ec;
+      --muted: rgba(160, 170, 180, 0.9);
+      --accent: #60a5fa;
+      --user-bg: #1d4ed8;
+      --error-bg: rgba(248, 113, 113, 0.12);
+      --error-fg: #fca5a5;
+    }
+  }
+  
+  html, body { height: 100%; }
+  body { margin: 0; display: block; background: var(--bg); color: var(--fg);
+    font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif; }
+  /* Cancel EVERY property of the Vite template's #root rule (fixed 1126px width, side borders,
+     flex column, centred text) so the page uses the full window and .app centres itself. */
+  #root { width: 100%; max-width: none; margin: 0; padding: 0; border: 0; text-align: left;
+    height: 100%; min-height: 0; display: block; box-sizing: border-box; }
+  
+  .app { width: 100%; max-width: 860px; height: 100%; margin: 0 auto; padding: 0 16px; display: flex; flex-direction: column; box-sizing: border-box; }
+  
+  .app-header { display: flex; align-items: center; gap: 12px; padding: 14px 0; border-bottom: 1px solid var(--border); color: var(--accent); }
+  .app-header h1 { margin: 0; font-size: 20px; color: var(--fg); }
+  .app-header p { margin: 2px 0 0; font-size: 13px; color: var(--muted); }
+  
+  .messages { flex: 1; overflow-y: auto; padding: 16px 0; }
+  
+  .empty { text-align: center; color: var(--muted); margin-top: 8vh; }
+  .examples { display: flex; flex-direction: column; align-items: center; gap: 8px; margin-top: 16px; }
+  .example { font: inherit; font-size: 14px; color: var(--fg); background: transparent; border: 1px solid var(--border);
+    border-radius: 999px; padding: 8px 14px; cursor: pointer; }
+  .example:hover { border-color: var(--accent); color: var(--accent); }
+  
+  .bubble { max-width: 80%; padding: 10px 14px; border-radius: 14px; margin: 8px 0; white-space: pre-wrap; word-break: break-word; line-height: 1.5; }
+  .bubble.user { margin-left: auto; background: var(--user-bg); color: var(--user-fg); border-bottom-right-radius: 4px; }
+  .bubble.error { background: var(--error-bg); color: var(--error-fg); }
+  
+  .loading { display: flex; align-items: center; gap: 8px; color: var(--muted); font-size: 14px; margin: 10px 0; }
+  .spin { animation: spin 1s linear infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  
+  .composer { display: flex; gap: 8px; padding-top: 12px; border-top: 1px solid var(--border); }
+  .composer input { flex: 1; font: inherit; color: var(--fg); background: transparent; border: 1px solid var(--border); border-radius: 10px; padding: 11px 14px; }
+  .composer input:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
+  .composer button { display: inline-flex; align-items: center; justify-content: center; width: 46px; border: 0; border-radius: 10px;
+    background: var(--accent); color: #fff; cursor: pointer; }
+  .composer button:disabled { opacity: 0.45; cursor: not-allowed; }
+  
+  .disclaimer { text-align: center; font-size: 12px; color: var(--muted); margin: 8px 0 12px; }

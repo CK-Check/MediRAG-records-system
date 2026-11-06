@@ -1,0 +1,47 @@
+PATIENT SUMMARY | Allene Bartell | ID 848b16a4
+DOB: 2011-08-14 | Age: 15 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Allene Bartell | ID 848b16a4
+- Perennial allergic rhinitis with seasonal variation — since 2014-10-26
+
+RESOLVED CONDITIONS | Allene Bartell | ID 848b16a4
+- Viral sinusitis — 2017-05-07 to 2017-05-14
+- Primary dental caries — 2021-08-30 to 2021-08-30
+- Gingivitis — 2022-08-28 to 2023-09-18
+- Closed fracture of hip — 2022-11-14 to 2022-12-25
+- Fracture of bone — 2022-11-14 to 2022-12-25
+
+CURRENT MEDICATIONS | Allene Bartell | ID 848b16a4
+- Fexofenadine hydrochloride 30 MG Oral Tablet — since 2014-10-26
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector — since 2014-11-02
+- {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] — since 2026-08-08
+
+PAST MEDICATIONS | Allene Bartell | ID 848b16a4
+- Acetaminophen 160 MG Chewable Tablet — 2022-11-15 to 2022-12-25
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet — 2017-05-07 to 2017-05-14
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2018-08-13 to 2022-09-05
+
+ALLERGIES | Allene Bartell | ID 848b16a4
+- Mold (organism) (environment allergy) — reaction: Cutaneous hypersensitivity (MILD)
+
+LATEST VITALS & LABS | Allene Bartell | ID 848b16a4
+- BMI: 24.8 kg/m2 (2025-09-14)
+- Heart rate: 96 /min (2025-09-14)
+- Height: 161.8 cm (2025-09-14)
+- Hemoglobin: 14.6 g/dL (2022-08-28)
+- Resp rate: 14 /min (2025-09-14)
+- Weight: 64.8 kg (2025-09-14)
+- Blood pressure: 124/60 mmHg (2025-09-14)
+
+VISIT HISTORY (vitals & labs by date) | Allene Bartell | ID 848b16a4
+[Allene Bartell | ID 848b16a4] 2025-09-14: BP 124/60 mmHg; Heart rate 96 /min; Height 161.8 cm; Weight 64.8 kg; BMI 24.8 kg/m2; Resp rate 14 /min
+[Allene Bartell | ID 848b16a4] 2024-09-08: BP 128/67 mmHg; Resp rate 13 /min; Heart rate 78 /min; Weight 62 kg; Height 158.6 cm; BMI 24.7 kg/m2
+[Allene Bartell | ID 848b16a4] 2023-09-03: BP 131/67 mmHg; Heart rate 79 /min; Resp rate 14 /min; Weight 55.2 kg; BMI 23.6 kg/m2; Height 152.8 cm
+[Allene Bartell | ID 848b16a4] 2022-08-28: BP 129/65 mmHg; Hemoglobin 14.6 g/dL; Resp rate 14 /min; Heart rate 67 /min; Height 145.5 cm; BMI 22.4 kg/m2; Weight 47.4 kg
+[Allene Bartell | ID 848b16a4] 2021-08-22: BP 133/66 mmHg; Height 139.4 cm; Weight 43.4 kg; BMI 22.4 kg/m2; Heart rate 99 /min; Resp rate 13 /min
+[Allene Bartell | ID 848b16a4] 2020-08-16: BP 130/67 mmHg; Heart rate 61 /min; Resp rate 15 /min; BMI 21.2 kg/m2; Weight 38.2 kg; Height 134.2 cm
+[Allene Bartell | ID 848b16a4] 2019-08-11: BP 132/68 mmHg; Heart rate 82 /min; Height 128.4 cm; Weight 31.3 kg; BMI 19 kg/m2; Resp rate 13 /min
+[Allene Bartell | ID 848b16a4] 2018-08-05: BP 132/56 mmHg; Resp rate 15 /min; Heart rate 99 /min; Weight 26.2 kg; Height 122.2 cm; BMI 17.6 kg/m2
+[Allene Bartell | ID 848b16a4] 2017-07-30: BP 130/63 mmHg; Heart rate 60 /min; Resp rate 14 /min; Weight 22.2 kg; Height 115.3 cm; BMI 16.7 kg/m2
+[Allene Bartell | ID 848b16a4] 2017-04-30: BP 133/69 mmHg; Resp rate 13 /min; Heart rate 94 /min; Height 113.6 cm; BMI 16.5 kg/m2; Weight 21.3 kg
+[Allene Bartell | ID 848b16a4] 2017-04-23: BP 134/65 mmHg; Height 113.6 cm; Weight 21.3 kg; BMI 16.5 kg/m2; Heart rate 76 /min; Resp rate 15 /min; Hemoglobin 17.3 g/dL

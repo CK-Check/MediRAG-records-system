@@ -1,0 +1,60 @@
+PATIENT SUMMARY | Mrs. Nilda Ruecker | ID ec292e1a
+DOB: 1977-02-07 | Age: 49 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Mrs. Nilda Ruecker | ID ec292e1a
+- Anemia — since 1999-04-12
+- Prediabetes — since 1999-04-12
+- Refugee (person) — since 2002-04-15
+- History of tubal ligation — since 2002-07-12
+- Body mass index 30+ - obesity — since 2017-02-13
+- Victim of intimate partner abuse — since 2025-03-03
+
+RESOLVED CONDITIONS | Mrs. Nilda Ruecker | ID ec292e1a
+- Laceration - injury — 2018-05-19 to 2018-06-04
+- Laceration of hand — 2018-05-19 to 2018-06-04
+- Streptococcal sore throat — 2020-03-02 to 2020-03-13
+- Acute viral pharyngitis — 2020-08-11 to 2021-06-06
+- Gingivitis — 2021-02-22 to 2021-03-08
+- Primary dental caries — 2021-03-08 to 2021-03-08
+- Viral sinusitis — 2021-08-30 to 2021-09-11
+
+CURRENT MEDICATIONS | Mrs. Nilda Ruecker | ID ec292e1a
+- None recorded.
+
+PAST MEDICATIONS | Mrs. Nilda Ruecker | ID ec292e1a
+- Acetaminophen 325 MG Oral Tablet — 2018-05-19 to 2018-06-04
+- Penicillin V Potassium 500 MG Oral Tablet — 2020-03-02 to 2020-03-13
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2025-03-17 to 2025-03-17
+
+ALLERGIES | Mrs. Nilda Ruecker | ID ec292e1a
+- No known allergies.
+
+LATEST VITALS & LABS | Mrs. Nilda Ruecker | ID ec292e1a
+- BMI: 30.2 kg/m2 (2025-03-03)
+- BUN: 7 mg/dL (2025-03-03)
+- Creatinine: 0.9 mg/dL (2025-03-03)
+- Glucose: 73.4 mg/dL (2025-03-03)
+- HDL: 54.4 mg/dL (2023-02-27)
+- HbA1c: 6.2 % (2025-03-03)
+- Heart rate: 68 /min (2025-03-03)
+- Height: 164 cm (2025-03-03)
+- Hemoglobin: 16.3 g/dL (2023-02-27)
+- LDL: 127.4 mg/dL (2023-02-27)
+- Potassium: 4.1 mmol/L (2025-03-03)
+- Resp rate: 16 /min (2025-03-03)
+- Sodium: 143.9 mmol/L (2025-03-03)
+- Total cholesterol: 202 mg/dL (2023-02-27)
+- Triglycerides: 101.1 mg/dL (2023-02-27)
+- Weight: 81.1 kg (2025-03-03)
+- Blood pressure: 131/73 mmHg (2025-03-03)
+
+VISIT HISTORY (vitals & labs by date) | Mrs. Nilda Ruecker | ID ec292e1a
+[Mrs. Nilda Ruecker | ID ec292e1a] 2025-03-03: BP 131/73 mmHg; Creatinine 0.9 mg/dL; BUN 7 mg/dL; Glucose 73.4 mg/dL; Resp rate 16 /min; Heart rate 68 /min; Height 164 cm; BMI 30.2 kg/m2; Weight 81.1 kg; HbA1c 6.2 %; Sodium 143.9 mmol/L; Potassium 4.1 mmol/L
+[Mrs. Nilda Ruecker | ID ec292e1a] 2023-02-27: BP 139/74 mmHg; Hemoglobin 16.3 g/dL; HDL 54.4 mg/dL; LDL 127.4 mg/dL; Triglycerides 101.1 mg/dL; Total cholesterol 202 mg/dL; Sodium 143.2 mmol/L; Creatinine 0.9 mg/dL; BUN 16.3 mg/dL; Potassium 4.5 mmol/L; Resp rate 15 /min; Heart rate 81 /min; BMI 29.1 kg/m2; Weight 78.2 kg; Height 164 cm; HbA1c 6.2 %; Glucose 66.2 mg/dL
+[Mrs. Nilda Ruecker | ID ec292e1a] 2021-09-06: BP 140/77 mmHg; Sodium 136.5 mmol/L; Creatinine 0.9 mg/dL; BUN 12.5 mg/dL; Glucose 86.3 mg/dL; Resp rate 16 /min; Heart rate 74 /min; Potassium 4.4 mmol/L; BMI 28.3 kg/m2; Weight 76.1 kg; Height 164 cm; HbA1c 6.1 %
+[Mrs. Nilda Ruecker | ID ec292e1a] 2021-05-31: BP 146/70 mmHg; Potassium 4.2 mmol/L; Sodium 137.7 mmol/L; Creatinine 0.9 mg/dL; BUN 12.9 mg/dL; Glucose 99.6 mg/dL; Resp rate 15 /min; Heart rate 65 /min; BMI 28.2 kg/m2; Weight 75.7 kg; Height 164 cm; HbA1c 6.1 %
+[Mrs. Nilda Ruecker | ID ec292e1a] 2021-02-22: BP 129/71 mmHg; Glucose 87.2 mg/dL; Potassium 5 mmol/L; Sodium 137.1 mmol/L; Creatinine 0.9 mg/dL; BUN 13.7 mg/dL; Resp rate 14 /min; Heart rate 92 /min; BMI 28 kg/m2; Weight 75.4 kg; Height 164 cm; HbA1c 6.3 %
+[Mrs. Nilda Ruecker | ID ec292e1a] 2020-08-24: BP 139/75 mmHg; Potassium 5 mmol/L; Sodium 142.9 mmol/L; Creatinine 0.9 mg/dL; BUN 7.5 mg/dL; Glucose 89.6 mg/dL; Resp rate 14 /min; Heart rate 84 /min; BMI 29.1 kg/m2; Weight 78.2 kg; Height 164 cm; HbA1c 6.2 %
+[Mrs. Nilda Ruecker | ID ec292e1a] 2020-02-24: BP 129/70 mmHg; Glucose 75.4 mg/dL; Potassium 3.8 mmol/L; Sodium 140.3 mmol/L; Creatinine 0.9 mg/dL; BUN 11.4 mg/dL; Resp rate 16 /min; HbA1c 5.8 %; BMI 30.2 kg/m2; Weight 81.1 kg; Height 164 cm; Heart rate 97 /min
+[Mrs. Nilda Ruecker | ID ec292e1a] 2019-02-18: BP 137/72 mmHg; Creatinine 1.1 mg/dL; HDL 52.8 mg/dL; LDL 115.2 mg/dL; Triglycerides 145.3 mg/dL; Total cholesterol 197.1 mg/dL; Potassium 3.8 mmol/L; Sodium 141.7 mmol/L; BUN 19.6 mg/dL; Resp rate 14 /min; Heart rate 91 /min; BMI 30.2 kg/m2; Weight 81.1 kg; Height 164 cm; HbA1c 6.1 %; Glucose 94.6 mg/dL
+[Mrs. Nilda Ruecker | ID ec292e1a] 2017-02-13: BP 132/73 mmHg; HbA1c 6.1 %; Hemoglobin 12.6 g/dL; Potassium 3.8 mmol/L; Sodium 136.4 mmol/L; BUN 13.8 mg/dL; Glucose 69.6 mg/dL; Resp rate 14 /min; Creatinine 1 mg/dL; BMI 30.2 kg/m2; Weight 81.1 kg; Height 164 cm; Heart rate 87 /min

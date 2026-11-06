@@ -1,0 +1,51 @@
+PATIENT SUMMARY | Mr. Brooks Turcotte | ID f00916d4
+DOB: 1947-01-13 | Age: 79 | Gender: M | Status: Deceased
+
+ACTIVE CONDITIONS | Mr. Brooks Turcotte | ID f00916d4
+- Adolescent idiopathic scoliosis — since 1957-09-09
+- Victim of intimate partner abuse — since 1969-09-01
+- Limited social contact — since 1972-09-04
+- Anemia — since 1978-09-11
+- Prediabetes — since 1978-09-11
+- Body mass index 30+ - obesity — since 1984-09-17
+- Acquired immune deficiency syndrome — since 1988-12-29
+- Chronic type B viral hepatitis — since 1989-02-27
+
+RESOLVED CONDITIONS | Mr. Brooks Turcotte | ID f00916d4
+- Acute viral pharyngitis — 1988-05-02 to 1988-05-12
+
+CURRENT MEDICATIONS | Mr. Brooks Turcotte | ID f00916d4
+- ferrous sulfate 325 MG Oral Tablet — since 1978-09-18
+- zidovudine 300 MG Oral Tablet — since 1989-04-20, for Acquired immune deficiency syndrome
+
+PAST MEDICATIONS | Mr. Brooks Turcotte | ID f00916d4
+- None recorded.
+
+ALLERGIES | Mr. Brooks Turcotte | ID f00916d4
+- No known allergies.
+
+LATEST VITALS & LABS | Mr. Brooks Turcotte | ID f00916d4
+- BMI: 30.2 kg/m2 (1989-01-23)
+- BUN: 11.6 mg/dL (1989-01-23)
+- Creatinine: 2.9 mg/dL (1989-02-27)
+- Glucose: 94.9 mg/dL (1989-01-23)
+- HDL: 33.3 mg/dL (1989-02-27)
+- HbA1c: 5.9 % (1989-01-23)
+- Heart rate: 93 /min (1989-01-23)
+- Height: 183.6 cm (1989-01-23)
+- Hemoglobin: 9.9 g/dL (1989-02-27)
+- LDL: 100.6 mg/dL (1989-02-27)
+- Potassium: 4.2 mmol/L (1989-01-23)
+- Resp rate: 13 /min (1989-01-23)
+- Sodium: 142.4 mmol/L (1989-01-23)
+- Total cholesterol: 157.1 mg/dL (1989-02-27)
+- Triglycerides: 116.5 mg/dL (1989-02-27)
+- Weight: 101.8 kg (1989-01-23)
+- Blood pressure: 136/87 mmHg (1989-01-23)
+
+VISIT HISTORY (vitals & labs by date) | Mr. Brooks Turcotte | ID f00916d4
+[Mr. Brooks Turcotte | ID f00916d4] 1989-02-27: LDL 100.6 mg/dL; Hemoglobin 9.9 g/dL; Creatinine 2.9 mg/dL; Total cholesterol 157.1 mg/dL; Triglycerides 116.5 mg/dL; HDL 33.3 mg/dL
+[Mr. Brooks Turcotte | ID f00916d4] 1989-01-23: BP 136/87 mmHg; HDL 27.8 mg/dL; LDL 86.6 mg/dL; Triglycerides 144.2 mg/dL; Total cholesterol 143.2 mg/dL; Potassium 4.2 mmol/L; Sodium 142.4 mmol/L; Creatinine 1.4 mg/dL; BUN 11.6 mg/dL; Glucose 94.9 mg/dL; Heart rate 93 /min; BMI 30.2 kg/m2; Weight 101.8 kg; Height 183.6 cm; HbA1c 5.9 %; Resp rate 13 /min
+[Mr. Brooks Turcotte | ID f00916d4] 1987-01-19: BP 136/83 mmHg; Glucose 74.5 mg/dL; Hemoglobin 13.1 g/dL; Potassium 4.3 mmol/L; Sodium 141.8 mmol/L; Creatinine 1.6 mg/dL; BUN 13.4 mg/dL; Resp rate 14 /min; HbA1c 6.4 %; BMI 30.2 kg/m2; Weight 101.8 kg; Height 183.6 cm; Heart rate 62 /min
+[Mr. Brooks Turcotte | ID f00916d4] 1984-09-17: BP 138/83 mmHg; Creatinine 1.5 mg/dL; HDL 25.3 mg/dL; LDL 124.7 mg/dL; Triglycerides 145.3 mg/dL; Total cholesterol 179 mg/dL; Potassium 4.8 mmol/L; Sodium 143.1 mmol/L; BUN 17.6 mg/dL; Weight 101.8 kg; Resp rate 15 /min; Heart rate 79 /min; BMI 30.2 kg/m2; Height 183.6 cm; HbA1c 6.2 %; Glucose 67.2 mg/dL
+[Mr. Brooks Turcotte | ID f00916d4] 1981-09-14: BP 140/85 mmHg; HbA1c 5.8 %; Hemoglobin 14.9 g/dL; HDL 28.8 mg/dL; LDL 93 mg/dL; Triglycerides 133.8 mg/dL; Total cholesterol 148.5 mg/dL; Sodium 142.6 mmol/L; Creatinine 1.4 mg/dL; BUN 17.1 mg/dL; Potassium 4.2 mmol/L; Resp rate 12 /min; Heart rate 60 /min; BMI 29 kg/m2; Weight 97.8 kg; Height 183.6 cm; Glucose 73 mg/dL

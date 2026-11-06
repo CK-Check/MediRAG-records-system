@@ -1,0 +1,190 @@
+PATIENT SUMMARY | Mrs. Shavon Hamill | ID ade8e267
+DOB: 1957-08-14 | Age: 69 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Mrs. Shavon Hamill | ID ade8e267
+- Has a criminal record — since 1975-10-08
+- Prediabetes — since 1981-02-18
+- Aortic valve stenosis — since 1992-08-05
+- Essential hypertension — since 1994-11-02
+- Diabetes mellitus type 2 — since 2003-12-24
+- Hypertriglyceridemia — since 2004-12-29
+- Metabolic syndrome X — since 2006-01-04
+- Disorder of kidney due to diabetes mellitus — since 2009-01-21
+- Microalbuminuria due to type 2 diabetes mellitus — since 2012-02-08
+- Proteinuria due to type 2 diabetes mellitus — since 2015-09-09
+- History of renal transplant — since 2022-08-10
+- Polyp of colon — since 2022-08-31
+- History of aortic valve replacement — since 2023-06-25
+- Recurrent rectal polyp — since 2024-01-22
+- Ischemic heart disease — since 2024-04-24
+- Abnormal findings diagnostic imaging heart+coronary circulat — since 2024-05-21
+- Leukemia  disease — since 2024-07-28
+- History of autologous bone marrow transplant — since 2024-11-28
+
+RESOLVED CONDITIONS | Mrs. Shavon Hamill | ID ade8e267
+- Chronic kidney disease stage 1 — 2009-01-21 to 2022-08-10
+- Chronic kidney disease stage 2 — 2012-02-08 to 2022-08-10
+- Chronic kidney disease stage 3 — 2015-09-09 to 2022-08-10
+- Limited social contact — 2016-05-04 to 2026-05-06
+- Severe anxiety (panic) — 2016-05-04 to 2017-03-29
+- Gingivitis — 2017-03-29 to 2026-05-20
+- Gingival disease — 2017-06-14 to 2017-06-14
+- Awaiting transplantation of kidney — 2018-07-15 to 2022-08-10
+- Chronic kidney disease stage 4 — 2018-12-19 to 2022-08-10
+- Viral sinusitis — 2019-04-10 to 2019-04-17
+- Sprain of wrist — 2019-06-23 to 2019-08-03
+- Sprain — 2019-06-23 to 2019-08-03
+- Acute viral pharyngitis — 2021-05-26 to 2022-08-24
+- Fractured dental filling — 2022-03-23 to 2022-07-27
+- Victim of intimate partner abuse — 2022-04-13 to 2022-08-24
+- Kidney transplant failure and rejection — 2022-10-12 to 2022-11-09
+- Overlapping malignant neoplasm of colon — 2024-01-29 to 2026-06-10
+- Awaiting transplantation of bone marrow — 2024-11-05 to 2024-11-28
+- Primary dental caries — 2026-05-20 to 2026-05-20
+
+CURRENT MEDICATIONS | Mrs. Shavon Hamill | ID ade8e267
+- 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet — since 2024-05-01
+- 24 HR tacrolimus 5 MG Extended Release Oral Capsule [Astagraf] — since 2026-05-06, for History of renal transplant
+- Clopidogrel 75 MG Oral Tablet — since 2024-05-01
+- Hydrochlorothiazide 25 MG Oral Tablet — since 2026-05-06, for Essential hypertension
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray — since 2024-05-01
+- Simvastatin 20 MG Oral Tablet — since 2024-05-01
+- amLODIPine 2.5 MG Oral Tablet — since 2026-05-06, for Essential hypertension
+- aspirin 81 MG Oral Capsule [Vazalore] — since 2026-05-06
+- ferrous sulfate 325 MG Oral Tablet — since 1980-10-29
+- insulin isophane  human 70 UNT/ML / insulin  regular  human 30 UNT/ML Injectable Suspension [Humulin] — since 2026-05-06, for Diabetes mellitus type 2
+
+PAST MEDICATIONS | Mrs. Shavon Hamill | ID ade8e267
+- 1 ML Epoetin Alfa 4000 UNT/ML Injection [Epogen] — 2018-05-19 to 2022-09-07
+- 1 ML tacrolimus 5 MG/ML Injection [Prograf] — 2022-08-10 to 2022-11-09
+- 10 ML oxaliplatin 5 MG/ML Injection — 2024-03-02 to 2024-08-09
+- 24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus] — 2022-08-15 to 2022-10-12
+- Acetaminophen 325 MG Oral Tablet — 2019-06-23 to 2019-08-03
+- Leucovorin 100 MG Injection — 2024-03-02 to 2024-08-09
+- cefazolin 2000 MG Injection — 2023-06-25 to 2023-06-25
+- heparin sodium  porcine 1000 UNT/ML Injectable Solution — 2023-06-25 to 2023-06-25
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2017-04-12 to 2025-05-14
+- tropicamide 5 MG/ML Ophthalmic Solution — 2017-03-15 to 2025-11-09
+
+ALLERGIES | Mrs. Shavon Hamill | ID ade8e267
+- No known allergies.
+
+LATEST VITALS & LABS | Mrs. Shavon Hamill | ID ade8e267
+- BMI: 28.1 kg/m2 (2026-05-06)
+- BUN: 14.9 mg/dL (2026-05-06)
+- Creatinine: 0.6 mg/dL (2026-05-06)
+- Glucose: 123.1 mg/dL (2026-05-06)
+- HDL: 45.5 mg/dL (2026-05-06)
+- HbA1c: 4 % (2026-05-06)
+- Heart rate: 99 /min (2026-05-06)
+- Height: 158.3 cm (2026-05-06)
+- Hemoglobin: 14.9 g/dL (2024-11-30)
+- LDL: 127.7 mg/dL (2026-05-06)
+- Potassium: 5 mmol/L (2026-05-06)
+- Resp rate: 15 /min (2026-05-06)
+- Sodium: 143.9 mmol/L (2026-05-06)
+- Total cholesterol: 203.5 mg/dL (2026-05-06)
+- Triglycerides: 151.3 mg/dL (2026-05-06)
+- Weight: 70.3 kg (2026-05-06)
+- Blood pressure: 92/69 mmHg (2026-05-06)
+
+VISIT HISTORY (vitals & labs by date) | Mrs. Shavon Hamill | ID ade8e267
+[Mrs. Shavon Hamill | ID ade8e267] 2026-05-06: BP 92/69 mmHg; Triglycerides 151.3 mg/dL; Total cholesterol 203.5 mg/dL; Potassium 5 mmol/L; Sodium 143.9 mmol/L; Creatinine 0.6 mg/dL; BUN 14.9 mg/dL; Glucose 123.1 mg/dL; Heart rate 99 /min; BMI 28.1 kg/m2; Weight 70.3 kg; Height 158.3 cm; HbA1c 4 %; LDL 127.7 mg/dL; Resp rate 15 /min; HDL 45.5 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2025-04-30: BP 89/57 mmHg; LDL 139.3 mg/dL; Triglycerides 166.2 mg/dL; Total cholesterol 229.4 mg/dL; Potassium 4.1 mmol/L; Sodium 137.3 mmol/L; HDL 56.9 mg/dL; BUN 16.3 mg/dL; Glucose 100.7 mg/dL; Creatinine 0.6 mg/dL; Heart rate 62 /min; BMI 28.1 kg/m2; Weight 70.3 kg; Height 158.3 cm; HbA1c 4 %; Resp rate 12 /min
+[Mrs. Shavon Hamill | ID ade8e267] 2024-11-30: Hemoglobin 14.9 g/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2024-11-29: Hemoglobin 14.5 g/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2024-11-28: Hemoglobin 13.6 g/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2024-11-05: Hemoglobin 8.6 g/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2024-08-09: Glucose 113.5 mg/dL; BUN 16 mg/dL; Creatinine 3 mg/dL; Sodium 140.6 mmol/L; Potassium 4.3 mmol/L; Hemoglobin 12.3 g/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2024-07-12: Sodium 137 mmol/L; Potassium 3.9 mmol/L; Hemoglobin 9.4 g/dL; Creatinine 3.4 mg/dL; Glucose 117.4 mg/dL; BUN 18.3 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2024-06-11: Glucose 103.7 mg/dL; BUN 7.8 mg/dL; Creatinine 2.7 mg/dL; Sodium 139.8 mmol/L; Potassium 3.9 mmol/L; Hemoglobin 7.7 g/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2024-05-27: HDL 52.7 mg/dL; HbA1c 4 %; LDL 117.3 mg/dL; Hemoglobin 12.5 g/dL; Total cholesterol 205.7 mg/dL; Creatinine 3 mg/dL; Triglycerides 179 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2024-05-07: Hemoglobin 6.1 g/dL; Potassium 4.4 mmol/L; Sodium 143.7 mmol/L; Glucose 104.1 mg/dL; BUN 18.3 mg/dL; Creatinine 3.2 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2024-04-24: BP 96/78 mmHg; LDL 115.8 mg/dL; HDL 53.8 mg/dL; Total cholesterol 205.1 mg/dL; Potassium 4.7 mmol/L; Sodium 140.5 mmol/L; Creatinine 0.9 mg/dL; BUN 19.3 mg/dL; Glucose 114.2 mg/dL; Triglycerides 177.8 mg/dL; Heart rate 100 /min; BMI 28.1 kg/m2; Weight 70.3 kg; Resp rate 14 /min; Height 158.3 cm; HbA1c 4 %
+[Mrs. Shavon Hamill | ID ade8e267] 2024-04-04: Glucose 119.7 mg/dL; BUN 10 mg/dL; Creatinine 2.8 mg/dL; Sodium 139.2 mmol/L; Potassium 4.1 mmol/L; Hemoglobin 13.6 g/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2024-03-02: Hemoglobin 8.8 g/dL; Sodium 137.1 mmol/L; Potassium 4.8 mmol/L; BUN 17.4 mg/dL; Creatinine 3.2 mg/dL; Glucose 103.9 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2023-06-26: Hemoglobin 13.9 g/dL; Creatinine 1.8 mg/dL; Hemoglobin 13.5 g/dL; Creatinine 2.7 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2023-06-25: Hemoglobin 11.2 g/dL; Creatinine 4.8 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2023-05-24: HbA1c 4 %; HDL 39.9 mg/dL; LDL 162.9 mg/dL; Triglycerides 237.5 mg/dL; Creatinine 2.9 mg/dL; Hemoglobin 12.3 g/dL; Total cholesterol 220.6 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2023-04-19: BP 97/82 mmHg; HDL 48.9 mg/dL; LDL 139.7 mg/dL; Triglycerides 179.4 mg/dL; Total cholesterol 224.5 mg/dL; Potassium 3.8 mmol/L; Sodium 143.3 mmol/L; Creatinine 0.6 mg/dL; Glucose 106.9 mg/dL; BUN 11.9 mg/dL; Heart rate 93 /min; BMI 28.1 kg/m2; Weight 70.3 kg; Height 158.3 cm; HbA1c 4 %; Resp rate 14 /min
+[Mrs. Shavon Hamill | ID ade8e267] 2022-11-09: Hemoglobin 16.9 g/dL; Potassium 4 mmol/L; Sodium 143.5 mmol/L; Glucose 118.7 mg/dL; Creatinine 0.6 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2022-11-02: Glucose 116.6 mg/dL; Creatinine 0.6 mg/dL; Sodium 136.3 mmol/L; Potassium 4.9 mmol/L; Hemoglobin 13.2 g/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2022-10-26: Potassium 3.9 mmol/L; Hemoglobin 17.1 g/dL; Creatinine 1 mg/dL; Glucose 124.1 mg/dL; Sodium 141.9 mmol/L
+[Mrs. Shavon Hamill | ID ade8e267] 2022-10-19: Glucose 124.2 mg/dL; Creatinine 0.6 mg/dL; Sodium 143 mmol/L; Potassium 4.2 mmol/L; Hemoglobin 14.9 g/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2022-10-12: Glucose 106.2 mg/dL; Sodium 138.1 mmol/L; Potassium 3.8 mmol/L; Hemoglobin 15 g/dL; Creatinine 0.8 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2022-09-07: Potassium 4.9 mmol/L; Creatinine 3.2 mg/dL; Sodium 143.2 mmol/L; Glucose 109.8 mg/dL; BUN 7.7 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2022-08-24: BP 107/75 mmHg; BUN 9.6 mg/dL; HDL 54.4 mg/dL; LDL 130.3 mg/dL; Triglycerides 172.5 mg/dL; Total cholesterol 219.2 mg/dL; Potassium 4.2 mmol/L; Glucose 122.5 mg/dL; Sodium 140.4 mmol/L; Heart rate 92 /min; Resp rate 15 /min; HbA1c 4 %; Height 158.3 cm; Weight 70.3 kg; Creatinine 0.7 mg/dL; BMI 28.1 kg/m2
+[Mrs. Shavon Hamill | ID ade8e267] 2022-08-15: Hemoglobin 13.5 g/dL; Sodium 138.6 mmol/L; Potassium 5.1 mmol/L; Glucose 116.5 mg/dL; Creatinine 12.2 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2022-08-14: Glucose 116.5 mg/dL; Creatinine 12.2 mg/dL; Sodium 138.6 mmol/L; Potassium 5.1 mmol/L; Hemoglobin 15 g/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2022-08-13: Hemoglobin 16.2 g/dL; Potassium 5.1 mmol/L; Glucose 116.5 mg/dL; Creatinine 12.2 mg/dL; Sodium 138.6 mmol/L
+[Mrs. Shavon Hamill | ID ade8e267] 2022-08-12: Glucose 116.5 mg/dL; Creatinine 12.2 mg/dL; Sodium 138.6 mmol/L; Potassium 5.1 mmol/L; Hemoglobin 16.6 g/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2022-08-11: Hemoglobin 15.5 g/dL; Potassium 5.1 mmol/L; Glucose 116.5 mg/dL; Creatinine 12.2 mg/dL; Sodium 138.6 mmol/L
+[Mrs. Shavon Hamill | ID ade8e267] 2022-08-10: Glucose 120.3 mg/dL; Creatinine 2.9 mg/dL; Sodium 141.7 mmol/L; Potassium 4.3 mmol/L
+[Mrs. Shavon Hamill | ID ade8e267] 2022-08-03: Glucose 120.3 mg/dL; BUN 8.4 mg/dL; Creatinine 2.8 mg/dL; Sodium 141.7 mmol/L; Potassium 4.3 mmol/L
+[Mrs. Shavon Hamill | ID ade8e267] 2022-06-22: Potassium 4.4 mmol/L; Creatinine 3.4 mg/dL; Sodium 136.8 mmol/L; Glucose 118.3 mg/dL; BUN 17.5 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2022-05-22: Glucose 119.3 mg/dL; BUN 8.7 mg/dL; Creatinine 2.6 mg/dL; Sodium 137.7 mmol/L; Potassium 4.1 mmol/L
+[Mrs. Shavon Hamill | ID ade8e267] 2022-04-20: Potassium 4.9 mmol/L; Sodium 140.2 mmol/L; BUN 17.4 mg/dL; Glucose 116.5 mg/dL; Creatinine 3.5 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2022-04-13: BP 101/82 mmHg; Hemoglobin 16.7 g/dL; HDL 48.9 mg/dL; LDL 138.7 mg/dL; Triglycerides 157.8 mg/dL; Total cholesterol 219.2 mg/dL; Potassium 5 mmol/L; Sodium 136.1 mmol/L; Creatinine 6.4 mg/dL; BUN 15.4 mg/dL; Heart rate 97 /min; Resp rate 14 /min; BMI 28.1 kg/m2; Weight 70.3 kg; Height 158.3 cm; HbA1c 4 %; Creatinine 2.5 mg/dL; Glucose 123.7 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2022-03-09: Potassium 5 mmol/L; Sodium 138.4 mmol/L; Creatinine 2.6 mg/dL; Glucose 111.9 mg/dL; BUN 9.9 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2022-03-02: BP 108/83 mmHg; HDL 41.2 mg/dL; LDL 153.2 mg/dL; Triglycerides 156.2 mg/dL; Total cholesterol 225.7 mg/dL; Potassium 4.6 mmol/L; Sodium 138.5 mmol/L; Creatinine 4.9 mg/dL; BUN 15.3 mg/dL; Glucose 106.1 mg/dL; Heart rate 63 /min; BMI 28.1 kg/m2; Weight 70.3 kg; Height 158.3 cm; HbA1c 4 %; Creatinine 2.2 mg/dL; Resp rate 15 /min
+[Mrs. Shavon Hamill | ID ade8e267] 2022-01-24: Potassium 3.8 mmol/L; Sodium 138.5 mmol/L; Glucose 118.8 mg/dL; BUN 19.1 mg/dL; Creatinine 3.1 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2021-12-24: Glucose 105.7 mg/dL; BUN 17.7 mg/dL; Creatinine 3.5 mg/dL; Sodium 142.8 mmol/L; Potassium 5 mmol/L
+[Mrs. Shavon Hamill | ID ade8e267] 2021-11-22: Glucose 111.8 mg/dL; BUN 13.5 mg/dL; Creatinine 3.2 mg/dL; Sodium 141 mmol/L; Potassium 4.8 mmol/L
+[Mrs. Shavon Hamill | ID ade8e267] 2021-10-22: Sodium 138.1 mmol/L; Potassium 4.1 mmol/L; Creatinine 3.4 mg/dL; Glucose 101.5 mg/dL; BUN 18.5 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2021-09-21: Glucose 101.2 mg/dL; BUN 11.6 mg/dL; Creatinine 3.2 mg/dL; Sodium 138.2 mmol/L; Potassium 4.1 mmol/L
+[Mrs. Shavon Hamill | ID ade8e267] 2021-08-21: Potassium 4.3 mmol/L; Sodium 136.5 mmol/L; Glucose 120.1 mg/dL; BUN 13.3 mg/dL; Creatinine 3.3 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2021-07-21: Glucose 116 mg/dL; BUN 8.4 mg/dL; Creatinine 3.4 mg/dL; Sodium 136.2 mmol/L; Potassium 3.9 mmol/L
+[Mrs. Shavon Hamill | ID ade8e267] 2021-06-19: Glucose 107.9 mg/dL; BUN 10.1 mg/dL; Creatinine 2.8 mg/dL; Sodium 139.9 mmol/L; Potassium 4.6 mmol/L
+[Mrs. Shavon Hamill | ID ade8e267] 2021-06-09: HbA1c 4 %; Creatinine 2.4 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2021-06-02: BP 93/80 mmHg; LDL 135.9 mg/dL; Triglycerides 159.2 mg/dL; Total cholesterol 219.3 mg/dL; Potassium 4.6 mmol/L; Sodium 137.6 mmol/L; Creatinine 7.5 mg/dL; BUN 17.4 mg/dL; Glucose 108 mg/dL; HDL 51.6 mg/dL; Heart rate 90 /min; BMI 28.1 kg/m2; Weight 70.3 kg; Height 158.3 cm; HbA1c 4 %; Creatinine 2.4 mg/dL; Resp rate 13 /min
+[Mrs. Shavon Hamill | ID ade8e267] 2021-05-18: Potassium 3.9 mmol/L; Sodium 140.7 mmol/L; Glucose 121.3 mg/dL; BUN 11.7 mg/dL; Creatinine 3.4 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2021-04-17: Sodium 143.3 mmol/L; Creatinine 3.5 mg/dL; Potassium 3.8 mmol/L; Glucose 123.5 mg/dL; BUN 9.4 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2021-03-31: BP 101/83 mmHg; Resp rate 14 /min; Triglycerides 195.2 mg/dL; Total cholesterol 221.1 mg/dL; Potassium 5 mmol/L; Sodium 136.3 mmol/L; Creatinine 17.5 mg/dL; BUN 7.1 mg/dL; Glucose 118.9 mg/dL; Heart rate 63 /min; BMI 28.1 kg/m2; Weight 70.3 kg; Height 158.3 cm; HbA1c 4 %; Creatinine 2.2 mg/dL; LDL 136.1 mg/dL; HDL 46 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2021-03-17: Potassium 4.9 mmol/L; Creatinine 2.6 mg/dL; Sodium 142.8 mmol/L; Glucose 121 mg/dL; BUN 10.5 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2021-03-10: BP 109/82 mmHg; Creatinine 2.2 mg/dL; HDL 43.1 mg/dL; LDL 145.5 mg/dL; Triglycerides 175.3 mg/dL; Total cholesterol 223.6 mg/dL; Potassium 5.1 mmol/L; Sodium 138.4 mmol/L; Creatinine 4.8 mg/dL; BUN 11.3 mg/dL; Glucose 100.4 mg/dL; Resp rate 12 /min; Heart rate 98 /min; BMI 28.1 kg/m2; Weight 70.3 kg; Height 158.3 cm; HbA1c 4 %
+[Mrs. Shavon Hamill | ID ade8e267] 2021-02-13: Potassium 4.3 mmol/L; Sodium 139.1 mmol/L; Glucose 107.4 mg/dL; BUN 8.3 mg/dL; Creatinine 3 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2021-01-14: Sodium 137.9 mmol/L; Glucose 117 mg/dL; BUN 15.5 mg/dL; Creatinine 2.9 mg/dL; Potassium 4.8 mmol/L
+[Mrs. Shavon Hamill | ID ade8e267] 2020-12-14: Glucose 114.9 mg/dL; BUN 10.2 mg/dL; Creatinine 2.8 mg/dL; Sodium 138.2 mmol/L; Potassium 4.9 mmol/L
+[Mrs. Shavon Hamill | ID ade8e267] 2020-11-12: Potassium 5 mmol/L; Creatinine 3.4 mg/dL; Sodium 136.8 mmol/L; Glucose 101 mg/dL; BUN 18.4 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2020-10-12: Glucose 103.5 mg/dL; BUN 9.9 mg/dL; Creatinine 3.5 mg/dL; Sodium 139.6 mmol/L; Potassium 4.1 mmol/L
+[Mrs. Shavon Hamill | ID ade8e267] 2020-09-11: Sodium 142.4 mmol/L; Potassium 3.7 mmol/L; BUN 11.5 mg/dL; Glucose 116.8 mg/dL; Creatinine 3.2 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2020-08-11: Glucose 116.5 mg/dL; BUN 13.2 mg/dL; Creatinine 2.5 mg/dL; Sodium 136.7 mmol/L; Potassium 3.9 mmol/L
+[Mrs. Shavon Hamill | ID ade8e267] 2020-07-10: BUN 12.5 mg/dL; Creatinine 3.2 mg/dL; Sodium 137.2 mmol/L; Potassium 4.7 mmol/L; Glucose 123.3 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2020-06-09: Sodium 139.5 mmol/L; Creatinine 3.4 mg/dL; Potassium 4.6 mmol/L; Glucose 109.7 mg/dL; BUN 18.5 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2020-05-09: Glucose 100.9 mg/dL; BUN 20 mg/dL; Creatinine 3.1 mg/dL; Sodium 143 mmol/L; Potassium 4.9 mmol/L
+[Mrs. Shavon Hamill | ID ade8e267] 2020-04-07: Sodium 138.2 mmol/L; Creatinine 2.9 mg/dL; Potassium 4.7 mmol/L; Glucose 117.6 mg/dL; BUN 8.5 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2020-03-25: BP 100/78 mmHg; Resp rate 14 /min; Triglycerides 169.8 mg/dL; Total cholesterol 219.6 mg/dL; Potassium 4 mmol/L; Sodium 142.5 mmol/L; Creatinine 5 mg/dL; BUN 10.7 mg/dL; Glucose 116.7 mg/dL; Heart rate 84 /min; BMI 28.1 kg/m2; Weight 70.3 kg; Height 158.3 cm; HbA1c 4 %; Creatinine 2.4 mg/dL; LDL 127.5 mg/dL; HDL 58.2 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2020-03-08: Potassium 4 mmol/L; Creatinine 2.7 mg/dL; Sodium 142 mmol/L; Glucose 100.5 mg/dL; BUN 8.5 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2020-02-06: Glucose 122.6 mg/dL; BUN 7.3 mg/dL; Creatinine 2.8 mg/dL; Sodium 137.3 mmol/L; Potassium 4.1 mmol/L
+[Mrs. Shavon Hamill | ID ade8e267] 2020-01-05: Potassium 4.5 mmol/L; Sodium 140.9 mmol/L; Creatinine 3.2 mg/dL; BUN 10.4 mg/dL; Glucose 116.6 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2019-12-05: Glucose 109.4 mg/dL; BUN 11 mg/dL; Creatinine 2.5 mg/dL; Sodium 141.2 mmol/L; Potassium 4.3 mmol/L
+[Mrs. Shavon Hamill | ID ade8e267] 2019-11-04: Potassium 4.9 mmol/L; Sodium 138.6 mmol/L; Glucose 122.7 mg/dL; BUN 16.3 mg/dL; Creatinine 2.6 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2019-10-04: Sodium 137.7 mmol/L; Creatinine 2.8 mg/dL; Potassium 4.8 mmol/L; Glucose 103.3 mg/dL; BUN 16.5 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2019-09-02: Glucose 102.5 mg/dL; BUN 16.4 mg/dL; Creatinine 3.3 mg/dL; Sodium 139.4 mmol/L; Potassium 4.8 mmol/L
+[Mrs. Shavon Hamill | ID ade8e267] 2019-08-02: Potassium 4.9 mmol/L; Sodium 138.5 mmol/L; Creatinine 2.6 mg/dL; Glucose 102.6 mg/dL; BUN 17.6 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2019-07-02: Glucose 103.7 mg/dL; BUN 13.8 mg/dL; Creatinine 3.4 mg/dL; Sodium 142.2 mmol/L; Potassium 4.4 mmol/L
+[Mrs. Shavon Hamill | ID ade8e267] 2019-06-01: Sodium 139.7 mmol/L; Creatinine 2.9 mg/dL; Potassium 3.7 mmol/L; Glucose 101.8 mg/dL; BUN 7.7 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2019-04-30: Glucose 104.8 mg/dL; BUN 19.6 mg/dL; Creatinine 2.7 mg/dL; Sodium 138.8 mmol/L; Potassium 4.9 mmol/L
+[Mrs. Shavon Hamill | ID ade8e267] 2019-04-17: BP 98/81 mmHg; HDL 58 mg/dL; LDL 142.3 mg/dL; BUN 9.6 mg/dL; Triglycerides 162 mg/dL; Total cholesterol 232.7 mg/dL; Potassium 5 mmol/L; Sodium 140.7 mmol/L; Creatinine 5 mg/dL; Glucose 121.6 mg/dL; HbA1c 4 %; Heart rate 87 /min; BMI 28.1 kg/m2; Weight 70.3 kg; Height 158.3 cm; Creatinine 2.3 mg/dL; Resp rate 14 /min
+[Mrs. Shavon Hamill | ID ade8e267] 2019-03-30: Sodium 138.9 mmol/L; Creatinine 3 mg/dL; Potassium 4.7 mmol/L; Glucose 121.4 mg/dL; BUN 16.6 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2019-03-20: BP 106/83 mmHg; HDL 51.2 mg/dL; LDL 118.2 mg/dL; Triglycerides 197.5 mg/dL; Total cholesterol 208.9 mg/dL; Potassium 4.2 mmol/L; BUN 13.3 mg/dL; Sodium 143.9 mmol/L; Creatinine 6.5 mg/dL; Glucose 116.7 mg/dL; BMI 28.1 kg/m2; Heart rate 69 /min; Weight 70.3 kg; Height 158.3 cm; HbA1c 4 %; Creatinine 2.4 mg/dL; Resp rate 15 /min
+[Mrs. Shavon Hamill | ID ade8e267] 2019-02-26: Potassium 5.2 mmol/L; Creatinine 2.7 mg/dL; Sodium 142.1 mmol/L; Glucose 114.4 mg/dL; BUN 8.1 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2019-01-26: Potassium 4 mmol/L; Sodium 142.4 mmol/L; Creatinine 3.1 mg/dL; Glucose 114.2 mg/dL; BUN 7.5 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2018-12-26: BUN 7.7 mg/dL; Glucose 118.6 mg/dL; Creatinine 2.8 mg/dL; Sodium 138.3 mmol/L; Potassium 4.6 mmol/L
+[Mrs. Shavon Hamill | ID ade8e267] 2018-12-19: BP 103/82 mmHg; BUN 11.4 mg/dL; HDL 49.9 mg/dL; LDL 139.1 mg/dL; Triglycerides 165.8 mg/dL; Total cholesterol 222.2 mg/dL; Potassium 4.1 mmol/L; Sodium 138.4 mmol/L; Creatinine 5 mg/dL; Glucose 111.7 mg/dL; Heart rate 92 /min; BMI 28.1 kg/m2; Weight 70.3 kg; Height 158.3 cm; HbA1c 4 %; Creatinine 2.4 mg/dL; Resp rate 15 /min
+[Mrs. Shavon Hamill | ID ade8e267] 2018-11-23: Potassium 4.9 mmol/L; Creatinine 3.5 mg/dL; Sodium 136.8 mmol/L; Glucose 115.5 mg/dL; BUN 19.1 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2018-10-22: Glucose 123.8 mg/dL; BUN 13 mg/dL; Creatinine 2.9 mg/dL; Sodium 137.1 mmol/L; Potassium 4.1 mmol/L
+[Mrs. Shavon Hamill | ID ade8e267] 2018-09-21: Potassium 3.9 mmol/L; Sodium 140.9 mmol/L; BUN 9 mg/dL; Glucose 107.7 mg/dL; Creatinine 3.2 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2018-08-21: Glucose 101 mg/dL; BUN 10.7 mg/dL; Creatinine 3.1 mg/dL; Sodium 142.2 mmol/L; Potassium 4.3 mmol/L
+[Mrs. Shavon Hamill | ID ade8e267] 2018-07-21: Potassium 5 mmol/L; Sodium 136.4 mmol/L; BUN 19.1 mg/dL; Creatinine 3.1 mg/dL; Glucose 104 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2018-07-15: Glucose 120.2 mg/dL; Creatinine 2.5 mg/dL; Sodium 142.5 mmol/L; Potassium 5.1 mmol/L
+[Mrs. Shavon Hamill | ID ade8e267] 2018-06-20: Glucose 104.6 mg/dL; BUN 8.7 mg/dL; Creatinine 3.4 mg/dL; Sodium 142.7 mmol/L; Potassium 4 mmol/L
+[Mrs. Shavon Hamill | ID ade8e267] 2018-05-19: Potassium 4 mmol/L; Sodium 141 mmol/L; BUN 10.3 mg/dL; Glucose 113.4 mg/dL; Creatinine 2.6 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2018-03-14: BP 107/83 mmHg; Heart rate 86 /min; HDL 40.7 mg/dL; LDL 144.5 mg/dL; Triglycerides 194.6 mg/dL; Total cholesterol 224.1 mg/dL; Potassium 4.1 mmol/L; Sodium 141.7 mmol/L; Creatinine 3.6 mg/dL; BUN 14.3 mg/dL; Resp rate 13 /min; BMI 28.1 kg/m2; Weight 70.3 kg; Height 158.3 cm; HbA1c 4 %; Creatinine 2.1 mg/dL; Glucose 118.9 mg/dL
+[Mrs. Shavon Hamill | ID ade8e267] 2018-02-21: BP 100/83 mmHg; LDL 143 mg/dL; Triglycerides 170.5 mg/dL; Potassium 5.2 mmol/L; Sodium 141.9 mmol/L; Creatinine 2.3 mg/dL; BUN 16.1 mg/dL; Glucose 111.5 mg/dL; Resp rate 15 /min; HDL 45.4 mg/dL; Heart rate 93 /min; Creatinine 2 mg/dL; HbA1c 4 %; Total cholesterol 222.5 mg/dL; Weight 70.3 kg; BMI 28.1 kg/m2; Height 158.3 cm
+[Mrs. Shavon Hamill | ID ade8e267] 2018-01-24: BP 107/81 mmHg; Creatinine 3.9 mg/dL; Sodium 138 mmol/L; Potassium 4 mmol/L; HDL 54.6 mg/dL; Triglycerides 152.8 mg/dL; LDL 127.1 mg/dL; BUN 12.6 mg/dL; Total cholesterol 212.3 mg/dL; Glucose 121.1 mg/dL; Heart rate 78 /min; Creatinine 2 mg/dL; HbA1c 4 %; Height 158.3 cm; Resp rate 12 /min; BMI 28.1 kg/m2; Weight 70.3 kg
+[Mrs. Shavon Hamill | ID ade8e267] 2017-07-26: BP 104/84 mmHg; Glucose 110.3 mg/dL; LDL 122.2 mg/dL; Triglycerides 192.9 mg/dL; Total cholesterol 206.3 mg/dL; Potassium 4 mmol/L; Sodium 143.8 mmol/L; Creatinine 4.1 mg/dL; BUN 16.5 mg/dL; HDL 45.5 mg/dL; Resp rate 13 /min; BMI 28.1 kg/m2; Weight 70.3 kg; Height 158.3 cm; HbA1c 4 %; Creatinine 2 mg/dL; Heart rate 91 /min
+[Mrs. Shavon Hamill | ID ade8e267] 2017-05-31: BP 106/79 mmHg; BUN 9.7 mg/dL; LDL 132 mg/dL; Triglycerides 170.1 mg/dL; Total cholesterol 217.9 mg/dL; Potassium 4.5 mmol/L; Sodium 141.2 mmol/L; Creatinine 2.3 mg/dL; Glucose 114.3 mg/dL; HDL 51.9 mg/dL; Heart rate 75 /min; Creatinine 2 mg/dL; HbA1c 4 %; Height 158.3 cm; Resp rate 16 /min; BMI 28.1 kg/m2; Weight 70.3 kg
+[Mrs. Shavon Hamill | ID ade8e267] 2017-03-29: BP 107/81 mmHg; HDL 46.8 mg/dL; LDL 142.7 mg/dL; Triglycerides 189.4 mg/dL; Total cholesterol 227.4 mg/dL; Potassium 4.5 mmol/L; Creatinine 3.1 mg/dL; BUN 15.8 mg/dL; Glucose 125 mg/dL; Sodium 139.8 mmol/L; Heart rate 63 /min; HbA1c 4 %; Height 158.3 cm; Weight 70.3 kg; Creatinine 2.1 mg/dL; Resp rate 15 /min; BMI 28.1 kg/m2
+[Mrs. Shavon Hamill | ID ade8e267] 2017-03-08: BP 100/74 mmHg; Sodium 140.2 mmol/L; Potassium 4.8 mmol/L; Total cholesterol 218.9 mg/dL; Hemoglobin 13.2 g/dL; LDL 144.9 mg/dL; HDL 42 mg/dL; Creatinine 2.6 mg/dL; Triglycerides 159.9 mg/dL; BUN 9.2 mg/dL; BMI 28.1 kg/m2; Resp rate 14 /min; Glucose 117.9 mg/dL; HbA1c 4 %; Height 158.3 cm; Weight 70.3 kg; Creatinine 2 mg/dL; Heart rate 87 /min
+[Mrs. Shavon Hamill | ID ade8e267] 2016-09-28: BP 102/82 mmHg; Creatinine 2 mg/dL; HDL 55.6 mg/dL; LDL 136.6 mg/dL; Triglycerides 170.8 mg/dL; Total cholesterol 226.3 mg/dL; Sodium 139.6 mmol/L; Creatinine 3.6 mg/dL; BUN 8.6 mg/dL; Glucose 107.6 mg/dL; Potassium 4.8 mmol/L; Heart rate 86 /min; BMI 28.1 kg/m2; Weight 70.3 kg; Height 158.3 cm; HbA1c 4 %; Resp rate 14 /min

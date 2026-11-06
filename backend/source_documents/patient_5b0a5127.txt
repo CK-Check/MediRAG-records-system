@@ -1,0 +1,48 @@
+PATIENT SUMMARY | Lourdes Santiago | ID 5b0a5127
+DOB: 2008-12-21 | Age: 17 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Lourdes Santiago | ID 5b0a5127
+- None recorded.
+
+RESOLVED CONDITIONS | Lourdes Santiago | ID 5b0a5127
+- Gingivitis — 2016-12-18 to 2026-02-22
+- Gingival disease — 2017-12-31 to 2022-01-30
+- Primary dental caries — 2017-12-31 to 2017-12-31
+- Fracture of bone — 2018-06-14 to 2022-10-15
+- Fracture of forearm — 2018-06-14 to 2018-07-30
+- Closed fracture of hip — 2022-07-02 to 2022-10-15
+- Sprain of wrist — 2023-08-24 to 2023-09-27
+- Sprain — 2023-08-24 to 2023-09-27
+- Fractured dental filling — 2024-02-11 to 2024-02-11
+
+CURRENT MEDICATIONS | Lourdes Santiago | ID 5b0a5127
+- Meperidine Hydrochloride 50 MG Oral Tablet — since 2022-07-02
+
+PAST MEDICATIONS | Lourdes Santiago | ID 5b0a5127
+- Acetaminophen 160 MG Chewable Tablet — 2018-06-14 to 2018-07-30
+- Acetaminophen 325 MG Oral Tablet — 2022-07-02 to 2023-09-27
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2020-01-12 to 2026-02-22
+
+ALLERGIES | Lourdes Santiago | ID 5b0a5127
+- No known allergies.
+
+LATEST VITALS & LABS | Lourdes Santiago | ID 5b0a5127
+- BMI: 18.3 kg/m2 (2026-02-08)
+- Heart rate: 69 /min (2026-02-08)
+- Height: 174.3 cm (2026-02-08)
+- Hemoglobin: 13.3 g/dL (2025-02-02)
+- Resp rate: 16 /min (2026-02-08)
+- Weight: 55.7 kg (2026-02-08)
+- Blood pressure: 112/74 mmHg (2026-02-08)
+
+VISIT HISTORY (vitals & labs by date) | Lourdes Santiago | ID 5b0a5127
+[Lourdes Santiago | ID 5b0a5127] 2026-02-08: BP 112/74 mmHg; Heart rate 69 /min; Height 174.3 cm; Weight 55.7 kg; BMI 18.3 kg/m2; Resp rate 16 /min
+[Lourdes Santiago | ID 5b0a5127] 2025-02-02: BP 107/71 mmHg; Hemoglobin 13.3 g/dL; Resp rate 13 /min; Heart rate 75 /min; BMI 18 kg/m2; Weight 54.6 kg; Height 174 cm
+[Lourdes Santiago | ID 5b0a5127] 2024-01-28: BP 119/72 mmHg; Heart rate 94 /min; Resp rate 12 /min; BMI 17.7 kg/m2; Weight 53.2 kg; Height 173.4 cm
+[Lourdes Santiago | ID 5b0a5127] 2023-01-22: BP 102/70 mmHg; Resp rate 12 /min; Heart rate 61 /min; Height 172.2 cm; BMI 17.1 kg/m2; Weight 50.6 kg
+[Lourdes Santiago | ID 5b0a5127] 2022-01-16: BP 111/76 mmHg; Resp rate 15 /min; Height 169.3 cm; Weight 46 kg; BMI 16.1 kg/m2; Heart rate 69 /min
+[Lourdes Santiago | ID 5b0a5127] 2021-01-10: BP 111/70 mmHg; Heart rate 65 /min; Resp rate 15 /min; Weight 40 kg; BMI 14.8 kg/m2; Height 164.2 cm
+[Lourdes Santiago | ID 5b0a5127] 2020-01-05: BP 113/77 mmHg; Height 157.2 cm; Weight 36.4 kg; BMI 14.7 kg/m2; Heart rate 89 /min; Resp rate 12 /min; Hemoglobin 13.6 g/dL
+[Lourdes Santiago | ID 5b0a5127] 2018-12-30: BP 119/66 mmHg; Heart rate 90 /min; Resp rate 15 /min; Weight 33.6 kg; BMI 14.9 kg/m2; Height 150.4 cm
+[Lourdes Santiago | ID 5b0a5127] 2017-12-24: BP 112/75 mmHg; Resp rate 15 /min; Heart rate 88 /min; Weight 31.1 kg; BMI 14.9 kg/m2; Height 144.5 cm
+[Lourdes Santiago | ID 5b0a5127] 2016-12-18: BP 115/73 mmHg; Height 138.1 cm; Weight 28.4 kg; BMI 14.9 kg/m2; Heart rate 93 /min; Resp rate 14 /min

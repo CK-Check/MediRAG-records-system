@@ -1,0 +1,46 @@
+PATIENT SUMMARY | Mrs. Merrie D'Amore | ID e1c41448
+DOB: 1993-11-05 | Age: 32 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Mrs. Merrie D'Amore | ID e1c41448
+- Has a criminal record — since 2019-01-11
+
+RESOLVED CONDITIONS | Mrs. Merrie D'Amore | ID e1c41448
+- Normal pregnancy — 2016-08-19 to 2024-07-05
+- Acute bronchitis — 2017-04-04 to 2023-09-15
+- Gingivitis — 2022-01-14 to 2025-02-01
+- Primary dental caries — 2022-01-28 to 2022-01-29
+- Limited social contact — 2023-08-25 to 2025-01-17
+- Gingival disease — 2025-01-31 to 2025-02-01
+
+CURRENT MEDICATIONS | Mrs. Merrie D'Amore | ID e1c41448
+- None recorded.
+
+PAST MEDICATIONS | Mrs. Merrie D'Amore | ID e1c41448
+- 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection — 2021-04-10 to 2022-04-05
+- Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution — 2017-04-04 to 2017-04-15
+- Acetaminophen 325 MG Oral Tablet — 2023-09-01 to 2023-09-15
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2022-01-29 to 2025-02-01
+- {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] — 2017-05-01 to 2019-04-21
+- {7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day] — 2024-08-23 to 2026-08-13
+
+ALLERGIES | Mrs. Merrie D'Amore | ID e1c41448
+- No known allergies.
+
+LATEST VITALS & LABS | Mrs. Merrie D'Amore | ID e1c41448
+- BMI: 27.1 kg/m2 (2025-01-17)
+- HDL: 57.3 mg/dL (2025-01-17)
+- Heart rate: 63 /min (2025-01-17)
+- Height: 153.2 cm (2025-01-17)
+- Hemoglobin: 14 g/dL (2022-01-14)
+- LDL: 58.1 mg/dL (2025-01-17)
+- Resp rate: 15 /min (2025-01-17)
+- Total cholesterol: 135.5 mg/dL (2025-01-17)
+- Triglycerides: 100.6 mg/dL (2025-01-17)
+- Weight: 63.7 kg (2025-01-17)
+- Blood pressure: 121/80 mmHg (2025-01-17)
+
+VISIT HISTORY (vitals & labs by date) | Mrs. Merrie D'Amore | ID e1c41448
+[Mrs. Merrie D'Amore | ID e1c41448] 2025-01-17: BP 121/80 mmHg; LDL 58.1 mg/dL; Height 153.2 cm; Weight 63.7 kg; BMI 27.1 kg/m2; Heart rate 63 /min; Resp rate 15 /min; Total cholesterol 135.5 mg/dL; Triglycerides 100.6 mg/dL; HDL 57.3 mg/dL
+[Mrs. Merrie D'Amore | ID e1c41448] 2023-08-25: BP 120/76 mmHg; Heart rate 74 /min; Resp rate 14 /min; Weight 60.9 kg; BMI 25.9 kg/m2; Height 153.2 cm
+[Mrs. Merrie D'Amore | ID e1c41448] 2022-01-14: BP 114/74 mmHg; Hemoglobin 14 g/dL; Resp rate 13 /min; Heart rate 79 /min; Weight 59.6 kg; BMI 25.4 kg/m2; Height 153.2 cm
+[Mrs. Merrie D'Amore | ID e1c41448] 2019-01-11: BP 118/75 mmHg; Height 153.2 cm; Weight 54.8 kg; BMI 23.4 kg/m2; Heart rate 71 /min; Resp rate 15 /min

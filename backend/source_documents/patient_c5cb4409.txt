@@ -1,0 +1,62 @@
+PATIENT SUMMARY | Mrs. Wilhelmina Baumbach | ID c5cb4409
+DOB: 1934-02-01 | Age: 92 | Gender: F | Status: Deceased
+
+ACTIVE CONDITIONS | Mrs. Wilhelmina Baumbach | ID c5cb4409
+- Prediabetes — since 1955-09-29
+- Past pregnancy history of miscarriage — since 1969-02-03
+- Familial Alzheimer's disease of early onset — since 1984-02-02
+- Sepsis — since 1987-11-23
+
+RESOLVED CONDITIONS | Mrs. Wilhelmina Baumbach | ID c5cb4409
+- Severe anxiety (panic) — 1982-02-25 to 1984-02-02
+- Gingivitis — 1984-04-05 to 1984-04-19
+- Victim of intimate partner abuse — 1984-04-05 to 1984-05-24
+- Viral sinusitis — 1984-04-12 to 1984-05-02
+- Acute viral pharyngitis — 1984-05-31 to 1984-06-13
+
+CURRENT MEDICATIONS | Mrs. Wilhelmina Baumbach | ID c5cb4409
+- Vitamin B12 5 MG/ML Injectable Solution — since 1954-10-21
+
+PAST MEDICATIONS | Mrs. Wilhelmina Baumbach | ID c5cb4409
+- 150 ML vancomycin 5 MG/ML Injection — 1987-11-23 to 1987-11-23
+- Mestranol / Norethynodrel — 1983-04-28 to 1984-04-22
+- piperacillin 2000 MG / tazobactam 250 MG Injection — 1987-11-23 to 1987-11-23
+- sodium fluoride 0.0272 MG/MG Oral Gel — 1984-04-19 to 1984-04-19
+- {7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day] — 1981-05-08 to 1983-04-28
+
+ALLERGIES | Mrs. Wilhelmina Baumbach | ID c5cb4409
+- No known allergies.
+
+LATEST VITALS & LABS | Mrs. Wilhelmina Baumbach | ID c5cb4409
+- BMI: 27.9 kg/m2 (1991-03-14)
+- BUN: 18 mg/dL (1991-03-14)
+- Creatinine: 0.6 mg/dL (1991-03-14)
+- Glucose: 73.8 mg/dL (1991-03-14)
+- HDL: 60.6 mg/dL (1990-03-08)
+- HbA1c: 6.2 % (1991-03-14)
+- Heart rate: 100 /min (1991-03-14)
+- Height: 151.1 cm (1991-03-14)
+- Hemoglobin: 13.6 g/dL (1991-03-14)
+- LDL: 178 mg/dL (1990-03-08)
+- Potassium: 5.1 mmol/L (1991-03-14)
+- Resp rate: 15 /min (1991-03-14)
+- Sodium: 138.6 mmol/L (1991-03-14)
+- Total cholesterol: 265.7 mg/dL (1990-03-08)
+- Triglycerides: 135.5 mg/dL (1990-03-08)
+- Weight: 63.8 kg (1991-03-14)
+- Blood pressure: 99/69 mmHg (1991-03-14)
+
+VISIT HISTORY (vitals & labs by date) | Mrs. Wilhelmina Baumbach | ID c5cb4409
+[Mrs. Wilhelmina Baumbach | ID c5cb4409] 1991-03-14: BP 99/69 mmHg; Sodium 138.6 mmol/L; Creatinine 0.6 mg/dL; BUN 18 mg/dL; Glucose 73.8 mg/dL; Resp rate 15 /min; Heart rate 100 /min; Weight 63.8 kg; BMI 27.9 kg/m2; Height 151.1 cm; HbA1c 6.2 %; Potassium 5.1 mmol/L; Hemoglobin 13.6 g/dL
+[Mrs. Wilhelmina Baumbach | ID c5cb4409] 1990-03-08: BP 109/68 mmHg; HDL 60.6 mg/dL; LDL 178 mg/dL; Triglycerides 135.5 mg/dL; Total cholesterol 265.7 mg/dL; Sodium 143.8 mmol/L; Creatinine 0.6 mg/dL; BUN 11.8 mg/dL; Glucose 80.2 mg/dL; Potassium 4.7 mmol/L; Heart rate 99 /min; BMI 27.9 kg/m2; Weight 63.8 kg; Height 151.1 cm; HbA1c 5.9 %; Resp rate 13 /min
+[Mrs. Wilhelmina Baumbach | ID c5cb4409] 1989-03-02: BP 102/61 mmHg; Glucose 91.4 mg/dL; Sodium 140.6 mmol/L; Creatinine 0.8 mg/dL; BUN 7 mg/dL; Potassium 5 mmol/L; Resp rate 15 /min; BMI 27.9 kg/m2; Weight 63.8 kg; Height 151.1 cm; HbA1c 6.3 %; Heart rate 80 /min
+[Mrs. Wilhelmina Baumbach | ID c5cb4409] 1988-02-25: BP 105/62 mmHg; Potassium 4 mmol/L; Sodium 141.5 mmol/L; Creatinine 0.7 mg/dL; BUN 14.8 mg/dL; Glucose 83.3 mg/dL; Resp rate 12 /min; BMI 27.9 kg/m2; Weight 63.8 kg; Height 151.1 cm; HbA1c 5.8 %; Heart rate 92 /min
+[Mrs. Wilhelmina Baumbach | ID c5cb4409] 1987-02-19: BP 105/68 mmHg; HDL 47.1 mg/dL; LDL 170.8 mg/dL; Total cholesterol 243.4 mg/dL; Potassium 4.4 mmol/L; Sodium 140.4 mmol/L; Creatinine 0.7 mg/dL; BUN 12.9 mg/dL; Glucose 86.4 mg/dL; Triglycerides 127.5 mg/dL; Heart rate 92 /min; BMI 27.9 kg/m2; Weight 63.8 kg; Height 151.1 cm; HbA1c 5.9 %; Resp rate 16 /min
+[Mrs. Wilhelmina Baumbach | ID c5cb4409] 1986-02-13: BP 100/66 mmHg; Glucose 95.3 mg/dL; Hemoglobin 15.8 g/dL; Potassium 4.9 mmol/L; Sodium 137.7 mmol/L; Creatinine 0.7 mg/dL; BUN 7.1 mg/dL; Resp rate 15 /min; Weight 63.8 kg; BMI 27.9 kg/m2; Heart rate 92 /min; Height 151.1 cm; HbA1c 6.2 %
+[Mrs. Wilhelmina Baumbach | ID c5cb4409] 1985-02-07: BP 102/67 mmHg; Potassium 3.9 mmol/L; Sodium 141.9 mmol/L; Creatinine 0.7 mg/dL; BUN 13.6 mg/dL; Glucose 91.3 mg/dL; Resp rate 13 /min; HbA1c 6.2 %; BMI 27.9 kg/m2; Weight 63.8 kg; Height 151.1 cm; Heart rate 80 /min
+[Mrs. Wilhelmina Baumbach | ID c5cb4409] 1984-05-24: BP 99/65 mmHg; Potassium 4.4 mmol/L; Sodium 144 mmol/L; Creatinine 0.7 mg/dL; BUN 17 mg/dL; Glucose 86.3 mg/dL; Resp rate 15 /min; Heart rate 86 /min; BMI 27.9 kg/m2; Weight 63.8 kg; Height 151.1 cm; HbA1c 5.8 %
+[Mrs. Wilhelmina Baumbach | ID c5cb4409] 1984-04-05: BP 111/70 mmHg; Glucose 76.1 mg/dL; Potassium 4.1 mmol/L; Sodium 136.9 mmol/L; Creatinine 1.1 mg/dL; BUN 7.8 mg/dL; Resp rate 14 /min; HbA1c 6.2 %; BMI 27.9 kg/m2; Weight 63.8 kg; Height 151.1 cm; Heart rate 93 /min
+[Mrs. Wilhelmina Baumbach | ID c5cb4409] 1984-03-29: HbA1c 6.2 %
+[Mrs. Wilhelmina Baumbach | ID c5cb4409] 1984-03-22: BP 108/67 mmHg; Potassium 4 mmol/L; Sodium 141 mmol/L; Creatinine 0.7 mg/dL; BUN 11.2 mg/dL; Glucose 64.9 mg/dL; Resp rate 14 /min; BMI 27.9 kg/m2; Weight 63.8 kg; Height 151.1 cm; HbA1c 5.9 %; Heart rate 83 /min
+[Mrs. Wilhelmina Baumbach | ID c5cb4409] 1984-02-02: BP 112/64 mmHg; BUN 14 mg/dL; HDL 54.4 mg/dL; LDL 186.6 mg/dL; Triglycerides 136.1 mg/dL; Total cholesterol 268.2 mg/dL; Potassium 5 mmol/L; Creatinine 0.8 mg/dL; Glucose 71.5 mg/dL; Sodium 143.1 mmol/L; Heart rate 87 /min; BMI 27.9 kg/m2; Weight 63.8 kg; Height 151.1 cm; HbA1c 6 %; Resp rate 13 /min
+[Mrs. Wilhelmina Baumbach | ID c5cb4409] 1982-02-25: BP 106/62 mmHg; HbA1c 6 %; Potassium 4.8 mmol/L; Sodium 140.4 mmol/L; BUN 12.3 mg/dL; Glucose 89.4 mg/dL; Resp rate 14 /min; Creatinine 1.1 mg/dL; BMI 27.9 kg/m2; Weight 63.8 kg; Height 151.1 cm; Heart rate 99 /min

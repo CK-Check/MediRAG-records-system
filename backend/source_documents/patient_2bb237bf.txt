@@ -1,0 +1,57 @@
+PATIENT SUMMARY | Athena Senger | ID 2bb237bf
+DOB: 2019-07-04 | Age: 7 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Athena Senger | ID 2bb237bf
+- None recorded.
+
+RESOLVED CONDITIONS | Athena Senger | ID 2bb237bf
+- Acute viral pharyngitis — 2020-10-30 to 2020-11-06
+- Viral sinusitis — 2021-07-31 to 2026-01-09
+- Otitis media — 2022-05-19 to 2024-06-13
+
+CURRENT MEDICATIONS | Athena Senger | ID 2bb237bf
+- NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector — since 2020-08-19
+- cetirizine hydrochloride 5 MG Oral Tablet — since 2020-08-19
+
+PAST MEDICATIONS | Athena Senger | ID 2bb237bf
+- Acetaminophen 160 MG Chewable Tablet — 2022-08-08 to 2023-09-18
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet — 2025-12-29 to 2026-01-09
+- Amoxicillin 500 MG Oral Tablet — 2022-05-19 to 2022-08-22
+- Ibuprofen 100 MG Oral Tablet — 2022-05-19 to 2022-06-02
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2022-12-15 to 2022-12-15
+
+ALLERGIES | Athena Senger | ID 2bb237bf
+- Mold (organism) (environment allergy)
+- House dust mite (organism) (environment allergy)
+- Animal dander (environment allergy) — reaction: Rhinoconjunctivitis (MODERATE)
+- Grass pollen (environment allergy)
+- Tree pollen (environment allergy)
+- Shellfish (food allergy) — reaction: Eruption of skin (MODERATE)
+- Fish (food allergy) — reaction: Dyspnea (MODERATE)
+
+LATEST VITALS & LABS | Athena Senger | ID 2bb237bf
+- BMI: 18 kg/m2 (2026-06-25)
+- Heart rate: 74 /min (2026-06-25)
+- Height: 120.7 cm (2026-06-25)
+- Hemoglobin: 15.1 g/dL (2025-06-19)
+- Resp rate: 13 /min (2026-06-25)
+- Weight: 26.2 kg (2026-06-25)
+- Blood pressure: 116/68 mmHg (2026-06-25)
+
+VISIT HISTORY (vitals & labs by date) | Athena Senger | ID 2bb237bf
+[Athena Senger | ID 2bb237bf] 2026-06-25: BP 116/68 mmHg; Heart rate 74 /min; Weight 26.2 kg; Height 120.7 cm; BMI 18 kg/m2; Resp rate 13 /min
+[Athena Senger | ID 2bb237bf] 2025-06-19: BP 117/65 mmHg; Height 113.9 cm; Weight 22.4 kg; BMI 17.2 kg/m2; Heart rate 65 /min; Resp rate 14 /min; Hemoglobin 15.1 g/dL
+[Athena Senger | ID 2bb237bf] 2024-06-13: BP 121/66 mmHg; Heart rate 73 /min; Resp rate 16 /min; Weight 19.1 kg; Height 106.9 cm; BMI 16.7 kg/m2
+[Athena Senger | ID 2bb237bf] 2023-06-08: BP 106/70 mmHg; Resp rate 13 /min; Heart rate 64 /min; BMI 16.9 kg/m2; Weight 16.9 kg; Height 100 cm
+[Athena Senger | ID 2bb237bf] 2022-12-08: BP 120/69 mmHg; Height 96.7 cm; Weight 16.1 kg; BMI 17.2 kg/m2; Heart rate 79 /min; Resp rate 14 /min
+[Athena Senger | ID 2bb237bf] 2022-06-09: BP 120/68 mmHg; Resp rate 14 /min; Heart rate 93 /min; BMI 17.4 kg/m2; Weight 15.1 kg; Height 93.2 cm
+[Athena Senger | ID 2bb237bf] 2021-12-09: BP 123/71 mmHg; Height 89.2 cm; Weight 14 kg; BMI 17.6 kg/m2; Heart rate 93 /min; Resp rate 15 /min
+[Athena Senger | ID 2bb237bf] 2021-06-10: BP 116/71 mmHg; Resp rate 13 /min; Heart rate 79 /min; Weight 12.9 kg; Height 85 cm
+[Athena Senger | ID 2bb237bf] 2020-12-10: BP 116/73 mmHg; Height 79.5 cm; Weight 11.7 kg; Heart rate 69 /min; Resp rate 13 /min
+[Athena Senger | ID 2bb237bf] 2020-09-10: BP 114/73 mmHg; Resp rate 14 /min; Heart rate 98 /min; Height 76.4 cm; Weight 11 kg
+[Athena Senger | ID 2bb237bf] 2020-06-11: BP 121/74 mmHg; Height 72.9 cm; Weight 10.1 kg; Heart rate 68 /min; Resp rate 15 /min
+[Athena Senger | ID 2bb237bf] 2020-03-12: BP 117/73 mmHg; Heart rate 98 /min; Resp rate 13 /min; Height 68.9 cm; Weight 9 kg
+[Athena Senger | ID 2bb237bf] 2019-12-12: BP 115/70 mmHg; Height 64.1 cm; Weight 7.6 kg; Heart rate 80 /min; Resp rate 14 /min
+[Athena Senger | ID 2bb237bf] 2019-10-10: BP 118/69 mmHg; Resp rate 15 /min; Heart rate 94 /min; Height 60.2 cm; Weight 6.4 kg
+[Athena Senger | ID 2bb237bf] 2019-08-08: BP 123/72 mmHg; Height 55 cm; Weight 5 kg; Heart rate 88 /min; Resp rate 13 /min
+[Athena Senger | ID 2bb237bf] 2019-07-04: BP 106/73 mmHg; Height 51.4 cm; Weight 4.2 kg; Heart rate 92 /min; Resp rate 16 /min; Hemoglobin 13.5 g/dL

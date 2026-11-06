@@ -1,0 +1,64 @@
+PATIENT SUMMARY | Ms. Justin Krajcik | ID 73ff9d8e
+DOB: 2006-02-01 | Age: 20 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Ms. Justin Krajcik | ID 73ff9d8e
+- None recorded.
+
+RESOLVED CONDITIONS | Ms. Justin Krajcik | ID 73ff9d8e
+- Primary dental caries — 2018-03-07 to 2022-03-30
+- Streptococcal sore throat — 2018-09-26 to 2018-10-03
+- Viral sinusitis — 2020-02-15 to 2025-05-01
+- Cough — 2020-12-20 to 2021-01-07
+- Disease caused by severe acute respiratory syndrome coronavirus 2 — 2020-12-20 to 2021-01-07
+- Dyspnea — 2020-12-20 to 2021-01-07
+- Fever — 2020-12-20 to 2021-01-07
+- Joint pain — 2020-12-20 to 2021-01-07
+- Loss of taste — 2020-12-20 to 2021-01-07
+- Muscle pain — 2020-12-20 to 2021-01-07
+- Suspected disease caused by Severe acute respiratory coronavirus 2 — 2020-12-20 to 2020-12-20
+- Wheezing — 2020-12-20 to 2021-01-07
+- Acute bronchitis — 2021-01-01 to 2021-01-13
+- Acute infective cystitis — 2021-10-01 to 2021-10-02
+- Gingivitis — 2023-03-22 to 2023-04-05
+- Gingival disease — 2023-04-05 to 2023-04-05
+- Anemia — 2024-04-10 to 2024-11-06
+- Normal pregnancy — 2024-04-10 to 2024-11-06
+
+CURRENT MEDICATIONS | Ms. Justin Krajcik | ID 73ff9d8e
+- None recorded.
+
+PAST MEDICATIONS | Ms. Justin Krajcik | ID 73ff9d8e
+- Acetaminophen 325 MG Oral Tablet — 2021-01-01 to 2021-01-13
+- Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet — 2024-05-08 to 2025-05-01
+- Penicillin V Potassium 250 MG Oral Tablet — 2018-09-26 to 2018-10-03
+- nitrofurantoin  macrocrystals 25 MG / nitrofurantoin  monohydrate 75 MG Oral Capsule — 2021-10-01 to 2021-10-02
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2017-02-22 to 2022-03-30
+- {24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day] — 2021-01-26 to 2022-01-21
+- {5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day] — 2022-01-21 to 2023-01-16
+
+ALLERGIES | Ms. Justin Krajcik | ID 73ff9d8e
+- No known allergies.
+
+LATEST VITALS & LABS | Ms. Justin Krajcik | ID 73ff9d8e
+- BMI: 23.9 kg/m2 (2025-04-02)
+- Heart rate: 91 /min (2025-04-02)
+- Height: 163.8 cm (2025-04-02)
+- Hemoglobin: 11.4 g/dL (2024-04-10)
+- Resp rate: 15 /min (2025-04-02)
+- Weight: 64.2 kg (2025-04-02)
+- Blood pressure: 115/91 mmHg (2025-04-02)
+
+VISIT HISTORY (vitals & labs by date) | Ms. Justin Krajcik | ID 73ff9d8e
+[Ms. Justin Krajcik | ID 73ff9d8e] 2025-04-02: BP 115/91 mmHg; Heart rate 91 /min; Height 163.8 cm; Weight 64.2 kg; BMI 23.9 kg/m2; Resp rate 15 /min
+[Ms. Justin Krajcik | ID 73ff9d8e] 2024-04-10: Hemoglobin 11.4 g/dL
+[Ms. Justin Krajcik | ID 73ff9d8e] 2024-03-27: BP 123/92 mmHg; Resp rate 14 /min; Heart rate 61 /min; Weight 64.6 kg; Height 163.6 cm; BMI 24.1 kg/m2
+[Ms. Justin Krajcik | ID 73ff9d8e] 2023-03-22: BP 115/89 mmHg; Resp rate 16 /min; Heart rate 64 /min; Weight 61.4 kg; BMI 23 kg/m2; Height 163.4 cm
+[Ms. Justin Krajcik | ID 73ff9d8e] 2022-03-16: BP 113/88 mmHg; Hemoglobin 13.7 g/dL; Resp rate 14 /min; Heart rate 88 /min; Height 163.1 cm; BMI 21.1 kg/m2; Weight 56 kg
+[Ms. Justin Krajcik | ID 73ff9d8e] 2021-03-10: BP 117/89 mmHg; Height 162.5 cm; Weight 51.4 kg; BMI 19.5 kg/m2; Heart rate 71 /min; Resp rate 13 /min
+[Ms. Justin Krajcik | ID 73ff9d8e] 2021-01-13: BP 120/95 mmHg; Heart rate 96 /min; Resp rate 14 /min; Weight 50.7 kg; BMI 19.2 kg/m2; Height 162.3 cm
+[Ms. Justin Krajcik | ID 73ff9d8e] 2020-12-20: BP 110/90 mmHg; Resp rate 29 /min; Heart rate 80.1 /min; Weight 50.3 kg
+[Ms. Justin Krajcik | ID 73ff9d8e] 2020-03-04: BP 104/87 mmHg; Resp rate 14 /min; Heart rate 61 /min; BMI 19.4 kg/m2; Weight 50.3 kg; Height 161.1 cm
+[Ms. Justin Krajcik | ID 73ff9d8e] 2019-02-27: BP 106/92 mmHg; Height 157.9 cm; Weight 47.6 kg; BMI 19.1 kg/m2; Heart rate 61 /min; Resp rate 14 /min
+[Ms. Justin Krajcik | ID 73ff9d8e] 2018-09-19: BP 117/91 mmHg; Heart rate 62 /min; Resp rate 14 /min; Weight 45.9 kg; Height 155.8 cm; BMI 18.9 kg/m2
+[Ms. Justin Krajcik | ID 73ff9d8e] 2018-02-21: BP 107/87 mmHg; Resp rate 16 /min; Heart rate 84 /min; Height 152 cm; BMI 18.8 kg/m2; Weight 43.4 kg
+[Ms. Justin Krajcik | ID 73ff9d8e] 2017-02-15: BP 118/95 mmHg; Height 144.8 cm; Weight 37.3 kg; BMI 17.8 kg/m2; Heart rate 71 /min; Resp rate 15 /min; Hemoglobin 15.9 g/dL

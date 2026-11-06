@@ -1,0 +1,65 @@
+PATIENT SUMMARY | Mrs. Lewis Kuhn | ID cf374f0f
+DOB: 1953-10-08 | Age: 73 | Gender: F | Status: Alive
+
+ACTIVE CONDITIONS | Mrs. Lewis Kuhn | ID cf374f0f
+- Loss of teeth — since 1969-12-11
+- Sepsis — since 1985-07-30
+- Septic shock — since 1985-07-30
+- Past pregnancy history of miscarriage — since 1993-08-19
+- Body mass index 30+ - obesity — since 1993-10-14
+- Chronic low back pain — since 2014-02-01
+- Chronic pain — since 2014-02-01
+- Ischemic heart disease — since 2016-12-22
+- Abnormal findings diagnostic imaging heart+coronary circulat — since 2017-01-02
+
+RESOLVED CONDITIONS | Mrs. Lewis Kuhn | ID cf374f0f
+- Limited social contact — 2014-12-11 to 2022-01-20
+- Victim of intimate partner abuse — 2019-01-03 to 2020-01-09
+- Viral sinusitis — 2019-08-30 to 2019-09-20
+- Infection of tooth — 2022-02-03 to 2022-02-03
+- Streptococcal sore throat — 2023-12-18 to 2023-12-25
+- Gingivitis — 2024-02-01 to 2026-02-26
+- Fracture of bone — 2024-11-11 to 2024-12-22
+- Fracture subluxation of wrist — 2024-11-11 to 2024-12-22
+- Gingival disease — 2026-02-26 to 2026-02-26
+
+CURRENT MEDICATIONS | Mrs. Lewis Kuhn | ID cf374f0f
+- 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet — since 2016-12-29
+- Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet — since 2026-02-12
+- Clopidogrel 75 MG Oral Tablet — since 2016-12-29
+- Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray — since 2016-12-29
+- Simvastatin 20 MG Oral Tablet — since 2016-12-29
+- Vitamin B12 5 MG/ML Injectable Solution — since 1989-10-26
+- ferrous sulfate 325 MG Oral Tablet — since 1989-10-26
+
+PAST MEDICATIONS | Mrs. Lewis Kuhn | ID cf374f0f
+- Acetaminophen 325 MG Oral Tablet — 2024-11-11 to 2024-12-22
+- sodium fluoride 0.0272 MG/MG Oral Gel — 2022-02-03 to 2026-02-26
+
+ALLERGIES | Mrs. Lewis Kuhn | ID cf374f0f
+- No known allergies.
+
+LATEST VITALS & LABS | Mrs. Lewis Kuhn | ID cf374f0f
+- BMI: 28.3 kg/m2 (2026-02-12)
+- HDL: 61.7 mg/dL (2025-02-06)
+- Heart rate: 82 /min (2026-02-12)
+- Height: 164.5 cm (2026-02-12)
+- Hemoglobin: 12.2 g/dL (2026-02-12)
+- LDL: 55.2 mg/dL (2025-02-06)
+- Resp rate: 15 /min (2026-02-12)
+- Total cholesterol: 145.7 mg/dL (2025-02-06)
+- Triglycerides: 144.4 mg/dL (2025-02-06)
+- Weight: 76.5 kg (2026-02-12)
+- Blood pressure: 104/60 mmHg (2026-02-12)
+
+VISIT HISTORY (vitals & labs by date) | Mrs. Lewis Kuhn | ID cf374f0f
+[Mrs. Lewis Kuhn | ID cf374f0f] 2026-02-12: BP 104/60 mmHg; Resp rate 15 /min; Height 164.5 cm; Weight 76.5 kg; BMI 28.3 kg/m2; Heart rate 82 /min; Hemoglobin 12.2 g/dL
+[Mrs. Lewis Kuhn | ID cf374f0f] 2025-02-06: BP 100/61 mmHg; HDL 61.7 mg/dL; LDL 55.2 mg/dL; Triglycerides 144.4 mg/dL; Resp rate 15 /min; Heart rate 71 /min; Total cholesterol 145.7 mg/dL; BMI 28.3 kg/m2; Weight 76.5 kg; Height 164.5 cm
+[Mrs. Lewis Kuhn | ID cf374f0f] 2024-02-01: BP 99/58 mmHg; Heart rate 67 /min; Resp rate 15 /min; Weight 76.5 kg; Height 164.5 cm; BMI 28.3 kg/m2
+[Mrs. Lewis Kuhn | ID cf374f0f] 2023-01-26: BP 97/58 mmHg; Height 164.5 cm; Weight 76.5 kg; BMI 28.3 kg/m2; Heart rate 85 /min; Resp rate 14 /min
+[Mrs. Lewis Kuhn | ID cf374f0f] 2022-01-20: BP 94/64 mmHg; Total cholesterol 209.5 mg/dL; HDL 52.6 mg/dL; LDL 131.3 mg/dL; Triglycerides 128 mg/dL; Resp rate 14 /min; Weight 76.5 kg; BMI 28.3 kg/m2; Heart rate 83 /min; Height 164.5 cm
+[Mrs. Lewis Kuhn | ID cf374f0f] 2021-01-14: BP 100/61 mmHg; Hemoglobin 13 g/dL; Resp rate 15 /min; Heart rate 87 /min; Height 164.5 cm; BMI 28.3 kg/m2; Weight 76.5 kg
+[Mrs. Lewis Kuhn | ID cf374f0f] 2020-01-09: BP 102/58 mmHg; Height 164.5 cm; Weight 76.5 kg; BMI 28.3 kg/m2; Heart rate 88 /min; Resp rate 13 /min
+[Mrs. Lewis Kuhn | ID cf374f0f] 2019-01-03: BP 97/56 mmHg; Resp rate 15 /min; HDL 39.7 mg/dL; LDL 102.4 mg/dL; Total cholesterol 170.2 mg/dL; Heart rate 89 /min; Triglycerides 140.8 mg/dL; BMI 28.3 kg/m2; Weight 76.5 kg; Height 164.5 cm
+[Mrs. Lewis Kuhn | ID cf374f0f] 2017-12-28: BP 95/58 mmHg; Resp rate 15 /min; Heart rate 77 /min; BMI 28.3 kg/m2; Weight 76.5 kg; Height 164.5 cm
+[Mrs. Lewis Kuhn | ID cf374f0f] 2016-12-22: BP 121/76 mmHg; Height 164.5 cm; Weight 76.5 kg; BMI 28.3 kg/m2; Heart rate 87 /min; Resp rate 12 /min
