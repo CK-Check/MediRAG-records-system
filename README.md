@@ -9,4 +9,5 @@ The system is uses synthetic data from the <a href=https://github.com/synthetich
 - Make sure OLLAMA is running.
 - Make sure the phi3 model is installed locally on the server.
 - Make sure that the model is running on local server.
-
+- Run the ingest.py file to create the vector database to model to perform RAG.
+- You can start the server by running the file api.py
