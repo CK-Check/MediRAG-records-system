@@ -5,7 +5,7 @@ from langchain_core.embeddings import Embeddings
 class DPHuggingFaceEmbeddings(Embeddings):
     """
     A custom wrapper that injects Differential Privacy (Laplacian noise)
-    into document embeddings before they are stored in the local FAISS index.
+    into document embeddings before they are stored in the local index.
     """
     
     def __init__(self, model_name="sentence-transformers/all-MiniLM-L6-v2",

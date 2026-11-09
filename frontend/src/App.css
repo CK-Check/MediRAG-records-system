@@ -35,6 +35,7 @@
   .app { width: 100%; max-width: 860px; height: 100%; margin: 0 auto; padding: 0 16px; display: flex; flex-direction: column; box-sizing: border-box; }
   
   .app-header { display: flex; align-items: center; gap: 12px; padding: 14px 0; border-bottom: 1px solid var(--border); color: var(--accent); }
+  .app-header .app-title { flex: 1; min-width: 0; }
   .app-header h1 { margin: 0; font-size: 20px; color: var(--fg); }
   .app-header p { margin: 2px 0 0; font-size: 13px; color: var(--muted); }
   
@@ -62,3 +63,13 @@
   .composer button:disabled { opacity: 0.45; cursor: not-allowed; }
   
   .disclaimer { text-align: center; font-size: 12px; color: var(--muted); margin: 8px 0 12px; }
+  
+  /* conversation memory: patient chip, new-conversation button, notices */
+  .header-actions { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; justify-content: flex-end; }
+  .patient-chip { display: inline-flex; align-items: center; gap: 5px; font-size: 13px; color: var(--fg); border: 1px solid var(--border);
+    border-radius: 999px; padding: 4px 10px; }
+  .new-chat { display: inline-flex; align-items: center; gap: 6px; font: inherit; font-size: 13px; color: var(--accent); background: transparent;
+    border: 1px solid var(--border); border-radius: 8px; padding: 5px 10px; cursor: pointer; }
+  .new-chat:hover:not(:disabled) { border-color: var(--accent); }
+  .new-chat:disabled { opacity: 0.45; cursor: not-allowed; }
+  .notice { display: flex; align-items: center; justify-content: center; gap: 6px; font-size: 13px; color: var(--muted); margin: 10px 0; }

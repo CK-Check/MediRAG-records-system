@@ -3,12 +3,13 @@ ehr_parser.py  -  Reads one patient .txt file and splits it by SECTION (not by
 character count), so every chunk keeps its header ("who + what section").
 
 parse_patient_file(path) returns:
-  chunks : list of {"text", "metadata"}  -> these get embedded into FAISS
+  chunks : list of {"text", "metadata"}  -> these get embedded into index
   record : dict with sections + visit numbers -> used by the exact-answer tools
   flags  : list of data-quality warnings
 """
 import re
 from pathlib import Path
+from typing import Any, Dict, Iterator, List, Optional, Tuple
 
 # Matches lines like:  ALLERGIES | Ms. Maximina Langosh | ID 0aed8a17
 HEADER_RE = re.compile(r"^([A-Z][A-Z &]+(?: \([^)]*\))?) \| (.+?) \| ID (\S+)$")
@@ -20,21 +21,24 @@ METRIC_RE = re.compile(r"^(BP|Height|Weight|BMI|Heart rate|Resp rate|Hemoglobin)
 MAX_CHARS = 1200  # a section longer than this is split by bullet lines
 
 
-def _split_sections(lines):
-    current = None
+def _split_sections(lines) -> Iterator[Tuple[str, str, str, List[str]]]:
+    """Yield (section, patient name, patient id, body lines) for every section header found."""
+    header: Optional[Tuple[str, str, str]] = None
+    body: List[str] = []
     for raw in lines:
         line = raw.rstrip()
         if not line:
             continue
         m = HEADER_RE.match(line)
         if m:
-            if current:
-                yield current
-            current = [m.group(1).strip(), m.group(2).strip(), m.group(3), []]
-        elif current:
-            current[3].append(line)
-    if current:
-        yield current
+            if header:
+                yield (*header, body)
+            header = (m.group(1).strip(), m.group(2).strip(), m.group(3))
+            body = []
+        elif header:
+            body.append(line)
+    if header:
+        yield (*header, body)
 
 
 def _pack_bullets(header, body, max_chars):
@@ -69,10 +73,10 @@ def bp_is_implausible(sys_, dia):
     return sys_ < dia or sys_ < 70 or sys_ > 250 or dia < 30 or dia > 150
 
 
-def parse_patient_file(path):
+def parse_patient_file(path) -> Dict[str, Any]:
     lines = Path(path).read_text(encoding="utf-8").splitlines()
     chunks, flags = [], []
-    record = {"visits": [], "sections": {}}
+    record: Dict[str, Any] = {"visits": [], "sections": {}}
 
     for section, name, pid, body in _split_sections(lines):
         header = f"{section} | {name} | ID {pid}"

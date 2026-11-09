@@ -1,7 +1,7 @@
 """
 ingest.py  -  Run ONCE (and again whenever source_documents/ changes).
 
-  source_documents/*.txt --parse--> chunks --embed + noise--> faissindex/
+  source_documents/*.txt --parse--> chunks --embed + noise--> index/
                                   +--> records/<patient_id>.json  (for exact tools)
 
 Run:  python ingest.py

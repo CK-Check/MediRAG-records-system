@@ -1,10 +1,11 @@
 // ChatAnswer.jsx - shows one backend response.
 // Handles single answers AND intent "multi" (several questions answered separately).
 // Usage:  <ChatAnswer response={data} />      where data is what askBackend() returned.
-import { Calculator, Database, Layers, Search, Tag, TrendingUp, User } from 'lucide-react';
+import { Calculator, Database, Layers, Pill, Search, Tag, TrendingUp, User } from 'lucide-react';
 
 const ROUTES = {
   calculate: { label: 'Calculator', Icon: Calculator },
+  dose: { label: 'Dosing guidance', Icon: Pill },
   trend: { label: 'Trend', Icon: TrendingUp },
   lookup: { label: 'Record lookup', Icon: Database },
   search: { label: 'AI search', Icon: Search },

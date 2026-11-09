@@ -41,14 +41,15 @@ class QdrantStore:
         client = _open_client(folder)
         vectors = embeddings.embed_documents([d.page_content for d in docs])
 
-        if client.collection_exists(COLLECTION):          # rebuild from scratch on every ingest
+        if client.collection_exists(COLLECTION):          # Rebuild from scratch on every ingest
             client.delete_collection(COLLECTION)
         client.create_collection(COLLECTION, vectors_config=VectorParams(size=len(vectors[0]),
                                                                           distance=Distance.COSINE))
-        if os.environ.get("QDRANT_URL"):   # on a real server, an index on patient_id keeps the filter fast
+        if os.environ.get("QDRANT_URL"):   # On a real server, an index on patient_id keeps the filter fast
             client.create_payload_index(COLLECTION, field_name="patient_id",
                                         field_schema=PayloadSchemaType.KEYWORD)
 
+        # PointStruct most commonly refers to the core data structure used by Qdrant to represent a single database record containing an ID, vector data, and optional metadata payload.
         points = [PointStruct(id=i, vector=v, payload={"text": d.page_content, **d.metadata})
                   for i, (d, v) in enumerate(zip(docs, vectors))]
         for start in range(0, len(points), 256):            # upload in batches

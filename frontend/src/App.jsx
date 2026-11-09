@@ -1,8 +1,8 @@
 // App.jsx - the whole chat screen: header, message list, input box.
 // It talks to the backend ONLY through api.js and shows answers with ChatAnswer.jsx.
 import { useEffect, useRef, useState } from 'react';
-import { LoaderCircle, Send, Stethoscope } from 'lucide-react';
-import { askBackend, describeError } from './api.js';
+import { Info, LoaderCircle, MessageSquarePlus, Send, Stethoscope, UserRound } from 'lucide-react';
+import { askBackend, describeError, resetConversation } from './api.js';
 import ChatAnswer from './ChatAnswer.jsx';
 import './App.css';
 
@@ -16,9 +16,10 @@ const EXAMPLES = [
 ];
 
 export default function App() {
-  const [messages, setMessages] = useState([]); // { id, role: 'user' | 'assistant' | 'error', text?, response? }
+  const [messages, setMessages] = useState([]); // { id, role: 'user' | 'assistant' | 'error' | 'notice', text?, response? }
   const [input, setInput] = useState('');
   const [loading, setLoading] = useState(false);
+  const [patientName, setPatientName] = useState(null); // who the conversation is about (from the backend)
   const nextId = useRef(1);
   const bottomRef = useRef(null);
 
@@ -36,12 +37,22 @@ export default function App() {
     setLoading(true);
     try {
       const response = await askBackend(query);
+      if (response.patient_name) setPatientName(response.patient_name);
+      if (response.notice) add({ role: 'notice', text: response.notice }); // e.g. "Now discussing ..."
       add({ role: 'assistant', response });
     } catch (err) {
       add({ role: 'error', text: describeError(err) });
     } finally {
       setLoading(false);
     }
+  }
+
+  async function newConversation() {
+    if (loading) return;
+    await resetConversation();     // the backend forgets the patient and recent questions
+    setMessages([]);
+    setPatientName(null);
+    setInput('');
   }
 
   function onSubmit(event) {
@@ -53,16 +64,28 @@ export default function App() {
     <div className="app">
       <header className="app-header">
         <Stethoscope size={22} aria-hidden="true" />
-        <div>
+        <div className="app-title">
           <h1>MediRAG</h1>
           <p>Offline clinical records assistant</p>
+        </div>
+        <div className="header-actions">
+          {patientName && (
+            <span className="patient-chip" title="The patient this conversation is about">
+              <UserRound size={14} aria-hidden="true" />
+              <span>Discussing: {patientName}</span>
+            </span>
+          )}
+          <button type="button" className="new-chat" onClick={newConversation} disabled={loading || messages.length === 0}>
+            <MessageSquarePlus size={16} aria-hidden="true" />
+            <span>New conversation</span>
+          </button>
         </div>
       </header>
 
       <main className="messages" aria-live="polite">
         {messages.length === 0 && (
           <section className="empty">
-            <p>Ask about a patient’s record. Include the patient’s name or ID.</p>
+            <p>Ask about a patient’s record. Include the patient’s name or ID once; follow-up questions remember who you mean.</p>
             <div className="examples">
               {EXAMPLES.map((example) => (
                 <button key={example} type="button" className="example" onClick={() => setInput(example)}>
@@ -76,6 +99,14 @@ export default function App() {
         {messages.map((m) => {
           if (m.role === 'user') return <div key={m.id} className="bubble user">{m.text}</div>;
           if (m.role === 'error') return <div key={m.id} className="bubble error" role="alert">{m.text}</div>;
+          if (m.role === 'notice') {
+            return (
+              <div key={m.id} className="notice" role="status">
+                <Info size={14} aria-hidden="true" />
+                <span>{m.text}</span>
+              </div>
+            );
+          }
           return <ChatAnswer key={m.id} response={m.response} />;
         })}
 

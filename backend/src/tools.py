@@ -74,9 +74,9 @@ def calculate(query, record=None):
         note = ""
         if (weight is None or height_m is None) and record:
             w, h, date = _latest_weight_height(record)
-            if w is not None:
+            if w is not None and h is not None:
                 weight = weight if weight is not None else w
-                height_m = height_m if height_m is not None else (h / 100 if h is not None else None)
+                height_m = height_m if height_m is not None else h / 100
                 note = f" (missing values taken from the record dated {date})"
         if weight is None or height_m is None:
             return "To calculate BMI I need both weight and height, e.g. '80 kg and 175 cm'."
@@ -86,7 +86,75 @@ def calculate(query, record=None):
 
     return "I can calculate BMI or a weight-based dose (mg/kg). Please include the numbers and units."
 
+
+# ------------------------------------------------------------ dosing questions
+# This assistant NEVER recommends a dose. For a dosing question it (1) says so, (2) shows what the
+# patient's record says about the drug if it is there, and (3) offers the mg/kg arithmetic.
+DOSE_RE = re.compile(r"\bdos(?:e|es|ed|age|ages|ing)\b|\bhow (?:much|many)\b.{0,40}\b(?:give|take|administer|prescribe|needed|required)\b")
+
+_NOT_DRUG_WORDS = {
+    "dosage", "dosages", "doses", "dosing", "patient", "patients", "should", "required", "require", "recommended",
+    "recommend", "prescribed", "prescribe", "currently", "medication", "medications", "medicine", "weight",
+    "appropriate", "amount", "would", "which", "there", "their", "about", "please", "tablet", "tablets", "injection",
+    "daily", "weekly", "maximum", "minimum", "normal", "usual", "standard", "adult", "adults", "child", "children",
+    "elderly", "kidney", "renal", "liver", "hepatic", "taking", "given", "record", "recorded", "needed", "tell",
+}
+
+POLICY_FULL = ("I can't recommend a dose. The right dose depends on the drug, the reason it is used, the patient's age, "
+               "kidney and liver function, and other medicines, so it should come from a prescribing reference "
+               "(a formulary or the drug's official label) or a pharmacist.")
+POLICY_SHORT = ("This is what the record says, not a dosing recommendation. Doses should come from a prescribing "
+                "reference or a pharmacist.")
+
+
+def is_dose_question(query):
+    return bool(DOSE_RE.search(query.lower()))
+
+
+def _drug_candidates(query, skip):
+    words = re.findall(r"[a-z][a-z-]{5,}", query.lower())
+    return [w for w in words if w not in _NOT_DRUG_WORDS and w not in skip]
+
+
+def dose_answer(record, query, patient_label=None, patient_named=False):
+    """Return (text, sources). `record` may be None (no patient). Never invents a dose."""
+    skip = set()
+    meds = []                                   # (section name, line) pairs from the patient's record
+    if record:
+        skip = {w for w in re.sub(r"[^a-z ]", " ", record.get("patient_name", "").lower()).split()}
+        for prefix in ("CURRENT MEDICATIONS", "PAST MEDICATIONS"):
+            name, lines = _section(record, prefix)
+            meds += [(name, line) for line in lines] if name else []
+    candidates = _drug_candidates(query, skip)
+
+    matched = [(n, l) for n, l in meds if any(c in l.lower() for c in candidates)]
+    weight = _find_weight_kg(query.lower())
+    parts, sources = [], []
+
+    if matched:
+        shown = "\n".join(f"{'Current' if n.startswith('CURRENT') else 'Past'}: {l.lstrip('- ').strip()}" for n, l in matched)
+        parts.append(f"Recorded for {patient_label}:\n{shown}")
+        sources = list(dict.fromkeys(n for n, _ in matched))
+        parts.append(POLICY_SHORT)
+    else:
+        if record and patient_named and candidates:
+            parts.append(f"No medication matching \"{max(candidates, key=len)}\" appears in {patient_label}'s record.")
+        elif record and patient_named and not candidates:
+            name, lines = _section(record, "CURRENT MEDICATIONS")
+            if name:
+                parts.append(f"Current medications recorded for {patient_label}:\n" + "\n".join(lines))
+                sources = [name]
+        parts.append(POLICY_FULL)
+        if weight is not None:
+            parts.append(f"A weight alone ({weight:g} kg) does not give a dose. If your reference states a dose per "
+                         f"kilogram, tell me the mg/kg value and I will calculate the total with Python, for example "
+                         f"\"Calculate N mg/kg for {weight:g} kg\", replacing N with the number from your reference.")
+    return "\n\n".join(parts), sources
+
+
+# ------------------------------------------------------------------ lookup
 LAST_VISIT_RE = re.compile(r"(last|latest|most recent|recent) (visit|appointment|encounter|checkup)|last seen")
+
 
 def format_visit(v):
     parts = []
@@ -99,8 +167,10 @@ def format_visit(v):
             parts.append(f"{label} {v[key]:g} {unit}")
     return f"{v['date']}: " + "; ".join(parts)
 
+
 DATE_RE = re.compile(r"\b(\d{4}-\d{2}-\d{2})\b")
 VISIT_WORDS_RE = re.compile(r"visit|vitals|reason|seen|appointment|check-?up|encounter|measured|recorded")
+
 
 def visit_on_date(record, query):
     """Answer 'what happened on <date>' from the visit list. Returns (text, sources) or (None, [])."""
@@ -110,21 +180,23 @@ def visit_on_date(record, query):
     date = m.group(1)
     for v in record.get("visits", []):
         if v["date"] == date:
-            text = f"Visit on {date}: \n{format_visit(v)}"
+            text = f"Visit on {date}:\n{format_visit(v)}"
             if re.search(r"reason|why", query.lower()):
                 text += "\n(The record lists measurements only; it states no reason for the visit.)"
             return text, ["VISIT HISTORY"]
     return f"No visit is recorded on {date}.", ["VISIT HISTORY"]
 
+
 def is_date_visit_question(query):
     return bool(DATE_RE.search(query) and VISIT_WORDS_RE.search(query.lower()))
+
 
 def is_overview(query):
     """'Tell me about X' style questions: short, and asking for the whole picture."""
     q = query.lower()
     return bool(re.search(r"tell me about|overview|who is|profile|everything", q)) and len(q.split()) <= 8
 
-# ------------------------------------------------------------------ lookup
+
 def lookup(record, query):
     """Return (text, [section names]) or (None, []) if nothing matches."""
     q = query.lower()
@@ -135,9 +207,9 @@ def lookup(record, query):
         return "Most recent visit on record:\n" + format_visit(record["visits"][-1]), ["VISIT HISTORY"]
     wants_past = bool(re.search(r"\b(past|previous|former|resolved|history|all)\b", q))
     wanted = []  # list of section-name prefixes
-
     if is_overview(q):
         wanted += ["PATIENT SUMMARY", "ACTIVE CONDITIONS", "CURRENT MEDICATIONS", "ALLERGIES", "LATEST VITALS"]
+
     if "allerg" in q:
         wanted.append("ALLERGIES")
     if re.search(r"medication|medicine|\bdrugs?\b|prescri", q):
@@ -194,15 +266,21 @@ def _year_filter(query):
     return 0, 9999
 
 
-def trend(record, query):
-    """Return (text, ['VISIT HISTORY']) or (None, [])."""
-    chosen = metrics_in(query)
+def metrics_by_label(labels):
+    """['Weight', 'BMI'] -> the matching METRICS entries (used for follow-up questions)."""
+    return [m for m in METRICS if m[0] in labels]
+
+
+def trend(record, query, metrics=None):
+    """Return (text, ['VISIT HISTORY']) or (None, []).
+    `metrics` lets a follow-up question reuse the vital sign from the previous question."""
+    chosen = metrics or metrics_in(query)
     if not chosen:
         return None, []
     lo, hi = _year_filter(query)
     visits = [v for v in record.get("visits", []) if lo <= int(v["date"][:4]) <= hi]
     exact = DATE_RE.search(query)
-    if exact:
+    if exact:                                   # a full date like 2025-04-25 means that day only
         visits = [v for v in record.get("visits", []) if v["date"] == exact.group(1)]
     blocks = []
 
