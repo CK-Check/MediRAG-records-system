@@ -1,13 +1,11 @@
-// App.jsx - the whole chat screen: header, message list, input box.
-// It talks to the backend ONLY through api.js and shows answers with ChatAnswer.jsx.
+// App.jsx - sidebar + chat screen. Talks to the backend ONLY through api.js and shows answers with ChatAnswer.jsx.
 import { useEffect, useRef, useState } from 'react';
-import { Info, LoaderCircle, MessageSquarePlus, Send, Stethoscope, UserRound } from 'lucide-react';
+import { ArrowUp, FileLock2, Info, LoaderCircle, MessageSquarePlus, ShieldCheck, ShieldPlus, Cpu, UserRound } from 'lucide-react';
 import { askBackend, describeError, resetConversation } from './api.js';
 import ChatAnswer from './ChatAnswer.jsx';
 import './App.css';
 
 // Clickable examples. They only fill the input box, so you can edit them first.
-// Change the names to match the patient files in source_documents/.
 const EXAMPLES = [
   'Can you tell me about Tad Grimes?',
   'When was Tad Grimes’s last visit?',
@@ -15,11 +13,17 @@ const EXAMPLES = [
   'Calculate the BMI for a patient who weighs 80 kg and is 175 cm tall.',
 ];
 
+const STATUS = [
+  { label: 'Local Index', value: 'Encrypted', Icon: FileLock2, tone: 'blue' },
+  { label: 'Offline LLM', value: 'Active', Icon: Cpu, tone: 'blue' },
+  { label: 'HIPAA Guard', value: 'DP-RAG (ε=1.2)', Icon: ShieldPlus, tone: 'strong' },
+];
+
 export default function App() {
   const [messages, setMessages] = useState([]); // { id, role: 'user' | 'assistant' | 'error' | 'notice', text?, response? }
   const [input, setInput] = useState('');
   const [loading, setLoading] = useState(false);
-  const [patientName, setPatientName] = useState(null); // who the conversation is about (from the backend)
+  const [patientName, setPatientName] = useState(null);
   const nextId = useRef(1);
   const bottomRef = useRef(null);
 
@@ -38,7 +42,7 @@ export default function App() {
     try {
       const response = await askBackend(query);
       if (response.patient_name) setPatientName(response.patient_name);
-      if (response.notice) add({ role: 'notice', text: response.notice }); // e.g. "Now discussing ..."
+      if (response.notice) add({ role: 'notice', text: response.notice });
       add({ role: 'assistant', response });
     } catch (err) {
       add({ role: 'error', text: describeError(err) });
@@ -49,7 +53,7 @@ export default function App() {
 
   async function newConversation() {
     if (loading) return;
-    await resetConversation();     // the backend forgets the patient and recent questions
+    await resetConversation();
     setMessages([]);
     setPatientName(null);
     setInput('');
@@ -61,14 +65,31 @@ export default function App() {
   }
 
   return (
-    <div className="app">
-      <header className="app-header">
-        <Stethoscope size={22} aria-hidden="true" />
-        <div className="app-title">
-          <h1>MediRAG</h1>
-          <p>Offline clinical records assistant</p>
+    <div className="shell">
+      <aside className="sidebar">
+        <div className="brand">
+          <ShieldCheck size={22} aria-hidden="true" />
+          <h1>MediRAG Secure</h1>
         </div>
-        <div className="header-actions">
+
+        <section aria-labelledby="status-title">
+          <h2 id="status-title" className="side-label">COMPLIANCE STATUS</h2>
+          <ul className="status-list">
+            {STATUS.map(({ label, value, Icon, tone }) => (
+              <li key={label}>
+                <span className="status-name"><Icon size={14} aria-hidden="true" />{label}</span>
+                <span className={`status-value ${tone}`}>{value}</span>
+              </li>
+            ))}
+          </ul>
+        </section>
+
+        <aside className="env-note">
+          <strong>Clinical Environment:</strong> This system runs 100% locally. Patient Electronic Health
+          Records (EHR) and laboratory data are mathematically protected from embedding inversion attacks.
+        </aside>
+
+        <div className="side-actions">
           {patientName && (
             <span className="patient-chip" title="The patient this conversation is about">
               <UserRound size={14} aria-hidden="true" />
@@ -80,12 +101,15 @@ export default function App() {
             <span>New conversation</span>
           </button>
         </div>
-      </header>
+      </aside>
 
-      <main className="messages" aria-live="polite">
-        {messages.length === 0 && (
-          <section className="empty">
-            <p>Ask about a patient’s record. Include the patient’s name or ID once; follow-up questions remember who you mean.</p>
+      <div className="chat">
+        <main className="messages" aria-live="polite">
+          <p className="system-note">
+            System ready. Ask a question about your indexed documents. All processing is 100% offline and private.
+          </p>
+
+          {messages.length === 0 && (
             <div className="examples">
               {EXAMPLES.map((example) => (
                 <button key={example} type="button" className="example" onClick={() => setInput(example)}>
@@ -93,47 +117,46 @@ export default function App() {
                 </button>
               ))}
             </div>
-          </section>
-        )}
+          )}
 
-        {messages.map((m) => {
-          if (m.role === 'user') return <div key={m.id} className="bubble user">{m.text}</div>;
-          if (m.role === 'error') return <div key={m.id} className="bubble error" role="alert">{m.text}</div>;
-          if (m.role === 'notice') {
-            return (
-              <div key={m.id} className="notice" role="status">
-                <Info size={14} aria-hidden="true" />
-                <span>{m.text}</span>
-              </div>
-            );
-          }
-          return <ChatAnswer key={m.id} response={m.response} />;
-        })}
+          {messages.map((m) => {
+            if (m.role === 'user') return <div key={m.id} className="bubble user">{m.text}</div>;
+            if (m.role === 'error') return <div key={m.id} className="bubble error" role="alert">{m.text}</div>;
+            if (m.role === 'notice') {
+              return (
+                <div key={m.id} className="notice" role="status">
+                  <Info size={14} aria-hidden="true" />
+                  <span>{m.text}</span>
+                </div>
+              );
+            }
+            return <ChatAnswer key={m.id} response={m.response} />;
+          })}
 
-        {loading && (
-          <div className="loading">
-            <LoaderCircle size={16} className="spin" aria-hidden="true" />
-            <span>Working… the first answer can take a minute or two while the model loads.</span>
-          </div>
-        )}
-        <div ref={bottomRef} />
-      </main>
+          {loading && (
+            <div className="loading">
+              <LoaderCircle size={16} className="spin" aria-hidden="true" />
+              <span>Working… the first answer can take a minute or two while the model loads.</span>
+            </div>
+          )}
+          <div ref={bottomRef} />
+        </main>
 
-      <form className="composer" onSubmit={onSubmit}>
-        <input
-          type="text"
-          value={input}
-          onChange={(e) => setInput(e.target.value)}
-          placeholder="Ask a question about a patient…"
-          aria-label="Your question"
-          disabled={loading}
-          autoFocus
-        />
-        <button type="submit" disabled={loading || !input.trim()} aria-label="Send">
-          <Send size={18} aria-hidden="true" />
-        </button>
-      </form>
-      <p className="disclaimer">Answers come from local patient records. Not medical advice.</p>
+        <form className="composer" onSubmit={onSubmit}>
+          <input
+            type="text"
+            value={input}
+            onChange={(e) => setInput(e.target.value)}
+            placeholder="Ask about your documents..."
+            aria-label="Your question"
+            disabled={loading}
+            autoFocus
+          />
+          <button type="submit" disabled={loading || !input.trim()} aria-label="Send">
+            <ArrowUp size={18} aria-hidden="true" />
+          </button>
+        </form>
+      </div>
     </div>
   );
 }
